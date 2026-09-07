@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-08T00:54:21.389867",
+  "generated_at": "2026-09-07T17:05:29.389053",
   "total_news_scanned": 140,
-  "relevant_count": 12,
+  "relevant_count": 20,
   "news": [
+    {
+      "title": "外資買超台股883億元　居史上第4大！友達、力積電、華邦電獲青睞",
+      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1883%E5%84%84%E5%85%83-%E5%B1%85%E5%8F%B2%E4%B8%8A%E7%AC%AC4%E5%A4%A7-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%81%AF%E6%89%8B%E5%8A%A0%E7%A2%BC1138%E5%84%84%E5%85%83-%E5%8F%8B%E9%81%94-%E5%8A%9B%E7%A9%8D%E9%9B%BB-083406041.html",
+      "published": "Mon, 07 Sep 2026 08:34:06 GMT",
+      "summary": "台股今天上漲775.14點，收47326.27點，成交金額9399.26億元，其中三大法人同步站在買方，合計買超新台幣1138.65億元，其中外資買超883.08億元，寫下外資單日買超史上第4大紀錄，",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 16,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "外資買超"
+      ],
+      "matched_stocks": [
+        "力積電(6770)‧今日熱門",
+        "力積電(晶圓代工)",
+        "友達(2409)‧今日熱門",
+        "華邦電(2344)‧今日熱門",
+        "華邦電(記憶體)"
+      ]
+    },
+    {
+      "title": "台股大漲775點創近期新高！台積漲50元ETF群飛　這三檔漲停成交爆量",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2775%E9%BB%9E%E5%89%B5%E8%BF%91%E6%9C%9F%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E6%BC%B250%E5%85%83etf%E7%BE%A4%E9%A3%9B-%E9%80%99%E4%B8%89%E6%AA%94%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E7%88%86%E9%87%8F-102009154.html",
+      "published": "Mon, 07 Sep 2026 10:20:09 GMT",
+      "summary": "本日成交量前百名排行榜一片紅通通，漲停板個股包括聯電(2303)、富喬(1815)、台虹(8039)；友達(2409)逾52.1萬張居冠，收在28.70元、漲1.90元、漲幅7.09%。ETF部分由主",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 14,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "漲停"
+      ],
+      "matched_stocks": [
+        "2303(晶圓代工)",
+        "友達(2409)‧今日熱門",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "外資史上第四大買超883億元 大舉加碼友達、台積電 減碼鎖定電子五哥",
+      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%8F%B2%E4%B8%8A%E7%AC%AC%E5%9B%9B%E5%A4%A7%E8%B2%B7%E8%B6%85883%E5%84%84%E5%85%83-%E5%A4%A7%E8%88%89%E5%8A%A0%E7%A2%BC%E5%8F%8B%E9%81%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%B8%9B%E7%A2%BC%E9%8E%96%E5%AE%9A%E9%9B%BB%E5%AD%90%E4%BA%94%E5%93%A5-092357223.html",
+      "published": "Mon, 07 Sep 2026 09:23:57 GMT",
+      "summary": "台股在台積電走揚、聯發科漲逾半根停板，聯電強攻漲停助攻下，終場大漲775.14點收47326.27點，成交量9399.26億元。外資加碼883.07億元，創台股歷史第四大買超，台積電及聯電同獲青睞。",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 12,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "漲停"
+      ],
+      "matched_stocks": [
+        "友達(2409)‧今日熱門",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
     {
       "title": "台股重返4萬7收史上次高！信驊漲停攻向「2萬金」大立光摔跌停失守7千關｜Yahoo財經掃描",
       "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E8%BF%944%E8%90%AC7%E6%94%B6%E5%8F%B2%E4%B8%8A%E6%AC%A1%E9%AB%98%EF%BC%81%E4%BF%A1%E9%A9%8A%E6%BC%B2%E5%81%9C%E6%94%BB%E5%90%91%E3%80%8C2%E8%90%AC%E9%87%91%E3%80%8D%E5%A4%A7%E7%AB%8B%E5%85%89%E6%91%94%E8%B7%8C%E5%81%9C%E5%A4%B1%E5%AE%887%E5%8D%83%E9%97%9C%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-094926247.html",
@@ -21,20 +78,37 @@
       ]
     },
     {
-      "title": "台股大漲775點創近期新高！台積漲50元ETF群飛　這三檔漲停成交爆量",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2775%E9%BB%9E%E5%89%B5%E8%BF%91%E6%9C%9F%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E6%BC%B250%E5%85%83etf%E7%BE%A4%E9%A3%9B-%E9%80%99%E4%B8%89%E6%AA%94%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E7%88%86%E9%87%8F-102009154.html",
-      "published": "Mon, 07 Sep 2026 10:20:09 GMT",
-      "summary": "本日成交量前百名排行榜一片紅通通，漲停板個股包括聯電(2303)、富喬(1815)、台虹(8039)；友達(2409)逾52.1萬張居冠，收在28.70元、漲1.90元、漲幅7.09%。ETF部分由主",
+      "title": "黃仁勳認證AGI來臨！台股飆上47326點　郭哲榮點名「這些飆股」",
+      "link": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%8D%E8%AD%89agi%E4%BE%86%E8%87%A8-%E5%8F%B0%E8%82%A1%E9%A3%86%E4%B8%8A47272%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%BB%9E%E5%90%8D-%E9%80%99%E4%BA%9B%E9%A3%86%E8%82%A1-082500148.html",
+      "published": "Mon, 07 Sep 2026 08:25:00 GMT",
+      "summary": "台股7日大漲775.14點，收在47,326.27點。摩爾投顧分析師郭哲榮（哲哲）分析，黃仁勳認證AGI時代來臨帶動AI強勁需求，聯發科、華新科雙雙亮燈漲停，精材再創新高。哲哲先前砸一億買進0050已",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 8,
+      "score": 9,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "漲停"
       ],
       "matched_stocks": [
-        "2303(晶圓代工)",
-        "聯電(晶圓代工)"
+        "元大台灣50(0050)‧今日熱門",
+        "華新科(被動元件)"
+      ]
+    },
+    {
+      "title": "晶圓代工開趴了！「這檔」8月營收衝近4年新高、今爆量攻漲停　台積電漲50元、力積電勁揚6.42%",
+      "link": "https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5%E9%96%8B%E8%B6%B4%E4%BA%86-%E9%80%99%E6%AA%94-8%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%9D%E8%BF%914%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%BB%8A%E7%88%86%E9%87%8F%E6%94%BB%E6%BC%B2%E5%81%9C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B250%E5%85%83-074500635.html",
+      "published": "Mon, 07 Sep 2026 07:45:00 GMT",
+      "summary": "[FTNN新聞網]記者王凱暄／綜合報導受美股費城半導體指數前一交易日大漲逾3%激勵，台股加權指數今（7）日開高走高，終場站上4萬7大關收47326.27點，上漲775.14...",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 9,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "漲停"
+      ],
+      "matched_stocks": [
+        "力積電(6770)‧今日熱門",
+        "力積電(晶圓代工)"
       ]
     },
     {
@@ -55,20 +129,35 @@
       ]
     },
     {
-      "title": "外資買超台股883億元　居史上第4大！友達、力積電、華邦電獲青睞",
-      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1883%E5%84%84%E5%85%83-%E5%B1%85%E5%8F%B2%E4%B8%8A%E7%AC%AC4%E5%A4%A7-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%81%AF%E6%89%8B%E5%8A%A0%E7%A2%BC1138%E5%84%84%E5%85%83-%E5%8F%8B%E9%81%94-%E5%8A%9B%E7%A9%8D%E9%9B%BB-083406041.html",
-      "published": "Mon, 07 Sep 2026 08:34:06 GMT",
-      "summary": "台股今天上漲775.14點，收47326.27點，成交金額9399.26億元，其中三大法人同步站在買方，合計買超新台幣1138.65億元，其中外資買超883.08億元，寫下外資單日買超史上第4大紀錄，",
+      "title": "晶圓雙雄領軍742檔齊漲！「大哥、二哥」聯手炸千億　聯發科飆7％挾689億登頂",
+      "link": "https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E9%9B%99%E9%9B%84%E9%A0%98%E8%BB%8D742%E6%AA%94%E9%BD%8A%E6%BC%B2-%E5%A4%A7%E5%93%A5-%E4%BA%8C%E5%93%A5-%E8%81%AF%E6%89%8B%E7%82%B8%E5%8D%83%E5%84%84-%E8%81%AF%E7%99%BC%E7%A7%91%E9%A3%867-114500854.html",
+      "published": "Mon, 07 Sep 2026 11:45:00 GMT",
+      "summary": "[FTNN新聞網]實習記者藍彥欣／台北報導受上週五費城半導體指數勁揚逾3%激勵，亞股週一全面走強，台股同樣氣勢如虹，聯電（2303）、台積電（2330）領軍權值股...",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 7,
-      "direction": "利多",
+      "direction": "中性關注",
       "is_important": true,
-      "matched_keywords": [
-        "外資買超"
-      ],
+      "matched_keywords": [],
       "matched_stocks": [
-        "力積電(晶圓代工)",
-        "華邦電(記憶體)"
+        "2303(晶圓代工)",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "南亞科小金雞補丁科16日登錄興櫃   每股參考價740元",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5565973",
+      "published": "Mon, 07 Sep 2026 17:00:21 +0800",
+      "summary": "南亞科（2408）小金雞補丁科技（7947）將於本月16日以每股參考價740元登錄興櫃，近年隨著AI模型規模快速放大，推升高頻寬、低延遲、低功耗記憶體需求，補丁科以3D堆...…",
+      "source": "自由時報財經",
+      "score": 7,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "2408(記憶體)",
+        "南亞(1303)‧今日熱門",
+        "南亞科(記憶體)"
       ]
     },
     {
@@ -88,51 +177,18 @@
       ]
     },
     {
-      "title": "外資史上第四大買超883億元 大舉加碼友達、台積電 減碼鎖定電子五哥",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%8F%B2%E4%B8%8A%E7%AC%AC%E5%9B%9B%E5%A4%A7%E8%B2%B7%E8%B6%85883%E5%84%84%E5%85%83-%E5%A4%A7%E8%88%89%E5%8A%A0%E7%A2%BC%E5%8F%8B%E9%81%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%B8%9B%E7%A2%BC%E9%8E%96%E5%AE%9A%E9%9B%BB%E5%AD%90%E4%BA%94%E5%93%A5-092357223.html",
-      "published": "Mon, 07 Sep 2026 09:23:57 GMT",
-      "summary": "台股在台積電走揚、聯發科漲逾半根停板，聯電強攻漲停助攻下，終場大漲775.14點收47326.27點，成交量9399.26億元。外資加碼883.07億元，創台股歷史第四大買超，台積電及聯電同獲青睞。",
+      "title": "台股回漲「真獲利」！009816漲7.12% 績效甩開0050登市值型黑馬",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%9B%9E%E6%BC%B2-%E7%9C%9F%E7%8D%B2%E5%88%A9-009816%E6%BC%B27-12-%E7%B8%BE%E6%95%88%E7%94%A9%E9%96%8B0050%E7%99%BB%E5%B8%82%E5%80%BC%E5%9E%8B%E9%BB%91%E9%A6%AC-092853621.html",
+      "published": "Mon, 07 Sep 2026 09:28:53 GMT",
+      "summary": "台股歷經一個多月震盪後，大盤重新站回45,000點至46,000點附近。儘管部分科技個股處於震盪整理期，但觀察 […]",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 6,
-      "direction": "利多",
+      "direction": "中性關注",
       "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
+      "matched_keywords": [],
       "matched_stocks": [
-        "聯電(晶圓代工)"
-      ]
-    },
-    {
-      "title": "黃仁勳認證AGI來臨！台股飆上47326點　郭哲榮點名「這些飆股」",
-      "link": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%8D%E8%AD%89agi%E4%BE%86%E8%87%A8-%E5%8F%B0%E8%82%A1%E9%A3%86%E4%B8%8A47272%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%BB%9E%E5%90%8D-%E9%80%99%E4%BA%9B%E9%A3%86%E8%82%A1-082500148.html",
-      "published": "Mon, 07 Sep 2026 08:25:00 GMT",
-      "summary": "台股7日大漲775.14點，收在47,326.27點。摩爾投顧分析師郭哲榮（哲哲）分析，黃仁勳認證AGI時代來臨帶動AI強勁需求，聯發科、華新科雙雙亮燈漲停，精材再創新高。哲哲先前砸一億買進0050已",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
-      "matched_stocks": [
-        "華新科(被動元件)"
-      ]
-    },
-    {
-      "title": "晶圓代工開趴了！「這檔」8月營收衝近4年新高、今爆量攻漲停　台積電漲50元、力積電勁揚6.42%",
-      "link": "https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5%E9%96%8B%E8%B6%B4%E4%BA%86-%E9%80%99%E6%AA%94-8%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%9D%E8%BF%914%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%BB%8A%E7%88%86%E9%87%8F%E6%94%BB%E6%BC%B2%E5%81%9C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B250%E5%85%83-074500635.html",
-      "published": "Mon, 07 Sep 2026 07:45:00 GMT",
-      "summary": "[FTNN新聞網]記者王凱暄／綜合報導受美股費城半導體指數前一交易日大漲逾3%激勵，台股加權指數今（7）日開高走高，終場站上4萬7大關收47326.27點，上漲775.14...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
-      "matched_stocks": [
-        "力積電(晶圓代工)"
+        "元大台灣50(0050)‧今日熱門",
+        "凱基台灣TOP50(009816)‧今日熱門"
       ]
     },
     {
@@ -153,6 +209,21 @@
       ]
     },
     {
+      "title": "他賣14張00919「全換0050」後悔了！內行教1招雙贏",
+      "link": "https://tw.stock.yahoo.com/news/%E4%BB%96%E8%B3%A314%E5%BC%B500919-%E5%85%A8%E6%8F%9B0050-%E5%BE%8C%E6%82%94%E4%BA%86-%E5%85%A7%E8%A1%8C%E6%95%991%E6%8B%9B%E9%9B%99%E8%B4%8F-125633160.html",
+      "published": "Mon, 07 Sep 2026 13:20:34 GMT",
+      "summary": "財經中心／綜合報導市值型與高股息 ETF 各有擁護者，但當兩者漲跌互見時，常讓投資人陷入兩難。一名網友就透露自己持有14張群益台灣精選高息（00919），平均成本價為22.92元，因日前股價下跌，因此",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 6,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "元大台灣50(0050)‧今日熱門",
+        "群益台灣精選高息(00919)‧今日熱門"
+      ]
+    },
+    {
       "title": "聯鈞8月營收12.47億元飆新高  年增1.09倍",
       "link": "https://ec.ltn.com.tw/article/breakingnews/5566088",
       "published": "Mon, 07 Sep 2026 18:29:09 +0800",
@@ -170,33 +241,93 @@
       ]
     },
     {
-      "title": "晶圓雙雄領軍742檔齊漲！「大哥、二哥」聯手炸千億　聯發科飆7％挾689億登頂",
-      "link": "https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E9%9B%99%E9%9B%84%E9%A0%98%E8%BB%8D742%E6%AA%94%E9%BD%8A%E6%BC%B2-%E5%A4%A7%E5%93%A5-%E4%BA%8C%E5%93%A5-%E8%81%AF%E6%89%8B%E7%82%B8%E5%8D%83%E5%84%84-%E8%81%AF%E7%99%BC%E7%A7%91%E9%A3%867-114500854.html",
-      "published": "Mon, 07 Sep 2026 11:45:00 GMT",
-      "summary": "[FTNN新聞網]實習記者藍彥欣／台北報導受上週五費城半導體指數勁揚逾3%激勵，亞股週一全面走強，台股同樣氣勢如虹，聯電（2303）、台積電（2330）領軍權值股...",
+      "title": "看好經濟前景 00919躍升第4檔6千億台股ETF",
+      "link": "https://tw.stock.yahoo.com/news/%E7%9C%8B%E5%A5%BD%E7%B6%93%E6%BF%9F%E5%89%8D%E6%99%AF-00919%E8%BA%8D%E5%8D%87%E7%AC%AC4%E6%AA%946%E5%8D%83%E5%84%84%E5%8F%B0%E8%82%A1etf-124741125.html",
+      "published": "Mon, 07 Sep 2026 12:47:41 GMT",
+      "summary": "台股大漲775點，7日衝破4萬7千點大關；投資人看好台股前景，趁先前震盪之際愈跌愈買，國內誕生第四檔達6000億元台股ETF，群益台灣精選高息（00919）ETF高穩配息政策受青睞，股價連續九天創新高",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
-      "direction": "中性關注",
+      "score": 5,
+      "direction": "利多",
       "is_important": true,
-      "matched_keywords": [],
+      "matched_keywords": [
+        "配息"
+      ],
       "matched_stocks": [
-        "2303(晶圓代工)",
-        "聯電(晶圓代工)"
+        "群益台灣精選高息(00919)‧今日熱門"
       ]
     },
     {
-      "title": "南亞科小金雞補丁科16日登錄興櫃   每股參考價740元",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5565973",
-      "published": "Mon, 07 Sep 2026 17:00:21 +0800",
-      "summary": "南亞科（2408）小金雞補丁科技（7947）將於本月16日以每股參考價740元登錄興櫃，近年隨著AI模型規模快速放大，推升高頻寬、低延遲、低功耗記憶體需求，補丁科以3D堆...…",
-      "source": "自由時報財經",
-      "score": 4,
-      "direction": "中性關注",
+      "title": "00919連9天創高 躍第4檔6000億台股ETF",
+      "link": "https://tw.news.yahoo.com/00919%E9%80%A39%E5%A4%A9%E5%89%B5%E9%AB%98-%E8%BA%8D%E7%AC%AC4%E6%AA%946000%E5%84%84%E5%8F%B0%E8%82%A1etf-104720260.html",
+      "published": "Mon, 07 Sep 2026 10:47:20 GMT",
+      "summary": "【記者柯安聰台北報導】第4檔6000億台股ETF誕生了，股票代號00919群益台灣精選高息ETF高穩配息政策受青睞，不僅在4日股價連續9天創新高，規模也一舉突破6000億大關，來到6043.6億，成為",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "利多",
       "is_important": true,
+      "matched_keywords": [
+        "配息"
+      ],
+      "matched_stocks": [
+        "群益台灣精選高息(00919)‧今日熱門"
+      ]
+    },
+    {
+      "title": "看好經濟前景 00919躍升第4檔6千億台股ETF",
+      "link": "https://tw.stock.yahoo.com/news/%E7%9C%8B%E5%A5%BD%E7%B6%93%E6%BF%9F%E5%89%8D%E6%99%AF-00919%E8%BA%8D%E5%8D%87%E7%AC%AC4%E6%AA%946%E5%8D%83%E5%84%84%E5%8F%B0%E8%82%A1etf-124741125.html",
+      "published": "Mon, 07 Sep 2026 12:47:41 GMT",
+      "summary": "台股大漲775點，7日衝破4萬7千點大關；投資人看好台股前景，趁先前震盪之際愈跌愈買，國內誕生第四檔達6000億元台股ETF，群益台灣精選高息（00919）ETF高穩配息政策受青睞，股價連續九天創新高",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 5,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "配息"
+      ],
+      "matched_stocks": [
+        "群益台灣精選高息(00919)‧今日熱門"
+      ]
+    },
+    {
+      "title": "ETF該怎麼選？不敗教主揭「台積電占比」差異：這類型多頭時大多跑贏0050",
+      "link": "https://tw.news.yahoo.com/etf%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8-%E4%B8%8D%E6%95%97%E6%95%99%E4%B8%BB%E6%8F%AD-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8D%A0%E6%AF%94-%E5%B7%AE%E7%95%B0-%E9%80%99%E9%A1%9E%E5%9E%8B%E5%A4%9A%E9%A0%AD%E6%99%82%E5%A4%A7%E5%A4%9A%E8%B7%91%E8%B4%8F0050-111045492.html",
+      "published": "Mon, 07 Sep 2026 11:10:45 GMT",
+      "summary": "台股7日盤中最多大漲逾800點，終場指數上漲775.14點，收在4萬7326.27點，創收盤指數歷史次高。不敗教主陳重銘於臉書發文表示，AI時代好股票一直冒出頭，輪動速度也更快，不過度集中、分散持股且",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "2408(記憶體)",
-        "南亞科(記憶體)"
+        "元大台灣50(0050)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台股站穩47K 91萬股民嗨翻！009816飆破16元大關 半年多狂賺61.7%",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%AB%99%E7%A9%A947k-91%E8%90%AC%E8%82%A1%E6%B0%91%E5%97%A8%E7%BF%BB-009816%E9%A3%86%E7%A0%B416%E5%85%83%E5%A4%A7%E9%97%9C-%E5%8D%8A%E5%B9%B4%E5%A4%9A%E7%8B%82%E8%B3%BA61-7-092951976.html",
+      "published": "Mon, 07 Sep 2026 09:29:51 GMT",
+      "summary": "台股多頭火力全開，今(7)日大漲775.14點，強勢站上4萬7000點大關，權值股全面走強，台積電、聯發科、台 […]",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "凱基台灣TOP50(009816)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台股大漲775點衝破4萬7！陳重銘揭主動ETF新選擇：0050新對手來了",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2775%E9%BB%9E%E8%A1%9D%E7%A0%B44%E8%90%AC7-%E9%99%B3%E9%87%8D%E9%8A%98%E6%8F%AD%E4%B8%BB%E5%8B%95etf%E6%96%B0%E9%81%B8%E6%93%87-0050%E6%96%B0%E5%B0%8D%E6%89%8B%E4%BE%86%E4%BA%86-092100000.html",
+      "published": "Mon, 07 Sep 2026 09:21:00 GMT",
+      "summary": "台股7日暴漲775.14點，收在47326.27點。財經專家陳重銘分析0050台積電權重過高優缺點，並指出AI時代輪動加快，不集中單一持股且能機動操作的主動型ETF如群益00415A將成市場新趨勢。(",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "元大台灣50(0050)‧今日熱門"
       ]
     }
   ]
