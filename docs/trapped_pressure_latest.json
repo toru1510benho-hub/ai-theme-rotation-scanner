@@ -1,0 +1,591 @@
+{
+  "generated_at": "2026-09-08T00:54:18.396269",
+  "themes": {
+    "CPO/矽光子": [
+      {
+        "code": "4979",
+        "name": "華星光",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 586.66,
+          "latest_close": 629.0,
+          "distance_pct": -6.73,
+          "qualifying_days": 9,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3363",
+        "name": "上詮",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 737.4,
+          "latest_close": 735.0,
+          "distance_pct": 0.33,
+          "qualifying_days": 8,
+          "note": null
+        },
+        "tags": [
+          "接近套牢區(距離+0.3%),反彈到此處慎防解套賣壓"
+        ]
+      },
+      {
+        "code": "4977",
+        "name": "眾達-KY",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 172.45,
+          "latest_close": 185.0,
+          "distance_pct": -6.78,
+          "qualifying_days": 7,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3234",
+        "name": "光環",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 193.2,
+          "latest_close": 206.0,
+          "distance_pct": -6.21,
+          "qualifying_days": 5,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3081",
+        "name": "聯亞",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 3141.37,
+          "latest_close": 3170.0,
+          "distance_pct": -0.9,
+          "qualifying_days": 10,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3450",
+        "name": "聯鈞",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 590.22,
+          "latest_close": 580.0,
+          "distance_pct": 1.76,
+          "qualifying_days": 13,
+          "note": null
+        },
+        "tags": [
+          "接近套牢區(距離+1.8%),反彈到此處慎防解套賣壓"
+        ]
+      },
+      {
+        "code": "3163",
+        "name": "波若威",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 733.18,
+          "latest_close": 775.0,
+          "distance_pct": -5.4,
+          "qualifying_days": 10,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "6442",
+        "name": "光聖",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 1790.25,
+          "latest_close": 1755.0,
+          "distance_pct": 2.01,
+          "qualifying_days": 5,
+          "note": null
+        },
+        "tags": [
+          "接近套牢區(距離+2.0%),反彈到此處慎防解套賣壓"
+        ]
+      },
+      {
+        "code": "3008",
+        "name": "大立光",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 7391.03,
+          "latest_close": 7400.0,
+          "distance_pct": -0.12,
+          "qualifying_days": 3,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      }
+    ],
+    "記憶體": [
+      {
+        "code": "2408",
+        "name": "南亞科",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 491.57,
+          "latest_close": 496.0,
+          "distance_pct": -0.89,
+          "qualifying_days": 7,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3260",
+        "name": "威剛",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 421.95,
+          "latest_close": 400.5,
+          "distance_pct": 5.36,
+          "qualifying_days": 12,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+5.4%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "2337",
+        "name": "旺宏",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 166.03,
+          "latest_close": 121.5,
+          "distance_pct": 36.65,
+          "qualifying_days": 9,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+36.6%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "8299",
+        "name": "群聯",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 2359.47,
+          "latest_close": 2015.0,
+          "distance_pct": 17.1,
+          "qualifying_days": 9,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+17.1%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 267.18,
+          "latest_close": 278.5,
+          "distance_pct": -4.07,
+          "qualifying_days": 13,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 273.94,
+          "latest_close": 276.0,
+          "distance_pct": -0.75,
+          "qualifying_days": 14,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "2344",
+        "name": "華邦電",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 203.09,
+          "latest_close": 174.0,
+          "distance_pct": 16.72,
+          "qualifying_days": 13,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+16.7%,暫不是主要壓力"
+        ]
+      }
+    ],
+    "晶圓代工": [
+      {
+        "code": "2303",
+        "name": "聯電",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 171.54,
+          "latest_close": 130.0,
+          "distance_pct": 31.96,
+          "qualifying_days": 6,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+32.0%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "6770",
+        "name": "力積電",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 78.03,
+          "latest_close": 68.5,
+          "distance_pct": 13.91,
+          "qualifying_days": 12,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+13.9%,暫不是主要壓力"
+        ]
+      }
+    ],
+    "被動元件": [
+      {
+        "code": "2327",
+        "name": "國巨",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 1008.94,
+          "latest_close": 562.0,
+          "distance_pct": 79.53,
+          "qualifying_days": 6,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+79.5%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "2492",
+        "name": "華新科",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 566.8,
+          "latest_close": 298.5,
+          "distance_pct": 89.88,
+          "qualifying_days": 2,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+89.9%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "3026",
+        "name": "禾伸堂",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 912.1,
+          "latest_close": 701.0,
+          "distance_pct": 30.11,
+          "qualifying_days": 9,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+30.1%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "2375",
+        "name": "智寶",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 209.84,
+          "latest_close": 125.0,
+          "distance_pct": 67.87,
+          "qualifying_days": 15,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+67.9%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "2486",
+        "name": "一詮",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 258.16,
+          "latest_close": 256.0,
+          "distance_pct": 0.84,
+          "qualifying_days": 13,
+          "note": null
+        },
+        "tags": [
+          "接近套牢區(距離+0.8%),反彈到此處慎防解套賣壓"
+        ]
+      }
+    ],
+    "AI伺服器組裝": [
+      {
+        "code": "2382",
+        "name": "廣達",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 368.8,
+          "latest_close": 345.0,
+          "distance_pct": 6.9,
+          "qualifying_days": 4,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+6.9%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "6669",
+        "name": "緯穎",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 2467.45,
+          "latest_close": 2565.0,
+          "distance_pct": -3.8,
+          "qualifying_days": 4,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "2356",
+        "name": "英業達",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 68.34,
+          "latest_close": 67.5,
+          "distance_pct": 1.24,
+          "qualifying_days": 10,
+          "note": null
+        },
+        "tags": [
+          "接近套牢區(距離+1.2%),反彈到此處慎防解套賣壓"
+        ]
+      },
+      {
+        "code": "3231",
+        "name": "緯創",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 187.72,
+          "latest_close": 198.0,
+          "distance_pct": -5.19,
+          "qualifying_days": 13,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "2059",
+        "name": "川湖",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 13603.56,
+          "latest_close": 13860.0,
+          "distance_pct": -1.85,
+          "qualifying_days": 3,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      }
+    ],
+    "散熱": [
+      {
+        "code": "3017",
+        "name": "奇鋐",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 3229.88,
+          "latest_close": 3570.0,
+          "distance_pct": -9.53,
+          "qualifying_days": 4,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3324",
+        "name": "雙鴻",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 1369.95,
+          "latest_close": 1485.0,
+          "distance_pct": -7.75,
+          "qualifying_days": 4,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      },
+      {
+        "code": "3653",
+        "name": "健策",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 5372.17,
+          "latest_close": 5875.0,
+          "distance_pct": -8.56,
+          "qualifying_days": 5,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      }
+    ],
+    "ABF載板/PCB": [
+      {
+        "code": "3037",
+        "name": "欣興",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 1084.74,
+          "latest_close": 902.0,
+          "distance_pct": 20.26,
+          "qualifying_days": 5,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+20.3%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "8046",
+        "name": "南電",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 1284.86,
+          "latest_close": 1055.0,
+          "distance_pct": 21.79,
+          "qualifying_days": 8,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+21.8%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "6274",
+        "name": "台燿",
+        "market": "TPEX",
+        "zone": {
+          "trapped_zone_price": 1682.7,
+          "latest_close": 1365.0,
+          "distance_pct": 23.27,
+          "qualifying_days": 7,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+23.3%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "2368",
+        "name": "金像電",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 1189.33,
+          "latest_close": 1045.0,
+          "distance_pct": 13.81,
+          "qualifying_days": 4,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+13.8%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "6213",
+        "name": "聯茂",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 550.13,
+          "latest_close": 517.0,
+          "distance_pct": 6.41,
+          "qualifying_days": 3,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+6.4%,暫不是主要壓力"
+        ]
+      }
+    ],
+    "電源供應": [
+      {
+        "code": "2308",
+        "name": "台達電",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 2046.59,
+          "latest_close": 1825.0,
+          "distance_pct": 12.14,
+          "qualifying_days": 5,
+          "note": null
+        },
+        "tags": [
+          "距離套牢區還有+12.1%,暫不是主要壓力"
+        ]
+      },
+      {
+        "code": "2301",
+        "name": "光寶科",
+        "market": "TSE",
+        "zone": {
+          "trapped_zone_price": 292.09,
+          "latest_close": 308.0,
+          "distance_pct": -5.17,
+          "qualifying_days": 10,
+          "note": null
+        },
+        "tags": [
+          "已站上套牢區,賣壓大致消化"
+        ]
+      }
+    ]
+  }
+}

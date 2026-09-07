@@ -1,0 +1,46 @@
+name: Daily theme rotation scan
+
+on:
+  schedule:
+    - cron: "30 7 * * 1-5"  # 平日 UTC 07:30 (台灣時間 15:30,收盤+三大法人資料公布後)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/theme_rotation_scan.py
+          python scripts/intraday_quotes_scan.py
+          python scripts/buy_sell_zones_scan.py
+          python scripts/trapped_pressure_scan.py
+          python scripts/event_calendar_scan.py
+          python scripts/news_scan.py
+          python scripts/earnings_calendar_scan.py
+          python scripts/earnings_reader_scan.py
+          python scripts/key_dates_scan.py
+          python scripts/ai_synthesis.py
+          python scripts/render_dashboard.py
+
+      - name: Commit updated data + dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs data/cache
+          git diff --cached --quiet && echo "no changes" || git commit -m "chore: daily scan $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

@@ -1,0 +1,1697 @@
+<meta charset="utf-8">
+<title>AI受惠股資金輪動戰情室</title>
+<style>
+:root {
+  --bg: #EEF1F4; --surface: #FFFFFF; --surface-2: #F4F6F9; --border: #DCE2E9;
+  --text-primary: #16202B; --text-secondary: #47576B; --text-muted: #7C8898;
+  --accent: #2A4FA0; --accent-soft: #E4EAFA;
+  --gain: #C1392B; --gain-soft: #F8E4E1;
+  --loss: #1E8F5B; --loss-soft: #DFF1E7;
+  --warn: #A6720F; --warn-soft: #F6E8CE;
+  --grid: #E1E7ED;
+  --shadow: 0 1px 2px rgba(20,30,45,0.07), 0 6px 16px rgba(20,30,45,0.06);
+  --radius: 12px;
+  --mono: 'Cascadia Code', Consolas, 'SF Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --sans: 'Segoe UI', 'Microsoft JhengHei', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12171C; --surface: #182029; --surface-2: #1D2731; --border: #2A3542;
+    --text-primary: #E7ECF2; --text-secondary: #AAB5C3; --text-muted: #71808F;
+    --accent: #6C93E0; --accent-soft: #22314F;
+    --gain: #E0665A; --gain-soft: #38221F;
+    --loss: #1F9A68; --loss-soft: #163229;
+    --warn: #B87F20; --warn-soft: #382A12;
+    --grid: #263140;
+    --shadow: 0 1px 2px rgba(0,0,0,0.4), 0 6px 20px rgba(0,0,0,0.35);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12171C; --surface: #182029; --surface-2: #1D2731; --border: #2A3542;
+  --text-primary: #E7ECF2; --text-secondary: #AAB5C3; --text-muted: #71808F;
+  --accent: #6C93E0; --accent-soft: #22314F;
+  --gain: #E0665A; --gain-soft: #38221F;
+  --loss: #1F9A68; --loss-soft: #163229;
+  --warn: #B87F20; --warn-soft: #382A12;
+  --grid: #263140;
+  --shadow: 0 1px 2px rgba(0,0,0,0.4), 0 6px 20px rgba(0,0,0,0.35);
+}
+:root[data-theme="light"] {
+  --bg: #EEF1F4; --surface: #FFFFFF; --surface-2: #F4F6F9; --border: #DCE2E9;
+  --text-primary: #16202B; --text-secondary: #47576B; --text-muted: #7C8898;
+  --accent: #2A4FA0; --accent-soft: #E4EAFA;
+  --gain: #C1392B; --gain-soft: #F8E4E1;
+  --loss: #1E8F5B; --loss-soft: #DFF1E7;
+  --warn: #A6720F; --warn-soft: #F6E8CE;
+  --grid: #E1E7ED;
+  --shadow: 0 1px 2px rgba(20,30,45,0.07), 0 6px 16px rgba(20,30,45,0.06);
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+.page { background: var(--bg); color: var(--text-primary); font-family: var(--sans); line-height: 1.6; min-height: 100vh; }
+h1, h2, h3, .eyebrow, .badge, .navlink { font-family: var(--mono); }
+.topbar {
+  position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--surface) 92%, transparent);
+  backdrop-filter: blur(8px); border-bottom: 1px solid var(--border);
+  padding: 14px clamp(16px, 4vw, 40px); display: flex; align-items: baseline; gap: 20px; flex-wrap: wrap;
+}
+.topbar .title { font-size: 15px; font-weight: 700; letter-spacing: 0.02em; }
+.updated { font-size: 11px; color: var(--text-muted); font-family: var(--mono); letter-spacing: 0.03em; margin-left: auto; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: clamp(20px, 4vw, 44px) clamp(16px, 4vw, 40px) 80px; }
+.overview { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-bottom: 40px; }
+.ov-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 20px; box-shadow: var(--shadow); }
+.ov-card .eyebrow { font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 8px; }
+.ov-card .headline { font-family: var(--mono); font-size: 26px; font-weight: 700; margin: 4px 0; font-variant-numeric: tabular-nums; }
+.pill { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.05em; padding: 3px 9px; border-radius: 999px; text-transform: uppercase; white-space: nowrap; }
+.pill-gain { background: var(--gain-soft); color: var(--gain); }
+.pill-loss { background: var(--loss-soft); color: var(--loss); }
+.pill-accent { background: var(--accent-soft); color: var(--accent); }
+.pill-muted { background: var(--surface-2); color: var(--text-muted); border: 1px solid var(--border); }
+section.track { margin-bottom: 48px; }
+.track > h2 { font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-muted); border-bottom: 1px solid var(--border); padding-bottom: 10px; margin: 0 0 20px; }
+.news-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 20px; margin-bottom: 12px; box-shadow: var(--shadow); }
+.news-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+.news-title { font-size: 14.5px; font-weight: 700; margin: 0; }
+.news-title a { color: var(--text-primary); text-decoration: none; }
+.news-title a:hover { color: var(--accent); }
+.news-meta { font-size: 11.5px; color: var(--text-muted); font-family: var(--mono); margin-bottom: 8px; }
+.news-stocks { font-size: 12px; color: var(--text-secondary); }
+.news-stocks b { color: var(--text-primary); }
+.empty-note { color: var(--text-muted); font-size: 13px; padding: 12px 0; }
+footer { max-width: 1080px; margin: 0 auto; padding: 0 clamp(16px, 4vw, 40px) 60px; color: var(--text-muted); font-size: 12px; border-top: 1px solid var(--border); padding-top: 18px; }
+
+.overview { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 40px; }
+.stock-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 20px; margin-bottom: 12px; box-shadow: var(--shadow); }
+.stock-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+.stock-name { font-size: 15px; font-weight: 700; margin: 0; }
+.stock-code { font-family: var(--mono); font-size: 12px; color: var(--text-muted); }
+.stock-score { margin-left: auto; font-family: var(--mono); font-size: 16px; font-weight: 700; padding: 2px 10px; border-radius: 8px; }
+.metric-row { display: flex; gap: 18px; flex-wrap: wrap; font-size: 12.5px; color: var(--text-secondary); margin-bottom: 8px; font-family: var(--mono); }
+.metric-row b { color: var(--text-primary); font-weight: 700; }
+.tag-list { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
+.tag { font-size: 10.5px; padding: 3px 9px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--border); color: var(--text-secondary); white-space: nowrap; }
+.tag-star { background: var(--gain-soft); color: var(--gain); border-color: transparent; font-weight: 700; }
+.ai-narrative { font-size: 13px; color: var(--text-secondary); line-height: 1.7; white-space: pre-wrap; margin-top: 6px; padding-top: 10px; border-top: 1px dashed var(--border); }
+.theme-rank-row { display: flex; align-items: center; gap: 12px; padding: 10px 16px; border-bottom: 1px solid var(--border); font-size: 13px; }
+.theme-rank-row:last-child { border-bottom: none; }
+.theme-rank-num { font-family: var(--mono); color: var(--text-muted); min-width: 22px; }
+.theme-rank-name { font-weight: 700; flex: 1; }
+.theme-rank-flow { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.theme-group-title { font-size: 14px; font-weight: 700; margin: 28px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); color: var(--text-primary); }
+.section-note { font-size: 12px; color: var(--text-muted); margin-bottom: 14px; }
+
+/* 使用者要求:固定暗色系(護眼) + 標題放大。放在STYLE後面,同specificity靠後蓋掉預設淺色, 不改動
+   共用的 新聞監控/render_dashboard.py，只影響這支資金輪動儀表板。 */
+:root {
+  --bg: #0D1117; --surface: #161B22; --surface-2: #1C2128; --border: #30363D;
+  --text-primary: #E6EDF3; --text-secondary: #9CA9B7; --text-muted: #6E7A87;
+  --accent: #6C93E0; --accent-soft: #1F2937;
+  --gain: #E0665A; --gain-soft: #3A211D;
+  --loss: #22A870; --loss-soft: #142B21;
+  --warn: #C08A2E; --warn-soft: #332510;
+  --grid: #21262D;
+  --shadow: 0 1px 2px rgba(0,0,0,0.5), 0 8px 24px rgba(0,0,0,0.4);
+}
+.topbar .title { font-size: 28px; font-weight: 800; letter-spacing: 0.01em; }
+
+.filter-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 28px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); position: sticky; top: 58px; z-index: 15; }
+.filter-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; margin-right: 4px; }
+.filter-chip { font-size: 12px; padding: 5px 12px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--border); color: var(--text-secondary); cursor: pointer; user-select: none; transition: all 0.12s; white-space: nowrap; }
+.filter-chip:hover { border-color: var(--accent); color: var(--text-primary); }
+.filter-chip.active { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); font-weight: 700; }
+.filter-chip .count { opacity: 0.65; margin-left: 3px; }
+.filter-clear { font-size: 11px; color: var(--text-muted); cursor: pointer; text-decoration: underline; margin-left: auto; }
+.filter-clear:hover { color: var(--text-primary); }
+.pill-warn { background: var(--warn-soft); color: var(--warn); }
+</style>
+<div class="page">
+  <div class="topbar">
+    <span class="title">AI受惠股資金輪動戰情室</span>
+    <nav style="display:flex; gap:16px; flex-wrap:wrap;">
+      <a class="navlink" href="#ai" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">AI建議</a>
+      <a class="navlink" href="#flow" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">資金流向</a>
+      <a class="navlink" href="#key-dates" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">關鍵日期</a>
+      <a class="navlink" href="#stocks" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">個股總覽</a>
+      <a class="navlink" href="#intraday" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">盤中/美股</a>
+      <a class="navlink" href="#events" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">事件日曆</a>
+      <a class="navlink" href="#earnings" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">財報時程</a>
+      <a class="navlink" href="#earnings-reader" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">財報數字</a>
+      <a class="navlink" href="#news" style="font-size:12px; color:var(--text-secondary); text-decoration:none; letter-spacing:0.04em; text-transform:uppercase;">新聞</a>
+    </nav>
+    <span class="updated">最後更新 2026/09/08 00:57</span>
+  </div>
+  <div class="wrap">
+    
+    <div class="filter-bar">
+      <span class="filter-label">篩選標籤</span>
+      <span class="filter-chip" data-cat="underdog">落後同業<span class="count">31</span></span><span class="filter-chip" data-cat="cheap_pe">本益比低<span class="count">30</span></span><span class="filter-chip" data-cat="institutional_buy">法人買超<span class="count">18</span></span><span class="filter-chip" data-cat="big_drop">單日急殺<span class="count">2</span></span><span class="filter-chip" data-cat="in_buy_zone">買進區間內<span class="count">11</span></span><span class="filter-chip" data-cat="overheated">慎防追高<span class="count">8</span></span><span class="filter-chip" data-cat="good_fundamentals">基本面佳<span class="count">5</span></span><span class="filter-chip" data-cat="star">★低位階+基本面佳<span class="count">4</span></span><span class="filter-chip" data-cat="trapped_near">接近套牢區<span class="count">5</span></span>
+      <span class="filter-clear">清除篩選</span>
+    </div>
+    
+    <div class="overview"><div class="ov-card"><div class="eyebrow">資金流向最強族群</div><div class="headline" style="font-size:18px;">被動元件</div></div><div class="ov-card"><div class="eyebrow">今日候選股數</div><div class="headline" style="font-size:18px;">8 檔</div></div><div class="ov-card"><div class="eyebrow">下次FOMC會議</div><div class="headline" style="font-size:18px;">2026-09-16（8天後）</div></div><div class="ov-card"><div class="eyebrow">相關新聞則數</div><div class="headline" style="font-size:18px;">12 則</div></div></div>
+    
+    <section class="track" id="ai">
+      <h2>M9 · AI合成建議(候選股依訊號強度排序)</h2>
+      <div class="disclaimer">分數是寫死的規則計算(落後同業/低本益比/連續買超/基本面/買進區間疊加),不是AI主觀判斷；
+      AI只負責把這些數字組織成中文敘述,不能自己編數字。僅供輔助研判,非投資建議。</div>
+      
+        <div class="stock-card" data-categories="underdog cheap_pe institutional_buy in_buy_zone good_fundamentals star">
+          <div class="stock-head">
+            <h3 class="stock-name">十銓</h3>
+            <span class="stock-code">4967 · 記憶體</span>
+            <span class="stock-score pill-accent">分數 11</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">基本面佳(殖利率+營收年增,輕量版)</span><span class="tag tag-star">★低位階+基本面佳</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>277.50</b></span>
+            <span>60日漲幅 <b>-0.5%</b></span>
+            <span>本益比 <b>4.10</b></span>
+            <span>殖利率 <b>3.12%</b></span>
+            <span>營收年增 <b>+98.7%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>264.71~281.09</b></span><span>停損參考 <b>246.96</b></span></div>
+          <div class="ai-narrative">十銓屬於記憶體族群的落後股，具備本益比低於族群中位數、法人近5日買超及基本面佳等標籤，目前位階偏低且正回檔到月線附近，短均仍在月線之上。考量其短線已有法人資金挹注且股價在買進區間內，使用者可留意回檔時機進行低接佈局。距離上方套牢區參考價的空間為-0.75%，逢高需留意解套賣壓。
+引用數字：60日漲幅-0.540540540540535%、本益比4.1、股息殖利率3.12%、月營收年增98.74936839745938%、連續買超天數2、買進區間264.71~281.09、停損參考246.96、套牢區參考價273.94、距離-0.75%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog cheap_pe institutional_buy good_fundamentals star">
+          <div class="stock-head">
+            <h3 class="stock-name">廣達</h3>
+            <span class="stock-code">2382 · AI伺服器組裝</span>
+            <span class="stock-score pill-accent">分數 9</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">連續6日買超</span><span class="tag">基本面佳(殖利率+營收年增,輕量版)</span><span class="tag tag-star">★低位階+基本面佳</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>347.50</b></span>
+            <span>60日漲幅 <b>-6.8%</b></span>
+            <span>本益比 <b>15.03</b></span>
+            <span>殖利率 <b>4.52%</b></span>
+            <span>營收年增 <b>+131.3%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>319.93~339.72</b></span><span>停損參考 <b>307.23</b></span></div>
+          <div class="ai-narrative">廣達身為AI伺服器組裝族群的落後股，擁有本益比低於族群中位數、法人連續6日買超與基本面佳等特徵，屬於低位階且基本面表現強勁的標的。因獲得法人資金連續點火，買盤力道相對穩定。使用者可伺機觀察是否回測至買進區間，目前距離上方套牢區參考價尚有6.9%的空間。
+引用數字：60日漲幅-6.756756756756754%、本益比15.03、股息殖利率4.52%、月營收年增131.31830412017854%、連續買超天數6、買進區間319.93~339.72、停損參考307.23、套牢區參考價368.8、距離6.9%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog cheap_pe institutional_buy in_buy_zone">
+          <div class="stock-head">
+            <h3 class="stock-name">台達電</h3>
+            <span class="stock-code">2308 · 電源供應</span>
+            <span class="stock-score pill-accent">分數 7</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">連續3日買超</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>1,850</b></span>
+            <span>60日漲幅 <b>-15.5%</b></span>
+            <span>本益比 <b>58.08</b></span>
+            <span>殖利率 <b>0.64%</b></span>
+            <span>營收年增 <b>+47.7%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>1744.06~1851.94</b></span><span>停損參考 <b>1675.8</b></span></div>
+          <div class="ai-narrative">台達電為電源供應族群中的落後股，具備本益比低於族群中位數與連續3日買超優勢，目前股價回檔至月線附近，短均仍在月線之上。雖然近期的短期資金流向呈現波動，但法人已展現連續買超動作。使用者可評估是否於買進區間內尋找切入點，距離上方套牢區參考價尚有12.14%的空間可供發揮。
+引用數字：60日漲幅-15.509259259259256%、本益比58.08、股息殖利率0.64%、月營收年增47.74794778461097%、連續買超天數3、買進區間1744.06~1851.94、停損參考1675.8、套牢區參考價2046.59、距離12.14%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog cheap_pe in_buy_zone">
+          <div class="stock-head">
+            <h3 class="stock-name">波若威</h3>
+            <span class="stock-code">3163 · CPO/矽光子</span>
+            <span class="stock-score pill-accent">分數 6</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>752.00</b></span>
+            <span>60日漲幅 <b>+8.0%</b></span>
+            <span>本益比 <b>76.73</b></span>
+            <span>殖利率 <b>0.47%</b></span>
+            <span>營收年增 <b>N/A</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>716.15~760.45</b></span><span>停損參考 <b>669.34</b></span></div>
+          <div class="ai-narrative">波若威屬於CPO/矽光子族群的落後股，具備本益比低於族群中位數的特點，目前股價回檔到月線附近且短均仍在月線之上。由於未提供詳細資金流向數據，進場時需更審慎評估成交量能。使用者可留意是否能在買進區間尋找支撐，目前距離套牢區參考價有-0%以上的差距，需注意短線震盪。
+引用數字：60日漲幅8.021464910446706%、本益比76.73、股息殖利率0.47%、連續買超天數0、買進區間716.15~760.45、停損參考669.34、套牢區參考價733.18、距離-5.4%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog institutional_buy in_buy_zone">
+          <div class="stock-head">
+            <h3 class="stock-name">英業達</h3>
+            <span class="stock-code">2356 · AI伺服器組裝</span>
+            <span class="stock-score pill-accent">分數 5</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">法人近5日買超</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>66.10</b></span>
+            <span>60日漲幅 <b>+3.2%</b></span>
+            <span>本益比 <b>21.77</b></span>
+            <span>殖利率 <b>2.96%</b></span>
+            <span>營收年增 <b>+65.7%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>64.36~68.34</b></span><span>停損參考 <b>63.21</b></span></div>
+          <div class="ai-narrative">英業達為AI伺服器組裝族群的落後股，帶有法人近5日買超標籤，且目前回檔至月線附近、短均仍在月線之上。其基本面具備一定營收動能，短線法人資金也有所支撐。使用者可觀察回檔至買進區間的表現，目前距離套牢區參考價僅剩1.24%，需留意接近壓力區時的解套賣壓。
+引用數字：60日漲幅3.2110091743119185%、本益比21.77、股息殖利率2.96%、月營收年增65.7284615063187%、連續買超天數0、買進區間64.36~68.34、停損參考63.21、套牢區參考價68.34、距離1.24%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+          <div class="stock-head">
+            <h3 class="stock-name">聯電</h3>
+            <span class="stock-code">2303 · 晶圓代工</span>
+            <span class="stock-score pill-accent">分數 4</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">連續3日買超</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>143.00</b></span>
+            <span>60日漲幅 <b>+4.0%</b></span>
+            <span>本益比 <b>19.55</b></span>
+            <span>殖利率 <b>2.01%</b></span>
+            <span>營收年增 <b>+19.0%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>119.58~126.97</b></span><span>停損參考 <b>113.19</b></span></div>
+          <div class="ai-narrative">聯電屬於晶圓代工族群的落後股，具備本益比低於族群中位數、法人近5日買超與連續3日買超的優勢，並伴隨市場利多新聞發酵。其法人資金流向維持淨流入態勢，買盤力道充沛。使用者可留意回檔至買進區間的機會，且因距離上方套牢區參考價尚有31.96%的空間，上檔潛在空間相對寬廣。
+引用數字：60日漲幅4.0000000000000036%、本益比19.55、股息殖利率2.01%、月營收年增18.98196955506446%、連續買超天數3、買進區間119.58~126.97、停損參考113.19、套牢區參考價171.54、距離31.96%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+          <div class="stock-head">
+            <h3 class="stock-name">光聖</h3>
+            <span class="stock-code">6442 · CPO/矽光子</span>
+            <span class="stock-score pill-accent">分數 3</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>1,700</b></span>
+            <span>60日漲幅 <b>-3.6%</b></span>
+            <span>本益比 <b>51.92</b></span>
+            <span>殖利率 <b>0.64%</b></span>
+            <span>營收年增 <b>+49.3%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>1545.21~1640.79</b></span><span>停損參考 <b>1396.5</b></span></div>
+          <div class="ai-narrative">光聖為CPO/矽光子族群的落後股，具備本益比低於族群中位數與法人近5日買超的標籤。雖然單日資金流現調節，但中長期法人累積買超金額仍然存在。使用者可等待股價回檔至買進區間再行關注，目前距離套牢區參考價僅有2.01%，接近前波套牢區時應保持警覺。
+引用數字：60日漲幅-3.57142857142857%、本益比51.92、股息殖利率0.64%、月營收年增49.254791407154876%、連續買超天數0、買進區間1545.21~1640.79、停損參考1396.5、套牢區參考價1790.25、距離2.01%</div>
+        </div>
+        
+        <div class="stock-card" data-categories="underdog cheap_pe">
+          <div class="stock-head">
+            <h3 class="stock-name">眾達-KY</h3>
+            <span class="stock-code">4977 · CPO/矽光子</span>
+            <span class="stock-score pill-accent">分數 3</span>
+          </div>
+          <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span></div>
+          <div class="metric-row">
+            <span>目前股價 <b>179.50</b></span>
+            <span>60日漲幅 <b>+6.6%</b></span>
+            <span>本益比 <b>55.56</b></span>
+            <span>殖利率 <b>1.18%</b></span>
+            <span>營收年增 <b>+136.6%</b></span>
+          </div>
+          <div class="metric-row"><span>買進區間 <b>153.92~163.44</b></span><span>停損參考 <b>137.88</b></span></div>
+          <div class="ai-narrative">眾達-KY屬於CPO/矽光子族群的落後股，具備本益比低於族群中位數與亮眼的月營收年增表現。不過近期法人資金流向呈現連續淨流出，短線籌碼較為鬆動。使用者若欲依照買黑不買紅策略介入，可觀察買進區間尋找低接機會，目前距離套牢區參考價空間為-6.78%。
+引用數字：60日漲幅6.628242074927959%、本益比55.56、股息殖利率1.18%、月營收年增136.6326290773289%、連續買超天數0、買進區間153.92~163.44、停損參考137.88、套牢區參考價172.45、距離-6.78%</div>
+        </div>
+        
+      
+    </section>
+    
+    
+    <section class="track" id="flow">
+      <h2>M1 · 族群資金流向排名(近5日累積買賣超金額估算,由高到低)</h2>
+      <div class="stock-card" style="padding:4px 4px;">
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#1</span>
+          <span class="theme-rank-name">被動元件</span>
+          <span class="pill pill-gain">-15.8% (60日)</span>
+          <span class="theme-rank-flow">+6,641,179,676 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#2</span>
+          <span class="theme-rank-name">晶圓代工</span>
+          <span class="pill pill-gain">+5.2% (60日)</span>
+          <span class="theme-rank-flow">+3,687,246,277 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#3</span>
+          <span class="theme-rank-name">散熱</span>
+          <span class="pill pill-gain">+54.7% (60日)</span>
+          <span class="theme-rank-flow">+2,857,341,885 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#4</span>
+          <span class="theme-rank-name">AI伺服器組裝</span>
+          <span class="pill pill-loss">+39.8% (60日)</span>
+          <span class="theme-rank-flow">-1,258,943,262 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#5</span>
+          <span class="theme-rank-name">CPO/矽光子</span>
+          <span class="pill pill-loss">+33.4% (60日)</span>
+          <span class="theme-rank-flow">-6,157,400,565 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#6</span>
+          <span class="theme-rank-name">電源供應</span>
+          <span class="pill pill-loss">+16.1% (60日)</span>
+          <span class="theme-rank-flow">-10,953,604,189 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#7</span>
+          <span class="theme-rank-name">ABF載板/PCB</span>
+          <span class="pill pill-loss">+23.0% (60日)</span>
+          <span class="theme-rank-flow">-17,714,532,795 元</span>
+        </div>
+        
+        <div class="theme-rank-row">
+          <span class="theme-rank-num">#8</span>
+          <span class="theme-rank-name">記憶體</span>
+          <span class="pill pill-loss">+10.4% (60日)</span>
+          <span class="theme-rank-flow">-39,845,126,136 元</span>
+        </div>
+        </div>
+    </section>
+    
+    
+    <section class="track" id="key-dates">
+      <h2>關鍵日期總覽</h2>
+      <div class="disclaimer">整合財報法定截止日、公司重大公告/法說會、美國FOMC會議、除權息預告。
+      除權息預告表只涵蓋官方已確定日期的近期個股，不是全年度完整清單。</div>
+      <div class="theme-group-title">近期關鍵日期(由近到遠)</div>
+      <div class="stock-card" style="padding:4px 4px;"><div class="theme-rank-row"><span class="pill pill-warn">總經事件</span><span class="theme-rank-name">FOMC會議</span><span class="theme-rank-flow">2026-09-16</span></div><div class="theme-rank-row"><span class="pill pill-warn">總經事件</span><span class="theme-rank-name">FOMC會議</span><span class="theme-rank-flow">2026-10-28</span></div><div class="theme-rank-row"><span class="pill pill-accent">財報截止日</span><span class="theme-rank-name">Q3季報</span><span class="theme-rank-flow">2026-11-14</span></div><div class="theme-rank-row"><span class="pill pill-warn">總經事件</span><span class="theme-rank-name">FOMC會議</span><span class="theme-rank-flow">2026-12-09</span></div><div class="theme-rank-row"><span class="pill pill-accent">財報截止日</span><span class="theme-rank-name">年報</span><span class="theme-rank-flow">2027-03-31</span></div><div class="theme-rank-row"><span class="pill pill-accent">財報截止日</span><span class="theme-rank-name">Q1季報</span><span class="theme-rank-flow">2027-05-15</span></div><div class="theme-rank-row"><span class="pill pill-accent">財報截止日</span><span class="theme-rank-name">Q2半年報</span><span class="theme-rank-flow">2027-08-14</span></div><div class="theme-rank-row"><span class="pill pill-accent">財報截止日</span><span class="theme-rank-name">Q3季報</span><span class="theme-rank-flow">2027-11-14</span></div></div>
+
+      <div class="theme-group-title">財報窗口歷史股價統計</div>
+      <div class="disclaimer">用過去實際發生的股價資料，算出「過去在法定財報截止日前後5個交易日」股價平均怎麼動——
+      這是歷史統計傾向，不是對未來的預測，也沒有排除同期間大盤/族群整體漲跌趨勢的影響(例如AI族群這幾年整體上漲，會讓統計數字偏正)，
+      樣本數(過去有幾次窗口可統計)少於3次的股票不顯示。</div>
+      <div class="stock-card" style="padding:4px 4px;"><div class="theme-rank-row"><span class="theme-rank-name">一詮(2486)</span><span class="pill pill-gain">平均+1.61%</span><span class="theme-rank-flow">波動度3.89%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">上詮(3363)</span><span class="pill pill-gain">平均+2.26%</span><span class="theme-rank-flow">波動度4.81%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">健策(3653)</span><span class="pill pill-gain">平均+4.60%</span><span class="theme-rank-flow">波動度4.41%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">光寶科(2301)</span><span class="pill pill-loss">平均-3.54%</span><span class="theme-rank-flow">波動度3.03%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">光環(3234)</span><span class="pill pill-gain">平均+4.74%</span><span class="theme-rank-flow">波動度4.2%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">光聖(6442)</span><span class="pill pill-gain">平均+6.52%</span><span class="theme-rank-flow">波動度4.44%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">力積電(6770)</span><span class="pill pill-loss">平均-0.76%</span><span class="theme-rank-flow">波動度3.01%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">十銓(4967)</span><span class="pill pill-loss">平均-4.63%</span><span class="theme-rank-flow">波動度3.19%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">南亞科(2408)</span><span class="pill pill-gain">平均+2.15%</span><span class="theme-rank-flow">波動度3.97%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">南電(8046)</span><span class="pill pill-gain">平均+0.31%</span><span class="theme-rank-flow">波動度3.54%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">台燿(6274)</span><span class="pill pill-gain">平均+6.92%</span><span class="theme-rank-flow">波動度3.9%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">台達電(2308)</span><span class="pill pill-loss">平均-1.26%</span><span class="theme-rank-flow">波動度2.66%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">國巨(2327)</span><span class="pill pill-gain">平均+5.01%</span><span class="theme-rank-flow">波動度2.72%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">大立光(3008)</span><span class="pill pill-gain">平均+4.17%</span><span class="theme-rank-flow">波動度2.65%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">奇鋐(3017)</span><span class="pill pill-loss">平均-0.34%</span><span class="theme-rank-flow">波動度3.71%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">威剛(3260)</span><span class="pill pill-loss">平均-2.17%</span><span class="theme-rank-flow">波動度3.26%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">川湖(2059)</span><span class="pill pill-gain">平均+0.22%</span><span class="theme-rank-flow">波動度3.46%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">廣達(2382)</span><span class="pill pill-loss">平均-0.15%</span><span class="theme-rank-flow">波動度2.75%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">旺宏(2337)</span><span class="pill pill-gain">平均+0.01%</span><span class="theme-rank-flow">波動度3.26%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">晶豪科(3006)</span><span class="pill pill-loss">平均-2.33%</span><span class="theme-rank-flow">波動度3.22%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">智寶(2375)</span><span class="pill pill-gain">平均+4.29%</span><span class="theme-rank-flow">波動度2.82%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">欣興(3037)</span><span class="pill pill-gain">平均+3.28%</span><span class="theme-rank-flow">波動度3.38%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">波若威(3163)</span><span class="pill pill-gain">平均+6.09%</span><span class="theme-rank-flow">波動度3.81%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">眾達-KY(4977)</span><span class="pill pill-gain">平均+0.87%</span><span class="theme-rank-flow">波動度3.94%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">禾伸堂(3026)</span><span class="pill pill-gain">平均+8.01%</span><span class="theme-rank-flow">波動度2.6%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">緯創(3231)</span><span class="pill pill-loss">平均-1.85%</span><span class="theme-rank-flow">波動度2.78%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">緯穎(6669)</span><span class="pill pill-gain">平均+1.95%</span><span class="theme-rank-flow">波動度3.71%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">群聯(8299)</span><span class="pill pill-loss">平均-3.22%</span><span class="theme-rank-flow">波動度4.17%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">聯亞(3081)</span><span class="pill pill-gain">平均+7.96%</span><span class="theme-rank-flow">波動度4.45%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">聯茂(6213)</span><span class="pill pill-gain">平均+13.88%</span><span class="theme-rank-flow">波動度3.69%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">聯鈞(3450)</span><span class="pill pill-gain">平均+2.54%</span><span class="theme-rank-flow">波動度4.03%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">聯電(2303)</span><span class="pill pill-gain">平均+3.53%</span><span class="theme-rank-flow">波動度1.98%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">英業達(2356)</span><span class="pill pill-loss">平均-0.44%</span><span class="theme-rank-flow">波動度2.63%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">華新科(2492)</span><span class="pill pill-gain">平均+4.24%</span><span class="theme-rank-flow">波動度3.28%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">華星光(4979)</span><span class="pill pill-gain">平均+1.80%</span><span class="theme-rank-flow">波動度4.69%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">華邦電(2344)</span><span class="pill pill-gain">平均+0.36%</span><span class="theme-rank-flow">波動度3.52%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">金像電(2368)</span><span class="pill pill-gain">平均+4.35%</span><span class="theme-rank-flow">波動度3.86%　樣本12次</span></div><div class="theme-rank-row"><span class="theme-rank-name">雙鴻(3324)</span><span class="pill pill-gain">平均+0.02%</span><span class="theme-rank-flow">波動度3.72%　樣本12次</span></div></div>
+    </section>
+    
+    
+    <section class="track" id="stocks">
+      <h2>M1+M2+M4+M5 · 個股總覽(依族群分類)</h2>
+      <div class="theme-group"><div class="theme-group-title">CPO/矽光子</div>
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy trapped_near">
+              <div class="stock-head">
+                <h3 class="stock-name">光聖</h3>
+                <span class="stock-code">6442 · TSE</span>
+                <span class="pill pill-loss">60日 -3.6%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">接近套牢區(距離+2.0%),反彈到此處慎防解套賣壓</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>51.92</b></span>
+                <span>殖利率 <b>0.64%</b></span>
+                <span>買進區間 <b>1545.21~1640.79</b></span><span>停損 <b>1396.5</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog trapped_near">
+              <div class="stock-head">
+                <h3 class="stock-name">上詮</h3>
+                <span class="stock-code">3363 · TPEX</span>
+                <span class="pill pill-gain">60日 +1.0%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">接近套牢區(距離+0.3%),反彈到此處慎防解套賣壓</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>N/A</b></span>
+                <span>殖利率 <b>N/A%</b></span>
+                <span>買進區間 <b>636.95~676.35</b></span><span>停損 <b>555.66</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">眾達-KY</h3>
+                <span class="stock-code">4977 · TSE</span>
+                <span class="pill pill-gain">60日 +6.6%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>55.56</b></span>
+                <span>殖利率 <b>1.18%</b></span>
+                <span>買進區間 <b>153.92~163.44</b></span><span>停損 <b>137.88</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe in_buy_zone">
+              <div class="stock-head">
+                <h3 class="stock-name">波若威</h3>
+                <span class="stock-code">3163 · TPEX</span>
+                <span class="pill pill-gain">60日 +8.0%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>76.73</b></span>
+                <span>殖利率 <b>0.47%</b></span>
+                <span>買進區間 <b>716.15~760.45</b></span><span>停損 <b>669.34</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog trapped_near">
+              <div class="stock-head">
+                <h3 class="stock-name">聯鈞</h3>
+                <span class="stock-code">3450 · TSE</span>
+                <span class="pill pill-gain">60日 +28.2%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">接近套牢區(距離+1.8%),反彈到此處慎防解套賣壓</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>117.65</b></span>
+                <span>殖利率 <b>0.17%</b></span>
+                <span>買進區間 <b>542.01~575.54</b></span><span>停損 <b>464.03</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog big_drop">
+              <div class="stock-head">
+                <h3 class="stock-name">華星光</h3>
+                <span class="stock-code">4979 · TPEX</span>
+                <span class="pill pill-gain">60日 +33.0%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">單日急殺-6.2%(趨勢未破+未破支撐),低接候選</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>96.56</b></span>
+                <span>殖利率 <b>0.36%</b></span>
+                <span>買進區間 <b>555.28~589.62</b></span><span>停損 <b>499.8</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">聯亞</h3>
+                <span class="stock-code">3081 · TPEX</span>
+                <span class="pill pill-gain">60日 +61.1%</span>
+              </div>
+              <div class="tag-list"><span class="tag">已大幅超前,慎防追高</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>264.20</b></span>
+                <span>殖利率 <b>0.13%</b></span>
+                <span>買進區間 <b>2877.75~3055.75</b></span><span>停損 <b>2430.4</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="cheap_pe big_drop overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">大立光</h3>
+                <span class="stock-code">3008 · TSE</span>
+                <span class="pill pill-gain">60日 +77.7%</span>
+              </div>
+              <div class="tag-list"><span class="tag">本益比低於族群中位數</span><span class="tag">已大幅超前,慎防追高</span><span class="tag">單日急殺-10.1%(趨勢未破+未破支撐),低接候選</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>39.36</b></span>
+                <span>殖利率 <b>1.08%</b></span>
+                <span>買進區間 <b>5752.59~6108.41</b></span><span>停損 <b>4267.9</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">光環</h3>
+                <span class="stock-code">3234 · TPEX</span>
+                <span class="pill pill-gain">60日 +89.0%</span>
+              </div>
+              <div class="tag-list"><span class="tag">已大幅超前,慎防追高</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>N/A</b></span>
+                <span>殖利率 <b>N/A%</b></span>
+                <span>買進區間 <b>157.15~166.87</b></span><span>停損 <b>115.64</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">記憶體</div>
+            <div class="stock-card" data-categories="underdog">
+              <div class="stock-head">
+                <h3 class="stock-name">旺宏</h3>
+                <span class="stock-code">2337 · TSE</span>
+                <span class="pill pill-loss">60日 -13.2%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">短均已跌破月線,回檔≠買點,先觀望</span><span class="tag">距離套牢區還有+36.6%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>28.79</b></span>
+                <span>殖利率 <b>N/A%</b></span>
+                <span>買進區間 <b>122.54~130.11</b></span><span>停損 <b>114.66</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">群聯</h3>
+                <span class="stock-code">8299 · TPEX</span>
+                <span class="pill pill-loss">60日 -8.4%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">距離套牢區還有+17.1%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>9.60</b></span>
+                <span>殖利率 <b>1.11%</b></span>
+                <span>買進區間 <b>2029.24~2154.76</b></span><span>停損 <b>1925.7</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy in_buy_zone good_fundamentals star">
+              <div class="stock-head">
+                <h3 class="stock-name">十銓</h3>
+                <span class="stock-code">4967 · TSE</span>
+                <span class="pill pill-loss">60日 -0.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">基本面佳(殖利率+營收年增,輕量版)</span><span class="tag tag-star">★低位階+基本面佳</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>4.10</b></span>
+                <span>殖利率 <b>3.12%</b></span>
+                <span>買進區間 <b>264.71~281.09</b></span><span>停損 <b>246.96</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">威剛</h3>
+                <span class="stock-code">3260 · TPEX</span>
+                <span class="pill pill-gain">60日 +1.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">距離套牢區還有+5.4%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>5.33</b></span>
+                <span>殖利率 <b>4.13%</b></span>
+                <span>買進區間 <b>396.56~421.09</b></span><span>停損 <b>379.26</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="">
+              <div class="stock-head">
+                <h3 class="stock-name">華邦電</h3>
+                <span class="stock-code">2344 · TSE</span>
+                <span class="pill pill-gain">60日 +11.2%</span>
+              </div>
+              <div class="tag-list"><span class="tag">距離套牢區還有+16.7%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>19.18</b></span>
+                <span>殖利率 <b>0.29%</b></span>
+                <span>買進區間 <b>172.85~183.55</b></span><span>停損 <b>164.64</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="cheap_pe overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">晶豪科</h3>
+                <span class="stock-code">3006 · TSE</span>
+                <span class="pill pill-gain">60日 +36.2%</span>
+              </div>
+              <div class="tag-list"><span class="tag">本益比低於族群中位數</span><span class="tag">已大幅超前,慎防追高</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>8.78</b></span>
+                <span>殖利率 <b>0.36%</b></span>
+                <span>買進區間 <b>262.8~279.05</b></span><span>停損 <b>240.59</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">南亞科</h3>
+                <span class="stock-code">2408 · TSE</span>
+                <span class="pill pill-gain">60日 +45.9%</span>
+              </div>
+              <div class="tag-list"><span class="tag">已大幅超前,慎防追高</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>19.25</b></span>
+                <span>殖利率 <b>0.27%</b></span>
+                <span>買進區間 <b>495.96~526.64</b></span><span>停損 <b>467.95</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">晶圓代工</div>
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">聯電</h3>
+                <span class="stock-code">2303 · TSE</span>
+                <span class="pill pill-gain">60日 +4.0%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">連續3日買超</span><span class="tag">距離套牢區還有+32.0%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>19.55</b></span>
+                <span>殖利率 <b>2.01%</b></span>
+                <span>買進區間 <b>119.58~126.97</b></span><span>停損 <b>113.19</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="cheap_pe institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">力積電</h3>
+                <span class="stock-code">6770 · TSE</span>
+                <span class="pill pill-gain">60日 +6.4%</span>
+              </div>
+              <div class="tag-list"><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">距離套牢區還有+13.9%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>22.83</b></span>
+                <span>殖利率 <b>N/A%</b></span>
+                <span>買進區間 <b>68.3~72.53</b></span><span>停損 <b>65.27</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">被動元件</div>
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">國巨</h3>
+                <span class="stock-code">2327 · TSE</span>
+                <span class="pill pill-loss">60日 -33.3%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">距離套牢區還有+79.5%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>37.85</b></span>
+                <span>殖利率 <b>1.07%</b></span>
+                <span>買進區間 <b>555.91~590.29</b></span><span>停損 <b>500.78</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">華新科</h3>
+                <span class="stock-code">2492 · TSE</span>
+                <span class="pill pill-loss">60日 -28.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">距離套牢區還有+89.9%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>33.54</b></span>
+                <span>殖利率 <b>0.84%</b></span>
+                <span>買進區間 <b>279.0~296.25</b></span><span>停損 <b>259.7</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">智寶</h3>
+                <span class="stock-code">2375 · TSE</span>
+                <span class="pill pill-loss">60日 -22.4%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">距離套牢區還有+67.9%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>30.05</b></span>
+                <span>殖利率 <b>0.96%</b></span>
+                <span>買進區間 <b>122.56~130.14</b></span><span>停損 <b>115.64</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">禾伸堂</h3>
+                <span class="stock-code">3026 · TSE</span>
+                <span class="pill pill-gain">60日 +0.9%</span>
+              </div>
+              <div class="tag-list"><span class="tag">法人近5日買超</span><span class="tag">連續3日買超</span><span class="tag">距離套牢區還有+30.1%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>68.39</b></span>
+                <span>殖利率 <b>0.83%</b></span>
+                <span>買進區間 <b>652.47~692.83</b></span><span>停損 <b>576.24</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="in_buy_zone trapped_near">
+              <div class="stock-head">
+                <h3 class="stock-name">一詮</h3>
+                <span class="stock-code">2486 · TSE</span>
+                <span class="pill pill-gain">60日 +4.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">接近套牢區(距離+0.8%),反彈到此處慎防解套賣壓</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>220.69</b></span>
+                <span>殖利率 <b>0.20%</b></span>
+                <span>買進區間 <b>241.77~256.73</b></span><span>停損 <b>220.99</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">AI伺服器組裝</div>
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy good_fundamentals star">
+              <div class="stock-head">
+                <h3 class="stock-name">廣達</h3>
+                <span class="stock-code">2382 · TSE</span>
+                <span class="pill pill-loss">60日 -6.8%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">連續6日買超</span><span class="tag">基本面佳(殖利率+營收年增,輕量版)</span><span class="tag tag-star">★低位階+基本面佳</span><span class="tag">距離套牢區還有+6.9%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>15.03</b></span>
+                <span>殖利率 <b>4.52%</b></span>
+                <span>買進區間 <b>319.93~339.72</b></span><span>停損 <b>307.23</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog institutional_buy in_buy_zone trapped_near">
+              <div class="stock-head">
+                <h3 class="stock-name">英業達</h3>
+                <span class="stock-code">2356 · TSE</span>
+                <span class="pill pill-gain">60日 +3.2%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">法人近5日買超</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">接近套牢區(距離+1.2%),反彈到此處慎防解套賣壓</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>21.77</b></span>
+                <span>殖利率 <b>2.96%</b></span>
+                <span>買進區間 <b>64.36~68.34</b></span><span>停損 <b>63.21</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">緯創</h3>
+                <span class="stock-code">3231 · TSE</span>
+                <span class="pill pill-gain">60日 +29.8%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>15.73</b></span>
+                <span>殖利率 <b>2.78%</b></span>
+                <span>買進區間 <b>179.4~190.5</b></span><span>停損 <b>171.99</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="cheap_pe good_fundamentals">
+              <div class="stock-head">
+                <h3 class="stock-name">緯穎</h3>
+                <span class="stock-code">6669 · TSE</span>
+                <span class="pill pill-gain">60日 +56.1%</span>
+              </div>
+              <div class="tag-list"><span class="tag">本益比低於族群中位數</span><span class="tag">基本面佳(殖利率+營收年增,輕量版)</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>8.22</b></span>
+                <span>殖利率 <b>6.40%</b></span>
+                <span>買進區間 <b>2173.92~2308.39</b></span><span>停損 <b>1948.31</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="in_buy_zone overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">川湖</h3>
+                <span class="stock-code">2059 · TSE</span>
+                <span class="pill pill-gain">60日 +116.6%</span>
+              </div>
+              <div class="tag-list"><span class="tag">已大幅超前,慎防追高</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>76.41</b></span>
+                <span>殖利率 <b>0.37%</b></span>
+                <span>買進區間 <b>13185.94~14001.56</b></span><span>停損 <b>11666.9</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">散熱</div>
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">雙鴻</h3>
+                <span class="stock-code">3324 · TPEX</span>
+                <span class="pill pill-gain">60日 +48.8%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>33.21</b></span>
+                <span>殖利率 <b>0.83%</b></span>
+                <span>買進區間 <b>1083.2~1150.2</b></span><span>停損 <b>949.62</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy">
+              <div class="stock-head">
+                <h3 class="stock-name">奇鋐</h3>
+                <span class="stock-code">3017 · TSE</span>
+                <span class="pill pill-gain">60日 +52.9%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">法人近5日買超</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>47.59</b></span>
+                <span>殖利率 <b>0.58%</b></span>
+                <span>買進區間 <b>3039.74~3227.76</b></span><span>停損 <b>2704.8</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="">
+              <div class="stock-head">
+                <h3 class="stock-name">健策</h3>
+                <span class="stock-code">3653 · TSE</span>
+                <span class="pill pill-gain">60日 +62.3%</span>
+              </div>
+              <div class="tag-list"><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>132.59</b></span>
+                <span>殖利率 <b>0.37%</b></span>
+                <span>買進區間 <b>5129.12~5446.38</b></span><span>停損 <b>3983.7</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">ABF載板/PCB</div>
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">金像電</h3>
+                <span class="stock-code">2368 · TSE</span>
+                <span class="pill pill-loss">60日 -22.3%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">距離套牢區還有+13.8%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>37.51</b></span>
+                <span>殖利率 <b>0.94%</b></span>
+                <span>買進區間 <b>1011.42~1073.98</b></span><span>停損 <b>907.48</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">台燿</h3>
+                <span class="stock-code">6274 · TPEX</span>
+                <span class="pill pill-loss">60日 -7.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">短均已跌破月線,回檔≠買點,先觀望</span><span class="tag">距離套牢區還有+23.3%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>69.58</b></span>
+                <span>殖利率 <b>0.55%</b></span>
+                <span>買進區間 <b>1458.15~1548.35</b></span><span>停損 <b>1318.1</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="underdog cheap_pe">
+              <div class="stock-head">
+                <h3 class="stock-name">欣興</h3>
+                <span class="stock-code">3037 · TSE</span>
+                <span class="pill pill-gain">60日 +5.6%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">短均已跌破月線,回檔≠買點,先觀望</span><span class="tag">距離套牢區還有+20.3%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>60.05</b></span>
+                <span>殖利率 <b>0.22%</b></span>
+                <span>買進區間 <b>1019.08~1082.12</b></span><span>停損 <b>883.96</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="">
+              <div class="stock-head">
+                <h3 class="stock-name">南電</h3>
+                <span class="stock-code">8046 · TSE</span>
+                <span class="pill pill-gain">60日 +30.7%</span>
+              </div>
+              <div class="tag-list"><span class="tag">短均已跌破月線,回檔≠買點,先觀望</span><span class="tag">距離套牢區還有+21.8%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>123.97</b></span>
+                <span>殖利率 <b>0.19%</b></span>
+                <span>買進區間 <b>1159.88~1231.62</b></span><span>停損 <b>1033.9</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="in_buy_zone overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">聯茂</h3>
+                <span class="stock-code">6213 · TSE</span>
+                <span class="pill pill-gain">60日 +108.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">已大幅超前,慎防追高</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">距離套牢區還有+6.4%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>80.16</b></span>
+                <span>殖利率 <b>0.58%</b></span>
+                <span>買進區間 <b>493.34~523.86</b></span><span>停損 <b>418.95</b></span>
+              </div>
+            </div>
+            </div><div class="theme-group"><div class="theme-group-title">電源供應</div>
+            <div class="stock-card" data-categories="underdog cheap_pe institutional_buy in_buy_zone">
+              <div class="stock-head">
+                <h3 class="stock-name">台達電</h3>
+                <span class="stock-code">2308 · TSE</span>
+                <span class="pill pill-loss">60日 -15.5%</span>
+              </div>
+              <div class="tag-list"><span class="tag">落後同業</span><span class="tag">本益比低於族群中位數</span><span class="tag">連續3日買超</span><span class="tag">現在在買進區間內(回檔到月線附近,短均仍在月線之上)</span><span class="tag">距離套牢區還有+12.1%,暫不是主要壓力</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>58.08</b></span>
+                <span>殖利率 <b>0.64%</b></span>
+                <span>買進區間 <b>1744.06~1851.94</b></span><span>停損 <b>1675.8</b></span>
+              </div>
+            </div>
+            
+            <div class="stock-card" data-categories="cheap_pe overheated">
+              <div class="stock-head">
+                <h3 class="stock-name">光寶科</h3>
+                <span class="stock-code">2301 · TSE</span>
+                <span class="pill pill-gain">60日 +47.7%</span>
+              </div>
+              <div class="tag-list"><span class="tag">本益比低於族群中位數</span><span class="tag">已大幅超前,慎防追高</span><span class="tag">已站上套牢區,賣壓大致消化</span></div>
+              <div class="metric-row">
+                <span>本益比 <b>36.02</b></span>
+                <span>殖利率 <b>1.62%</b></span>
+                <span>買進區間 <b>276.96~294.09</b></span><span>停損 <b>254.31</b></span>
+              </div>
+            </div>
+            </div>
+    </section>
+    
+    
+    <section class="track" id="intraday">
+      <h2>M3+M7 · 盤中即時報價輪動 / 美股連動</h2>
+      <div class="theme-group-title">美股連動(隔夜/即時)</div>
+      <div class="stock-card" style="padding:4px 4px;"><div class="theme-rank-row"><span class="theme-rank-name">輝達(NVDA)</span><span class="pill pill-gain">+0.3%</span><span class="theme-rank-flow">230.36</span></div><div class="theme-rank-row"><span class="theme-rank-name">超微(AMD)</span><span class="pill pill-gain">+4.9%</span><span class="theme-rank-flow">477.57</span></div><div class="theme-rank-row"><span class="theme-rank-name">台積電ADR(TSM)</span><span class="pill pill-gain">+3.0%</span><span class="theme-rank-flow">428.91</span></div><div class="theme-rank-row"><span class="theme-rank-name">費城半導體指數(^SOX)</span><span class="pill pill-gain">+3.4%</span><span class="theme-rank-flow">11,735</span></div><div class="theme-rank-row"><span class="theme-rank-name">S&amp;P500(^GSPC)</span><span class="pill pill-loss">-0.4%</span><span class="theme-rank-flow">7,719</span></div><div class="theme-rank-row"><span class="theme-rank-name">那斯達克綜合(^IXIC)</span><span class="pill pill-loss">-0.3%</span><span class="theme-rank-flow">26,507</span></div></div>
+      <div class="theme-group-title">族群盤中漲跌幅排名</div>
+      <div class="stock-card" style="padding:4px 4px;"><div class="theme-rank-row"><span class="theme-rank-num">#1</span><span class="theme-rank-name">晶圓代工</span><span class="pill pill-gain">+8.1%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#2</span><span class="theme-rank-name">被動元件</span><span class="pill pill-gain">+4.8%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#3</span><span class="theme-rank-name">記憶體</span><span class="pill pill-gain">+3.5%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#4</span><span class="theme-rank-name">ABF載板/PCB</span><span class="pill pill-gain">+2.4%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#5</span><span class="theme-rank-name">電源供應</span><span class="pill pill-loss">-0.6%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#6</span><span class="theme-rank-name">AI伺服器組裝</span><span class="pill pill-loss">-0.9%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#7</span><span class="theme-rank-name">散熱</span><span class="pill pill-loss">-3.5%</span></div><div class="theme-rank-row"><span class="theme-rank-num">#8</span><span class="theme-rank-name">CPO/矽光子</span><span class="pill pill-loss">-3.7%</span></div></div>
+    </section>
+    
+    
+    <section class="track" id="events">
+      <h2>M6 · 事件日曆</h2>
+      <div class="theme-group-title">未來30天FOMC會議</div>
+      <div class="stock-card" style="padding:4px 4px;"><div class="theme-rank-row"><span class="theme-rank-name">FOMC會議</span><span class="pill pill-accent">2026-09-16（8天後）</span></div></div>
+      <div class="theme-group-title">近14天個股重大訊息(僅上市公司)</div>
+      <div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 光寶科(2301)</div><div class="section-note">公告本公司法人董事改派代表人</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 廣達(2382)</div><div class="section-note">本公司受邀參加大和國泰證券所舉辦之投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 廣達(2382)</div><div class="section-note">本公司受邀參加兆豐證券所舉辦之投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 廣達(2382)</div><div class="section-note">本公司受邀參加UBS證券所舉辦之投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 廣達(2382)</div><div class="section-note">本公司受邀參加CITIC CLSA證券所舉辦之投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 欣興(3037)</div><div class="section-note">代子公司UNIMICRON (THAILAND) CO., LTD.公告
+取得廠務工程之相關資料</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 欣興(3037)</div><div class="section-note">本公司受邀參加統一證券舉辦之2026Q3投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 欣興(3037)</div><div class="section-note">本公司受邀參加宏遠證券舉辦之2026年趨勢產業論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 欣興(3037)</div><div class="section-note">本公司受邀參加Citi舉辦之Citi 2026 Semicon Tour</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 聯茂(6213)</div><div class="section-note">本公司受邀參加中信證券舉辦之2026年第三季前瞻論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 聯茂(6213)</div><div class="section-note">本公司受邀參加統一證券舉辦之2026Q3全球展望秋季投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 聯鈞(3450)</div><div class="section-note">係因本公司有價證券於集中交易市場達公布注意交易資訊標準，
+故公布相關財務業務等重大訊息，以利投資人區別瞭解</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 聯茂(6213)</div><div class="section-note">代重要子公司Ever Smart International Co., Ltd
+公告董事會決議盈餘分配案</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 聯茂(6213)</div><div class="section-note">代重要子公司ITEQ Holding Ltd.公告董事會決議盈餘分配案</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 聯茂(6213)</div><div class="section-note">代重要子公司ITEQ International Ltd.公告董事會決議
+盈餘分配案</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 奇鋐(3017) <span class='tag tag-star'>法說會相關</span></div><div class="section-note">受邀參加Citi Semicon Tour法人說明會</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 奇鋐(3017)</div><div class="section-note">受邀參加第三季凱基投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 奇鋐(3017)</div><div class="section-note">受邀參加永豐金證券 2026 Q3產業投資論壇</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 奇鋐(3017) <span class='tag tag-star'>法說會相關</span></div><div class="section-note">受邀參加BofA Securities 2026 Asia Pacific Conference及CLSA 33rd Investors&#x27; Forum 2026</div></div><div class="stock-card" style="padding:10px 16px;"><div class="metric-row"><b>2026-09-01</b> 華邦電(2344)</div><div class="section-note">公告本公司法人董事改派代表人</div></div>
+    </section>
+    
+    
+    <section class="track" id="earnings">
+      <h2>M10 · 財報時程規劃</h2>
+      <div class="disclaimer">法定申報截止日(一般產業,不含金融業),不是個股實際公布日預測——多數公司會提前公布。 適用範圍：本站追蹤的38檔AI受惠股
+      (CPO/矽光子、記憶體、晶圓代工、被動元件、AI伺服器組裝、散熱、ABF載板/PCB、電源供應，全為一般產業，非金融業)。</div>
+      <div class="stock-card" style="padding:4px 4px;"><div class="theme-rank-row"><span class="theme-rank-name">Q3季報（2026第3季）</span><span class="pill pill-accent">2026-11-14</span><span class="theme-rank-flow">還有 67 天</span></div><div class="theme-rank-row"><span class="theme-rank-name">年報（2026年報）</span><span class="pill pill-accent">2027-03-31</span><span class="theme-rank-flow">還有 204 天</span></div></div>
+      <div class="section-note" style="margin-top:14px;">個股實際公布日通常會早於法定截止日，接近截止日時可留意公司公告；
+      這份時程也會提供給M9 AI合成建議參考，財報空窗期即將結束時波動可能加大。</div>
+    </section>
+    
+    
+    <section class="track" id="earnings-reader">
+      <h2>財報數字速覽</h2>
+      <div class="disclaimer">數字來自證交所/櫃買中心官方當季合併損益表，程式直接算出毛利率/營業利益率/季增率，
+      不是逐股票讀財報全文，暫時做不到管理層語氣分析、附注挖掘這種深度精讀。最近14天內沒有追蹤股票公告新財報(財報空窗期,不是沒抓到資料)。</div>
+      
+      
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">群聯</h3>
+            <span class="stock-code">8299 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>108,855,209</b>(千元)</span>
+            <span>毛利率 <b>63.8%</b></span>
+            <span>營業利益率 <b>37.86%</b></span>
+            <span>EPS <b>187.43</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">南電</h3>
+            <span class="stock-code">8046 · ABF載板/PCB</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>24,752,716</b>(千元)</span>
+            <span>毛利率 <b>20.73%</b></span>
+            <span>營業利益率 <b>17.18%</b></span>
+            <span>EPS <b>5.53</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">威剛</h3>
+            <span class="stock-code">3260 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>64,242,687</b>(千元)</span>
+            <span>毛利率 <b>47.63%</b></span>
+            <span>營業利益率 <b>38.98%</b></span>
+            <span>EPS <b>62.46</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">緯穎</h3>
+            <span class="stock-code">6669 · AI伺服器組裝</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>554,660,326</b>(千元)</span>
+            <span>毛利率 <b>8.41%</b></span>
+            <span>營業利益率 <b>6.79%</b></span>
+            <span>EPS <b>156.38</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">聯茂</h3>
+            <span class="stock-code">6213 · ABF載板/PCB</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>20,673,078</b>(千元)</span>
+            <span>毛利率 <b>17.33%</b></span>
+            <span>營業利益率 <b>10.99%</b></span>
+            <span>EPS <b>4.39</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">晶豪科</h3>
+            <span class="stock-code">3006 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>21,213,118</b>(千元)</span>
+            <span>毛利率 <b>61.44%</b></span>
+            <span>營業利益率 <b>44.44%</b></span>
+            <span>EPS <b>27.58</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">欣興</h3>
+            <span class="stock-code">3037 · ABF載板/PCB</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>80,336,273</b>(千元)</span>
+            <span>毛利率 <b>21.61%</b></span>
+            <span>營業利益率 <b>11.71%</b></span>
+            <span>EPS <b>11.7</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">台燿</h3>
+            <span class="stock-code">6274 · ABF載板/PCB</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>24,355,008</b>(千元)</span>
+            <span>毛利率 <b>27.83%</b></span>
+            <span>營業利益率 <b>21.29%</b></span>
+            <span>EPS <b>12.4</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">光寶科</h3>
+            <span class="stock-code">2301 · 電源供應</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>96,110,746</b>(千元)</span>
+            <span>毛利率 <b>24.71%</b></span>
+            <span>營業利益率 <b>12.8%</b></span>
+            <span>EPS <b>4.8</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">華星光</h3>
+            <span class="stock-code">4979 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>2,482,586</b>(千元)</span>
+            <span>毛利率 <b>23.87%</b></span>
+            <span>營業利益率 <b>19.62%</b></span>
+            <span>EPS <b>2.91</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">大立光</h3>
+            <span class="stock-code">3008 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>29,208,838</b>(千元)</span>
+            <span>毛利率 <b>49.41%</b></span>
+            <span>營業利益率 <b>37.52%</b></span>
+            <span>EPS <b>82.35</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">波若威</h3>
+            <span class="stock-code">3163 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>1,247,946</b>(千元)</span>
+            <span>毛利率 <b>17.12%</b></span>
+            <span>營業利益率 <b>3.61%</b></span>
+            <span>EPS <b>3.5</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">雙鴻</h3>
+            <span class="stock-code">3324 · 散熱</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>17,251,778</b>(千元)</span>
+            <span>毛利率 <b>29.03%</b></span>
+            <span>營業利益率 <b>16.87%</b></span>
+            <span>EPS <b>23.01</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">十銓</h3>
+            <span class="stock-code">4967 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>16,633,210</b>(千元)</span>
+            <span>毛利率 <b>40.18%</b></span>
+            <span>營業利益率 <b>35.94%</b></span>
+            <span>EPS <b>53.44</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">聯電</h3>
+            <span class="stock-code">2303 · 晶圓代工</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>129,770,564</b>(千元)</span>
+            <span>毛利率 <b>30.93%</b></span>
+            <span>營業利益率 <b>20.21%</b></span>
+            <span>EPS <b>4.68</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">禾伸堂</h3>
+            <span class="stock-code">3026 · 被動元件</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>7,715,738</b>(千元)</span>
+            <span>毛利率 <b>25.27%</b></span>
+            <span>營業利益率 <b>14.38%</b></span>
+            <span>EPS <b>6.73</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">上詮</h3>
+            <span class="stock-code">3363 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>811,157</b>(千元)</span>
+            <span>毛利率 <b>1.01%</b></span>
+            <span>營業利益率 <b>-30.58%</b></span>
+            <span>EPS <b>-1.18</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">光環</h3>
+            <span class="stock-code">3234 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>378,996</b>(千元)</span>
+            <span>毛利率 <b>15.02%</b></span>
+            <span>營業利益率 <b>-15.02%</b></span>
+            <span>EPS <b>-0.48</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">英業達</h3>
+            <span class="stock-code">2356 · AI伺服器組裝</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>470,167,600</b>(千元)</span>
+            <span>毛利率 <b>4.59%</b></span>
+            <span>營業利益率 <b>1.78%</b></span>
+            <span>EPS <b>1.76</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">台達電</h3>
+            <span class="stock-code">2308 · 電源供應</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>342,608,732</b>(千元)</span>
+            <span>毛利率 <b>36.27%</b></span>
+            <span>營業利益率 <b>17.22%</b></span>
+            <span>EPS <b>17.59</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">金像電</h3>
+            <span class="stock-code">2368 · ABF載板/PCB</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>43,592,084</b>(千元)</span>
+            <span>毛利率 <b>34.72%</b></span>
+            <span>營業利益率 <b>26.62%</b></span>
+            <span>EPS <b>16.17</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">南亞科</h3>
+            <span class="stock-code">2408 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>131,636,005</b>(千元)</span>
+            <span>毛利率 <b>75.16%</b></span>
+            <span>營業利益率 <b>69.08%</b></span>
+            <span>EPS <b>23.38</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">聯亞</h3>
+            <span class="stock-code">3081 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>2,125,567</b>(千元)</span>
+            <span>毛利率 <b>56.31%</b></span>
+            <span>營業利益率 <b>44.5%</b></span>
+            <span>EPS <b>7.75</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">眾達-KY</h3>
+            <span class="stock-code">4977 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>430,574</b>(千元)</span>
+            <span>毛利率 <b>21.48%</b></span>
+            <span>營業利益率 <b>-6.8%</b></span>
+            <span>EPS <b>1.5</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">光聖</h3>
+            <span class="stock-code">6442 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>6,386,649</b>(千元)</span>
+            <span>毛利率 <b>59.5%</b></span>
+            <span>營業利益率 <b>29.66%</b></span>
+            <span>EPS <b>19.07</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">智寶</h3>
+            <span class="stock-code">2375 · 被動元件</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>3,009,457</b>(千元)</span>
+            <span>毛利率 <b>18.07%</b></span>
+            <span>營業利益率 <b>7.44%</b></span>
+            <span>EPS <b>1.85</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">廣達</h3>
+            <span class="stock-code">2382 · AI伺服器組裝</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>1,845,813,767</b>(千元)</span>
+            <span>毛利率 <b>4.92%</b></span>
+            <span>營業利益率 <b>3.1%</b></span>
+            <span>EPS <b>12.93</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">聯鈞</h3>
+            <span class="stock-code">3450 · CPO/矽光子</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>5,063,522</b>(千元)</span>
+            <span>毛利率 <b>29.25%</b></span>
+            <span>營業利益率 <b>18.21%</b></span>
+            <span>EPS <b>2.78</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">奇鋐</h3>
+            <span class="stock-code">3017 · 散熱</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>98,158,910</b>(千元)</span>
+            <span>毛利率 <b>31.17%</b></span>
+            <span>營業利益率 <b>25.97%</b></span>
+            <span>EPS <b>44.54</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">健策</h3>
+            <span class="stock-code">3653 · 散熱</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>12,579,732</b>(千元)</span>
+            <span>毛利率 <b>44.69%</b></span>
+            <span>營業利益率 <b>35.34%</b></span>
+            <span>EPS <b>25.33</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">華邦電</h3>
+            <span class="stock-code">2344 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>98,096,329</b>(千元)</span>
+            <span>毛利率 <b>61.23%</b></span>
+            <span>營業利益率 <b>42.34%</b></span>
+            <span>EPS <b>7.65</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">緯創</h3>
+            <span class="stock-code">3231 · AI伺服器組裝</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>1,741,745,642</b>(千元)</span>
+            <span>毛利率 <b>5.44%</b></span>
+            <span>營業利益率 <b>3.59%</b></span>
+            <span>EPS <b>7.78</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">旺宏</h3>
+            <span class="stock-code">2337 · 記憶體</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>29,593,392</b>(千元)</span>
+            <span>毛利率 <b>56.06%</b></span>
+            <span>營業利益率 <b>36.83%</b></span>
+            <span>EPS <b>4.82</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">國巨</h3>
+            <span class="stock-code">2327 · 被動元件</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>82,621,975</b>(千元)</span>
+            <span>毛利率 <b>38.32%</b></span>
+            <span>營業利益率 <b>25.85%</b></span>
+            <span>EPS <b>8.48</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">川湖</h3>
+            <span class="stock-code">2059 · AI伺服器組裝</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>16,279,766</b>(千元)</span>
+            <span>毛利率 <b>84.18%</b></span>
+            <span>營業利益率 <b>77.05%</b></span>
+            <span>EPS <b>110.96</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">一詮</h3>
+            <span class="stock-code">2486 · 被動元件</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>3,682,920</b>(千元)</span>
+            <span>毛利率 <b>21.0%</b></span>
+            <span>營業利益率 <b>8.05%</b></span>
+            <span>EPS <b>0.91</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">力積電</h3>
+            <span class="stock-code">6770 · 晶圓代工</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>30,862,646</b>(千元)</span>
+            <span>毛利率 <b>20.34%</b></span>
+            <span>營業利益率 <b>58.03%</b></span>
+            <span>EPS <b>4.08</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+        <div class="stock-card">
+          <div class="stock-head">
+            <h3 class="stock-name">華新科</h3>
+            <span class="stock-code">2492 · 被動元件</span>
+            
+          </div>
+          <div class="metric-row">
+            <span>115年第2季營收 <b>20,848,667</b>(千元)</span>
+            <span>毛利率 <b>19.38%</b></span>
+            <span>營業利益率 <b>9.02%</b></span>
+            <span>EPS <b>4.93</b></span>
+            <span>季增率 <b>尚無比較基準</b></span>
+          </div>
+        </div>
+        
+    </section>
+    
+    
+    <section class="track" id="news">
+      <h2>M8 · 相關新聞(共12則)</h2>
+      
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-accent">中性關注</span>
+        <span class="news-title"><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E8%BF%944%E8%90%AC7%E6%94%B6%E5%8F%B2%E4%B8%8A%E6%AC%A1%E9%AB%98%EF%BC%81%E4%BF%A1%E9%A9%8A%E6%BC%B2%E5%81%9C%E6%94%BB%E5%90%91%E3%80%8C2%E8%90%AC%E9%87%91%E3%80%8D%E5%A4%A7%E7%AB%8B%E5%85%89%E6%91%94%E8%B7%8C%E5%81%9C%E5%A4%B1%E5%AE%887%E5%8D%83%E9%97%9C%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-094926247.html" target="_blank">台股重返4萬7收史上次高！信驊漲停攻向「2萬金」大立光摔跌停失守7千關｜Yahoo財經掃描</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>大立光(CPO/矽光子)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2775%E9%BB%9E%E5%89%B5%E8%BF%91%E6%9C%9F%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E6%BC%B250%E5%85%83etf%E7%BE%A4%E9%A3%9B-%E9%80%99%E4%B8%89%E6%AA%94%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E7%88%86%E9%87%8F-102009154.html" target="_blank">台股大漲775點創近期新高！台積漲50元ETF群飛　這三檔漲停成交爆量</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>2303(晶圓代工)、聯電(晶圓代工)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-loss">利空</span>
+        <span class="news-title"><a href="https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%8B%82%E9%A3%86775%E9%BB%9E%E5%A4%A7%E7%AB%8B%E5%85%89%E7%AB%9F%E8%B7%8C%E5%81%9C-%E5%A4%96%E8%B3%87%E9%99%8D%E8%A9%95%E7%A0%8D%E7%9B%AE%E6%A8%99%E5%83%B9-%E8%91%89%E8%82%B2%E7%A2%A9%E6%8F%AD%E8%B7%8C%E5%81%9C%E7%9C%9F%E7%9B%B8-101200141.html" target="_blank">台股狂飆775點大立光竟跌停！外資降評砍目標價　 葉育碩揭跌停真相</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>3008(CPO/矽光子)、大立光(CPO/矽光子)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1883%E5%84%84%E5%85%83-%E5%B1%85%E5%8F%B2%E4%B8%8A%E7%AC%AC4%E5%A4%A7-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%81%AF%E6%89%8B%E5%8A%A0%E7%A2%BC1138%E5%84%84%E5%85%83-%E5%8F%8B%E9%81%94-%E5%8A%9B%E7%A9%8D%E9%9B%BB-083406041.html" target="_blank">外資買超台股883億元　居史上第4大！友達、力積電、華邦電獲青睞</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>力積電(晶圓代工)、華邦電(記憶體)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-loss">利空</span>
+        <span class="news-title"><a href="https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E8%BF%9447k-%E6%8E%A8%E6%89%8B%E6%98%AF%E5%AE%83%E5%80%91-%E5%A4%9A%E6%AA%94%E6%AC%8A%E5%80%BC%E8%82%A1%E6%BC%B2%E9%80%BE5-%E5%A4%A7%E7%AB%8B%E5%85%89%E6%85%98%E5%90%9E%E8%B7%8C%E5%81%9C-093000243.html" target="_blank">台股重返47K「推手是它們」！多檔權值股漲逾5%　大立光慘吞跌停</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>大立光(CPO/矽光子)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%8F%B2%E4%B8%8A%E7%AC%AC%E5%9B%9B%E5%A4%A7%E8%B2%B7%E8%B6%85883%E5%84%84%E5%85%83-%E5%A4%A7%E8%88%89%E5%8A%A0%E7%A2%BC%E5%8F%8B%E9%81%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%B8%9B%E7%A2%BC%E9%8E%96%E5%AE%9A%E9%9B%BB%E5%AD%90%E4%BA%94%E5%93%A5-092357223.html" target="_blank">外資史上第四大買超883億元 大舉加碼友達、台積電 減碼鎖定電子五哥</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>聯電(晶圓代工)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%8D%E8%AD%89agi%E4%BE%86%E8%87%A8-%E5%8F%B0%E8%82%A1%E9%A3%86%E4%B8%8A47272%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%BB%9E%E5%90%8D-%E9%80%99%E4%BA%9B%E9%A3%86%E8%82%A1-082500148.html" target="_blank">黃仁勳認證AGI來臨！台股飆上47326點　郭哲榮點名「這些飆股」</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>華新科(被動元件)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5%E9%96%8B%E8%B6%B4%E4%BA%86-%E9%80%99%E6%AA%94-8%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%9D%E8%BF%914%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%BB%8A%E7%88%86%E9%87%8F%E6%94%BB%E6%BC%B2%E5%81%9C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B250%E5%85%83-074500635.html" target="_blank">晶圓代工開趴了！「這檔」8月營收衝近4年新高、今爆量攻漲停　台積電漲50元、力積電勁揚6.42%</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>力積電(晶圓代工)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://tw.stock.yahoo.com/news/%E7%B7%AF%E5%89%B5-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8115%E5%B9%B4%E5%BA%A6%E7%8F%BE%E9%87%91%E5%A2%9E%E8%B3%87%E7%99%BC%E8%A1%8C%E6%99%AE%E9%80%9A%E8%82%A1%E5%8F%83%E8%88%87%E7%99%BC%E8%A1%8C%E6%B5%B7%E5%A4%96%E5%AD%98%E8%A8%97%E6%86%91%E8%AD%89%E4%B9%8B%E7%99%BC%E8%A1%8C%E6%A2%9D%E4%BB%B6-152400960.html" target="_blank">緯創 公告本公司115年度現金增資發行普通股參與發行海外存託憑證之發行條件</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-最新新聞</div>
+      <div class="news-stocks">相關個股：<b>3231(AI伺服器組裝)、緯創(AI伺服器組裝)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-gain">利多</span>
+        <span class="news-title"><a href="https://ec.ltn.com.tw/article/breakingnews/5566088" target="_blank">聯鈞8月營收12.47億元飆新高  年增1.09倍</a></span>
+      </div>
+      <div class="news-meta">自由時報財經</div>
+      <div class="news-stocks">相關個股：<b>3450(CPO/矽光子)、聯鈞(CPO/矽光子)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-accent">中性關注</span>
+        <span class="news-title"><a href="https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E9%9B%99%E9%9B%84%E9%A0%98%E8%BB%8D742%E6%AA%94%E9%BD%8A%E6%BC%B2-%E5%A4%A7%E5%93%A5-%E4%BA%8C%E5%93%A5-%E8%81%AF%E6%89%8B%E7%82%B8%E5%8D%83%E5%84%84-%E8%81%AF%E7%99%BC%E7%A7%91%E9%A3%867-114500854.html" target="_blank">晶圓雙雄領軍742檔齊漲！「大哥、二哥」聯手炸千億　聯發科飆7％挾689億登頂</a></span>
+      </div>
+      <div class="news-meta">Yahoo奇摩股市-台股動態</div>
+      <div class="news-stocks">相關個股：<b>2303(晶圓代工)、聯電(晶圓代工)</b></div>
+    </div>
+    
+    <div class="news-card">
+      <div class="news-head">
+        <span class="pill pill-accent">中性關注</span>
+        <span class="news-title"><a href="https://ec.ltn.com.tw/article/breakingnews/5565973" target="_blank">南亞科小金雞補丁科16日登錄興櫃   每股參考價740元</a></span>
+      </div>
+      <div class="news-meta">自由時報財經</div>
+      <div class="news-stocks">相關個股：<b>2408(記憶體)、南亞科(記憶體)</b></div>
+    </div>
+    
+    </section>
+    
+  </div>
+  <footer>買黑不買紅策略輔助工具。資料來源:證交所(STOCK_DAY/T86/月營收)、櫃買中心、yfinance(Yahoo Finance)、Gemini AI。
+  所有數字皆由程式精算,AI僅負責文字組織，僅供輔助研判，非投資建議。</footer>
+</div>
+
+<script>
+(function () {
+  var chips = document.querySelectorAll('.filter-chip[data-cat]');
+  var clearBtn = document.querySelector('.filter-clear');
+  var selected = new Set();
+
+  function applyFilter() {
+    document.querySelectorAll('[data-categories]').forEach(function (card) {
+      var cats = (card.getAttribute('data-categories') || '').split(' ').filter(Boolean);
+      var visible = selected.size === 0 || cats.some(function (c) { return selected.has(c); });
+      card.style.display = visible ? '' : 'none';
+    });
+    document.querySelectorAll('.theme-group').forEach(function (group) {
+      var anyVisible = Array.prototype.some.call(
+        group.querySelectorAll('[data-categories]'),
+        function (card) { return card.style.display !== 'none'; }
+      );
+      group.style.display = anyVisible ? '' : 'none';
+    });
+  }
+
+  chips.forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      var cat = chip.getAttribute('data-cat');
+      if (selected.has(cat)) { selected.delete(cat); chip.classList.remove('active'); }
+      else { selected.add(cat); chip.classList.add('active'); }
+      applyFilter();
+    });
+  });
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function () {
+      selected.clear();
+      chips.forEach(function (c) { c.classList.remove('active'); });
+      applyFilter();
+    });
+  }
+})();
+</script>
+
