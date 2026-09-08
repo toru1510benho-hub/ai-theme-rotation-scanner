@@ -152,5 +152,40 @@
     "announce_date": "2026-09-01",
     "subject": "公告本公司取得廠務設備",
     "is_conference": false
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "announce_date": "2026-09-07",
+    "subject": "澄清社群平台訊息內容",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-09-07",
+    "subject": "公告欣興電子股份有限公司第一次無擔保轉換公司債\r\n(簡稱：欣興一，代碼：30371)於櫃檯買賣市場交易達公布\r\n注意交易資訊標準，故公布相關訊息，以利投資人區別瞭解。",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-09-07",
+    "subject": "代子公司誠風投資（股）公司公告取得有價證券",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-09-07",
+    "subject": "本公司取得廠務工程之相關資料",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-07",
+    "subject": "公告本公司115年度現金增資發行普通股參與發行海外存託\r\n憑證之發行條件",
+    "is_conference": false
   }
 ]
