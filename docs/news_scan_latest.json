@@ -1,185 +1,250 @@
 {
-  "generated_at": "2026-09-08T12:15:28.289870",
+  "generated_at": "2026-09-09T12:26:23.856683",
   "total_news_scanned": 140,
-  "relevant_count": 11,
+  "relevant_count": 14,
   "news": [
     {
-      "title": "台股創高後拉回！郭哲榮看好記憶體、AI股：點名華邦電領軍飆股",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%89%B5%E9%AB%98%E5%BE%8C%E6%8B%89%E5%9B%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E7%9C%8B%E5%A5%BD%E8%A8%98%E6%86%B6%E9%AB%94-ai%E8%82%A1-%E9%BB%9E%E5%90%8D%E8%8F%AF%E9%82%A6%E9%9B%BB%E9%A0%98%E8%BB%8D%E9%A3%86%E8%82%A1-080900966.html",
-      "published": "Tue, 08 Sep 2026 08:09:00 GMT",
-      "summary": "台股9月8日盤中創波段新高後拉回，郭哲榮認為大盤震盪不必過度恐慌，並持續看好華邦電、南亞科、群聯等記憶體股，以及國巨、聯發科、台勝科等族群表現。（記者唐家興）",
+      "title": "台股小漲「這三檔」漲停成交爆量　ETF族群紅通通00415A將開募",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B0%8F%E6%BC%B2-%E9%80%99%E4%B8%89%E6%AA%94-%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E7%88%86%E9%87%8F-etf%E6%97%8F%E7%BE%A4%E7%B4%85%E9%80%9A%E9%80%9A00415a%E5%B0%87%E9%96%8B%E5%8B%9F-082219898.html",
+      "published": "Wed, 09 Sep 2026 08:22:19 GMT",
+      "summary": "至於盤面焦點股鴻海、聯電、友達、群創、彩晶、南亞、緯創、鼎元、頎邦、南茂、台化、穩懋、台泥、中鋼、旺宏、陽明、台塑、廣達等收漲，也在成交量前百排行榜內。ETF部分，則由主動統一升級50(00403A)",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 14,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "南亞科(2408)‧今日熱門",
-        "南亞科(記憶體)",
-        "國巨(被動元件)",
-        "群聯(記憶體)",
-        "華邦電(2344)‧今日熱門",
-        "華邦電(記憶體)"
-      ]
-    },
-    {
-      "title": "【Follow法人】外資續加碼132億元！掃貨華邦電南亞科逾12萬張 鴻海廣達6檔「老AI」淪刀下魂",
-      "link": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E7%BA%8C%E5%8A%A0%E7%A2%BC132%E5%84%84%E5%85%83%EF%BC%81%E6%8E%83%E8%B2%A8%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%8D%97%E4%BA%9E%E7%A7%91%E9%80%BE12%E8%90%AC%E5%BC%B5-%E9%B4%BB%E6%B5%B7%E5%BB%A3%E9%81%946%E6%AA%94%E3%80%8C%E8%80%81ai%E3%80%8D%E6%B7%AA%E5%88%80%E4%B8%8B%E9%AD%82-070921298.html",
-      "published": "Tue, 08 Sep 2026 07:09:21 GMT",
-      "summary": "台股今（8）日開高走低，終場下跌220.49點，收在47,105.78點。三大法人僅外資持續站在買方，但加碼力道明顯收斂，買超台股132.69億元，連續三個交易日累計買超達1,577.9億元。分析師指",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 12,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "南亞科(2408)‧今日熱門",
-        "南亞科(記憶體)",
-        "廣達(AI伺服器組裝)",
-        "華邦電(2344)‧今日熱門",
-        "華邦電(記憶體)"
-      ]
-    },
-    {
-      "title": "聯電才漲停就慘摔4.2％！「它」竟狂砍6.38萬張 百萬股東傻眼",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5567156",
-      "published": "Tue, 08 Sep 2026 16:35:50 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週二（8日）在台積電、記憶體領軍，一度漲252點，然在AI、光電等賣單釋出，指數翻黑震盪555點，在三大法人賣超99.87億元，終場收跌220點，雖外資續挺台股買超13...…",
-      "source": "自由時報財經",
-      "score": 9,
+      "score": 33,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "漲停"
       ],
       "matched_stocks": [
+        "主動統一升級50(00403A)‧今日熱門",
+        "南亞(1303)‧今日熱門",
+        "友達(2409)‧今日熱門",
+        "廣達(AI伺服器組裝)",
+        "彩晶(6116)‧今日熱門",
+        "旺宏(記憶體)",
+        "緯創(3231)‧今日熱門",
+        "緯創(AI伺服器組裝)",
+        "群創(3481)‧今日熱門",
         "聯電(2303)‧今日熱門",
         "聯電(晶圓代工)"
       ]
     },
     {
-      "title": "ABF載板出貨大增！ 欣興8月營收連續5個月飆新高",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5567107",
-      "published": "Tue, 08 Sep 2026 16:27:19 +0800",
-      "summary": "IC載板龍頭欣興（3037）受惠AI（人工智慧）、HPC（高速運算）相關應用帶動ABF載板出貨大增，8月合併營收再飆歷史新高，連續5個月營收改寫新高紀錄，欣興8月合併營收...…",
-      "source": "自由時報財經",
-      "score": 6,
-      "direction": "中性關注",
+      "title": "群聯8月營收282.76億元  年增377％  雙創歷史新高",
+      "link": "https://tw.stock.yahoo.com/news/%E7%BE%A4%E8%81%AF8%E6%9C%88%E7%87%9F%E6%94%B6282-76%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E377-%E9%9B%99%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-110445014.html",
+      "published": "Wed, 09 Sep 2026 11:04:45 GMT",
+      "summary": "NAND控制晶片大廠群聯電子9日公布8月營運成果，受惠AI基礎建設、AI推論與企業級儲存需求爆發，8月合併營收達新台幣282.76億元，月增4％、年增377％，刷新單月歷史新高；累計今年前8個月合併營",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 13,
+      "direction": "利多",
       "is_important": true,
       "matched_keywords": [
+        "年增",
+        "月增",
         "合併"
       ],
       "matched_stocks": [
-        "3037(ABF載板/PCB)",
-        "欣興(ABF載板/PCB)"
+        "群聯(記憶體)",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
       ]
     },
     {
-      "title": "英業達8月營收6436億元 創同期新高",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5567066",
-      "published": "Tue, 08 Sep 2026 16:10:39 +0800",
-      "summary": "英業達（2356）8月營收832.67億元，月減7.68%，年增35.83%，創同期新高，今年前8個月營收累計為6436.25億元、年增40.71%，寫同期新猷，管理層看...…",
+      "title": "緯創擴大布局！重金增資美國子公司約47.2億新台幣",
+      "link": "https://tw.news.yahoo.com/%E7%B7%AF%E5%89%B5%E6%93%B4%E5%A4%A7%E5%B8%83%E5%B1%80-%E9%87%8D%E9%87%91%E5%A2%9E%E8%B3%87%E7%BE%8E%E5%9C%8B%E5%AD%90%E5%85%AC%E5%8F%B8%E7%B4%8447-2%E5%84%84%E6%96%B0%E5%8F%B0%E5%B9%A3-115100382.html",
+      "published": "Wed, 09 Sep 2026 11:51:00 GMT",
+      "summary": "緯創（3231）於今（9）日傍晚5點29分突發重訊，宣布因應子公司業務發展及策略規劃需要，董事會決議以自有資金，對持股100%之美國子公司Wistron InfoComm (USA) Corporat",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 12,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "增資",
+        "重訊"
+      ],
+      "matched_stocks": [
+        "3231(AI伺服器組裝)",
+        "緯創(3231)‧今日熱門",
+        "緯創(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "美系外資狂喊台股直上54,000點！本土投顧全看傻「台積電目標價驚見3,100元」聯電、南電、南亞等也被捧高高",
+      "link": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%B3%BB%E5%A4%96%E8%B3%87%E7%8B%82%E5%96%8A%E5%8F%B0%E8%82%A1%E7%9B%B4%E4%B8%8A54-000%E9%BB%9E-%E6%9C%AC%E5%9C%9F%E6%8A%95%E9%A1%A7%E5%85%A8%E7%9C%8B%E5%82%BB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9B%AE%E6%A8%99%E5%83%B9%E9%A9%9A%E8%A6%8B3-100%E5%85%83-055023549.html",
+      "published": "Wed, 09 Sep 2026 05:50:23 GMT",
+      "summary": "台灣半導體與AI供應鏈迎來史詩級爆發！受惠於AI ASIC（客製化晶片）、2奈米先進製程以及先進封裝（CoWoS）等核心技術在2026年全面放量，加上各主流晶片與伺服器龍頭企業獲利呈爆發式成長，各大內",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 10,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門",
+        "南電(ABF載板/PCB)",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "群聯8月營收再創新高 年增377％",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5568461",
+      "published": "Wed, 09 Sep 2026 17:12:34 +0800",
+      "summary": "NAND控制晶片暨AI 應用儲存解決方案整合服務廠群聯（8299）公布8月合併營收達282.76億元，月增4%，年增377%，累計今年前8月合併營收1642.93億元，年...…",
       "source": "自由時報財經",
-      "score": 6,
+      "score": 10,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "年增",
+        "月增",
+        "合併"
+      ],
+      "matched_stocks": [
+        "8299(記憶體)",
+        "群聯(記憶體)"
+      ]
+    },
+    {
+      "title": "熱門ETF最愛誰？AI伺服器總覽 鴻海、緯創、廣達、技嘉、華碩、英業達誰居冠",
+      "link": "https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80etf%E6%9C%80%E6%84%9B%E8%AA%B0-ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%B8%BD%E8%A6%BD-%E9%B4%BB%E6%B5%B7-%E7%B7%AF%E5%89%B5-%E5%BB%A3%E9%81%94-060805810.html",
+      "published": "Wed, 09 Sep 2026 06:08:05 GMT",
+      "summary": "AI供應鏈備料引發高槓桿籌資潮。六大代工廠中，華碩ETF持股比最高（22.2%），廣達大戶集中度居冠（81.5%），技嘉大戶籌碼集中最快，緯創散戶退場最顯著。",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 9,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "廣達(AI伺服器組裝)",
+        "緯創(3231)‧今日熱門",
+        "緯創(AI伺服器組裝)",
+        "英業達(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "老AI股鴻海、廣達、緯創當心？專家揭3大變數夾擊「旺季不旺」",
+      "link": "https://tw.stock.yahoo.com/news/%E8%80%81ai%E8%82%A1%E9%B4%BB%E6%B5%B7-%E5%BB%A3%E9%81%94-%E7%B7%AF%E5%89%B5%E7%95%B6%E5%BF%83-%E5%B0%88%E5%AE%B6%E6%8F%AD3%E5%A4%A7%E8%AE%8A%E6%95%B8%E5%A4%BE%E6%93%8A-%E6%97%BA%E5%AD%A3%E4%B8%8D%E6%97%BA-082824148.html",
+      "published": "Wed, 09 Sep 2026 08:28:24 GMT",
+      "summary": "台股近日強勢攻上47K，但老AI概念股卻表現相對疲弱，外資更大舉提款，近兩日賣超緯創5.6萬張，以及賣超鴻海、廣達1.5萬張及1.3萬張，雖然輝達（Nvidia）最新VeraRubin新AI伺服器架構",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 7,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "廣達(AI伺服器組裝)",
+        "緯創(3231)‧今日熱門",
+        "緯創(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "〈電子五哥營收〉緯創8月營收4600億元續創單月新高 再砸逾2億美元投資美越伺服器產能",
+      "link": "https://tw.stock.yahoo.com/news/%E9%9B%BB%E5%AD%90%E4%BA%94%E5%93%A5%E7%87%9F%E6%94%B6-%E7%B7%AF%E5%89%B58%E6%9C%88%E7%87%9F%E6%94%B64600%E5%84%84%E5%85%83%E7%BA%8C%E5%89%B5%E5%96%AE%E6%9C%88%E6%96%B0%E9%AB%98-%E5%86%8D%E7%A0%B8%E9%80%BE2%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87%E7%BE%8E%E8%B6%8A%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%94%A2%E8%83%BD-111732562.html",
+      "published": "Wed, 09 Sep 2026 11:17:32 GMT",
+      "summary": "緯創今日公告8月營收4600.65億元，年月雙成長，年增超過1倍，續創歷史單月新高紀錄。另外，董事會也通過多項議案，其中，將合計投資約2.09億美元(約新台幣65.78億元)擴充美國及越南伺服器產能。",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 7,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "年增"
       ],
       "matched_stocks": [
-        "2356(AI伺服器組裝)",
-        "英業達(AI伺服器組裝)"
+        "緯創(3231)‧今日熱門",
+        "緯創(AI伺服器組裝)"
       ]
     },
     {
-      "title": "外資買超百億撐台股仍翻黑！川湖重挫逾9%　資金轉進金融、內需",
-      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85%E7%99%BE%E5%84%84%E6%92%90%E5%8F%B0%E8%82%A1%E4%BB%8D%E7%BF%BB%E9%BB%91-%E5%B7%9D%E6%B9%96%E9%87%8D%E6%8C%AB%E9%80%BE9-%E8%B3%87%E9%87%91%E8%BD%89%E9%80%B2%E9%87%91%E8%9E%8D-%E5%85%A7%E9%9C%80-103117669.html",
-      "published": "Tue, 08 Sep 2026 10:31:17 GMT",
-      "summary": "台股今（8）日加權指數終場收47105.78點，下跌220.49點，跌幅0.47%。成交金額9195.50億元，較前一交易日減少7.86%。大盤由電腦及週邊設備、電子零組件與通信網路類股領跌。居家生活",
+      "title": "緯創伺服器擴產再加速 德州、越南投資逾2億美元",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5568604",
+      "published": "Wed, 09 Sep 2026 18:19:21 +0800",
+      "summary": "緯創（3231）伺服器產能布局再擴大，董事會今日通過美國、越南新一波投資案，其中美國德州D2廠投入1.46億美元（約新台幣45.1億元），越南廠也將投入最高5905萬美元...…",
+      "source": "自由時報財經",
+      "score": 7,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "3231(AI伺服器組裝)",
+        "緯創(3231)‧今日熱門",
+        "緯創(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "外資買超台股209億連4買　敲進群創8.19萬張居冠",
+      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1209%E5%84%84%E9%80%A34%E8%B2%B7-%E6%95%B2%E9%80%B2%E7%BE%A4%E5%89%B58-19%E8%90%AC%E5%BC%B5%E5%B1%85%E5%86%A0-121311506.html",
+      "published": "Wed, 09 Sep 2026 12:13:11 GMT",
+      "summary": "（中央社記者何秀玲台北9日電）台股今天漲77.58點，收在47183.36點，成交值新台幣7735.06億元。三大法人合計買超220.81億元，其中外資買超209.24億元，為連4日買超，面板雙虎獲外",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 5,
+      "score": 6,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "外資買超"
       ],
       "matched_stocks": [
-        "川湖(AI伺服器組裝)"
+        "群創(3481)‧今日熱門"
       ]
     },
     {
-      "title": "台股跌220點仍有亮點！「這檔面板」狂湧62.2萬張奪成交王　聯電營收創近4年新高同受矚",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C220%E9%BB%9E%E4%BB%8D%E6%9C%89%E4%BA%AE%E9%BB%9E-%E9%80%99%E6%AA%94%E9%9D%A2%E6%9D%BF-%E7%8B%82%E6%B9%A762-2%E8%90%AC%E5%BC%B5%E5%A5%AA%E6%88%90%E4%BA%A4%E7%8E%8B-%E8%81%AF%E9%9B%BB%E7%87%9F%E6%94%B6%E5%89%B5%E8%BF%914%E5%B9%B4%E6%96%B0%E9%AB%98%E5%90%8C%E5%8F%97%E7%9F%9A-095000353.html",
-      "published": "Tue, 08 Sep 2026 09:50:00 GMT",
-      "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股今（8）日高檔震盪拉回，終場大跌220點，以47106點作收，跌幅0.47％，成交金額8766.62億元。觀察今日盤後成交量排行，...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 5,
+      "title": "台達電8月營收寫同期新猷 光寶科創單月新高",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5568563",
+      "published": "Wed, 09 Sep 2026 18:00:20 +0800",
+      "summary": "電源供應器大廠台達電（2308）受惠於輝達（NVIDIA）新平台的電力機櫃規格升級，加上大單在手加持，8月營收創下單月次高、同期新高；光寶科則在AI伺服器電源持續放大貢獻...…",
+      "source": "自由時報財經",
+      "score": 6,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "聯電(2303)‧今日熱門",
-        "聯電(晶圓代工)"
+        "2308(電源供應)",
+        "光寶科(電源供應)",
+        "台達電(電源供應)"
       ]
     },
     {
-      "title": "華邦電爆量漲4％！台股收跌220點 力守47000大關",
-      "link": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E7%88%86%E9%87%8F%E6%BC%B24-%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C220%E9%BB%9E-%E5%8A%9B%E5%AE%8847000%E5%A4%A7%E9%97%9C-062100282.html",
-      "published": "Tue, 08 Sep 2026 06:21:00 GMT",
-      "summary": "台股今（8）日開高走低，盤中雖一度來到47578點高點，但後續翻黑下跌近300點，終場收47105點，下跌220點，跌幅0.47%，成交量量縮來到8700億；惟記憶體族群較為強勢，華邦電創下近2個月新",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 5,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "華邦電(2344)‧今日熱門",
-        "華邦電(記憶體)"
-      ]
-    },
-    {
-      "title": "欣興：客戶預約未來5年產能　在台續拚ABF擴產",
-      "link": "https://tw.stock.yahoo.com/news/%E6%AC%A3%E8%88%88-%E5%AE%A2%E6%88%B6%E9%A0%90%E7%B4%84%E6%9C%AA%E4%BE%865%E5%B9%B4%E7%94%A2%E8%83%BD-%E5%9C%A8%E5%8F%B0%E7%BA%8C%E6%8B%9Aabf%E6%93%B4%E7%94%A2-114104844.html",
-      "published": "Tue, 08 Sep 2026 11:41:04 GMT",
-      "summary": "（中央社記者江明晏台北2026年09月8日電）欣興今天表示，客戶通常都一次預約未來5年產能，楊梅與光復廠未來幾年陸續量產，但在結構性成長及通常5年的長約拉動下，ABF供不應求狀況將持續。欣興今天公告，",
+      "title": "緯穎董事長洪麗寗回應畸零股爭議 強調優先照顧小股東權益",
+      "link": "https://tw.stock.yahoo.com/news/%E7%B7%AF%E7%A9%8E%E8%91%A3%E4%BA%8B%E9%95%B7%E6%B4%AA%E9%BA%97%E5%AF%97%E5%9B%9E%E6%87%89%E7%95%B8%E9%9B%B6%E8%82%A1%E7%88%AD%E8%AD%B0-%E5%BC%B7%E8%AA%BF%E5%84%AA%E5%85%88%E7%85%A7%E9%A1%A7%E5%B0%8F%E8%82%A1%E6%9D%B1%E6%AC%8A%E7%9B%8A-103721649.html",
+      "published": "Wed, 09 Sep 2026 10:37:21 GMT",
+      "summary": "緯穎近日除權交易引發畸零股爭議，昨(8)日晚間發布重訊公告補償方案，針對持股1至15股的小股東，每戶可按10元面額認購1股。對此，董事長洪麗寗今(9)日回應，強調公司優先照顧小股東權益，後續將依法規程",
       "source": "Yahoo奇摩股市-最新新聞",
       "score": 5,
-      "direction": "利多",
+      "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [
-        "供不應求"
+        "重訊"
       ],
       "matched_stocks": [
-        "欣興(ABF載板/PCB)"
+        "緯穎(AI伺服器組裝)"
       ]
     },
     {
-      "title": "華邦電3天飆11％！「這大金主」狂掃14.53萬張 57萬股東嗨翻",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5567188",
-      "published": "Tue, 08 Sep 2026 17:01:44 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週二（8日）在台積電、記憶體領軍，一度漲252點，然在AI、光電等賣單釋出，指數翻黑震盪555點，在三大法人賣超99.87億元，終場收跌220點，外資續挺台股買超132...…",
+      "title": "緯穎除權爆畸零股爭議 董座首度親上火線回應了",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5568439",
+      "published": "Wed, 09 Sep 2026 16:45:33 +0800",
+      "summary": "緯穎（6669）除權畸零股爭議持續延燒，公司昨日深夜宣布補救措施，針對持股1至15股股東，每戶提供以面額10元認購1股的機會。緯穎董事長洪麗寗今天首度回應表示，之所以將認...…",
       "source": "自由時報財經",
-      "score": 5,
+      "score": 4,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "華邦電(2344)‧今日熱門",
-        "華邦電(記憶體)"
+        "6669(AI伺服器組裝)",
+        "緯穎(AI伺服器組裝)"
       ]
     },
     {
-      "title": "只知道0050、台積電！投資小白手握閒錢短期資金苦惱 內行人建議：可以試看看正二",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%AA%E7%9F%A5%E9%81%930050-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%8A%95%E8%B3%87%E5%B0%8F%E7%99%BD%E6%89%8B%E6%8F%A1%E9%96%92%E9%8C%A2%E7%9F%AD%E6%9C%9F%E8%B3%87%E9%87%91%E8%8B%A6%E6%83%B1-%E5%85%A7%E8%A1%8C%E4%BA%BA%E5%BB%BA%E8%AD%B0-%E5%8F%AF%E4%BB%A5%E8%A9%A6%E7%9C%8B%E7%9C%8B%E6%AD%A3%E4%BA%8C-062500340.html",
-      "published": "Tue, 08 Sep 2026 06:25:00 GMT",
-      "summary": "[FTNN新聞網]實習記者鄭巧薰／綜合報導不少投資新手在開始理財時，除了關注長期投資，也會遇到手上多一筆閒錢，不知道該如何配置的情況。近日，一名網友在Dca...",
+      "title": "8月定期定額大洗牌 台積電消風！資金大舉轉進金融股與權值防禦標的",
+      "link": "https://tw.news.yahoo.com/8%E6%9C%88%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E5%A4%A7%E6%B4%97%E7%89%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B6%88%E9%A2%A8-%E8%B3%87%E9%87%91%E5%A4%A7%E8%88%89%E8%BD%89%E9%80%B2%E9%87%91%E8%9E%8D%E8%82%A1%E8%88%87%E6%AC%8A%E5%80%BC%E9%98%B2%E7%A6%A6%E6%A8%99%E7%9A%84-074718942.html",
+      "published": "Wed, 09 Sep 2026 07:47:18 GMT",
+      "summary": "臺灣證券交易所公布8月定期定額交易戶數統計，個股市場在經歷前期的波段高點後，投資人的定期定額策略出現了明顯的結構性調整。本月個股前三名依舊由權值與金融巨頭把持，依序為台積電（2330）、玉山金（288",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
+        "玉山金(2884)‧今日熱門"
       ]
     }
   ]

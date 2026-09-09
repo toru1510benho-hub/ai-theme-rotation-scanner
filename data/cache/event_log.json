@@ -187,5 +187,75 @@
     "announce_date": "2026-09-07",
     "subject": "公告本公司115年度現金增資發行普通股參與發行海外存託\r\n憑證之發行條件",
     "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-09-08",
+    "subject": "公告本公司董事會決議授權董事長購置不動產相關事宜",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-09-08",
+    "subject": "公告本公司115年8月自結合併營收",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-09-08",
+    "subject": "本公司受邀參加由合作金庫證券舉辦之投資人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "3017",
+    "name": "奇鋐",
+    "announce_date": "2026-09-08",
+    "subject": "代子公司-AVC TECH. (VIETNAM) CO., LTD.公告租地委建第五期廠房土建工程",
+    "is_conference": false
+  },
+  {
+    "code": "3017",
+    "name": "奇鋐",
+    "announce_date": "2026-09-08",
+    "subject": "代子公司-AVC TECH. (VIETNAM) CO., LTD.公告租地委建第五期廠房機電工程",
+    "is_conference": false
+  },
+  {
+    "code": "6442",
+    "name": "光聖",
+    "announce_date": "2026-09-08",
+    "subject": "本公司受邀參加凱基證券2026年第三季投資論壇",
+    "is_conference": true
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-08",
+    "subject": "[更新]代子公司翔譽科技股份有限公司(簡稱翔譽科技)及\r\n經緯航太科技股份有限公司(簡稱經緯航太)公告合併基準日",
+    "is_conference": false
+  },
+  {
+    "code": "2059",
+    "name": "川湖",
+    "announce_date": "2026-09-08",
+    "subject": "澄清經濟日報A03版報導",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-08",
+    "subject": "本公司代子公司Delta Electronics (USA) Inc.公告取得不動產使用權資產",
+    "is_conference": false
+  },
+  {
+    "code": "6669",
+    "name": "緯穎",
+    "announce_date": "2026-09-08",
+    "subject": "有關本公司115年除權畸零股洽特定人認購事宜說明",
+    "is_conference": false
   }
 ]
