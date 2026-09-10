@@ -2204,5 +2204,123 @@
       "foreign_net": -57990387,
       "trust_net": -420196
     }
+  },
+  "2026-09-10": {
+    "6770": {
+      "foreign_net": 28000856,
+      "trust_net": -21000
+    },
+    "2303": {
+      "foreign_net": -10293057,
+      "trust_net": 12517806
+    },
+    "3006": {
+      "foreign_net": 764053,
+      "trust_net": 25000
+    },
+    "4977": {
+      "foreign_net": 445775,
+      "trust_net": 0
+    },
+    "6442": {
+      "foreign_net": 92857,
+      "trust_net": 164000
+    },
+    "3017": {
+      "foreign_net": 279081,
+      "trust_net": 9000
+    },
+    "3008": {
+      "foreign_net": 19616,
+      "trust_net": 125000
+    },
+    "3653": {
+      "foreign_net": -19306,
+      "trust_net": 119000
+    },
+    "2059": {
+      "foreign_net": 14498,
+      "trust_net": -26005
+    },
+    "2486": {
+      "foreign_net": 261100,
+      "trust_net": -400000
+    },
+    "2375": {
+      "foreign_net": -188295,
+      "trust_net": 0
+    },
+    "6213": {
+      "foreign_net": -388917,
+      "trust_net": 7000
+    },
+    "6669": {
+      "foreign_net": -486894,
+      "trust_net": 25964
+    },
+    "3037": {
+      "foreign_net": -806160,
+      "trust_net": 182000
+    },
+    "4967": {
+      "foreign_net": -768778,
+      "trust_net": 0
+    },
+    "3450": {
+      "foreign_net": -457922,
+      "trust_net": -552000
+    },
+    "8046": {
+      "foreign_net": -851823,
+      "trust_net": 7000
+    },
+    "2368": {
+      "foreign_net": -638250,
+      "trust_net": -144441
+    },
+    "3026": {
+      "foreign_net": -1495974,
+      "trust_net": 8000
+    },
+    "2327": {
+      "foreign_net": -1948021,
+      "trust_net": -216099
+    },
+    "2492": {
+      "foreign_net": -1885487,
+      "trust_net": -9000
+    },
+    "2301": {
+      "foreign_net": -711240,
+      "trust_net": -929193
+    },
+    "2408": {
+      "foreign_net": -2510088,
+      "trust_net": -323116
+    },
+    "2382": {
+      "foreign_net": -1507712,
+      "trust_net": -1077338
+    },
+    "2337": {
+      "foreign_net": -4327455,
+      "trust_net": -1173000
+    },
+    "2344": {
+      "foreign_net": -5588552,
+      "trust_net": -708059
+    },
+    "2356": {
+      "foreign_net": -7101355,
+      "trust_net": -72115
+    },
+    "2308": {
+      "foreign_net": -8707912,
+      "trust_net": -1663079
+    },
+    "3231": {
+      "foreign_net": -33754076,
+      "trust_net": 777463
+    }
   }
 }

@@ -257,5 +257,82 @@
     "announce_date": "2026-09-08",
     "subject": "有關本公司115年除權畸零股洽特定人認購事宜說明",
     "is_conference": false
+  },
+  {
+    "code": "6669",
+    "name": "緯穎",
+    "announce_date": "2026-09-09",
+    "subject": "本公司受邀參加UBS Securities舉辦之UBS Taiwan Summit 2026",
+    "is_conference": true
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-09",
+    "subject": "發布本公司115年08月份業績資料",
+    "is_conference": false
+  },
+  {
+    "code": "4977",
+    "name": "眾達-KY",
+    "announce_date": "2026-09-09",
+    "subject": "代重要子公司公告新增資金貸與金額達「公開發行公司資金貸\r\n與及背書保證處理準則」第二十二條第一項第三款之公告標準。",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-09",
+    "subject": "公告本公司董事會通過股務作業委外辦理",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-09",
+    "subject": "董事會決議對子公司Wistron InfoComm (USA) Corporation (簡稱WUS)增資",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-09",
+    "subject": "董事會決議註銷收回限制員工權利新股之減資基準日",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-09-09",
+    "subject": "公告本公司處分補丁科技股份有限公司普通股\r\n(補充115年8月5日董事會決議公告)",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-09-09",
+    "subject": "公告本公司取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-09",
+    "subject": "代子公司Wistron InfoComm (USA) Corporation(簡稱WUS)\r\n公告進行建築物改良及取得設備",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-09",
+    "subject": "代子公司Wistron InfoComm (Vietnam) Co., Ltd(簡稱WVN)\r\n公告進行建築物改良及取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-09",
+    "subject": "代子公司SMS Infocomm Corporation(簡稱WTX)\r\n公告取得不動產使用權資產",
+    "is_conference": false
   }
 ]
