@@ -334,5 +334,33 @@
     "announce_date": "2026-09-09",
     "subject": "代子公司SMS Infocomm Corporation(簡稱WTX)\r\n公告取得不動產使用權資產",
     "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-10",
+    "subject": "依臺灣證券交易所指示澄清媒體報導",
+    "is_conference": false
+  },
+  {
+    "code": "2356",
+    "name": "英業達",
+    "announce_date": "2026-09-10",
+    "subject": "公告本公司參與投資人說明會(線上)",
+    "is_conference": true
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-09-10",
+    "subject": "公告本公司國內第二次有擔保轉換公司債完成訂價",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-09-10",
+    "subject": "公告本公司限制員工權利新股增資基準日",
+    "is_conference": false
   }
 ]
