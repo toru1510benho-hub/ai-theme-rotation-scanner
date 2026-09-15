@@ -362,5 +362,40 @@
     "announce_date": "2026-09-10",
     "subject": "公告本公司限制員工權利新股增資基準日",
     "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-09-14",
+    "subject": "本公司受邀參加UBS Taiwan Summit 2026",
+    "is_conference": true
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-09-14",
+    "subject": "本公司受邀參加UBS舉辦之UBS Taiwan Summit 2026",
+    "is_conference": true
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-09-14",
+    "subject": "本公司受邀參加永豐證券舉辦之2026 Q3 產業投資論壇",
+    "is_conference": true
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-09-14",
+    "subject": "公告本公司取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-14",
+    "subject": "本公司受邀參加法人說明會之相關資訊",
+    "is_conference": true
   }
 ]
