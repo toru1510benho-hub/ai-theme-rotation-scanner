@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-09-15T12:48:17.477633",
+  "generated_at": "2026-09-16T12:44:01.721893",
   "upcoming_fomc": [
     {
       "date": "2026-09-16",
-      "days_until": 1
+      "days_until": 0
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-09-15",
+      "subject": "代子公司DEISG公告董事會決議發行以所持有之Delta\r\nElectronics (Thailand) Public Company Limited股份作為交換\r\n標的之海外可交換公司債（下稱「本次可交換債」）",
+      "is_conference": false
+    },
+    {
+      "code": "3026",
+      "name": "禾伸堂",
+      "announce_date": "2026-09-15",
+      "subject": "本公司取得營業用機器設備",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-09-15",
+      "subject": "公告本公司取得廠務設備",
+      "is_conference": false
+    },
     {
       "code": "2408",
       "name": "南亞科",
@@ -250,160 +271,6 @@
       "name": "緯創",
       "announce_date": "2026-09-07",
       "subject": "公告本公司115年度現金增資發行普通股參與發行海外存託\r\n憑證之發行條件",
-      "is_conference": false
-    },
-    {
-      "code": "2301",
-      "name": "光寶科",
-      "announce_date": "2026-09-01",
-      "subject": "公告本公司法人董事改派代表人",
-      "is_conference": false
-    },
-    {
-      "code": "2382",
-      "name": "廣達",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加大和國泰證券所舉辦之投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "2382",
-      "name": "廣達",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加兆豐證券所舉辦之投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "2382",
-      "name": "廣達",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加UBS證券所舉辦之投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "2382",
-      "name": "廣達",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加CITIC CLSA證券所舉辦之投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-01",
-      "subject": "代子公司UNIMICRON (THAILAND) CO., LTD.公告\r\n取得廠務工程之相關資料",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加統一證券舉辦之2026Q3投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加宏遠證券舉辦之2026年趨勢產業論壇",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加Citi舉辦之Citi 2026 Semicon Tour",
-      "is_conference": false
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加中信證券舉辦之2026年第三季前瞻論壇",
-      "is_conference": false
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "announce_date": "2026-09-01",
-      "subject": "本公司受邀參加統一證券舉辦之2026Q3全球展望秋季投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "3450",
-      "name": "聯鈞",
-      "announce_date": "2026-09-01",
-      "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解",
-      "is_conference": false
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "announce_date": "2026-09-01",
-      "subject": "代重要子公司Ever Smart International Co., Ltd\r\n公告董事會決議盈餘分配案",
-      "is_conference": false
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "announce_date": "2026-09-01",
-      "subject": "代重要子公司ITEQ Holding Ltd.公告董事會決議盈餘分配案",
-      "is_conference": false
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "announce_date": "2026-09-01",
-      "subject": "代重要子公司ITEQ International Ltd.公告董事會決議\r\n盈餘分配案",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-09-01",
-      "subject": "受邀參加Citi Semicon Tour法人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-09-01",
-      "subject": "受邀參加第三季凱基投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-09-01",
-      "subject": "受邀參加永豐金證券 2026 Q3產業投資論壇",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-09-01",
-      "subject": "受邀參加BofA Securities 2026 Asia Pacific Conference及CLSA 33rd Investors' Forum 2026",
-      "is_conference": true
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "announce_date": "2026-09-01",
-      "subject": "公告本公司法人董事改派代表人",
-      "is_conference": false
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "announce_date": "2026-09-01",
-      "subject": "代子公司誠風投資（股）公司公告取得有價證券",
-      "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-09-01",
-      "subject": "公告本公司取得廠務設備",
       "is_conference": false
     }
   ],

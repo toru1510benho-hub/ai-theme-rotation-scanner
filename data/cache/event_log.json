@@ -397,5 +397,26 @@
     "announce_date": "2026-09-14",
     "subject": "本公司受邀參加法人說明會之相關資訊",
     "is_conference": true
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-15",
+    "subject": "代子公司DEISG公告董事會決議發行以所持有之Delta\r\nElectronics (Thailand) Public Company Limited股份作為交換\r\n標的之海外可交換公司債（下稱「本次可交換債」）",
+    "is_conference": false
+  },
+  {
+    "code": "3026",
+    "name": "禾伸堂",
+    "announce_date": "2026-09-15",
+    "subject": "本公司取得營業用機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-09-15",
+    "subject": "公告本公司取得廠務設備",
+    "is_conference": false
   }
 ]
