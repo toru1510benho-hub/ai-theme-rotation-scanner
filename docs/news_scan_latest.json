@@ -1,48 +1,46 @@
 {
-  "generated_at": "2026-09-17T12:42:56.759347",
+  "generated_at": "2026-09-18T12:20:17.640481",
   "total_news_scanned": 140,
-  "relevant_count": 11,
+  "relevant_count": 14,
   "news": [
     {
-      "title": "華邦電砸357億併購！法人「超狂目標價」潛在獲利高達41%",
-      "link": "https://tw.news.yahoo.com/%E8%8F%AF%E9%82%A6%E9%9B%BB%E7%A0%B8357%E5%84%84%E4%BD%B5%E8%B3%BC-%E6%B3%95%E4%BA%BA-%E8%B6%85%E7%8B%82%E7%9B%AE%E6%A8%99%E5%83%B9-%E6%BD%9B%E5%9C%A8%E7%8D%B2%E5%88%A9%E9%AB%98%E9%81%9441-120713308.html",
-      "published": "Thu, 17 Sep 2026 12:07:13 GMT",
-      "summary": "記憶體大廠華邦電子宣布以11.2億美元（約新台幣357億元）收購德國半導體巨頭英飛凌（Infineon）旗下的NOR Flash與F-RAM業務，預計2027年下半年完成交易，車用NOR Flash市",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 8,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [
-        "併購"
-      ],
-      "matched_stocks": [
-        "華邦電(2344)‧今日熱門",
-        "華邦電(記憶體)"
-      ]
-    },
-    {
-      "title": "台達電代子公司中達電子公告！購買約新台幣3.37億元設備",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E9%81%94%E9%9B%BB%E4%BB%A3%E5%AD%90%E5%85%AC%E5%8F%B8%E4%B8%AD%E9%81%94%E9%9B%BB%E5%AD%90%E5%85%AC%E5%91%8A-%E8%B3%BC%E8%B2%B7%E7%B4%84%E6%96%B0%E5%8F%B0%E5%B9%A33-37%E5%84%84%E5%85%83%E8%A8%AD%E5%82%99-122907886.html",
-      "published": "Thu, 17 Sep 2026 12:29:07 GMT",
-      "summary": "台達電（2308）今（17）日晚間6點20分突發重訊，代子公司中達電子(江蘇)有限公司公告，向關係人台達企管以議價取得約人民幣7080萬元（約新台幣3.37億元）營業用機器設備。",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [
-        "重訊"
-      ],
-      "matched_stocks": [
-        "2308(電源供應)",
-        "台達電(電源供應)"
-      ]
-    },
-    {
-      "title": "美光、聯發科、聯詠都來了！台灣「1.6萬人花海小鎮」命運大翻轉",
-      "link": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89-%E8%81%AF%E7%99%BC%E7%A7%91-%E8%81%AF%E8%A9%A0%E9%83%BD%E4%BE%86%E4%BA%86-%E5%8F%B0%E7%81%A3-1-094103189.html",
-      "published": "Thu, 17 Sep 2026 09:41:03 GMT",
-      "summary": "苗栗銅鑼作為台灣代表性的杭菊與油桐花之鄉，近年迎來重大產業轉型。隨著美光接手力積電廠房，加上聯發科與聯詠相繼在此建置資料中心，多家科技大廠陸續進駐。財信傳媒董事長謝金河指出，這個僅約1.6萬人的小鄉鎮",
+      "title": "年化配息率飆14%！00404A「擁聯發科、台光電、聯電」拚3天填息　2.7萬股民這天領錢",
+      "link": "https://tw.stock.yahoo.com/news/%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%A3%8614-00404a-%E6%93%81%E8%81%AF%E7%99%BC%E7%A7%91-%E5%8F%B0%E5%85%89%E9%9B%BB-%E8%81%AF%E9%9B%BB-054000564.html",
+      "published": "Fri, 18 Sep 2026 05:40:00 GMT",
+      "summary": "[FTNN新聞網]記者薛明峻／台北報導採季配息、股民超過2.7萬人的主動式ETF主動聯博動能50（00404A），於周三（16日）除息0.36元，市價前一日收在9.72元，除息...",
       "source": "Yahoo奇摩股市-台股動態",
+      "score": 7,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "配息"
+      ],
+      "matched_stocks": [
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "外資認錯狂掃870億！台積聯電雙雄抬轎 台股4萬7與兆元行情一起回來｜Yahoo財經掃描",
+      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%AA%8D%E9%8C%AF%E7%8B%82%E6%8E%83870%E5%84%84%EF%BC%81%E5%8F%B0%E7%A9%8D%E8%81%AF%E9%9B%BB%E9%9B%99%E9%9B%84%E6%8A%AC%E8%BD%8E-%E5%8F%B0%E8%82%A14%E8%90%AC7%E8%88%87%E5%85%86%E5%85%83%E8%A1%8C%E6%83%85%E4%B8%80%E8%B5%B7%E5%9B%9E%E4%BE%86%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-091211786.html",
+      "published": "Fri, 18 Sep 2026 09:12:11 GMT",
+      "summary": "電子權值股點火，台股重返4萬7！今(18)日加權指數開高走高，終場大漲892.75點、漲幅1.93%，收在全日最高47,180.75點，周線收紅、上漲約995點，成交金額放大至1兆778.23億元。電",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "力積電3天漲逾1成！「這群大金主」狂買8.63萬張 66萬股東爽翻",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5578465",
+      "published": "Fri, 18 Sep 2026 16:50:04 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週五在晶圓雙雄、記憶體領軍狂衝下，指數開高走高，在三大法人買超1165.87億元下，終場大漲892點，收47180點，而擁有逾66萬股東的力積電則成為大贏家，在三大法人...…",
+      "source": "自由時報財經",
       "score": 5,
       "direction": "中性關注",
       "is_important": true,
@@ -53,25 +51,10 @@
       ]
     },
     {
-      "title": "瑤池金母出手了！單日大砍緯穎158張 這檔大買1600張",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5577586",
-      "published": "Thu, 17 Sep 2026 20:06:41 +0800",
-      "summary": "被市場比喻為「瑤池金母」的統一台股增長主動式ETF證券投資信託基金（00981A）經理人陳釧瑤，今日有所進出。根據該檔ETF操作日報，今日調節緯穎158張，權重變動下降至...…",
-      "source": "自由時報財經",
-      "score": 5,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門",
-        "緯穎(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "聯電只排第2！投信狂掃這檔2.33萬張、股價飆逾5％  27萬股東笑了",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5577259",
-      "published": "Thu, 17 Sep 2026 16:04:34 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週四（17日）在電子與傳產領漲下，指數一度漲逾千點，然在CCL、矽晶圓跳水下，指數漲勢收斂，終場在晶圓雙雄領1242家同樂，指數漲439點，收復4萬6，而投信則續買超7...…",
+      "title": "近百萬股東嗨翻！聯電連3紅狂飆12.6％ 「這群人」爆買4.25萬張",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5578452",
+      "published": "Fri, 18 Sep 2026 16:33:42 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週五在晶圓雙雄、記憶體領軍狂衝下，指數開高走高，在三大法人買超1165.87億元下，終場大漲892點，收47180點，而擁有近百萬股東的聯電則成為大贏家，在三大法人連3...…",
       "source": "自由時報財經",
       "score": 5,
       "direction": "中性關注",
@@ -83,11 +66,11 @@
       ]
     },
     {
-      "title": "台達電午後賣壓出籠 股價再次跌破1700元 股民哀號：都快沒耐心了",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5577265",
-      "published": "Thu, 17 Sep 2026 16:12:51 +0800",
-      "summary": "〔財經頻道／綜合報導〕電源供應器大廠台達電（2308）今（17日）股價震盪走低，開盤上漲20元，以1730元開出，盤中一度上漲至1745元。不過，午盤過後賣壓湧現，股價翻黑並一路走弱，終場收在今...…",
-      "source": "自由時報財經",
+      "title": "台股強彈892點攻回47K！三大法人回歸  外資狂買近870億、期貨同步減空",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%BC%B7%E5%BD%88892%E9%BB%9E%E6%94%BB%E5%9B%9E47k-%E5%A4%96%E8%B3%87%E7%8B%82%E8%B2%B7%E8%BF%91870%E5%84%84-%E6%9C%9F%E8%B2%A8%E5%90%8C%E6%AD%A5%E6%B8%9B%E7%A9%BA-071456330.html",
+      "published": "Fri, 18 Sep 2026 07:44:09 GMT",
+      "summary": "[Newtalk新聞] 美國科技股回神，聯準會（Fed）升息利空也逐步消化，台股今（18）日多頭火力全開，在台積電（2330）、聯發科（2454）、台達電（2308）等電子權值股領軍下，指數開高走高，",
+      "source": "Yahoo奇摩股市-台股動態",
       "score": 4,
       "direction": "中性關注",
       "is_important": true,
@@ -98,11 +81,68 @@
       ]
     },
     {
-      "title": "外資終止連5賣轉買121億元　買超友達5.3萬張居冠",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%B5%82%E6%AD%A2%E9%80%A35%E8%B3%A3%E8%BD%89%E8%B2%B7121%E5%84%84%E5%85%83-%E8%B2%B7%E8%B6%85%E5%8F%8B%E9%81%945-3%E8%90%AC%E5%BC%B5%E5%B1%85%E5%86%A0-120830754.html",
-      "published": "Thu, 17 Sep 2026 12:08:30 GMT",
-      "summary": "（中央社記者何秀玲台北2026年09月17日電）台股今天上漲439.1點，收46288點，成交值新台幣8194.05億元。三大法人同步買超，合計買超214.77億元，其中外資終止連5日賣超，轉為買超1",
+      "title": "點破中國怪象 林憲銘：企業賠錢卻有辦法開出賺錢財報",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5578416",
+      "published": "Fri, 18 Sep 2026 16:22:13 +0800",
+      "summary": "緯創（3231）董事長林憲銘今天表示，台灣企業常年面對來自中國企業的不公平競爭，在對方抄襲之下，讓合法合規做生意的台灣業者處於弱勢地位，「他們明明是賠錢，可是就是有辦法財...…",
+      "source": "自由時報財經",
+      "score": 4,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "3231(AI伺服器組裝)",
+        "緯創(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "台股衝回47K！中小型股飆風四起 光鼎周漲52%奪冠、這些黑馬也狂奔",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%A1%9D%E5%9B%9E47k-%E4%B8%AD%E5%B0%8F%E5%9E%8B%E8%82%A1%E9%A3%86%E9%A2%A8%E5%9B%9B%E8%B5%B7-%E5%85%89%E9%BC%8E%E5%91%A8%E6%BC%B252-%E5%A5%AA%E5%86%A0-%E9%80%99%E4%BA%9B%E9%BB%91%E9%A6%AC%E4%B9%9F%E7%8B%82%E5%A5%94-093206482.html",
+      "published": "Fri, 18 Sep 2026 09:32:06 GMT",
+      "summary": "台股集中市場指數18日大漲892.75點、收47,180.75點，漲幅1.93%，成交值同步放大至1.07兆元；累計本周上漲995.9點、漲幅2.16%，周線由黑翻紅。值得注意的是，盤面強勢股不只集中",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "光鼎(6226)‧今日熱門"
+      ]
+    },
+    {
+      "title": "【公告】玉山金控代子公司玉山銀行公告購置不動產",
+      "link": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%8E%89%E5%B1%B1%E9%87%91%E6%8E%A7%E4%BB%A3%E5%AD%90%E5%85%AC%E5%8F%B8%E7%8E%89%E5%B1%B1%E9%8A%80%E8%A1%8C%E5%85%AC%E5%91%8A%E8%B3%BC%E7%BD%AE%E4%B8%8D%E5%8B%95%E7%94%A2-105756155.html",
+      "published": "Fri, 18 Sep 2026 10:57:56 GMT",
+      "summary": "日 期：2026年09月18日公司名稱：玉山金(2884)主 旨：玉山金控代子公司玉山銀行公告購置不動產發言人：林俊佑說 明：1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:土地：台中市",
       "source": "Yahoo奇摩股市-最新新聞",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "玉山金(2884)‧今日熱門"
+      ]
+    },
+    {
+      "title": "玉山金 玉山金控代子公司玉山銀行公告購置不動產",
+      "link": "https://tw.stock.yahoo.com/news/%E7%8E%89%E5%B1%B1%E9%87%91-%E7%8E%89%E5%B1%B1%E9%87%91%E6%8E%A7%E4%BB%A3%E5%AD%90%E5%85%AC%E5%8F%B8%E7%8E%89%E5%B1%B1%E9%8A%80%E8%A1%8C%E5%85%AC%E5%91%8A%E8%B3%BC%E7%BD%AE%E4%B8%8D%E5%8B%95%E7%94%A2-104300444.html",
+      "published": "Fri, 18 Sep 2026 10:43:00 GMT",
+      "summary": "公開資訊觀測站重大訊息公告(2884)玉山金-玉山金控代子公司玉山銀行公告購置不動產1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:土地：台中市西屯區民安段941地號之持分。建物：台中市",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "玉山金(2884)‧今日熱門"
+      ]
+    },
+    {
+      "title": "富采執行永動機策略 半年買進友達7.3萬張",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5578525",
+      "published": "Fri, 18 Sep 2026 17:42:47 +0800",
+      "summary": "富采（3714）持續加深與面板大廠友達（2409）策略結盟，執行「永動機策略」，旗下富采光電自今年3月9日至9月18日，依市場價格取得友達普通股共7312.8萬股（7萬3...…",
+      "source": "自由時報財經",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
@@ -112,24 +152,38 @@
       ]
     },
     {
-      "title": "中石化董座葛樹人上任挑戰首推資金缺口 力拚轉型與資產活化",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5577200",
-      "published": "Thu, 17 Sep 2026 15:37:11 +0800",
-      "summary": "中石化（1314）新任董座葛樹人今年6月就任，至今屆滿3個多月，他指出，就任以來最大挑戰就是「資金缺口」，親自拜訪各銀行董總座，以坦誠的態度希望銀行能協助中石化度過現階段...…",
+      "title": "外資狂買869億創史上第5大！竟反手瘋砍這檔逾5萬張 61萬股東傻眼",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5578497",
+      "published": "Fri, 18 Sep 2026 17:05:24 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週五在晶圓雙雄、記憶體領軍狂衝下，指數開高走高，終場大漲892點，收47180點，雖外資出手買超869.94億元，創史上第5大，卻對擁有逾61萬股東的友達大開殺戒，一出...…",
       "source": "自由時報財經",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "中石化(1314)‧今日熱門"
+        "友達(2409)‧今日熱門"
       ]
     },
     {
-      "title": "樂天證券12月開通台股直接交易，台積電、聯發科入列，日圓可直接下單",
-      "link": "https://tw.news.yahoo.com/%E6%A8%82%E5%A4%A9%E8%AD%89%E5%88%B812%E6%9C%88%E9%96%8B%E9%80%9A%E5%8F%B0%E8%82%A1%E7%9B%B4%E6%8E%A5%E4%BA%A4%E6%98%93-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E7%99%BC%E7%A7%91%E5%85%A5%E5%88%97-%E6%97%A5%E5%9C%93%E5%8F%AF%E7%9B%B4%E6%8E%A5%E4%B8%8B%E5%96%AE-111859326.html",
-      "published": "Thu, 17 Sep 2026 11:18:59 GMT",
-      "summary": "日本大型網路券商樂天證券（楽天証券）宣布，預計從2026年12月開始提供台灣股票直接交易服務，首波將開放約50檔台灣上市股票，包括台積電、聯發科、台達電等大型企業。日本投資人可以直接透過樂天證券帳戶，",
+      "title": "台股量能放大重返4萬7，聯發科、大立光後市動向受矚",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8F%E8%83%BD%E6%94%BE%E5%A4%A7%E9%87%8D%E8%BF%944%E8%90%AC7-%E8%81%AF%E7%99%BC%E7%A7%91-%E5%A4%A7%E7%AB%8B%E5%85%89%E5%BE%8C%E5%B8%82%E5%8B%95%E5%90%91%E5%8F%97%E7%9F%9A-064212238.html",
+      "published": "Fri, 18 Sep 2026 06:42:12 GMT",
+      "summary": "【財訊快報／黃啟乙】台股大盤週五成交量持續放大，並突破1兆元大關，加權指數也重新站上4萬7千點之上。若後續市場動能能夠進一步增溫，將有助於多頭力量延續，台股也可望再尋求向上突破。 其中，聯發科(245",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 2,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "大立光(CPO/矽光子)"
+      ]
+    },
+    {
+      "title": "台股收盤狂飆892點站上47K 三大權值股噴發 記憶體大漲",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E7%8B%82%E9%A3%86892%E9%BB%9E%E7%AB%99%E4%B8%8A47k-%E4%B8%89%E5%A4%A7%E6%AC%8A%E5%80%BC%E8%82%A1%E5%99%B4%E7%99%BC-%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E6%BC%B2-054306934.html",
+      "published": "Fri, 18 Sep 2026 05:43:06 GMT",
+      "summary": "升息不確定因素解除，台股今（18日）開高走高，熱錢重返權值股，終場大漲點收在點，權值股台積電漲35元收在2460元，聯發科勁揚210元收在4710元漲幅逾4%，台達電漲50元收在1735元，鴻海收平盤",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
@@ -140,31 +194,17 @@
       ]
     },
     {
-      "title": "《台股盤後》量增收漲439點、重返46K，收復月線",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%87%8F%E5%A2%9E%E6%94%B6%E6%BC%B2439%E9%BB%9E-%E9%87%8D%E8%BF%9446k-%E6%94%B6%E5%BE%A9%E6%9C%88%E7%B7%9A-075700748.html",
-      "published": "Thu, 17 Sep 2026 07:57:00 GMT",
-      "summary": "MoneyDJ新聞 2026-09-17 15:57:38 新聞中心 發佈在美國聯準會(Fed)如預期升息一碼、費城半導體指數收紅激勵下，台股今(17)日開高走揚，盤面由台積電、鴻海、日月光投控、廣達",
-      "source": "Yahoo奇摩股市-台股動態",
+      "title": "緯創AI訂單旺　林憲銘提醒居安思危：想好煞車怎麼踩",
+      "link": "https://tw.stock.yahoo.com/news/%E7%B7%AF%E5%89%B5ai%E8%A8%82%E5%96%AE%E6%97%BA-%E6%9E%97%E6%86%B2%E9%8A%98%E6%8F%90%E9%86%92%E5%B1%85%E5%AE%89%E6%80%9D%E5%8D%B1-%E6%83%B3%E5%A5%BD%E7%85%9E%E8%BB%8A%E6%80%8E%E9%BA%BC%E8%B8%A9-112909891.html",
+      "published": "Fri, 18 Sep 2026 11:29:09 GMT",
+      "summary": "（中央社記者吳家豪台北2026年09月18日電）代工廠緯創近年積極卡位人工智慧（AI）伺服器商機，董事長林憲銘今天表示，目前AI相關訂單維持高檔，但企業擴充時必須居安思危，要想好衝刺到什麼地步、碰到困",
+      "source": "Yahoo奇摩股市-最新新聞",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "廣達(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "台股漲439點！成交量增至8100億 台塑四寶「這檔」噴7%",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2439%E9%BB%9E-%E6%88%90%E4%BA%A4%E9%87%8F%E5%A2%9E%E8%87%B38100%E5%84%84-%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6-%E9%80%99%E6%AA%94-%E5%99%B47-060400175.html",
-      "published": "Thu, 17 Sep 2026 06:04:00 GMT",
-      "summary": "台股今（17）日開高震盪，早盤一度大漲逾900點，重新站回46000點關卡，不過後續賣壓湧現，聯發科、台達電翻黑下跌逾1%，PCB族群也受「CCL鬼故事」影響重挫，指數終場來到46288點，上漲439",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台達電(電源供應)"
+        "緯創(AI伺服器組裝)"
       ]
     }
   ]

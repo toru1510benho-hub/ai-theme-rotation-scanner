@@ -467,5 +467,68 @@
     "announce_date": "2026-09-16",
     "subject": "本公司擬以直接或間接方式取得Infineon Technologies LLC旗下\r\nNOR Flash與F-RAM事業經重組後之100%股權",
     "is_conference": false
+  },
+  {
+    "code": "3008",
+    "name": "大立光",
+    "announce_date": "2026-09-17",
+    "subject": "公告本公司受邀參加CITIC CLSA證券舉辦之法人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-09-17",
+    "subject": "(更正115/08/25公告)代子公司誠風投資（股）公司公告取得有價證券",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-09-17",
+    "subject": "(更正115/09/01公告)代子公司誠風投資（股）公司公告取得有價證券",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-09-17",
+    "subject": "(更正115/09/04公告)代子公司誠風投資（股）公司公告取得有價證券",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-09-17",
+    "subject": "(更正115/09/07公告)代子公司誠風投資（股）公司公告取得有價證券",
+    "is_conference": false
+  },
+  {
+    "code": "3008",
+    "name": "大立光",
+    "announce_date": "2026-09-17",
+    "subject": "公告本公司取得不動產相關訊息",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-09-17",
+    "subject": "本公司取得機器設備之相關資料",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-17",
+    "subject": "本公司代子公司中達電子(江蘇)有限公司公告向關係人取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "2344",
+    "name": "華邦電",
+    "announce_date": "2026-09-17",
+    "subject": "本公司取得有價證券",
+    "is_conference": false
   }
 ]
