@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-21T14:26:50.103225",
+  "generated_at": "2026-09-22T12:46:17.614902",
   "upcoming_fomc": [],
   "recent_company_events_14d": [
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-09-21",
+      "subject": "澄清工商時報115年9月19日報導",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-09-21",
+      "subject": "(補充公告)本公司代子公司DET公告決議重建泰國BP1廠及BP1-P樓",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-09-21",
+      "subject": "公告本公司取得廠務設備",
+      "is_conference": false
+    },
     {
       "code": "3008",
       "name": "大立光",
@@ -343,41 +364,6 @@
       "name": "緯穎",
       "announce_date": "2026-09-08",
       "subject": "有關本公司115年除權畸零股洽特定人認購事宜說明",
-      "is_conference": false
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "announce_date": "2026-09-07",
-      "subject": "澄清社群平台訊息內容",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-07",
-      "subject": "公告欣興電子股份有限公司第一次無擔保轉換公司債\r\n(簡稱：欣興一，代碼：30371)於櫃檯買賣市場交易達公布\r\n注意交易資訊標準，故公布相關訊息，以利投資人區別瞭解。",
-      "is_conference": false
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "announce_date": "2026-09-07",
-      "subject": "代子公司誠風投資（股）公司公告取得有價證券",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-07",
-      "subject": "本公司取得廠務工程之相關資料",
-      "is_conference": false
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-09-07",
-      "subject": "公告本公司115年度現金增資發行普通股參與發行海外存託\r\n憑證之發行條件",
       "is_conference": false
     }
   ],

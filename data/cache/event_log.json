@@ -530,5 +530,26 @@
     "announce_date": "2026-09-17",
     "subject": "本公司取得有價證券",
     "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-21",
+    "subject": "澄清工商時報115年9月19日報導",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-09-21",
+    "subject": "(補充公告)本公司代子公司DET公告決議重建泰國BP1廠及BP1-P樓",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-09-21",
+    "subject": "公告本公司取得廠務設備",
+    "is_conference": false
   }
 ]

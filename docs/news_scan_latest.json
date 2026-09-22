@@ -1,191 +1,89 @@
 {
-  "generated_at": "2026-09-21T14:26:53.927925",
+  "generated_at": "2026-09-22T12:46:20.072997",
   "total_news_scanned": 140,
-  "relevant_count": 17,
+  "relevant_count": 9,
   "news": [
     {
-      "title": "台股又靠近4萬8千點！台積連三漲收在2480元　友達漲停成交爆巨量",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8F%88%E9%9D%A0%E8%BF%914%E8%90%AC8%E5%8D%83%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%80%A3%E4%B8%89%E6%BC%B2%E6%94%B6%E5%9C%A82480%E5%85%83-%E5%8F%8B%E9%81%94%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E7%88%86%E5%B7%A8%E9%87%8F-132619322.html",
-      "published": "Mon, 21 Sep 2026 13:26:19 GMT",
-      "summary": "本日成交量排行榜前十名且收漲的個股，還包括群創(3481)、聯電(2303)、中石化(1314)、富喬(1815)、南茂(8150漲停)、彩晶(6116)、京元電子(2449)、凱基金(2883)、宏",
+      "title": "台股闖關4萬8 外資買超447億元重金押注面板股 2天狂掃友達48萬張",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%97%96%E9%97%9C4%E8%90%AC8-%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85447%E5%84%84%E5%85%83%E9%87%8D%E9%87%91%E6%8A%BC%E6%B3%A8%E9%9D%A2%E6%9D%BF%E8%82%A1-2%E5%A4%A9%E7%8B%82%E6%8E%83%E5%8F%8B%E9%81%9448%E8%90%AC%E5%BC%B5-104419911.html",
+      "published": "Tue, 22 Sep 2026 10:44:19 GMT",
+      "summary": "台股今一度大漲883點衝48,601點創新高，終場收47,800點小漲81點 外資連4買、三大法人買超608.21億元，台指期再加碼空單1,487口至75,568口 外資狂掃友達24.5萬張、群創2.",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 26,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
-      "matched_stocks": [
-        "2303(晶圓代工)",
-        "中石化(1314)‧今日熱門",
-        "南茂(8150)‧今日熱門",
-        "友達(2409)‧今日熱門",
-        "彩晶(6116)‧今日熱門",
-        "群創(3481)‧今日熱門",
-        "聯電(2303)‧今日熱門",
-        "聯電(晶圓代工)"
-      ]
-    },
-    {
-      "title": "台股衝5萬誰接棒？郭哲榮點名這些「低檔股」：補漲行情來了",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%A1%9D5%E8%90%AC%E8%AA%B0%E6%8E%A5%E6%A3%92-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%BB%9E%E5%90%8D%E9%80%99%E4%BA%9B-%E4%BD%8E%E6%AA%94%E8%82%A1-%E8%A3%9C%E6%BC%B2%E8%A1%8C%E6%83%85%E4%BE%86%E4%BA%86-131500380.html",
-      "published": "Mon, 21 Sep 2026 13:15:00 GMT",
-      "summary": "台股大漲直逼5萬點！摩爾投顧投資長郭哲榮解析台積電與0050衝高後，資金轉向OTC、被動元件國巨、華新科及矽晶圓環球晶等補漲股的關鍵趨勢。（記者唐家興）",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門",
-        "國巨(被動元件)",
-        "華新科(被動元件)"
-      ]
-    },
-    {
-      "title": "三大法人買超台股470.37億　外資連三買、大敲「這檔」23.6萬張　投信加碼聯電、台達電",
-      "link": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1470-37%E5%84%84-%E5%A4%96%E8%B3%87%E9%80%A3%E4%B8%89%E8%B2%B7-%E5%A4%A7%E6%95%B2-%E9%80%99%E6%AA%94-094357766.html",
-      "published": "Mon, 21 Sep 2026 09:43:57 GMT",
-      "summary": "[Newtalk新聞] 台股今（21）日延續多頭氣勢，終場大漲 538.09 點或 1.14%，收在 47,718.84 點，創近 3 個月新高。法人籌碼同步偏多，三大法人合計買超 470.38 億元",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台達電(電源供應)",
-        "聯電(2303)‧今日熱門",
-        "聯電(晶圓代工)"
-      ]
-    },
-    {
-      "title": "友達爆量漲停！轉型先進封裝「台積電、英特爾都上門」　專家：面板雙虎越來越有意思",
-      "link": "https://tw.news.yahoo.com/%E5%8F%8B%E9%81%94%E7%88%86%E9%87%8F%E6%BC%B2%E5%81%9C-%E8%BD%89%E5%9E%8B%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%8B%B1%E7%89%B9%E7%88%BE%E9%83%BD%E4%B8%8A%E9%96%80-%E5%B0%88%E5%AE%B6-081007038.html",
-      "published": "Mon, 21 Sep 2026 08:10:07 GMT",
-      "summary": "台灣面板大廠友達布局轉型半導體先進封裝，市場近日更傳出友達同時吸引台積電、英特爾上門談合作，傳台積電有意取得友達2座廠房、英特爾則是聚焦Micro LED基板先進封裝，讓友達股價今（21）日爆量漲停。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
-      "matched_stocks": [
-        "友達(2409)‧今日熱門"
-      ]
-    },
-    {
-      "title": "聯電4天狂飆13.35％！97萬股東開心 「2大金主」狂買8760張",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5581299",
-      "published": "Mon, 21 Sep 2026 16:16:36 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週一（21日）在聯發科、台達電領軍狂飆，加上台積電多頭點火，指數開高走高，終場收漲538點，投信續挺台股，今買超39.32億元，而擁有逾97萬股東的聯電則成為大贏家，已...…",
-      "source": "自由時報財經",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台達電(電源供應)",
-        "聯電(2303)‧今日熱門",
-        "聯電(晶圓代工)"
-      ]
-    },
-    {
-      "title": "外資買超逾200億！卻狠砍「這檔」2.4萬張 66萬股東傻眼",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5581318",
-      "published": "Mon, 21 Sep 2026 16:35:46 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週一（21日）在聯發科、台達電領軍狂飆，加上台積電多頭點火，指數開高走高，終場收漲538點，收47718點，創史上第2高，雖然外資續買超203.76億元，卻反手大砍擁有...…",
-      "source": "自由時報財經",
-      "score": 5,
+      "score": 9,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "外資買超"
       ],
       "matched_stocks": [
-        "台達電(電源供應)"
+        "友達(2409)‧今日熱門",
+        "群創(3481)‧今日熱門"
       ]
     },
     {
-      "title": "台股勁揚538點挑戰前高！三大法人買超470.38億　聯發科登5千元新天價",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8B%81%E6%8F%9A538%E9%BB%9E%E6%8C%91%E6%88%B0%E5%89%8D%E9%AB%98-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%85470-38%E5%84%84-%E8%81%AF%E7%99%BC%E7%A7%91%E7%99%BB5%E5%8D%83%E5%85%83%E6%96%B0%E5%A4%A9%E5%83%B9-072847564.html",
-      "published": "Mon, 21 Sep 2026 07:28:47 GMT",
-      "summary": "[Newtalk新聞] 台股今（21）日多頭氣勢延續，在聯發科（2454）、台達電（2308）強勢領軍，加上「權王」台積電（2330）由黑翻紅助攻下，加權指數開高後震盪走高，盤中最高衝上 47,750",
+      "title": "台股創高外資買超447億　加碼友達逾24萬張居冠",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%89%B5%E9%AB%98%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85447%E5%84%84-%E5%8A%A0%E7%A2%BC%E5%8F%8B%E9%81%94%E9%80%BE24%E8%90%AC%E5%BC%B5%E5%B1%85%E5%86%A0-094024404.html",
+      "published": "Tue, 22 Sep 2026 09:40:24 GMT",
+      "summary": "（中央社記者潘智義台北2026年09月22日電）台股今天早盤衝上48601.53點歷史新高，盤中漲勢大幅收斂，終場指數仍創收盤新高。外資買超新台幣447.26億元，買超友達24萬5313張居冠，其次為",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
-      "direction": "中性關注",
+      "score": 6,
+      "direction": "利多",
       "is_important": true,
-      "matched_keywords": [],
+      "matched_keywords": [
+        "外資買超"
+      ],
       "matched_stocks": [
-        "2308(電源供應)",
-        "台達電(電源供應)"
+        "友達(2409)‧今日熱門"
       ]
     },
     {
-      "title": "台股衝三個月新高 外資加碼203億、三大法人聯手買超470.37億元",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%A1%9D%E4%B8%89%E5%80%8B%E6%9C%88%E6%96%B0%E9%AB%98-%E5%A4%96%E8%B3%87%E5%8A%A0%E7%A2%BC203%E5%84%84-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%81%AF%E6%89%8B%E8%B2%B7%E8%B6%85470-37%E5%84%84%E5%85%83-065930791.html",
-      "published": "Mon, 21 Sep 2026 06:59:30 GMT",
-      "summary": "台股今(21)日在聯發科(2454-TW)、台達電(2308-TW)攜手領軍下，上漲538.09點或1.14%，收47718.84點，創近3個月新高，成交量則量縮至8202億元；三大法人合計買超470",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "2308(電源供應)",
-        "台達電(電源供應)"
-      ]
-    },
-    {
-      "title": "雙鴻營運一路旺，Q3業績首飆百億大關，股價率先創高",
-      "link": "https://tw.stock.yahoo.com/news/%E9%9B%99%E9%B4%BB%E7%87%9F%E9%81%8B-%E8%B7%AF%E6%97%BA-q3%E6%A5%AD%E7%B8%BE%E9%A6%96%E9%A3%86%E7%99%BE%E5%84%84%E5%A4%A7%E9%97%9C-%E8%82%A1%E5%83%B9%E7%8E%87%E5%85%88%E5%89%B5%E9%AB%98-125322738.html",
-      "published": "Mon, 21 Sep 2026 12:53:22 GMT",
-      "summary": "【財訊快報／記者王宜弘報導】散熱模組大廠雙鴻(3324)AI伺服器水冷業務下半年隨新品出貨走強，第三季業績可望正式突破百億大關，再創新高，第四季業績為年度高峰，加上打入輝達VR水冷板供應鏈，法人看好今",
+      "title": "台達電董座鄭平拜會印度總理莫迪 持續擴充在地產能聚焦三大領域",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%81%94%E9%9B%BB%E8%91%A3%E5%BA%A7%E9%84%AD%E5%B9%B3%E6%8B%9C%E6%9C%83%E5%8D%B0%E5%BA%A6%E7%B8%BD%E7%90%86%E8%8E%AB%E8%BF%AA-%E6%8C%81%E7%BA%8C%E6%93%B4%E5%85%85%E5%9C%A8%E5%9C%B0%E7%94%A2%E8%83%BD%E8%81%9A%E7%84%A6%E4%B8%89%E5%A4%A7%E9%A0%98%E5%9F%9F-114525995.html",
+      "published": "Tue, 22 Sep 2026 11:45:25 GMT",
+      "summary": "台達電(2308-TW)董事長暨執行長鄭平與台達電印度區總裁林正彬，赴印度拜會總理莫迪（Narendra Modi），共同討論台達電於印度在能源轉型、AI基礎設施及智慧製造領域的規劃與藍圖，並持續擴大",
       "source": "Yahoo奇摩股市-最新新聞",
       "score": 4,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "3324(散熱)",
-        "雙鴻(散熱)"
-      ]
-    },
-    {
-      "title": "台達電強化印度佈局 董事長鄭平會見總理莫迪",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5581621",
-      "published": "Mon, 21 Sep 2026 21:48:51 +0800",
-      "summary": "電源供應器大廠台達電（2308）持續強化印度佈局，董事長暨執行長鄭平與台達印度總裁林正彬前往新德里會見印度總理莫迪（Narendra Modi），雙方針對能源轉型、AI基...…",
-      "source": "自由時報財經",
-      "score": 4,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
         "2308(電源供應)",
         "台達電(電源供應)"
       ]
     },
     {
-      "title": "聯茂驚爆3.19億元鉅額違約交割 創今年上市櫃「單次」最高金額",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5581598",
-      "published": "Mon, 21 Sep 2026 21:01:47 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股今（21日）衝上歷史收盤第二高點，勁揚538點，成交量來到約8200億元，交投熱絡，但北城證券申報聯茂（6213）傳出高達3.19億元鉅額違約交割案，一舉刷新今年上市櫃...…",
-      "source": "自由時報財經",
-      "score": 4,
+      "title": "台股週漲近千點誰最受惠？0050、00918、00919…高股息ETF現買盤分流 上週吸金榜1表看",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%80%B1%E6%BC%B2%E8%BF%91%E5%8D%83%E9%BB%9E%E8%AA%B0%E6%9C%80%E5%8F%97%E6%83%A0-0050-00918-00919-%E9%AB%98%E8%82%A1%E6%81%AFetf%E7%8F%BE%E8%B2%B7%E7%9B%A4%E5%88%86%E6%B5%81-083935287.html",
+      "published": "Tue, 22 Sep 2026 08:39:35 GMT",
+      "summary": "台股多頭攻勢延續，加權指數自11日的46,184.85點攀升至18日的47,180.75點，單週上漲995.90點、漲幅2.16%。截至上週五（18日）收盤，元大台灣50(0050)單週規模暴增537",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
       "direction": "中性關注",
-      "is_important": true,
+      "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "6213(ABF載板/PCB)",
-        "聯茂(ABF載板/PCB)"
+        "元大台灣50(0050)‧今日熱門"
       ]
     },
     {
-      "title": "台股挑戰4萬8 外資續買203億元狂掃友達逾23萬張",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%8C%91%E6%88%B04%E8%90%AC8-%E5%A4%96%E8%B3%87%E7%BA%8C%E8%B2%B7203%E5%84%84%E5%85%83%E7%8B%82%E6%8E%83%E5%8F%8B%E9%81%94%E9%80%BE23%E8%90%AC%E5%BC%B5-114956646.html",
-      "published": "Mon, 21 Sep 2026 11:49:56 GMT",
-      "summary": "台股今(21)日上漲538.09點收47718.84點，創近3個月波段高點，外資續買203.76億元、連3買，台指期也同步回補空單2034口，淨空單降至7.4萬口。個股方面，外資今日大買面板族群，其中",
+      "title": "台股盤中創新高！0050與0053同步刷新盤中歷史天價",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E5%89%B5%E6%96%B0%E9%AB%98-0050%E8%88%870053%E5%90%8C%E6%AD%A5%E5%88%B7%E6%96%B0%E7%9B%A4%E4%B8%AD%E6%AD%B7%E5%8F%B2%E5%A4%A9%E5%83%B9-083103123.html",
+      "published": "Tue, 22 Sep 2026 08:31:03 GMT",
+      "summary": "台股今（22）日改寫盤中歷史新高，資金優先回補大型科技權值股，帶動元大台灣50 （0050）、元大電子（0053）盤中股價同步創下113.75元、254.6元新高。統計9月17日至9月21日近3個交易",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "元大台灣50(0050)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台股刷48601點歷史新高！漲幅收斂仍創收盤紀錄 信驊登首檔「兩萬金」 友達爆115萬張驚天巨量 ｜Yahoo財經掃描",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%88%B748601%E9%BB%9E%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98%EF%BC%81%E6%BC%B2%E5%B9%85%E6%94%B6%E6%96%82%E4%BB%8D%E5%89%B5%E6%94%B6%E7%9B%A4%E7%B4%80%E9%8C%84-%E4%BF%A1%E9%A9%8A%E7%99%BB%E9%A6%96%E6%AA%94%E3%80%8C%E5%85%A9%E8%90%AC%E9%87%91%E3%80%8D-%E5%8F%8B%E9%81%94%E7%88%86115%E8%90%AC%E5%BC%B5%E9%A9%9A%E5%A4%A9%E5%B7%A8%E9%87%8F-%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-080908250.html",
+      "published": "Tue, 22 Sep 2026 08:09:08 GMT",
+      "summary": "台股創高卻上演近900點震盪！今（22）日受美股科技股強力反彈激勵，加權指數開高一度衝破歷史高點，刷出48,601點的新高點，然而隨即高檔獲利了結以及連續假期前的調節賣壓逐步湧現，加上台積電(2330",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
@@ -196,73 +94,45 @@
       ]
     },
     {
-      "title": "台股驚見「鉅額違約交割」　聯茂被通報3.2億「創今年紀錄」",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%A9%9A%E8%A6%8B-%E9%89%85%E9%A1%8D%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2-%E8%81%AF%E8%8C%82%E8%A2%AB%E9%80%9A%E5%A0%B13-2%E5%84%84-%E5%89%B5%E4%BB%8A%E5%B9%B4%E7%B4%80%E9%8C%84-135208468.html",
-      "published": "Mon, 21 Sep 2026 13:52:08 GMT",
-      "summary": "韭菜又翻車！台股今天（9/21）強勢反彈，加權指數大漲538點，收在47,718點，盤中最高衝上47,750點，單日大漲570.23點，創6月24日以來新高，成交值放大至8,202億元，本週有機會挑戰",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
+      "title": "全新等9檔股票9/23打入處置 友達、信驊等49檔列注意股",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5582751",
+      "published": "Tue, 22 Sep 2026 18:40:30 +0800",
+      "summary": "證交所、櫃買中心今日公布，全新（2455）等3檔上市，以及豪勉（6218）等6檔上櫃，共計9檔上市櫃股票從明（23）日起打入處置。此外友達（2409）等22檔上市、以及信...…",
+      "source": "自由時報財經",
+      "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "聯茂(ABF載板/PCB)"
+        "友達(2409)‧今日熱門"
       ]
     },
     {
-      "title": "台股這周站上4萬8？聯發科、台達電發威　專家點名「3大族群」準備接力噴發",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%80%99%E5%91%A8%E7%AB%99%E4%B8%8A4%E8%90%AC8-%E8%81%AF%E7%99%BC%E7%A7%91-%E5%8F%B0%E9%81%94%E9%9B%BB%E7%99%BC%E5%A8%81-%E5%B0%88%E5%AE%B6%E9%BB%9E%E5%90%8D-3%E5%A4%A7%E6%97%8F%E7%BE%A4-095533313.html",
-      "published": "Mon, 21 Sep 2026 09:55:33 GMT",
-      "summary": "台股今（21）日大盤狂噴538點，終場收在47718點，距離4萬8大關僅一步之遙，雖然護國神山台積電仍在高檔盤整，但電子權值雙雄聯發科、台達電接棒爆發狂飆，加上封測族群盛況空前，讓有抱緊持股的投資人獲",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
+      "title": "台股盤中創新高！0050與0053同步刷新盤中歷史天價",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5582541",
+      "published": "Tue, 22 Sep 2026 16:31:03 +0800",
+      "summary": "台股今（22）日改寫盤中歷史新高，資金優先回補大型科技權值股，帶動元大台灣50 （0050）、元大電子（0053）盤中股價同步創下113.75元、254.6元新高。\n\n\n...…",
+      "source": "自由時報財經",
+      "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "台達電(電源供應)"
+        "元大台灣50(0050)‧今日熱門"
       ]
     },
     {
-      "title": "【台股盤後】電子強勢金融堅挺　台股上漲538點收47718點",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%9B%BB%E5%AD%90%E5%BC%B7%E5%8B%A2%E9%87%91%E8%9E%8D%E5%A0%85%E6%8C%BA-%E5%8F%B0%E8%82%A1%E4%B8%8A%E6%BC%B2538%E9%BB%9E%E6%94%B647718%E9%BB%9E-061617814.html",
-      "published": "Mon, 21 Sep 2026 06:16:17 GMT",
-      "summary": "（中央社記者鍾榮峰台北2026年9月21日電）台股今天開高走堅，最高47750.98點，上漲570.23點，創6月24日以來高點，台積電領軍聯發科、台達電、日月光投控等電子權值股揚升，封測、印刷電路板",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台達電(電源供應)"
-      ]
-    },
-    {
-      "title": "電子強勢金融堅挺　台股上漲538點收47718點",
-      "link": "https://tw.news.yahoo.com/%E9%9B%BB%E5%AD%90%E5%BC%B7%E5%8B%A2%E9%87%91%E8%9E%8D%E5%A0%85%E6%8C%BA-%E5%8F%B0%E8%82%A1%E4%B8%8A%E6%BC%B2538%E9%BB%9E%E6%94%B647718%E9%BB%9E-061536680.html",
-      "published": "Mon, 21 Sep 2026 06:15:36 GMT",
-      "summary": "（中央社記者鍾榮峰台北21日電）台股今天開高走堅，最高47750.98點，上漲570.23點，創6月24日以來高點，台積電領軍聯發科、台達電、日月光投控等電子權值股揚升，封測、印刷電路板等族群勁揚，金",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台達電(電源供應)"
-      ]
-    },
-    {
-      "title": "台股創史上第2高！外資瘋掃「這檔」逾23萬張亮燈 62萬股東嗨翻",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5581335",
-      "published": "Mon, 21 Sep 2026 16:52:23 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週一（21日）在聯發科、台達電領軍狂飆，加上台積電多頭點火，指數開高走高，終場收漲538點，收47718點，創史上第2高，外資續買超203.76億元，而銀彈撒向擁有逾6...…",
+      "title": "緯創開高狂瀉！幕後黑手曝光 33萬股東傻眼",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5582578",
+      "published": "Tue, 22 Sep 2026 16:43:14 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週二（22日）在股王信驊、聯發科等高價股狂飆下，指數一度大漲883點，來到48601點，創新天價，然在台積電、記憶體等熱門股大翻車，指數一路拉回，終場漲81.33點，收...…",
       "source": "自由時報財經",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "台達電(電源供應)"
+        "緯創(AI伺服器組裝)"
       ]
     }
   ]
