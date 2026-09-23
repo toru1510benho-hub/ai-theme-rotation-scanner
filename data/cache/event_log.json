@@ -551,5 +551,26 @@
     "announce_date": "2026-09-21",
     "subject": "公告本公司取得廠務設備",
     "is_conference": false
+  },
+  {
+    "code": "2356",
+    "name": "英業達",
+    "announce_date": "2026-09-22",
+    "subject": "董事會通過泰國地區子公司 Inventec Electronics (Thailand) Co., Ltd.，\r\n配合業務發展之需要，擬購置生產設備及廠務工程",
+    "is_conference": false
+  },
+  {
+    "code": "2356",
+    "name": "英業達",
+    "announce_date": "2026-09-22",
+    "subject": "公告本公司背書保證金額達「公開發行公司資金貸與及\r\n背書保證處理準則」第二十五條第一項第二款、第三款\r\n及第四款之公告標準",
+    "is_conference": false
+  },
+  {
+    "code": "2356",
+    "name": "英業達",
+    "announce_date": "2026-09-22",
+    "subject": "代子公司英順達科技有限公司與英業達（上海）有限\r\n公司，公告資金貸與達公開發行公司資金貸與及背書\r\n保證處理準則第22條第1項第3款標準",
+    "is_conference": false
   }
 ]

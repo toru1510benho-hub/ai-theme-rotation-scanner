@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-22T12:46:17.614902",
+  "generated_at": "2026-09-23T12:54:53.438974",
   "upcoming_fomc": [],
   "recent_company_events_14d": [
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-09-22",
+      "subject": "董事會通過泰國地區子公司 Inventec Electronics (Thailand) Co., Ltd.，\r\n配合業務發展之需要，擬購置生產設備及廠務工程",
+      "is_conference": false
+    },
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-09-22",
+      "subject": "公告本公司背書保證金額達「公開發行公司資金貸與及\r\n背書保證處理準則」第二十五條第一項第二款、第三款\r\n及第四款之公告標準",
+      "is_conference": false
+    },
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-09-22",
+      "subject": "代子公司英順達科技有限公司與英業達（上海）有限\r\n公司，公告資金貸與達公開發行公司資金貸與及背書\r\n保證處理準則第22條第1項第3款標準",
+      "is_conference": false
+    },
     {
       "code": "2308",
       "name": "台達電",
@@ -294,76 +315,6 @@
       "name": "緯創",
       "announce_date": "2026-09-09",
       "subject": "代子公司SMS Infocomm Corporation(簡稱WTX)\r\n公告取得不動產使用權資產",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-08",
-      "subject": "公告本公司董事會決議授權董事長購置不動產相關事宜",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-09-08",
-      "subject": "公告本公司115年8月自結合併營收",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-09-08",
-      "subject": "本公司受邀參加由合作金庫證券舉辦之投資人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-09-08",
-      "subject": "代子公司-AVC TECH. (VIETNAM) CO., LTD.公告租地委建第五期廠房土建工程",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-09-08",
-      "subject": "代子公司-AVC TECH. (VIETNAM) CO., LTD.公告租地委建第五期廠房機電工程",
-      "is_conference": false
-    },
-    {
-      "code": "6442",
-      "name": "光聖",
-      "announce_date": "2026-09-08",
-      "subject": "本公司受邀參加凱基證券2026年第三季投資論壇",
-      "is_conference": true
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-09-08",
-      "subject": "[更新]代子公司翔譽科技股份有限公司(簡稱翔譽科技)及\r\n經緯航太科技股份有限公司(簡稱經緯航太)公告合併基準日",
-      "is_conference": false
-    },
-    {
-      "code": "2059",
-      "name": "川湖",
-      "announce_date": "2026-09-08",
-      "subject": "澄清經濟日報A03版報導",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-09-08",
-      "subject": "本公司代子公司Delta Electronics (USA) Inc.公告取得不動產使用權資產",
-      "is_conference": false
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "announce_date": "2026-09-08",
-      "subject": "有關本公司115年除權畸零股洽特定人認購事宜說明",
       "is_conference": false
     }
   ],
