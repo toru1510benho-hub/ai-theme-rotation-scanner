@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-24T12:50:58.856389",
+  "generated_at": "2026-09-25T12:53:25.910168",
   "us_benchmarks": {
     "NVDA": {
       "name": "輝達",
-      "price": 225.50999450683594,
-      "prev_close": 225.0409,
-      "change_pct": 0.21
+      "price": 224.5800018310547,
+      "prev_close": 223.82,
+      "change_pct": 0.34
     },
     "AMD": {
       "name": "超微",
-      "price": 614.6099853515625,
-      "prev_close": 614.51,
-      "change_pct": 0.02
+      "price": 629.260009765625,
+      "prev_close": 629.983,
+      "change_pct": -0.11
     },
     "TSM": {
       "name": "台積電ADR",
-      "price": 446.57000732421875,
-      "prev_close": 446.6,
-      "change_pct": -0.01
+      "price": 451.1499938964844,
+      "prev_close": 450.1,
+      "change_pct": 0.23
     },
     "^SOX": {
       "name": "費城半導體指數",
-      "price": 12534.2802734375,
-      "prev_close": 12689.82,
-      "change_pct": -1.23
+      "price": 12492.5400390625,
+      "prev_close": 12534.274,
+      "change_pct": -0.33
     },
     "^GSPC": {
       "name": "S&P500",
-      "price": 7706.02978515625,
-      "prev_close": 7764.64,
-      "change_pct": -0.75
+      "price": 7704.1298828125,
+      "prev_close": 7706.03,
+      "change_pct": -0.02
     },
     "^IXIC": {
       "name": "那斯達克綜合",
-      "price": 26936.0390625,
-      "prev_close": 27244.277,
-      "change_pct": -1.13
+      "price": 26939.369140625,
+      "prev_close": 26936.037,
+      "change_pct": 0.01
     }
   },
   "theme_ranking_by_change": [

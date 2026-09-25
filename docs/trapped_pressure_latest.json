@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:50:59.760283",
+  "generated_at": "2026-09-25T12:53:27.111059",
   "themes": {
     "CPO/矽光子": [
       {
@@ -52,9 +52,9 @@
         "name": "光環",
         "market": "TPEX",
         "zone": {
-          "trapped_zone_price": 190.44,
+          "trapped_zone_price": 190.49,
           "latest_close": 178.0,
-          "distance_pct": 6.99,
+          "distance_pct": 7.01,
           "qualifying_days": 10,
           "note": null
         },
@@ -310,9 +310,9 @@
         "name": "禾伸堂",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 907.0,
+          "trapped_zone_price": 907.24,
           "latest_close": 810.0,
-          "distance_pct": 11.98,
+          "distance_pct": 12.0,
           "qualifying_days": 9,
           "note": null
         },
@@ -449,9 +449,9 @@
         "name": "雙鴻",
         "market": "TPEX",
         "zone": {
-          "trapped_zone_price": 1483.36,
+          "trapped_zone_price": 1482.5,
           "latest_close": 1710.0,
-          "distance_pct": -13.25,
+          "distance_pct": -13.3,
           "qualifying_days": 9,
           "note": null
         },
@@ -464,9 +464,9 @@
         "name": "健策",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 5971.86,
+          "trapped_zone_price": 5964.09,
           "latest_close": 6920.0,
-          "distance_pct": -13.7,
+          "distance_pct": -13.81,
           "qualifying_days": 5,
           "note": null
         },
@@ -511,14 +511,14 @@
         "name": "台燿",
         "market": "TPEX",
         "zone": {
-          "trapped_zone_price": 1586.74,
+          "trapped_zone_price": 1587.69,
           "latest_close": 1495.0,
-          "distance_pct": 6.14,
+          "distance_pct": 6.2,
           "qualifying_days": 4,
           "note": null
         },
         "tags": [
-          "距離套牢區還有+6.1%,暫不是主要壓力"
+          "距離套牢區還有+6.2%,暫不是主要壓力"
         ]
       },
       {
@@ -526,9 +526,9 @@
         "name": "金像電",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 1152.57,
+          "trapped_zone_price": 1152.95,
           "latest_close": 1105.0,
-          "distance_pct": 4.3,
+          "distance_pct": 4.34,
           "qualifying_days": 5,
           "note": null
         },
