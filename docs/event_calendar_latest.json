@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T15:47:02.788886",
+  "generated_at": "2026-09-29T14:15:06.196414",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 30
+      "days_until": 29
     }
   ],
   "recent_company_events_14d": [
@@ -223,41 +223,6 @@
       "announce_date": "2026-09-15",
       "subject": "公告本公司取得廠務設備",
       "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-09-14",
-      "subject": "本公司受邀參加UBS Taiwan Summit 2026",
-      "is_conference": true
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-14",
-      "subject": "本公司受邀參加UBS舉辦之UBS Taiwan Summit 2026",
-      "is_conference": true
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-14",
-      "subject": "本公司受邀參加永豐證券舉辦之2026 Q3 產業投資論壇",
-      "is_conference": true
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-09-14",
-      "subject": "公告本公司取得機器設備",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-09-14",
-      "subject": "本公司受邀參加法人說明會之相關資訊",
-      "is_conference": true
     }
   ],
   "note": "個股重大訊息只涵蓋上市(TSE)公司,TPEx公司這個資料集沒有涵蓋。"

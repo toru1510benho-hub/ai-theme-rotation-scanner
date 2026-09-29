@@ -1,49 +1,248 @@
 {
-  "generated_at": "2026-09-28T15:47:06.411565",
+  "generated_at": "2026-09-29T14:15:09.616392",
   "total_news_scanned": 140,
-  "relevant_count": 3,
+  "relevant_count": 16,
   "news": [
     {
-      "title": "國發會攜手台積電等14家企業　赴矽谷攬才深化台美交流",
-      "link": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%99%BC%E6%9C%83%E6%94%9C%E6%89%8B%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%AD%8914%E5%AE%B6%E4%BC%81%E6%A5%AD-%E8%B5%B4%E7%9F%BD%E8%B0%B7%E6%94%AC%E6%89%8D%E6%B7%B1%E5%8C%96%E5%8F%B0%E7%BE%8E%E4%BA%A4%E6%B5%81-063042356.html",
-      "published": "Mon, 28 Sep 2026 06:30:42 GMT",
-      "summary": "（中央社記者蘇思云台北2026年9月28日電）推動台美人才交流，國發會攜手數發部與台積電(2330)、聯發科(2454)、台達電(2308)等14家企業赴美國攬才，工研院、中研院也提供研究與教研職缺。",
+      "title": "29萬股東爽翻！外資賣超632億竟逆勢狂買「這檔」逾3萬張 股價2天飆8.57％",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5589702",
+      "published": "Tue, 29 Sep 2026 16:50:44 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週二（29日）在聯發科、台達電等992家同步跳水，指數開低走低，收跌392點，外資雖續賣超632.01億元，但卻大買擁近30萬股東的南亞，繼上連假前買超1.78萬張，今...…",
+      "source": "自由時報財經",
+      "score": 8,
+      "direction": "利空",
+      "is_important": true,
+      "matched_keywords": [
+        "外資賣超"
+      ],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門",
+        "台達電(電源供應)"
+      ]
+    },
+    {
+      "title": "中秋向下變盤大跌近400點！外資逆勢搶回友達26萬張 聯發科重挫逾7％「誰在倒」…恐怖賣超金額曝光",
+      "link": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%A7%8B%E5%90%91%E4%B8%8B%E8%AE%8A%E7%9B%A4%E5%A4%A7%E8%B7%8C%E8%BF%91400%E9%BB%9E-%E5%A4%96%E8%B3%87%E9%80%86%E5%8B%A2%E6%90%B6%E5%9B%9E%E5%8F%8B%E9%81%9426%E8%90%AC%E5%BC%B5-%E8%81%AF%E7%99%BC%E7%A7%91%E9%87%8D%E6%8C%AB%E9%80%BE7-%E8%AA%B0%E5%9C%A8%E5%80%92-%E6%81%90%E6%80%96%E8%B3%A3%E8%B6%85%E9%87%91%E9%A1%8D%E6%9B%9D%E5%85%89-094309453.html",
+      "published": "Tue, 29 Sep 2026 09:43:09 GMT",
+      "summary": "受到美股拖累影響，台股秋節向下變盤，雖然台積電(2330)獨撐，但聯發科(2454)重挫逾7%，台達電(2308)等權值股也成殺盤重心，終場下跌392點，收47,631點。籌碼方面，外資單日提款632",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
+      "score": 7,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
         "2308(電源供應)",
+        "友達(2409)‧今日熱門",
         "台達電(電源供應)"
       ]
     },
     {
-      "title": "台股明天慘了？台積電ADR下挫1.66%、聯電ADR崩3.54%　美股四大指數全走跌「費半重摔3.09%」",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%98%8E%E5%A4%A9%E6%85%98%E4%BA%86-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E4%B8%8B%E6%8C%AB1-66-%E8%81%AF%E9%9B%BBadr%E5%B4%A93-54-145400292.html",
-      "published": "Mon, 28 Sep 2026 14:54:00 GMT",
-      "summary": "[FTNN新聞網]記者薛明峻／台北報導由於美國總統川普（DonaldTrump）拒絕伊朗提出的停火條件，原油價格走升，加上美債殖利率也延續上周強勁走勢，導致美股四大...",
+      "title": "外資節後繼續砍股 賣超632億元 大砍元大台50、00406A雙雙超過6萬張最多",
+      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%AF%80%E5%BE%8C%E7%B9%BC%E7%BA%8C%E7%A0%8D%E8%82%A1-%E8%B3%A3%E8%B6%85632%E5%84%84%E5%85%83-%E5%A4%A7%E7%A0%8D%E5%85%83%E5%A4%A7%E5%8F%B050-00406a%E9%9B%99%E9%9B%99%E8%B6%85%E9%81%8E6%E8%90%AC%E5%BC%B5%E6%9C%80%E5%A4%9A-121417199.html",
+      "published": "Tue, 29 Sep 2026 12:14:17 GMT",
+      "summary": "台股連假後首日跌392.64點收47,631.96點，跌破5日線與4萬8千點，成交量7,850億元。 外資賣超632.01億元，三大法人合計賣超781.87億元，期貨空單增至7.9萬口。 外資大砍00",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 6,
+      "direction": "利空",
+      "is_important": true,
+      "matched_keywords": [
+        "外資賣超"
+      ],
+      "matched_stocks": [
+        "主動中信台灣收益(00406A)‧今日熱門"
+      ]
+    },
+    {
+      "title": "禾伸堂自結8月純益年增285%EPS1.33元 前8月賺近1股本",
+      "link": "https://tw.stock.yahoo.com/news/%E7%A6%BE%E4%BC%B8%E5%A0%82%E8%87%AA%E7%B5%908%E6%9C%88%E7%B4%94%E7%9B%8A%E5%B9%B4%E5%A2%9E285-eps1-33%E5%85%83-%E5%89%8D8%E6%9C%88%E8%B3%BA%E8%BF%911%E8%82%A1%E6%9C%AC-115055462.html",
+      "published": "Tue, 29 Sep 2026 11:50:55 GMT",
+      "summary": "MLCC廠禾伸堂(3026-TW)今(29)日公告8月自結損益2.2億元，月減4%，但年增285%，每股純益1.33元，累計前8月稅後純益約15.67億元，每股純益約9.45元。 禾伸堂8月營收14.",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 6,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "年增"
+      ],
+      "matched_stocks": [
+        "3026(被動元件)",
+        "禾伸堂(被動元件)"
+      ]
+    },
+    {
+      "title": "數位經濟論壇》鄭力嘉：樂見新平台進場 增加外送員工作選擇",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5589836",
+      "published": "Tue, 29 Sep 2026 18:21:36 +0800",
+      "summary": "東南亞叫車平台Grab申請併購foodpanda台灣，外送員擔憂影響權益。今（29）日自由時報舉辦「外送產業新契機與韌性」論壇，探討台灣外送產業變化，運輸業總工會理事長鄭...…",
+      "source": "自由時報財經",
+      "score": 6,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [
+        "併購"
+      ],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門"
+      ]
+    },
+    {
+      "title": "企業走向淨零實踐決勝年　聯電、台積電拿下「淨零產業競爭力」卓越獎",
+      "link": "https://tw.news.yahoo.com/%E4%BC%81%E6%A5%AD%E8%B5%B0%E5%90%91%E6%B7%A8%E9%9B%B6%E5%AF%A6%E8%B8%90%E6%B1%BA%E5%8B%9D%E5%B9%B4-%E8%81%AF%E9%9B%BB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8B%BF%E4%B8%8B-%E6%B7%A8%E9%9B%B6%E7%94%A2%E6%A5%AD%E7%AB%B6%E7%88%AD%E5%8A%9B-%E5%8D%93%E8%B6%8A%E7%8D%8E-084351681.html",
+      "published": "Tue, 29 Sep 2026 08:43:51 GMT",
+      "summary": "面對全球淨零轉型加速，2026年正式成為企業從「淨零承諾」走向「競爭力實踐」的關鍵轉折年。國立中央大學台灣經濟發展研究中心與財團法人二十一世紀基金會合作，評選出「淨零產業競爭力獎」，今年首度納入半導體",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "台股崩跌392點失守48K！「這檔面板」逆漲2.49%爆量奪成交王　聯電搭漲價題材拚量價齊揚受矚",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A9%E8%B7%8C392%E9%BB%9E%E5%A4%B1%E5%AE%8848k-%E9%80%99%E6%AA%94%E9%9D%A2%E6%9D%BF-%E9%80%86%E6%BC%B22-49-%E7%88%86%E9%87%8F%E5%A5%AA%E6%88%90%E4%BA%A4%E7%8E%8B-083500840.html",
+      "published": "Tue, 29 Sep 2026 08:35:00 GMT",
+      "summary": "[FTNN新聞網]記者邱梓欣／綜合報導由於美股全面收黑，使台股今（29）日以47,873.89點開低走低，終場收在47,631.96點，下挫392.64點、跌幅0.82％，成交量9,543...",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "傳台積電赴德州、南亞科去屏東　國科會回應",
+      "link": "https://tw.news.yahoo.com/%E5%82%B3%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B5%B4%E5%BE%B7%E5%B7%9E-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%8E%BB%E5%B1%8F%E6%9D%B1-%E5%9C%8B%E7%A7%91%E6%9C%83%E5%9B%9E%E6%87%89-074845946.html",
+      "published": "Tue, 29 Sep 2026 07:48:45 GMT",
+      "summary": "[NOWNEWS今日新聞]台積電傳在美國投資擴大，要在德州建立第二園區。國科會主委吳誠文表示，德州既有半導體產業基礎完整，確實是可能成為考慮地點；只要對國家、產業有利政府都會支持。另外針對台塑集團南亞",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門",
+        "南亞科(記憶體)"
+      ]
+    },
+    {
+      "title": "外資狠賣632億！這檔遭砍逾2萬張 連5紅狂漲29％後重摔6.7％",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5589682",
+      "published": "Tue, 29 Sep 2026 16:34:38 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週二（29日）在聯發科、台達電等992家同步跳水，指數開低走低，收跌392點，外資則續賣超632.01億元，而南茂則淪為大提款機，一出手就砍逾2萬張霸榜，受此衝擊，股價...…",
+      "source": "自由時報財經",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "南茂(8150)‧今日熱門",
+        "台達電(電源供應)"
+      ]
+    },
+    {
+      "title": "廣達聚焦下一代AR光波導 梁次震：從創新帶往商業化",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5590011",
+      "published": "Tue, 29 Sep 2026 21:33:06 +0800",
+      "summary": "廣達（2382）持續推進下一代AR（擴增實境）布局，攜手光學技術業者Lumus簽署新一代授權協議，將製造更輕薄、適合大規模生產的AR眼鏡幾何光波導。廣達副董事長暨總經理梁...…",
+      "source": "自由時報財經",
+      "score": 4,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "2382(AI伺服器組裝)",
+        "廣達(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "客戶變股東！亞馬遜首次參與金像電私募",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5589759",
+      "published": "Tue, 29 Sep 2026 17:30:29 +0800",
+      "summary": "客戶變股東！PCB大廠金像電（2368）今日公告亞馬遜（Amazon）參與公司私募案，亞馬遜認購私募股數為185萬6308股，成為策略性投資人，金像電表示，此次私募案每股...…",
+      "source": "自由時報財經",
+      "score": 4,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "2368(ABF載板/PCB)",
+        "金像電(ABF載板/PCB)"
+      ]
+    },
+    {
+      "title": "外資連2賣再砍632億　減碼台積電反手敲進南亞逾3萬張",
+      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A32%E8%B3%A3%E5%86%8D%E7%A0%8D632%E5%84%84-%E6%B8%9B%E7%A2%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8F%8D%E6%89%8B%E6%95%B2%E9%80%B2%E5%8D%97%E4%BA%9E%E9%80%BE3%E8%90%AC%E5%BC%B5-104144063.html",
+      "published": "Tue, 29 Sep 2026 10:41:44 GMT",
+      "summary": "（中央社記者吳家豪台北2026年09月29日電）台股今天開低走低，終場下挫392.64點，收在47631.96點，失守5日線，三大法人合計賣超新台幣781.86億元，其中外資及陸資連續第2個交易日調節",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台股ETF績效、人氣兩樣情！這2檔九月漲幅逾6%卻掉粉　00919逆吸8萬人",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1etf%E7%B8%BE%E6%95%88-%E4%BA%BA%E6%B0%A3%E5%85%A9%E6%A8%A3%E6%83%85-%E9%80%992%E6%AA%94%E4%B9%9D%E6%9C%88%E6%BC%B2%E5%B9%85%E9%80%BE6-%E5%8D%BB%E6%8E%89%E7%B2%89-00919%E9%80%86%E5%90%B88%E8%90%AC%E4%BA%BA-074436325.html",
+      "published": "Tue, 29 Sep 2026 07:44:36 GMT",
+      "summary": "[Newtalk新聞] 集保戶股權分散統計最新出爐，截至上週四（24 日），台股 ETF 前 10 大受益人排行大致維持穩定，不過隨近期美國十年期公債殖利率攀升、金融市場波動加劇，投資人布局也開始出現",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "群益台灣精選高息(00919)‧今日熱門"
+      ]
+    },
+    {
+      "title": "北市府率12家台企訪「新加坡科技周」 展AI整合實力拓展東南亞商機",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8C%97%E5%B8%82%E5%BA%9C%E7%8E%8712%E5%AE%B6%E5%8F%B0%E4%BC%81%E8%A8%AA-%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A7%91%E6%8A%80%E5%91%A8-%E5%B1%95ai%E6%95%B4%E5%90%88%E5%AF%A6%E5%8A%9B%E6%8B%93%E5%B1%95%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%95%86%E6%A9%9F-121703132.html",
+      "published": "Tue, 29 Sep 2026 12:17:03 GMT",
+      "summary": "北市產發局連2年參加「2026新加坡科技周」，設「台北主題館」攜手12家北市科技業拓展東南亞商機。 展館分「智慧運算與感知」、「資料治理與安全」、「智慧應用與服務」三大面向，展出AI、資安、雲端碳管理",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門"
+      ]
+    },
+    {
+      "title": "美光財報開獎倒數！華邦電逆勢上漲也遭大哥連7狂倒淪賣超苦主　「這檔」受惠台積電訂單外溢獲喊895元目標價也難逃",
+      "link": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E8%B2%A1%E5%A0%B1%E9%96%8B%E7%8D%8E%E5%80%92%E6%95%B8-%E8%8F%AF%E9%82%A6%E9%9B%BB%E9%80%86%E5%8B%A2%E4%B8%8A%E6%BC%B2%E4%B9%9F%E9%81%AD%E5%A4%A7%E5%93%A5%E9%80%A37%E7%8B%82%E5%80%92%E6%B7%AA%E8%B3%A3%E8%B6%85%E8%8B%A6%E4%B8%BB-%E9%80%99%E6%AA%94-%E5%8F%97%E6%83%A0%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A8%82%E5%96%AE%E5%A4%96%E6%BA%A2%E7%8D%B2%E5%96%8A895%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9%E4%B9%9F%E9%9B%A3%E9%80%83-113000154.html",
+      "published": "Tue, 29 Sep 2026 11:30:00 GMT",
+      "summary": "[FTNN新聞網]記者邱梓欣／綜合報導由於美股全面收黑，使台股今（29）日以47,873.89點開低走低，終場收在47,631.96點，下挫392.64點、跌幅0.82％，成交量9,543...",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "聯電(晶圓代工)"
+        "華邦電(記憶體)"
       ]
     },
     {
-      "title": "南亞科不落腳虎尾！張麗善喊話中央：雲林水電地都不缺別因選舉考量",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5588284",
-      "published": "Mon, 28 Sep 2026 11:54:19 +0800",
-      "summary": "針對台塑集團南亞科將捨棄雲林虎尾產業園區，選定屏東科學園區，雲林卡關關鍵在半導體廠命脈的「水資源」，對此，雲林縣長張麗善今（28）日受訪表示，雲林縣湖山水庫有效蓄水534...…",
+      "title": "明天開盤穩了？台指期夜盤漲了 強拉超過500點",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5589922",
+      "published": "Tue, 29 Sep 2026 19:43:47 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週二（29日）在聯發科、台達電等992家同步跳水，指數開低走低，收跌392點，收47873張，失守4萬8。不過台指期夜盤今開盤後走勢一路攀升。\n\n\n台指期夜盤今以小漲開...…",
       "source": "自由時報財經",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "南亞科(記憶體)"
+        "台達電(電源供應)"
       ]
     }
   ]
