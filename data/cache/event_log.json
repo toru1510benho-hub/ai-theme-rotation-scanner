@@ -614,5 +614,54 @@
     "announce_date": "2026-09-23",
     "subject": "本公司參與認購子公司Winbond Electronics Malaysia Sdn. Bhd.現金增資案",
     "is_conference": false
+  },
+  {
+    "code": "6669",
+    "name": "緯穎",
+    "announce_date": "2026-09-29",
+    "subject": "代子公司緯穎智造股份有限公司公告進行租賃改良及建築物改良",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-09-29",
+    "subject": "代子公司緯穎智造股份有限公司公告進行租賃改良及建築物改良",
+    "is_conference": false
+  },
+  {
+    "code": "3026",
+    "name": "禾伸堂",
+    "announce_date": "2026-09-29",
+    "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解。",
+    "is_conference": false
+  },
+  {
+    "code": "2368",
+    "name": "金像電",
+    "announce_date": "2026-09-29",
+    "subject": "公告本公司董事會決議115年第1次私募普通股定價及應募人資訊",
+    "is_conference": false
+  },
+  {
+    "code": "2368",
+    "name": "金像電",
+    "announce_date": "2026-09-29",
+    "subject": "本公司董事會核准土地及資本支出預算案",
+    "is_conference": false
+  },
+  {
+    "code": "2368",
+    "name": "金像電",
+    "announce_date": "2026-09-29",
+    "subject": "本公司依公開發行公司資金貸與及背書保證處理準則\r\n第二十五條第一項第四款規定公告",
+    "is_conference": false
+  },
+  {
+    "code": "3653",
+    "name": "健策",
+    "announce_date": "2026-09-29",
+    "subject": "因本公司有價證券於集中交易市場達公布\r\n注意交易資訊標準，故公布相關財務業務等\r\n重大訊息，以利投資人區別瞭解。",
+    "is_conference": false
   }
 ]
