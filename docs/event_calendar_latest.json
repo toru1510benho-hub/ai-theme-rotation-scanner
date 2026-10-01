@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-09-30T14:05:16.343436",
+  "generated_at": "2026-10-01T14:41:51.629719",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 28
+      "days_until": 27
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2368",
+      "name": "金像電",
+      "announce_date": "2026-09-30",
+      "subject": "澄清媒體報導",
+      "is_conference": false
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "announce_date": "2026-09-30",
+      "subject": "公告本公司擴大採用再生能源",
+      "is_conference": false
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "announce_date": "2026-09-30",
+      "subject": "本公司召開法人說明會事宜",
+      "is_conference": true
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "announce_date": "2026-09-30",
+      "subject": "本公司取得不動產相關訊息",
+      "is_conference": false
+    },
+    {
+      "code": "2368",
+      "name": "金像電",
+      "announce_date": "2026-09-30",
+      "subject": "公告本公司115年第一次私募普通股收足股款暨增資基準日",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-09-30",
+      "subject": "公告本公司取得廠務設備及工程",
+      "is_conference": false
+    },
     {
       "code": "6669",
       "name": "緯穎",
@@ -201,55 +243,6 @@
       "name": "華邦電",
       "announce_date": "2026-09-17",
       "subject": "本公司取得有價證券",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-09-16",
-      "subject": "本公司受邀參加由Bank of America舉辦之\r\n\"2026 Asia Pacific Conference\"",
-      "is_conference": true
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-09-16",
-      "subject": "本公司受邀參加由中信里昂證券舉辦之\r\n\"33rd Investors' Forum 2026\"",
-      "is_conference": false
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "announce_date": "2026-09-16",
-      "subject": "代&#12070;公司Wiwynn International Corporation公告向非關係人取得供營業使用設備",
-      "is_conference": false
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-09-16",
-      "subject": "代&#12070;公司Wiwynn International Corporation(WYUS)公告\r\n向非關係人取得供營業使用設備",
-      "is_conference": false
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "announce_date": "2026-09-16",
-      "subject": "本公司董事會決議發行國內第四次無擔保轉換公司債",
-      "is_conference": false
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "announce_date": "2026-09-16",
-      "subject": "本公司董事會決議發行國內第五次無擔保轉換公司債",
-      "is_conference": false
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "announce_date": "2026-09-16",
-      "subject": "本公司擬以直接或間接方式取得Infineon Technologies LLC旗下\r\nNOR Flash與F-RAM事業經重組後之100%股權",
       "is_conference": false
     }
   ],
