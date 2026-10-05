@@ -1,102 +1,22 @@
 {
-  "generated_at": "2026-10-02T14:01:31.847774",
+  "generated_at": "2026-10-05T16:18:45.569236",
   "total_news_scanned": 140,
-  "relevant_count": 16,
+  "relevant_count": 13,
   "news": [
     {
-      "title": "外資買超台股26.21億元　加碼友達逾8萬張居冠",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A126-21%E5%84%84%E5%85%83-%E5%8A%A0%E7%A2%BC%E5%8F%8B%E9%81%94%E9%80%BE8%E8%90%AC%E5%BC%B5%E5%B1%85%E5%86%A0-101720800.html",
-      "published": "Fri, 02 Oct 2026 10:17:20 GMT",
-      "summary": "（中央社記者潘智義台北2026年10月2日電）台股今天上漲122.25點，再創收盤新高；外資今天買超台股新台幣26.21億元，買超友達(2409)8萬1467張居冠，其次為主動統一升級50（00403",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 9,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "外資買超"
-      ],
-      "matched_stocks": [
-        "主動統一升級50(00403A)‧今日熱門",
-        "友達(2409)‧今日熱門"
-      ]
-    },
-    {
-      "title": "外資連3買加碼26.22億元 大舉掃貨主動式ETF 仁寶、緯創、鴻海慘遭拋售",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A33%E8%B2%B7%E5%8A%A0%E7%A2%BC26-22%E5%84%84%E5%85%83-%E5%A4%A7%E8%88%89%E6%8E%83%E8%B2%A8%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-%E4%BB%81%E5%AF%B6-%E7%B7%AF%E5%89%B5-100140426.html",
-      "published": "Fri, 02 Oct 2026 10:01:40 GMT",
-      "summary": "台股今漲122.25點收48475.74點、創收盤新高，成交量8981.74億元。 外資買超26.22億元連3買，回補友達8.1萬張；重砍仁寶、緯創、鴻海。 三大法人合計買超95.57億元；外資狂敲主",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 8,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "外資買超"
-      ],
-      "matched_stocks": [
-        "友達(2409)‧今日熱門",
-        "緯創(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "載板漲價超級補！南電：8月獲利年增732％",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5593325",
-      "published": "Fri, 02 Oct 2026 16:18:17 +0800",
-      "summary": "IC載板南電（8046）在載板漲價效應發酵下，獲利大幅跳增，公司應主管機關要求公布8月自結獲利，8月合併營收53.53億元，年增40.59%，稅前淨利14.86億元，年增...…",
+      "title": "華邦電受惠記憶體價漲  9月、Q3營收再創新高",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5596385",
+      "published": "Mon, 05 Oct 2026 18:09:34 +0800",
+      "summary": "記憶體廠華邦電（2344）今（5）日公告9月合併營收282.49億元，月增3.44%，年增256.67%，再寫單月新高；第3季合併營收達823.31億元，季增37.58%...…",
       "source": "自由時報財經",
-      "score": 8,
+      "score": 13,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "年增",
+        "月增",
         "合併"
       ],
-      "matched_stocks": [
-        "8046(ABF載板/PCB)",
-        "南電(ABF載板/PCB)"
-      ]
-    },
-    {
-      "title": "權值熄火台股續創高靠誰扛？臻鼎-KY漲停、ABF揪矽晶圓暴走狂歡｜Yahoo財經掃描",
-      "link": "https://tw.stock.yahoo.com/news/%E6%AC%8A%E5%80%BC%E7%86%84%E7%81%AB%E5%8F%B0%E8%82%A1%E7%BA%8C%E5%89%B5%E9%AB%98%E9%9D%A0%E8%AA%B0%E6%89%9B%EF%BC%9F%E8%87%BB%E9%BC%8E-ky%E6%BC%B2%E5%81%9C%E3%80%81abf%E6%8F%AA%E7%9F%BD%E6%99%B6%E5%9C%93%E6%9A%B4%E8%B5%B0%E7%8B%82%E6%AD%A1%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-085945117.html",
-      "published": "Fri, 02 Oct 2026 08:59:45 GMT",
-      "summary": "中小型股接棒點火，台股漲122點再創收盤新高！今(2)日加權指數終場上漲122.25點或0.25%，收48,475.74點，本周累計上漲451.14點，周線連三紅，成交金額8,997.10億元。櫃買指",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
-      "matched_stocks": [
-        "臻鼎-KY(4958)‧今日熱門"
-      ]
-    },
-    {
-      "title": "巴逆逆「大買國巨」嚇壞網！郭哲榮沒在怕：抱到700塊",
-      "link": "https://tw.stock.yahoo.com/news/%E5%B7%B4%E9%80%86%E9%80%86-%E5%A4%A7%E8%B2%B7%E5%9C%8B%E5%B7%A8-%E5%9A%87%E5%A3%9E%E7%B6%B2-%E9%83%AD%E5%93%B2%E6%A6%AE%E6%B2%92%E5%9C%A8%E6%80%95-%E6%8A%B1%E5%88%B0700%E5%A1%8A-124910467.html",
-      "published": "Fri, 02 Oct 2026 12:49:10 GMT",
-      "summary": "財經中心／綜合報導近期因重壓 0050 備受市場矚目的摩爾投顧分析師「哲哲」郭哲榮，過去曾多次公開看好被動元件龍頭國巨（2327）。沒想到，被網友戲稱為台股「反指標女神」的網紅巴逆逆，近日突然在臉書發",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "2327(被動元件)",
-        "國巨(被動元件)",
-        "國巨*(2327)‧今日熱門"
-      ]
-    },
-    {
-      "title": "高雄路竹廠傳工安意外 華邦電：全力協助、配合調查",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5593551",
-      "published": "Fri, 02 Oct 2026 18:17:11 +0800",
-      "summary": "記憶體大廠華邦電（2344）高雄路竹分公司今（2）日傳出嚴重工安意外，造成外包商工人及華邦電員工身體多處遭強酸侵蝕受傷，對此，華邦電回應表示，事件發生後已立即啟動應變機制...…",
-      "source": "自由時報財經",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
       "matched_stocks": [
         "2344(記憶體)",
         "華邦電(2344)‧今日熱門",
@@ -104,11 +24,95 @@
       ]
     },
     {
-      "title": "主動式ETF狂飆！它含息報酬90%奪冠「狠甩台積電」一表看懂誰最強",
-      "link": "https://tw.news.yahoo.com/%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E7%8B%82%E9%A3%86-%E5%AE%83%E5%90%AB%E6%81%AF%E5%A0%B1%E9%85%AC90-%E5%A5%AA%E5%86%A0-%E7%8B%A0%E7%94%A9%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%A1%A8%E7%9C%8B%E6%87%82%E8%AA%B0%E6%9C%80%E5%BC%B7-125400770.html",
-      "published": "Fri, 02 Oct 2026 12:54:00 GMT",
-      "summary": "主動式ETF績效榜揭曉！00981A今年以來含息報酬破90%擊敗台積電2330與大盤，00992A配息暴增80%，達人教你看懂主動選股的超額報酬關鍵。(記者唐家興)",
+      "title": "台股暴漲千點！郭哲榮靠0050賺2500萬　再點名「4檔黑馬飆股」",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2%E5%8D%83%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%9D%A00050%E8%B3%BA2500%E8%90%AC-%E5%86%8D%E9%BB%9E%E5%90%8D-4%E6%AA%94%E9%BB%91%E9%A6%AC%E9%A3%86%E8%82%A1-132800665.html",
+      "published": "Mon, 05 Oct 2026 13:28:00 GMT",
+      "summary": "台股5日大漲1236點收49712.04點，逼近5萬點大關。郭哲榮分享0050獲利約2500萬元，並點名精材、帆宣、華新科、國巨4檔個股。（記者唐家興）",
       "source": "Yahoo奇摩股市-台股動態",
+      "score": 10,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "元大台灣50(0050)‧今日熱門",
+        "國巨(被動元件)",
+        "華新科(2492)‧今日熱門",
+        "華新科(被動元件)"
+      ]
+    },
+    {
+      "title": "台燿：高階銅箔基板放量  9月營收再衝新高",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5596472",
+      "published": "Mon, 05 Oct 2026 19:37:28 +0800",
+      "summary": "銅箔基板廠台燿（6274）受惠高階銅箔基板出貨比重增加，銅箔基板價格續揚，9月合併營收再創歷史新高，9月合併營收61.25億元，月增3.57%，年增114.80%，單月營...…",
+      "source": "自由時報財經",
+      "score": 10,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "年增",
+        "月增",
+        "合併"
+      ],
+      "matched_stocks": [
+        "6274(ABF載板/PCB)",
+        "台燿(ABF載板/PCB)"
+      ]
+    },
+    {
+      "title": "【公告】聯電第七次海外無擔保轉換公司債完成訂價",
+      "link": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%81%AF%E9%9B%BB%E7%AC%AC%E4%B8%83%E6%AC%A1%E6%B5%B7%E5%A4%96%E7%84%A1%E6%93%94%E4%BF%9D%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E5%AE%8C%E6%88%90%E8%A8%82%E5%83%B9-144639365.html",
+      "published": "Mon, 05 Oct 2026 14:46:39 GMT",
+      "summary": "日 期：2026年10月05日公司名稱：聯電(2303)主 旨：聯電第七次海外無擔保轉換公司債完成訂價發言人：劉啟東說 明：1.事實發生日:115/10/052.公司名稱:聯華電子股份有限公司3.與公",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 7,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "2303(晶圓代工)",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "聯電 公告本公司第七次海外無擔保轉換公司債完成訂價",
+      "link": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BB-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8%E7%AC%AC%E4%B8%83%E6%AC%A1%E6%B5%B7%E5%A4%96%E7%84%A1%E6%93%94%E4%BF%9D%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E5%AE%8C%E6%88%90%E8%A8%82%E5%83%B9-143300180.html",
+      "published": "Mon, 05 Oct 2026 14:33:00 GMT",
+      "summary": "公開資訊觀測站重大訊息公告(2303)聯電-公告本公司第七次海外無擔保轉換公司債完成訂價1.事實發生日:115/10/052.公司名稱:聯華電子股份有限公司3.與公司關係(請輸入本公司或子公司):本公",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 7,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "2303(晶圓代工)",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "台股明天就能上五萬點？外資大買台積電、台達電 雙雙近期最大筆",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%98%8E%E5%A4%A9%E5%B0%B1%E8%83%BD%E4%B8%8A%E4%BA%94%E8%90%AC%E9%BB%9E-%E5%A4%96%E8%B3%87%E5%A4%A7%E8%B2%B7%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E5%8F%B0%E9%81%94%E9%9B%BB-%E9%9B%99%E9%9B%99%E8%BF%91%E6%9C%9F%E6%9C%80%E5%A4%A7%E7%AD%86-122206541.html",
+      "published": "Mon, 05 Oct 2026 12:22:06 GMT",
+      "summary": "台股5日開高大漲，收在49,712.04點，大漲1,236.3點，漲幅2.55%，續創下收盤新高，成交量11,508.05億元。觀察成交值排行，大型權值股都有不錯的漲幅，台積電（2330）上漲3%，創",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 6,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "外資大買"
+      ],
+      "matched_stocks": [
+        "台達電(電源供應)"
+      ]
+    },
+    {
+      "title": "復華00418A採雙經理人、不配息 聚焦三大類股搶吃「整條魚」行情",
+      "link": "https://tw.stock.yahoo.com/news/%E5%BE%A9%E8%8F%AF00418a%E6%8E%A1%E9%9B%99%E7%B6%93%E7%90%86%E4%BA%BA-%E4%B8%8D%E9%85%8D%E6%81%AF-%E8%81%9A%E7%84%A6%E4%B8%89%E5%A4%A7%E9%A1%9E%E8%82%A1%E6%90%B6%E5%90%83-%E6%95%B4%E6%A2%9D%E9%AD%9A-%E8%A1%8C%E6%83%85-131853751.html",
+      "published": "Mon, 05 Oct 2026 13:18:53 GMT",
+      "summary": "投資台股只想小賺即跑，還是想完整掌握大趨勢的爆發力？復華投信繼成功推出主動復華未來50(00991A-TW)後，再添台股主動式ETF新戰力，主動復華台灣新星(00418A-TW)預計於 10 月 21",
+      "source": "Yahoo奇摩股市-最新新聞",
       "score": 5,
       "direction": "利多",
       "is_important": true,
@@ -116,58 +120,42 @@
         "配息"
       ],
       "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門"
+        "主動復華未來50(00991A)‧今日熱門"
       ]
     },
     {
-      "title": "台股ETF洗牌「增刪3檔」！踢掉台新新光金　記憶體大廠入列",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1etf%E6%B4%97%E7%89%8C-%E5%A2%9E%E5%88%AA3%E6%AA%94-%E8%B8%A2%E6%8E%89%E5%8F%B0%E6%96%B0%E6%96%B0%E5%85%89%E9%87%91-%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E5%BB%A0%E5%85%A5%E5%88%97-104200904.html",
-      "published": "Fri, 02 Oct 2026 10:42:00 GMT",
-      "summary": "台灣指數公司今日公布群益台ESG低碳50（00923）成分股最新定期審核結果，本次調整進行三進三出。新納入南亞科、友達及景碩3檔個股；同時剔除台新新光金、嘉澤與力成。相關異動將於今日盤後生效，投資人布",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 5,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "南亞科(記憶體)",
-        "友達(2409)‧今日熱門"
-      ]
-    },
-    {
-      "title": "盤後／台股漲122點交投熱絡　這27檔遭瘋搶",
-      "link": "https://tw.news.yahoo.com/%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E8%82%A1%E6%BC%B2122%E9%BB%9E%E4%BA%A4%E6%8A%95%E7%86%B1%E7%B5%A1-%E9%80%9927%E6%AA%94%E9%81%AD%E7%98%8B%E6%90%B6-071000833.html",
-      "published": "Fri, 02 Oct 2026 07:10:00 GMT",
-      "summary": "台股今（2）日狹幅震盪，終場收漲122.25點，成交值8981.74億元。權值股雖膠著，但中小型電子題材股交投熱絡。盤面焦點聚焦矽晶圓、被動元件、矽光子及ABF載板概念股，環球晶、華新科、光聖與臻鼎-",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "光聖(CPO/矽光子)",
-        "華新科(被動元件)"
-      ]
-    },
-    {
-      "title": "【Follow法人】外資狂掃友達8.1萬張居冠 反手提款台積電147億元 0050也遭砍3.2萬張",
-      "link": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E7%8B%82%E6%8E%83%E5%8F%8B%E9%81%9481%E8%90%AC%E5%BC%B5%E5%B1%85%E5%86%A0-%E5%8F%8D%E6%89%8B%E6%8F%90%E6%AC%BE%E5%8F%B0%E7%A9%8D%E9%9B%BB147%E5%84%84%E5%85%83-0050%E4%B9%9F%E9%81%AD%E7%A0%8D32%E8%90%AC%E5%BC%B5-071016985.html",
-      "published": "Fri, 02 Oct 2026 07:10:16 GMT",
-      "summary": "（下午4點48分更新外資買賣超個股）\n\n台股今（2）日開高走揚，終場收在48,475點，再創收盤歷史新高，不過外資買盤卻未同步放大，今日僅小幅買超26.21億元，雖呈連3買、累計加碼554.15億元，",
+      "title": "今年最強不是台積電？股添樂：AI供應鏈才是主角  00991A今年漲逾95%贏大盤",
+      "link": "https://tw.news.yahoo.com/%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%BC%B7%E4%B8%8D%E6%98%AF%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%82%A1%E6%B7%BB%E6%A8%82-ai%E4%BE%9B%E6%87%89%E9%8F%88%E6%89%8D%E6%98%AF%E4%B8%BB%E8%A7%92-00991a%E4%BB%8A%E5%B9%B4%E6%BC%B2%E9%80%BE95-%E8%B4%8F%E5%A4%A7%E7%9B%A4-113510560.html",
+      "published": "Mon, 05 Oct 2026 11:35:10 GMT",
+      "summary": "台股5日帶量大漲1236點，以49712點作收，成交值放大至1.15兆元，權王台積電同步攻上2580元歷史新高 […]",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "友達(2409)‧今日熱門"
+        "主動復華未來50(00991A)‧今日熱門"
       ]
     },
     {
-      "title": "友達狂飆5.61％！「這群人」聯手狂掃9.12萬張 58萬股東爽翻",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5593433",
-      "published": "Fri, 02 Oct 2026 17:02:31 +0800",
-      "summary": "〔財經頻道／綜合報導〕台股週五（2日）在矽晶圓、ABF載板、光電、通訊網路等逆勢走高，在三大法人買超95.57億，指數終場漲122點，收48475.74點，再創收盤新高，而擁有逾58萬股東的友達...…",
+      "title": "台股叩關五萬點 00991A開局3天漲8.17%奪冠",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8F%A9%E9%97%9C%E4%BA%94%E8%90%AC%E9%BB%9E-00991a%E9%96%8B%E5%B1%803%E5%A4%A9%E6%BC%B28-17-%E5%A5%AA%E5%86%A0-105509517.html",
+      "published": "Mon, 05 Oct 2026 10:55:09 GMT",
+      "summary": "台股第四季開局強勢反攻，加權指數10月5日大漲1,236點、收在49,712點，再創歷史新高，距離五萬點只差一 […]",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "主動復華未來50(00991A)‧今日熱門"
+      ]
+    },
+    {
+      "title": "騰輝電子-KY、由田等8檔10/6起打入處置  友達等64檔列注意股",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5596397",
+      "published": "Mon, 05 Oct 2026 18:20:27 +0800",
+      "summary": "證交所、櫃買中心今日公告，騰輝電子-KY（6672）等4檔上市、以及由田（3455）等4檔上櫃，共計8檔上市櫃股票從明起打入處置。此外，友達（2409）等33檔上市、以及...…",
       "source": "自由時報財經",
       "score": 3,
       "direction": "中性關注",
@@ -178,73 +166,45 @@
       ]
     },
     {
-      "title": "不只科技廠跟台積電 建商5.9億買鳳凰城商辦",
-      "link": "https://tw.stock.yahoo.com/news/%E4%B8%8D%E5%8F%AA%E7%A7%91%E6%8A%80%E5%BB%A0%E8%B7%9F%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E5%BB%BA%E5%95%865-9%E5%84%84%E8%B2%B7%E9%B3%B3%E5%87%B0%E5%9F%8E%E5%95%86%E8%BE%A6-095107451.html",
-      "published": "Fri, 02 Oct 2026 09:51:07 GMT",
-      "summary": "[非凡新聞]記者傅儀文,攝影陳柏誠AI不僅帶動科技股市值狂飆，電子廠大舉擴產也出現罕見的「搶廠潮」！日月光今年已經斥資近500億購置廠房，大立光更是七度加碼掃貨，二家獵地破15筆。但不只台灣，就連上市",
+      "title": "台股漲逾1200點收4萬9創新高　台積電收2575元新天價",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%BC%B2%E9%80%BE1200%E9%BB%9E%E6%94%B64%E8%90%AC9%E5%89%B5%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62575%E5%85%83%E6%96%B0%E5%A4%A9%E5%83%B9-103900224.html",
+      "published": "Mon, 05 Oct 2026 10:39:00 GMT",
+      "summary": "【記者許麗珍／台北報導】美股收紅，台股今開盤大漲逾800點，開盤不到五分鐘一口氣大漲逾千點，盤中更一度大漲至49770.66點創下盤中新高，終場大漲1,236.30點或2.55%，收在49,712.0",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "大立光(CPO/矽光子)"
+        "4977(CPO/矽光子)"
       ]
     },
     {
-      "title": "台股續寫新高！ABF三雄齊走強　被動元件強攻華新科等5檔亮燈",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%BA%8C%E5%AF%AB%E6%96%B0%E9%AB%98-abf%E4%B8%89%E9%9B%84%E9%BD%8A%E8%B5%B0%E5%BC%B7-%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%BC%B7%E6%94%BB%E8%8F%AF%E6%96%B0%E7%A7%91%E7%AD%895%E6%AA%94%E4%BA%AE%E7%87%88-084534641.html",
-      "published": "Fri, 02 Oct 2026 08:45:34 GMT",
-      "summary": "美股主要4大指數收紅，費城半導體指數更大漲1.59%，雖然台股今（2）日開高後一度翻黑，最低下探48205.81點，但隨後在中小型股走強帶動下翻紅，終場加權指數上漲122.25點、漲幅0.25%，收在",
+      "title": "台股價量俱揚衝49712點新高　蓄勢挺進5萬點大關",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%83%B9%E9%87%8F%E4%BF%B1%E6%8F%9A%E8%A1%9D49712%E9%BB%9E%E6%96%B0%E9%AB%98-%E8%93%84%E5%8B%A2%E6%8C%BA%E9%80%B25%E8%90%AC%E9%BB%9E%E5%A4%A7%E9%97%9C-103117960.html",
+      "published": "Mon, 05 Oct 2026 10:31:17 GMT",
+      "summary": "（中央社記者吳家豪台北2026年10月5日電）台股今天在電子權值股領軍下開高走高，終場大漲1236.3點，盤中最高49770.66點、收盤49712.04點皆創歷史新紀錄，成交值放大至新台幣1兆150",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "華新科(被動元件)"
+        "4977(CPO/矽光子)"
       ]
     },
     {
-      "title": "三大法人買超95.6億　欣興、臻鼎、台光電點火　台股再創新高48475.74點",
-      "link": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%8595-6%E5%84%84-%E6%AC%A3%E8%88%88-%E8%87%BB%E9%BC%8E-%E5%8F%B0%E5%85%89%E9%9B%BB%E9%BB%9E%E7%81%AB-073027232.html",
-      "published": "Fri, 02 Oct 2026 07:30:27 GMT",
-      "summary": "台股2日再漲122.25點，收盤再創新高48475.74點，指數靠著台光電、臻...",
+      "title": "台股有望攻破5萬點？蔡明興：台積電跳一下就過去了",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9C%89%E6%9C%9B%E6%94%BB%E7%A0%B45%E8%90%AC%E9%BB%9E-%E8%94%A1%E6%98%8E%E8%88%88-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%B3-%E4%B8%8B%E5%B0%B1%E9%81%8E%E5%8E%BB%E4%BA%86-093731627.html",
+      "published": "Mon, 05 Oct 2026 09:37:31 GMT",
+      "summary": "（中央社記者高華謙台北2026年10月5日電）台股今天盤中衝上49770點創新高，台積電股價收盤2575元也寫歷史紀錄。針對台股今年底前能否攻上5萬點，富邦金董事長蔡明興表示，一定有機會，「台積電跳一",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "欣興(ABF載板/PCB)"
-      ]
-    },
-    {
-      "title": "南亞科進駐虎尾園區遭中央卡？經濟部回應了",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5593592",
-      "published": "Fri, 02 Oct 2026 19:03:00 +0800",
-      "summary": "台塑集團旗下南亞科原先擬進駐雲林虎尾產業園區，因農地變更卡關導致進度難推進，如今拍板轉向落腳屏東科學園區，雲林縣長張麗善質疑中央審查標準須說明。經濟部對此回應，業者投資考...…",
-      "source": "自由時報財經",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "南亞科(記憶體)"
-      ]
-    },
-    {
-      "title": "雲林批中央卡關才錯失南亞科 農業部澄清：保護農業生產環境及農民權益",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5593439",
-      "published": "Fri, 02 Oct 2026 17:34:46 +0800",
-      "summary": "記憶體大廠南亞科通過國科會審查，確定落腳屏東科學園區，但該廠預計可帶來地方大量就業機會與半導體產業發展，雲林縣政府之前亦積極爭取，可惜落空，但雲縣府認為中央在農業用地變更...…",
-      "source": "自由時報財經",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "南亞科(記憶體)"
+        "4977(CPO/矽光子)"
       ]
     }
   ]
