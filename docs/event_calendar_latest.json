@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-10-05T16:18:42.300369",
+  "generated_at": "2026-10-06T14:24:25.507486",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 23
+      "days_until": 22
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2303",
+      "name": "聯電",
+      "announce_date": "2026-10-05",
+      "subject": "公告本公司第七次海外無擔保轉換公司債完成訂價",
+      "is_conference": false
+    },
     {
       "code": "3006",
       "name": "晶豪科",
@@ -173,27 +180,6 @@
       "name": "英業達",
       "announce_date": "2026-09-22",
       "subject": "代子公司英順達科技有限公司與英業達（上海）有限\r\n公司，公告資金貸與達公開發行公司資金貸與及背書\r\n保證處理準則第22條第1項第3款標準",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-09-21",
-      "subject": "澄清工商時報115年9月19日報導",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-09-21",
-      "subject": "(補充公告)本公司代子公司DET公告決議重建泰國BP1廠及BP1-P樓",
-      "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-09-21",
-      "subject": "公告本公司取得廠務設備",
       "is_conference": false
     }
   ],

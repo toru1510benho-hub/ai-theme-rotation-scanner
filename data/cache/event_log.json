@@ -719,5 +719,12 @@
     "announce_date": "2026-10-01",
     "subject": "公告本公司取得機器設備之相關資料",
     "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-10-05",
+    "subject": "公告本公司第七次海外無擔保轉換公司債完成訂價",
+    "is_conference": false
   }
 ]
