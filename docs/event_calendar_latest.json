@@ -1,12 +1,61 @@
 {
-  "generated_at": "2026-10-06T14:24:25.507486",
+  "generated_at": "2026-10-07T14:40:25.304693",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 22
+      "days_until": 21
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-10-06",
+      "subject": "公告處分ams-OSRAM AG普通股股票",
+      "is_conference": false
+    },
+    {
+      "code": "2059",
+      "name": "川湖",
+      "announce_date": "2026-10-06",
+      "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解",
+      "is_conference": false
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "announce_date": "2026-10-06",
+      "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-10-06",
+      "subject": "公告本公司註銷收回之限制員工權利新股\r\n辦理減資變更登記完成",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-10-06",
+      "subject": "本公司代子公司Eltek Norway AS公告決議召集115年\r\n股東臨時會",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-10-06",
+      "subject": "本公司代子公司Eltek Norway AS公告115年股東臨時會\r\n重要決議事項",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-10-06",
+      "subject": "代子公司PCL TECHNOLOGIES TRADING, INC.公告新增資金貸與\r\n金額達「公開發行公司資金貸與及背書保證處理準則」第二十二條\r\n第一項第三款之公告標準。",
+      "is_conference": false
+    },
     {
       "code": "2303",
       "name": "聯電",
@@ -159,27 +208,6 @@
       "name": "華邦電",
       "announce_date": "2026-09-23",
       "subject": "本公司參與認購子公司Winbond Electronics Malaysia Sdn. Bhd.現金增資案",
-      "is_conference": false
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "announce_date": "2026-09-22",
-      "subject": "董事會通過泰國地區子公司 Inventec Electronics (Thailand) Co., Ltd.，\r\n配合業務發展之需要，擬購置生產設備及廠務工程",
-      "is_conference": false
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "announce_date": "2026-09-22",
-      "subject": "公告本公司背書保證金額達「公開發行公司資金貸與及\r\n背書保證處理準則」第二十五條第一項第二款、第三款\r\n及第四款之公告標準",
-      "is_conference": false
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "announce_date": "2026-09-22",
-      "subject": "代子公司英順達科技有限公司與英業達（上海）有限\r\n公司，公告資金貸與達公開發行公司資金貸與及背書\r\n保證處理準則第22條第1項第3款標準",
       "is_conference": false
     }
   ],

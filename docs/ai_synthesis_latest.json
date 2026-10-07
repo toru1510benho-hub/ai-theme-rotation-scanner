@@ -1,53 +1,57 @@
 {
-  "generated_at": "2026-10-06T14:25:32.185036",
+  "generated_at": "2026-10-07T14:40:56.842736",
   "candidates": [
     {
       "code": "2382",
       "name": "廣達",
       "theme": "AI伺服器組裝",
       "score": 8,
-      "rise_60d_pct": -10.7095046854083,
-      "pe": 14.42,
-      "dividend_yield": 4.71,
+      "rise_60d_pct": -11.375661375661373,
+      "pe": 14.53,
+      "dividend_yield": 4.68,
       "revenue_yoy_pct": 177.453640698528,
       "flow_windows_value": {
-        "1": 822875899.0,
-        "3": -1227596491.5,
-        "5": -3198959347.0,
-        "7": -3874118091.0,
-        "10": -4581911477.5
+        "1": 476921745.0,
+        "3": 365456190.0,
+        "5": -1522082215.0,
+        "7": -2445938180.0,
+        "10": -4266357660.0
       },
-      "flow_streak_days": 1,
+      "flow_streak_days": 2,
       "tags": [
         "落後同業",
         "本益比低於族群中位數",
         "基本面佳(殖利率+營收年增,輕量版)",
         "★低位階+基本面佳"
       ],
-      "live_price": 333.5,
+      "live_price": 335.0,
       "buy_sell_zone": {
-        "latest_close": 333.5,
-        "ma5": 332.8,
-        "ma20": 337.5,
-        "bias_from_ma20_pct": -1.19,
+        "latest_close": 335.0,
+        "ma5": 333.1,
+        "ma20": 336.88,
+        "bias_from_ma20_pct": -0.56,
         "is_short_term_uptrend": false,
-        "buy_zone_low": 327.38,
-        "buy_zone_high": 347.62,
+        "buy_zone_low": 326.77,
+        "buy_zone_high": 346.98,
         "stop_loss_price": 321.44,
         "recent_low_20d": 328.0,
-        "recent_high_20d": 347.5,
+        "recent_high_20d": 344.5,
         "is_overheated": false
       },
       "trapped_pressure": {
         "trapped_zone_price": 356.49,
-        "latest_close": 333.5,
-        "distance_pct": 6.89,
+        "latest_close": 335.0,
+        "distance_pct": 6.41,
         "qualifying_days": 3,
         "note": null
       },
       "related_news": [
         {
-          "title": "蘇姿丰訪台拜會鴻海、台積電 證實AMD擬擴大對台供應鏈布局",
+          "title": "AMD投資再加碼　台積電、欣興、緯穎、南電都在00407A",
+          "direction": "中性關注"
+        },
+        {
+          "title": "台股近5萬點！看好AI　00881規模成長113%",
           "direction": "中性關注"
         }
       ]
@@ -57,16 +61,16 @@
       "name": "英業達",
       "theme": "AI伺服器組裝",
       "score": 7,
-      "rise_60d_pct": -16.045845272206293,
-      "pe": 18.81,
-      "dividend_yield": 3.43,
+      "rise_60d_pct": -10.200927357032462,
+      "pe": 18.9,
+      "dividend_yield": 3.41,
       "revenue_yoy_pct": 35.82690162998942,
       "flow_windows_value": {
-        "1": -84334776.0,
-        "3": -749027837.0,
-        "5": -1037770664.2,
-        "7": -1536647700.2,
-        "10": -1952617456.2
+        "1": -231189544.6,
+        "3": -609247929.5,
+        "5": -1130983256.9,
+        "7": -1499844121.3,
+        "10": -2079594564.6000001
       },
       "flow_streak_days": 0,
       "tags": [
@@ -74,70 +78,25 @@
         "基本面佳(殖利率+營收年增,輕量版)",
         "★低位階+基本面佳"
       ],
-      "live_price": 58.599998474121094,
+      "live_price": 58.099998474121094,
       "buy_sell_zone": {
-        "latest_close": 58.6,
-        "ma5": 59.02,
-        "ma20": 61.21,
-        "bias_from_ma20_pct": -4.27,
+        "latest_close": 58.1,
+        "ma5": 58.74,
+        "ma20": 60.81,
+        "bias_from_ma20_pct": -4.46,
         "is_short_term_uptrend": false,
-        "buy_zone_low": 59.38,
-        "buy_zone_high": 63.05,
-        "stop_loss_price": 57.13,
-        "recent_low_20d": 58.3,
-        "recent_high_20d": 66.1,
+        "buy_zone_low": 58.99,
+        "buy_zone_high": 62.64,
+        "stop_loss_price": 56.94,
+        "recent_low_20d": 58.1,
+        "recent_high_20d": 64.3,
         "is_overheated": false
       },
       "trapped_pressure": {
         "trapped_zone_price": 68.09,
-        "latest_close": 58.6,
-        "distance_pct": 16.19,
+        "latest_close": 58.1,
+        "distance_pct": 17.19,
         "qualifying_days": 6,
-        "note": null
-      },
-      "related_news": []
-    },
-    {
-      "code": "3163",
-      "name": "波若威",
-      "theme": "CPO/矽光子",
-      "score": 6,
-      "rise_60d_pct": 8.522736222022708,
-      "pe": 70.31,
-      "dividend_yield": 0.51,
-      "revenue_yoy_pct": null,
-      "flow_windows_value": {
-        "1": null,
-        "3": null,
-        "5": null,
-        "7": null,
-        "10": null
-      },
-      "flow_streak_days": 0,
-      "tags": [
-        "落後同業",
-        "本益比低於族群中位數",
-        "現在在買進區間內(回檔到月線附近,短均仍在月線之上)"
-      ],
-      "live_price": 689.0,
-      "buy_sell_zone": {
-        "latest_close": 689.0,
-        "ma5": 681.0,
-        "ma20": 677.55,
-        "bias_from_ma20_pct": 1.69,
-        "is_short_term_uptrend": true,
-        "buy_zone_low": 657.22,
-        "buy_zone_high": 697.88,
-        "stop_loss_price": 622.3,
-        "recent_low_20d": 635.0,
-        "recent_high_20d": 752.0,
-        "is_overheated": false
-      },
-      "trapped_pressure": {
-        "trapped_zone_price": 725.0,
-        "latest_close": 689.0,
-        "distance_pct": 5.23,
-        "qualifying_days": 12,
         "note": null
       },
       "related_news": []
@@ -147,43 +106,43 @@
       "name": "眾達-KY",
       "theme": "CPO/矽光子",
       "score": 6,
-      "rise_60d_pct": 13.770491803278695,
-      "pe": 52.55,
-      "dividend_yield": 1.25,
+      "rise_60d_pct": 15.51155115511551,
+      "pe": 52.1,
+      "dividend_yield": 1.26,
       "revenue_yoy_pct": 106.21752924846322,
       "flow_windows_value": {
-        "1": -16699028.0,
-        "3": -10075839.0,
-        "5": 62951178.5,
-        "7": 34963546.5,
-        "10": -9168260.5
+        "1": 3549175.0,
+        "3": 16772350.0,
+        "5": 28355250.0,
+        "7": 42774900.0,
+        "10": 9511425.0
       },
-      "flow_streak_days": 0,
+      "flow_streak_days": 1,
       "tags": [
         "落後同業",
         "本益比低於族群中位數",
         "法人近5日買超",
         "現在在買進區間內(回檔到月線附近,短均仍在月線之上)"
       ],
-      "live_price": 173.5,
+      "live_price": 175.0,
       "buy_sell_zone": {
-        "latest_close": 173.5,
-        "ma5": 172.7,
-        "ma20": 171.72,
-        "bias_from_ma20_pct": 1.03,
+        "latest_close": 175.0,
+        "ma5": 173.9,
+        "ma20": 171.5,
+        "bias_from_ma20_pct": 2.04,
         "is_short_term_uptrend": true,
-        "buy_zone_low": 166.57,
-        "buy_zone_high": 176.88,
+        "buy_zone_low": 166.35,
+        "buy_zone_high": 176.65,
         "stop_loss_price": 157.29,
         "recent_low_20d": 160.5,
-        "recent_high_20d": 179.5,
+        "recent_high_20d": 176.5,
         "is_overheated": false
       },
       "trapped_pressure": {
-        "trapped_zone_price": 171.35,
-        "latest_close": 173.5,
-        "distance_pct": -1.24,
-        "qualifying_days": 13,
+        "trapped_zone_price": 171.61,
+        "latest_close": 175.0,
+        "distance_pct": -1.94,
+        "qualifying_days": 14,
         "note": null
       },
       "related_news": []
@@ -193,9 +152,9 @@
       "name": "群聯",
       "theme": "記憶體",
       "score": 6,
-      "rise_60d_pct": -5.855855855855852,
-      "pe": 9.58,
-      "dividend_yield": 1.11,
+      "rise_60d_pct": -5.0691244239631335,
+      "pe": 9.44,
+      "dividend_yield": 1.13,
       "revenue_yoy_pct": null,
       "flow_windows_value": {
         "1": null,
@@ -208,17 +167,18 @@
       "tags": [
         "落後同業",
         "本益比低於族群中位數",
+        "法人今日買超",
         "現在在買進區間內(回檔到月線附近,短均仍在月線之上)"
       ],
-      "live_price": 2090.0,
+      "live_price": 2060.0,
       "buy_sell_zone": {
-        "latest_close": 2090.0,
-        "ma5": 2109.0,
-        "ma20": 2080.25,
-        "bias_from_ma20_pct": 0.47,
+        "latest_close": 2060.0,
+        "ma5": 2091.0,
+        "ma20": 2078.5,
+        "bias_from_ma20_pct": -0.89,
         "is_short_term_uptrend": true,
-        "buy_zone_low": 2017.84,
-        "buy_zone_high": 2142.66,
+        "buy_zone_low": 2016.14,
+        "buy_zone_high": 2140.86,
         "stop_loss_price": 1881.6,
         "recent_low_20d": 1920.0,
         "recent_high_20d": 2215.0,
@@ -226,8 +186,8 @@
       },
       "trapped_pressure": {
         "trapped_zone_price": 2126.22,
-        "latest_close": 2090.0,
-        "distance_pct": 1.73,
+        "latest_close": 2060.0,
+        "distance_pct": 3.21,
         "qualifying_days": 13,
         "note": null
       },
@@ -238,16 +198,16 @@
       "name": "聯電",
       "theme": "晶圓代工",
       "score": 6,
-      "rise_60d_pct": -5.448717948717952,
-      "pe": 22.93,
-      "dividend_yield": 1.71,
+      "rise_60d_pct": -3.2573289902280145,
+      "pe": 22.18,
+      "dividend_yield": 1.77,
       "revenue_yoy_pct": 30.71441291503008,
       "flow_windows_value": {
-        "1": -9269342057.5,
-        "3": -25782639067.5,
-        "5": -21124991742.5,
-        "7": -28185790340.0,
-        "10": -20575036517.5
+        "1": -5214367224.0,
+        "3": -31994176500.0,
+        "5": -27020352546.0,
+        "7": -26964552928.5,
+        "10": -26251921327.5
       },
       "flow_streak_days": 0,
       "tags": [
@@ -255,15 +215,15 @@
         "本益比低於族群中位數",
         "現在在買進區間內(回檔到月線附近,短均仍在月線之上)"
       ],
-      "live_price": 147.5,
+      "live_price": 148.5,
       "buy_sell_zone": {
-        "latest_close": 147.5,
-        "ma5": 155.5,
-        "ma20": 149.65,
-        "bias_from_ma20_pct": -1.44,
+        "latest_close": 148.5,
+        "ma5": 154.3,
+        "ma20": 149.93,
+        "bias_from_ma20_pct": -0.95,
         "is_short_term_uptrend": true,
-        "buy_zone_low": 145.16,
-        "buy_zone_high": 154.14,
+        "buy_zone_low": 145.43,
+        "buy_zone_high": 154.42,
         "stop_loss_price": 134.26,
         "recent_low_20d": 137.0,
         "recent_high_20d": 161.5,
@@ -271,39 +231,23 @@
       },
       "trapped_pressure": {
         "trapped_zone_price": 149.11,
-        "latest_close": 147.5,
-        "distance_pct": 1.09,
+        "latest_close": 148.5,
+        "distance_pct": 0.41,
         "qualifying_days": 8,
         "note": null
       },
       "related_news": [
         {
-          "title": "聯電9月營收253.5億元創新高 Q3寫歷史次高",
-          "direction": "利多"
+          "title": "【Follow法人】外資狠砍友達7萬張居冠！提款聯電鴻海逾52億元 反手敲進台塑三寶",
+          "direction": "利空"
         },
         {
-          "title": "聯電9月營收253.5億元創新高 Q3寫歷史次高",
-          "direction": "利多"
+          "title": "【Follow法人】外資狠砍友達7萬張居冠！提款聯電鴻海逾52億元 反手敲進台塑三寶",
+          "direction": "利空"
         },
         {
-          "title": "聯電9月營收253.5億元創新高 Q3寫歷史次高",
-          "direction": "利多"
-        },
-        {
-          "title": "聯電9月營收衝破紀錄 第3季財測達陣",
-          "direction": "利多"
-        },
-        {
-          "title": "聯電9月營收衝破紀錄 第3季財測達陣",
-          "direction": "利多"
-        },
-        {
-          "title": "台股創高外資轉賣 大砍友達8.7萬張、投信提款聯電6萬張",
-          "direction": "中性關注"
-        },
-        {
-          "title": "台股創高外資轉賣 大砍友達8.7萬張、投信提款聯電6萬張",
-          "direction": "中性關注"
+          "title": "【Follow法人】外資狠砍友達7萬張居冠！提款聯電鴻海逾52億元 反手敲進台塑三寶",
+          "direction": "利空"
         }
       ]
     },
@@ -312,40 +256,40 @@
       "name": "聯鈞",
       "theme": "CPO/矽光子",
       "score": 5,
-      "rise_60d_pct": 5.776892430278879,
-      "pe": 111.16,
-      "dividend_yield": 0.18,
+      "rise_60d_pct": 3.8834951456310662,
+      "pe": 107.71,
+      "dividend_yield": 0.19,
       "revenue_yoy_pct": 109.75810219812358,
       "flow_windows_value": {
-        "1": -930134115.0,
-        "3": -1108645695.0,
-        "5": -2272665132.0,
-        "7": -2831602104.0,
-        "10": -4081333437.0
+        "1": -818319415.0,
+        "3": -1742237665.0,
+        "5": -2575073235.0,
+        "7": -3098793295.0,
+        "10": -5340268885.0
       },
       "flow_streak_days": 0,
       "tags": [
         "落後同業",
         "現在在買進區間內(回檔到月線附近,短均仍在月線之上)"
       ],
-      "live_price": 531.0,
+      "live_price": 535.0,
       "buy_sell_zone": {
-        "latest_close": 531.0,
-        "ma5": 532.0,
-        "ma20": 528.08,
-        "bias_from_ma20_pct": 0.55,
+        "latest_close": 535.0,
+        "ma5": 534.4,
+        "ma20": 525.58,
+        "bias_from_ma20_pct": 1.79,
         "is_short_term_uptrend": true,
-        "buy_zone_low": 512.23,
-        "buy_zone_high": 543.92,
+        "buy_zone_low": 509.81,
+        "buy_zone_high": 541.34,
         "stop_loss_price": 482.65,
         "recent_low_20d": 492.5,
-        "recent_high_20d": 585.0,
+        "recent_high_20d": 548.0,
         "is_overheated": false
       },
       "trapped_pressure": {
         "trapped_zone_price": 575.31,
-        "latest_close": 531.0,
-        "distance_pct": 8.34,
+        "latest_close": 535.0,
+        "distance_pct": 7.53,
         "qualifying_days": 13,
         "note": null
       },
@@ -356,32 +300,31 @@
       "name": "旺宏",
       "theme": "記憶體",
       "score": 5,
-      "rise_60d_pct": -16.724738675958186,
-      "pe": 28.79,
+      "rise_60d_pct": -14.492753623188403,
+      "pe": 28.32,
       "dividend_yield": null,
       "revenue_yoy_pct": 218.53271706735816,
       "flow_windows_value": {
-        "1": -47811711.0,
-        "3": 252965248.0,
-        "5": 1373551642.0,
-        "7": 624533648.5,
-        "10": 195162739.5
+        "1": -443873874.0,
+        "3": -619580476.0,
+        "5": -323673528.0,
+        "7": 1236665960.0,
+        "10": 111273292.0
       },
       "flow_streak_days": 0,
       "tags": [
         "落後同業",
-        "法人近5日買超",
         "現在在買進區間內(回檔到月線附近,短均仍在月線之上)"
       ],
-      "live_price": 119.5,
+      "live_price": 118.0,
       "buy_sell_zone": {
-        "latest_close": 119.5,
-        "ma5": 121.3,
-        "ma20": 120.22,
-        "bias_from_ma20_pct": -0.6,
+        "latest_close": 118.0,
+        "ma5": 120.4,
+        "ma20": 119.9,
+        "bias_from_ma20_pct": -1.58,
         "is_short_term_uptrend": true,
-        "buy_zone_low": 116.62,
-        "buy_zone_high": 123.83,
+        "buy_zone_low": 116.3,
+        "buy_zone_high": 123.5,
         "stop_loss_price": 112.21,
         "recent_low_20d": 114.5,
         "recent_high_20d": 126.5,
@@ -389,9 +332,58 @@
       },
       "trapped_pressure": {
         "trapped_zone_price": 135.66,
-        "latest_close": 119.5,
-        "distance_pct": 13.52,
+        "latest_close": 118.0,
+        "distance_pct": 14.97,
         "qualifying_days": 10,
+        "note": null
+      },
+      "related_news": [
+        {
+          "title": "旺宏9月營收連續6個月改寫新高 Q3同締新猷",
+          "direction": "利多"
+        }
+      ]
+    },
+    {
+      "code": "3163",
+      "name": "波若威",
+      "theme": "CPO/矽光子",
+      "score": 3,
+      "rise_60d_pct": 9.97963340122201,
+      "pe": 71.63,
+      "dividend_yield": 0.5,
+      "revenue_yoy_pct": null,
+      "flow_windows_value": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "7": null,
+        "10": null
+      },
+      "flow_streak_days": 0,
+      "tags": [
+        "落後同業",
+        "本益比低於族群中位數"
+      ],
+      "live_price": 702.0,
+      "buy_sell_zone": {
+        "latest_close": 702.0,
+        "ma5": 692.8,
+        "ma20": 675.05,
+        "bias_from_ma20_pct": 3.99,
+        "is_short_term_uptrend": true,
+        "buy_zone_low": 654.8,
+        "buy_zone_high": 695.3,
+        "stop_loss_price": 622.3,
+        "recent_low_20d": 635.0,
+        "recent_high_20d": 726.0,
+        "is_overheated": false
+      },
+      "trapped_pressure": {
+        "trapped_zone_price": 725.0,
+        "latest_close": 702.0,
+        "distance_pct": 3.28,
+        "qualifying_days": 12,
         "note": null
       },
       "related_news": []
