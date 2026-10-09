@@ -1,264 +1,161 @@
 {
-  "generated_at": "2026-10-08T14:47:45.672211",
+  "generated_at": "2026-10-09T14:31:39.297671",
   "total_news_scanned": 140,
-  "relevant_count": 16,
+  "relevant_count": 10,
   "news": [
     {
-      "title": "價量齊揚 力積電9月營收創新高、Q3登次高",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5600090",
-      "published": "Thu, 08 Oct 2026 17:34:07 +0800",
-      "summary": "晶圓代工廠力積電（6770）今（8）日公告9月營收76.65億元，受惠客戶需求升溫，出貨量增加，價格也同步揚升，帶動營收月增9.36%，年增93.95%，創新高；第3季2...…",
-      "source": "自由時報財經",
-      "score": 15,
+      "title": "香過鴻海、廣達！這檔老AI法人喊上「5字頭」 最新評等、EPS完整看",
+      "link": "https://tw.stock.yahoo.com/news/%E9%A6%99%E9%81%8E%E9%B4%BB%E6%B5%B7-%E5%BB%A3%E9%81%94-%E9%80%99%E6%AA%94%E8%80%81ai%E6%B3%95%E4%BA%BA%E5%96%8A%E4%B8%8A-5%E5%AD%97%E9%A0%AD-%E6%9C%80%E6%96%B0%E8%A9%95%E7%AD%89-212130993.html",
+      "published": "Thu, 08 Oct 2026 21:21:30 GMT",
+      "summary": "PC大廠技嘉(2376)9月營收創新高，AI伺服器出貨暴衝，推升第3季與前3季合併營收同步攻頂，本土大咖法人相繼給出「5字頭」目標價，不僅比美系外資高盛日前給予鴻海(2317)、廣達(2382)的40",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 14,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
+        "喊上",
         "營收創新高",
-        "年增",
-        "月增"
+        "合併"
       ],
       "matched_stocks": [
-        "6770(晶圓代工)",
-        "力積電(6770)‧今日熱門",
-        "力積電(晶圓代工)"
+        "2382(AI伺服器組裝)",
+        "廣達(AI伺服器組裝)"
       ]
     },
     {
-      "title": "外資連假前提款758億元 大砍00406A、友達及鴻海",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A3%E5%81%87%E5%89%8D%E6%8F%90%E6%AC%BE758%E5%84%84%E5%85%83-%E5%A4%A7%E7%A0%8D00406a-%E5%8F%8B%E9%81%94%E5%8F%8A%E9%B4%BB%E6%B5%B7-115758990.html",
-      "published": "Thu, 08 Oct 2026 11:57:58 GMT",
-      "summary": "台股今跌492點收49,313點，成交量縮至8,696億元。 外資連3賣，單日賣超758.52億元，期貨空單增4,048口至8.3萬口。 外資賣超00406A、友達、0050、鴻海；投信轉買46.88",
+      "title": "台股逼近5萬點變天了？股王、股后雙雙跌停 專家示警背後隱憂",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%80%BC%E8%BF%915%E8%90%AC%E9%BB%9E%E8%AE%8A%E5%A4%A9%E4%BA%86-%E8%82%A1%E7%8E%8B-%E8%82%A1%E5%90%8E%E9%9B%99%E9%9B%99%E8%B7%8C%E5%81%9C-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%E8%83%8C%E5%BE%8C%E9%9A%B1%E6%86%82-012027135.html",
+      "published": "Fri, 09 Oct 2026 01:20:27 GMT",
+      "summary": "台股本周攻5萬點功敗垂成，昨（8）終場再跌492點收49313點，台指期夜盤續跌652點，一舉失守4萬9關卡。萬寶投顧投資總監蔡明彰在個人YT表示，令人警惕的是，信驊與川湖這兩檔指標高價股，竟在假期前",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 12,
+      "score": 6,
       "direction": "利空",
       "is_important": true,
       "matched_keywords": [
-        "外資賣超"
+        "跌停"
       ],
       "matched_stocks": [
-        "主動中信台灣收益(00406A)‧今日熱門",
-        "元大台灣50(0050)‧今日熱門",
-        "友達(2409)‧今日熱門"
+        "川湖(AI伺服器組裝)"
       ]
     },
     {
-      "title": "大立光毛利率創13年新低！ 林恩平全說了 友達「躺著也中槍」",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E7%AB%8B%E5%85%89%E6%AF%9B%E5%88%A9%E7%8E%87%E5%89%B513%E5%B9%B4%E6%96%B0%E4%BD%8E-%E6%9E%97%E6%81%A9%E5%B9%B3%E5%85%A8%E8%AA%AA%E4%BA%86-%E5%8F%8B%E9%81%94-%E8%BA%BA%E8%91%97%E4%B9%9F%E4%B8%AD%E6%A7%8D-141500721.html",
-      "published": "Thu, 08 Oct 2026 14:15:00 GMT",
-      "summary": "大立光（3008）第三季營收、獲利表現不差，但毛利率卻創下13年新低，董事長林恩平在法說會上也沒有避談利空，除了說明新機良率與成本壓力，也透露手機拉貨動能可能在11月轉弱。不過，相較短期手機業務，大立",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 10,
+      "title": "鴻海衰被大立光掃到？兆元營收救不了股價 專家爆：這波最慘受災戶是它",
+      "link": "https://tw.stock.yahoo.com/news/%E9%B4%BB%E6%B5%B7%E8%A1%B0%E8%A2%AB%E5%A4%A7%E7%AB%8B%E5%85%89%E6%8E%83%E5%88%B0-%E5%85%86%E5%85%83%E7%87%9F%E6%94%B6%E6%95%91%E4%B8%8D%E4%BA%86%E8%82%A1%E5%83%B9-%E5%B0%88%E5%AE%B6%E7%88%86-%E9%80%99%E6%B3%A2%E6%9C%80%E6%85%98%E5%8F%97%E7%81%BD%E6%88%B6%E6%98%AF%E5%AE%83-104530922.html",
+      "published": "Fri, 09 Oct 2026 10:45:30 GMT",
+      "summary": "手機大廠拉貨動能放緩，大立光董事長林恩平於法說會透露客戶已下修需求；同時，日媒也報導蘋果削減零組件訂單。投資達人葉育碩分析，這一波最讓人心疼的包括鴻海，即便單月營收破兆元創下歷史新高，股價卻一路往回走",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
         "法說會"
       ],
       "matched_stocks": [
-        "3008(CPO/矽光子)",
-        "友達(2409)‧今日熱門",
         "大立光(CPO/矽光子)"
       ]
     },
     {
-      "title": "緯創英業達第3季營收創新高　和碩9月歷年最旺",
-      "link": "https://tw.stock.yahoo.com/news/%E7%B7%AF%E5%89%B5%E8%8B%B1%E6%A5%AD%E9%81%94%E7%AC%AC3%E5%AD%A3%E7%87%9F%E6%94%B6%E5%89%B5%E6%96%B0%E9%AB%98-%E5%92%8C%E7%A2%A99%E6%9C%88%E6%AD%B7%E5%B9%B4%E6%9C%80%E6%97%BA-131106542.html",
-      "published": "Thu, 08 Oct 2026 13:11:06 GMT",
-      "summary": "（中央社記者吳家豪台北2026年10月8日電）4大代工廠9月營收今天出爐，受惠於人工智慧（AI）伺服器與季底拉貨動能，緯創、英業達第3季合併營收同步改寫單季歷史新高；和碩在客戶新機備貨加持下，9月營收",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 10,
+      "title": "台積電Q3營收1.49兆元創單季高、大立光攻CPO、9月進出口連35紅 本周大事回顧",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBq3%E7%87%9F%E6%94%B61-49%E5%85%86%E5%85%83%E5%89%B5%E5%96%AE%E5%AD%A3%E9%AB%98-%E5%A4%A7%E7%AB%8B%E5%85%89%E6%94%BBcpo-9%E6%9C%88%E9%80%B2%E5%87%BA%E5%8F%A3%E9%80%A335%E7%B4%85-%E6%9C%AC%E5%91%A8%E5%A4%A7%E4%BA%8B%E5%9B%9E%E9%A1%A7-023734093.html",
+      "published": "Fri, 09 Oct 2026 02:37:34 GMT",
+      "summary": "台積電周四(8日)公告9月營收5118.57億元，創歷史次高，第三季營收1.49兆元，同步寫新猷；長榮周四召開法說會，總經理吳光輝表示，旺季尚未結束，美國線旺到明年春節前；財政部周四公布9月進出口統計",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "營收創新高",
-        "合併"
+        "法說會"
       ],
       "matched_stocks": [
-        "緯創(AI伺服器組裝)",
-        "英業達(AI伺服器組裝)"
+        "大立光(CPO/矽光子)"
       ]
     },
     {
-      "title": "三大法人大砍898億！台積電領跌、川湖連2日吞跌停　台塑逆勢續強",
-      "link": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%A4%A7%E7%A0%8D898%E5%84%84-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A0%98%E8%B7%8C-%E5%B7%9D%E6%B9%96%E9%80%A32%E6%97%A5%E5%90%9E%E8%B7%8C%E5%81%9C-%E5%8F%B0%E5%A1%91%E9%80%86%E5%8B%A2%E7%BA%8C%E5%BC%B7-094511815.html",
-      "published": "Thu, 08 Oct 2026 09:45:11 GMT",
-      "summary": "台股衝刺5萬點整數關卡遭遇阻礙，受美股回檔拖累，開盤觸及全日最高49,783.06點後震盪走低，加權指數終場下跌492.93點，收在49,313.44點，跌幅0.99%，全日高低振幅達593.29點。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 9,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "跌停"
-      ],
-      "matched_stocks": [
-        "台塑(1301)‧今日熱門",
-        "川湖(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "AI股洩氣！「股后」苦吞2根跌停、1張再蒸發117.5萬元　股王連3跌10%盤中摜跌停、聯發科也挫3%",
-      "link": "https://tw.stock.yahoo.com/news/ai%E8%82%A1%E6%B4%A9%E6%B0%A3-%E8%82%A1%E5%90%8E-%E8%8B%A6%E5%90%9E2%E6%A0%B9%E8%B7%8C%E5%81%9C-1%E5%BC%B5%E5%86%8D%E8%92%B8%E7%99%BC117-5%E8%90%AC%E5%85%83-085000771.html",
-      "published": "Thu, 08 Oct 2026 08:50:00 GMT",
-      "summary": "[FTNN新聞網]記者陳思穎／綜合報導台股今（8）開低走低，終場收49313.44點，下跌492.93點，跌幅0.99%，成交額8721.09億元。AI族群普遍承壓，股后川湖（2059）...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 8,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "跌停"
-      ],
-      "matched_stocks": [
-        "2059(AI伺服器組裝)",
-        "川湖(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "大股東又要賣股了！南電大股東申讓2511張",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5600306",
-      "published": "Thu, 08 Oct 2026 20:08:55 +0800",
-      "summary": "IC載板產業因AI（人工智慧）、高速運算（HPC）與網通交換器需求強勁，進入「賣方市場」，IC載板廠南電（8046）、欣興（3037）、景碩（3189）今年以來股價漲勢驚...…",
-      "source": "自由時報財經",
-      "score": 8,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "3037(ABF載板/PCB)",
-        "8046(ABF載板/PCB)",
-        "南電(ABF載板/PCB)",
-        "欣興(ABF載板/PCB)"
-      ]
-    },
-    {
-      "title": "台股跌492點周K連4紅 外資連3賣再提款758億",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C492%E9%BB%9E%E5%91%A8k%E9%80%A34%E7%B4%85-%E5%A4%96%E8%B3%87%E9%80%A33%E8%B3%A3%E5%86%8D%E6%8F%90%E6%AC%BE758%E5%84%84-094802838.html",
-      "published": "Thu, 08 Oct 2026 09:48:02 GMT",
-      "summary": "[非凡新聞]記者謝旻蓁受到美股四大指數收黑，以及美債殖利率重返24年高點影響，台股雙十節前最後一個交易日賣壓出籠，大型電子權值股跌幅走深，加上股后川湖連兩天跌停，加權指數開盤一度下跌超過600點，最低",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "跌停"
-      ],
-      "matched_stocks": [
-        "川湖(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "外資賣超台股758億元　連假前調節ETF友達鴻海",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1758%E5%84%84%E5%85%83-%E9%80%A3%E5%81%87%E5%89%8D%E8%AA%BF%E7%AF%80etf%E5%8F%8B%E9%81%94%E9%B4%BB%E6%B5%B7-094634121.html",
-      "published": "Thu, 08 Oct 2026 09:46:34 GMT",
-      "summary": "（中央社記者張建中台北2026年10月8日電）台股今天在連假前賣壓出籠及買盤保守觀望下，終場下跌492.93點，收在49313.44點，成交值新台幣8696.96億元。外資今天賣超台股758.52億元",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "外資賣超"
-      ],
-      "matched_stocks": [
-        "友達(2409)‧今日熱門"
-      ]
-    },
-    {
-      "title": "外資賣超台股758億元　調節ETF友達鴻海",
-      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1758%E5%84%84%E5%85%83-%E8%AA%BF%E7%AF%80etf%E5%8F%8B%E9%81%94%E9%B4%BB%E6%B5%B7-094350313.html",
-      "published": "Thu, 08 Oct 2026 09:43:50 GMT",
-      "summary": "（中央社記者張建中台北8日電）台股今天在連假前賣壓出籠及買盤保守觀望下，終場下跌492.93點，收在49313.44點，成交值新台幣8696.96億元。外資今天賣超台股758.52億元，賣超前10名以",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "外資賣超"
-      ],
-      "matched_stocks": [
-        "友達(2409)‧今日熱門"
-      ]
-    },
-    {
-      "title": "友達宸鴻9月營收持平　布局先進封裝進度受矚",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94%E5%AE%B8%E9%B4%BB9%E6%9C%88%E7%87%9F%E6%94%B6%E6%8C%81%E5%B9%B3-%E5%B8%83%E5%B1%80%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E9%80%B2%E5%BA%A6%E5%8F%97%E7%9F%9A-135236801.html",
-      "published": "Thu, 08 Oct 2026 13:52:36 GMT",
-      "summary": "（中央社記者潘智義台北2026年10月8日電）繼面板廠群創(3481)獲國際大廠認可，率先穩定出貨半導體先進封裝產品之後，友達光電(2409)也在半導體展大秀先進封裝玻璃核心基板，觸控面板廠宸鴻(36",
+      "title": "鴻海衰被大立光掃到？兆元營收救不了股價 專家爆：這波最慘受災戶是它",
+      "link": "https://tw.stock.yahoo.com/news/%E9%B4%BB%E6%B5%B7%E8%A1%B0%E8%A2%AB%E5%A4%A7%E7%AB%8B%E5%85%89%E6%8E%83%E5%88%B0-%E5%85%86%E5%85%83%E7%87%9F%E6%94%B6%E6%95%91%E4%B8%8D%E4%BA%86%E8%82%A1%E5%83%B9-%E5%B0%88%E5%AE%B6%E7%88%86-%E9%80%99%E6%B3%A2%E6%9C%80%E6%85%98%E5%8F%97%E7%81%BD%E6%88%B6%E6%98%AF%E5%AE%83-104530922.html",
+      "published": "Fri, 09 Oct 2026 10:45:30 GMT",
+      "summary": "手機大廠拉貨動能放緩，大立光董事長林恩平於法說會透露客戶已下修需求；同時，日媒也報導蘋果削減零組件訂單。投資達人葉育碩分析，這一波最讓人心疼的包括鴻海，即便單月營收破兆元創下歷史新高，股價卻一路往回走",
       "source": "Yahoo奇摩股市-最新新聞",
-      "score": 6,
-      "direction": "中性關注",
+      "score": 5,
+      "direction": "利多",
       "is_important": true,
-      "matched_keywords": [],
+      "matched_keywords": [
+        "法說會"
+      ],
       "matched_stocks": [
-        "友達(2409)‧今日熱門",
-        "群創(3481)‧今日熱門"
+        "大立光(CPO/矽光子)"
       ]
     },
     {
-      "title": "台股創高「00935還在63元」！他想認栽換0050 引論戰",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%89%B5%E9%AB%98-00935%E9%82%84%E5%9C%A863%E5%85%83-%E4%BB%96%E6%83%B3%E8%AA%8D%E6%A0%BD%E6%8F%9B0050-%E5%BC%95%E8%AB%96%E6%88%B0-114700446.html",
-      "published": "Thu, 08 Oct 2026 11:47:00 GMT",
-      "summary": "台股近日頻創新高，但並非每個人都有獲利。有網友表示，原本看中野村臺灣新科技50（00935）漲勢比元大台灣50（0050）而買入，如今卻陷入是否該換股難題。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
-      ]
-    },
-    {
-      "title": "外資國慶前變臉台股摔破五日線！權值股軟腳 台塑集團揪被動元件當抗跌大隊 ｜Yahoo財經掃描",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%9C%8B%E6%85%B6%E5%89%8D%E8%AE%8A%E8%87%89%E5%8F%B0%E8%82%A1%E6%91%94%E7%A0%B4%E4%BA%94%E6%97%A5%E7%B7%9A%EF%BC%81%E6%AC%8A%E5%80%BC%E8%82%A1%E8%BB%9F%E8%85%B3-%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98%E6%8F%AA%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E7%95%B6%E6%8A%97%E8%B7%8C%E5%A4%A7%E9%9A%8A-%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-090657722.html",
-      "published": "Thu, 08 Oct 2026 09:06:57 GMT",
-      "summary": "國慶行情變調，外資賣壓出籠，台股失守5日線！今(8)日加權指數終場走跌492.93點、跌幅0.99%，收49,313.44點，本周仍上漲837.7點、周線連四紅，成交金額8721.09億元。在美債殖利",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台塑(1301)‧今日熱門"
-      ]
-    },
-    {
-      "title": "名師操盤》台股暴殺多方這時表態 台塑等10檔強棒成新寵",
-      "link": "https://tw.stock.yahoo.com/news/%E5%90%8D%E5%B8%AB%E6%93%8D%E7%9B%A4-%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%AE%BA%E5%A4%9A%E6%96%B9%E9%80%99%E6%99%82%E8%A1%A8%E6%85%8B-%E5%8F%B0%E5%A1%91%E7%AD%8910%E6%AA%94%E5%BC%B7%E6%A3%92%E6%88%90%E6%96%B0%E5%AF%B5-083957640.html",
-      "published": "Thu, 08 Oct 2026 08:39:57 GMT",
-      "summary": "美國長天期公債殖利率再度攀升，引發市場對通膨及升息的擔憂，美股漲多整理。周四的台股，隨著美股拉回，加上國慶連假在即，指數開低震盪，權值電子普遍拉回，終場下跌492點，以49,313點作收，K線收黑K，",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "台塑(1301)‧今日熱門"
-      ]
-    },
-    {
-      "title": "大馬首相安華擬推動緬甸重返東協 民主團體抗議",
-      "link": "https://tw.news.yahoo.com/%E5%A4%A7%E9%A6%AC%E9%A6%96%E7%9B%B8%E5%AE%89%E8%8F%AF%E6%93%AC%E6%8E%A8%E5%8B%95%E7%B7%AC%E7%94%B8%E9%87%8D%E8%BF%94%E6%9D%B1%E5%8D%94-%E6%B0%91%E4%B8%BB%E5%9C%98%E9%AB%94%E6%8A%97%E8%AD%B0-133731739.html",
-      "published": "Thu, 08 Oct 2026 13:37:31 GMT",
-      "summary": "馬來西亞首相安華（Anwar Ibrahim）今天（8日）接待到訪的緬甸總統敏昂萊（Min Aung Hlaing）時表示，大馬政府將「盡一切可能」確保緬甸重新加入東南亞國家協會（ASEAN，簡稱東協",
+      "title": "三芳 115年9月營收9.37億、年增0.17%",
+      "link": "https://tw.stock.yahoo.com/news/%E4%B8%89%E8%8A%B3-115%E5%B9%B49%E6%9C%88%E7%87%9F%E6%94%B69-37%E5%84%84-%E5%B9%B4%E5%A2%9E0-17-125400991.html",
+      "published": "Fri, 09 Oct 2026 12:54:00 GMT",
+      "summary": "三芳(1307)9月營收資料(單位千元) 當月本年累計 營收936,8178,719,673 去年同期935,2308,251,583 增減1,587468,090 增減百分比0.17%5.67% 延",
       "source": "Yahoo奇摩股市-最新新聞",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
+      "score": 4,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "年增"
+      ],
       "matched_stocks": [
-        "南亞(1303)‧今日熱門"
+        "2308(電源供應)"
       ]
     },
     {
-      "title": "9月年減被偷看答案？「面板大廠」三大法人狂倒6.7萬張　華邦電、鴻海營收史高也中刀",
-      "link": "https://tw.stock.yahoo.com/news/9%E6%9C%88%E5%B9%B4%E6%B8%9B%E8%A2%AB%E5%81%B7%E7%9C%8B%E7%AD%94%E6%A1%88-%E9%9D%A2%E6%9D%BF%E5%A4%A7%E5%BB%A0-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E7%8B%82%E5%80%926-7%E8%90%AC%E5%BC%B5-%E8%8F%AF%E9%82%A6%E9%9B%BB-133000554.html",
-      "published": "Thu, 08 Oct 2026 13:30:00 GMT",
-      "summary": "[FTNN新聞網]記者吳峻光／綜合報導雙十國慶連假前攻5萬點正式告吹，台股今（8）日終場收49,313.44點，下跌492.93點，跌幅0.99％，成交量再縮至9245億元。根據...",
+      "title": "分析｜迎戰輝達！AMD蘇姿丰密訪台積電等台廠　專家揭旋風固樁背後戰略",
+      "link": "https://tw.stock.yahoo.com/news/%E5%88%86%E6%9E%90-%E8%BF%8E%E6%88%B0%E8%BC%9D%E9%81%94-amd%E8%98%87%E5%A7%BF%E4%B8%B0%E5%AF%86%E8%A8%AA%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%AD%89%E5%8F%B0%E5%BB%A0-%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%97%8B%E9%A2%A8%E5%9B%BA%E6%A8%81%E8%83%8C%E5%BE%8C%E6%88%B0%E7%95%A5-095800112.html",
+      "published": "Fri, 09 Oct 2026 09:58:00 GMT",
+      "summary": "【記者蕭文康／台北報導】超微（AMD）執行長蘇姿丰6日旋風式訪台，她親口證實，此行主要是拜會所有客戶及合作夥伴，包括台積電、鴻海、廣達等，特別是在CPU領域，市場需求遠超出供給，這也是她來台的原因，希",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "華邦電(記憶體)"
+        "廣達(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "月薪15萬、頂台積電工程師光環卻淪慣竊！他走上偏路…跟家庭變故有關",
+      "link": "https://tw.news.yahoo.com/%E6%9C%88%E8%96%AA15%E8%90%AC-%E9%A0%82%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%85%89%E7%92%B0%E5%8D%BB%E6%B7%AA%E6%85%A3%E7%AB%8A-%E4%BB%96%E8%B5%B0%E4%B8%8A%E5%81%8F%E8%B7%AF-%E8%B7%9F%E5%AE%B6%E5%BA%AD%E8%AE%8A%E6%95%85%E6%9C%89%E9%97%9C-033200122.html",
+      "published": "Fri, 09 Oct 2026 03:32:00 GMT",
+      "summary": "新北市陳姓男子曾在台積電擔任工程師，及經營金融風險控管公司，月收10至15萬元；卻到超商行竊，害店家損失1066元遭判拘役30天；他不服提起上訴，主張因母親離世、弟弟竄改遺囑及父親冷漠對待等家庭因素，",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 2,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "光環(CPO/矽光子)"
+      ]
+    },
+    {
+      "title": "股后最慘一周！台股衝5萬 10檔反被血洗 川湖為何也撐不住？",
+      "link": "https://tw.news.yahoo.com/%E8%82%A1%E5%90%8E%E6%9C%80%E6%85%98-%E5%91%A8-%E5%8F%B0%E8%82%A1%E8%A1%9D5%E8%90%AC-10%E6%AA%94%E5%8F%8D%E8%A2%AB%E8%A1%80%E6%B4%97-%E5%B7%9D%E6%B9%96%E7%82%BA%E4%BD%95%E4%B9%9F%E6%92%90%E4%B8%8D%E4%BD%8F-223359625.html",
+      "published": "Thu, 08 Oct 2026 22:33:59 GMT",
+      "summary": "台股本周未能一舉站上5萬點，但仍上漲837點，收在49,313點，漲幅1.72%。統計本周跌幅前十名，股后川湖意外名列跌幅第十名，周跌幅12.6%，收10,615元。川湖9月營收44.64億元，月減3",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 2,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "川湖(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "聯電ADR8日下跌0.49美元跌幅2.10%折台股145.48元",
+      "link": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr8%E6%97%A5%E4%B8%8B%E8%B7%8C0-49%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%852-10-%E6%8A%98%E5%8F%B0%E8%82%A1145-48%E5%85%83-214600539.html",
+      "published": "Thu, 08 Oct 2026 21:46:00 GMT",
+      "summary": "(中央社台北2026年10月 9日電)聯電在NYSE掛牌 ADR以22.82美元作收，下跌0.49美元，跌幅 2.10%。由於每單位聯電 ADR相當於台股 5股聯電普通股，以10月 8日新台幣匯市收盤",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 2,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "聯電(晶圓代工)"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:47:32.826937",
+  "generated_at": "2026-10-09T14:31:16.980366",
   "theme_ranking_by_money_flow": [
     "ABF載板/PCB",
     "電源供應",
@@ -24,11 +24,11 @@
           "close": 522.0,
           "rise_5d_pct": 1.3592233009708687,
           "rise_60d_pct": 9.663865546218497,
-          "pe": 108.52,
+          "pe": 105.88,
           "dividend_yield": 0.19,
           "revenue_yoy_pct": 109.75810219812358,
-          "foreign_net": -1463026,
-          "trust_net": 1000,
+          "foreign_net": -1194569,
+          "trust_net": -335000,
           "flow_windows": {
             "1d": -1462026,
             "3d": -4743260,
@@ -37,7 +37,7 @@
             "10d": -8996412,
             "streak_days": 0
           },
-          "money_flow_value": -763177572.0,
+          "money_flow_value": -798435018.0,
           "primary_flow_value": -2651467680.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -117,10 +117,10 @@
           "close": 172.5,
           "rise_5d_pct": 1.1730205278592365,
           "rise_60d_pct": 17.34693877551021,
-          "pe": 52.55,
-          "dividend_yield": 1.25,
+          "pe": 51.8,
+          "dividend_yield": 1.26,
           "revenue_yoy_pct": 106.21752924846322,
-          "foreign_net": -145562,
+          "foreign_net": 20281,
           "trust_net": 0,
           "flow_windows": {
             "1d": -145562,
@@ -130,7 +130,7 @@
             "10d": 142453,
             "streak_days": 0
           },
-          "money_flow_value": -25109445.0,
+          "money_flow_value": 3498472.5,
           "primary_flow_value": -31628737.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -154,11 +154,11 @@
           "close": 1785.0,
           "rise_5d_pct": 20.608108108108112,
           "rise_60d_pct": 35.74144486692015,
-          "pe": 53.7,
-          "dividend_yield": 0.62,
+          "pe": 52.81,
+          "dividend_yield": 0.63,
           "revenue_yoy_pct": 152.24399939889415,
-          "foreign_net": 42983,
-          "trust_net": 0,
+          "foreign_net": 314303,
+          "trust_net": -45000,
           "flow_windows": {
             "1d": 42983,
             "3d": 287632,
@@ -167,7 +167,7 @@
             "10d": -310352,
             "streak_days": 2
           },
-          "money_flow_value": 76724655.0,
+          "money_flow_value": 480705855.0,
           "primary_flow_value": 952561680.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -217,11 +217,11 @@
           "close": 6660.0,
           "rise_5d_pct": 7.332796132151498,
           "rise_60d_pct": 56.15474794841735,
-          "pe": 36.41,
-          "dividend_yield": 1.17,
+          "pe": 35.42,
+          "dividend_yield": 1.2,
           "revenue_yoy_pct": -16.23206393579812,
-          "foreign_net": -301067,
-          "trust_net": 23306,
+          "foreign_net": -392817,
+          "trust_net": 29511,
           "flow_windows": {
             "1d": -277761,
             "3d": -853851,
@@ -230,7 +230,7 @@
             "10d": -2425554,
             "streak_days": 0
           },
-          "money_flow_value": -1849888260.0,
+          "money_flow_value": -2419617960.0,
           "primary_flow_value": -7537408380.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -317,11 +317,11 @@
           "close": 116.0,
           "rise_5d_pct": -4.1322314049586755,
           "rise_60d_pct": -16.84587813620072,
-          "pe": 27.96,
+          "pe": 27.49,
           "dividend_yield": null,
           "revenue_yoy_pct": 218.53271706735816,
-          "foreign_net": -15690993,
-          "trust_net": 17000,
+          "foreign_net": -3761643,
+          "trust_net": 0,
           "flow_windows": {
             "1d": -15673993,
             "3d": -19835734,
@@ -330,7 +330,7 @@
             "10d": -11216519,
             "streak_days": 0
           },
-          "money_flow_value": -1818183188.0,
+          "money_flow_value": -436350588.0,
           "primary_flow_value": -2008977552.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -413,11 +413,11 @@
           "close": 177.0,
           "rise_5d_pct": -1.6666666666666718,
           "rise_60d_pct": 7.598784194528885,
-          "pe": 19.79,
+          "pe": 19.51,
           "dividend_yield": 0.28,
           "revenue_yoy_pct": 289.42756449599915,
-          "foreign_net": -14220689,
-          "trust_net": -250134,
+          "foreign_net": 20530198,
+          "trust_net": -7282006,
           "flow_windows": {
             "1d": -14470823,
             "3d": -4747362,
@@ -426,7 +426,7 @@
             "10d": 55624026,
             "streak_days": 0
           },
-          "money_flow_value": -2561335671.0,
+          "money_flow_value": 2344929984.0,
           "primary_flow_value": 1304334948.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -449,11 +449,11 @@
           "close": 532.0,
           "rise_5d_pct": 2.5048169556840083,
           "rise_60d_pct": 18.75,
-          "pe": 19.95,
-          "dividend_yield": 0.26,
+          "pe": 20.64,
+          "dividend_yield": 0.25,
           "revenue_yoy_pct": 560.8541425724004,
-          "foreign_net": 21773270,
-          "trust_net": 192527,
+          "foreign_net": -7464541,
+          "trust_net": -1496739,
           "flow_windows": {
             "1d": 21965797,
             "3d": 13311671,
@@ -462,7 +462,7 @@
             "10d": 43843321,
             "streak_days": 1
           },
-          "money_flow_value": 11685804004.0,
+          "money_flow_value": -4767400960.0,
           "primary_flow_value": 12162962252.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -486,10 +486,10 @@
           "close": 269.5,
           "rise_5d_pct": -0.9191176470588203,
           "rise_60d_pct": 20.044543429844097,
-          "pe": 3.94,
-          "dividend_yield": 3.25,
+          "pe": 4.0,
+          "dividend_yield": 3.2,
           "revenue_yoy_pct": 275.0567709273065,
-          "foreign_net": -345040,
+          "foreign_net": -424847,
           "trust_net": 0,
           "flow_windows": {
             "1d": -345040,
@@ -499,7 +499,7 @@
             "10d": -2532619,
             "streak_days": 0
           },
-          "money_flow_value": -92988280.0,
+          "money_flow_value": -114496266.5,
           "primary_flow_value": -611125476.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -524,11 +524,11 @@
           "close": 267.0,
           "rise_5d_pct": -4.982206405693946,
           "rise_60d_pct": 22.758620689655174,
-          "pe": 8.53,
+          "pe": 8.42,
           "dividend_yield": 0.37,
           "revenue_yoy_pct": 605.2432014317565,
-          "foreign_net": -2411473,
-          "trust_net": 1000,
+          "foreign_net": -1063659,
+          "trust_net": 0,
           "flow_windows": {
             "1d": -2410473,
             "3d": -5936002,
@@ -537,7 +537,7 @@
             "10d": -8639659,
             "streak_days": 0
           },
-          "money_flow_value": -643596291.0,
+          "money_flow_value": -283996953.0,
           "primary_flow_value": -1511977746.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -558,7 +558,7 @@
     "晶圓代工": {
       "avg_momentum_60d_pct": 1.0086896604524775,
       "total_money_flow_value": -36801743420.9,
-      "median_pe": 24.2,
+      "median_pe": 24.07,
       "stocks": [
         {
           "code": "2303",
@@ -568,11 +568,11 @@
           "close": 147.5,
           "rise_5d_pct": -8.6687306501548,
           "rise_60d_pct": -2.3178807947019875,
-          "pe": 22.33,
-          "dividend_yield": 1.76,
+          "pe": 22.18,
+          "dividend_yield": 1.77,
           "revenue_yoy_pct": 30.71441291503008,
-          "foreign_net": -19791060,
-          "trust_net": 1605722,
+          "foreign_net": -15334483,
+          "trust_net": -19779101,
           "flow_windows": {
             "1d": -18185338,
             "3d": -116141919,
@@ -581,7 +581,7 @@
             "10d": -253369016,
             "streak_days": 0
           },
-          "money_flow_value": -2682337355.0,
+          "money_flow_value": -5179253640.0,
           "primary_flow_value": -33644230062.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -605,11 +605,11 @@
           "close": 72.2,
           "rise_5d_pct": -3.087248322147651,
           "rise_60d_pct": 4.335260115606943,
-          "pe": 24.2,
+          "pe": 24.07,
           "dividend_yield": null,
           "revenue_yoy_pct": 76.19282844889565,
-          "foreign_net": -21678579,
-          "trust_net": 125000,
+          "foreign_net": -36305486,
+          "trust_net": -135851,
           "flow_windows": {
             "1d": -21553579,
             "3d": -73856663,
@@ -618,7 +618,7 @@
             "10d": -2268343,
             "streak_days": 0
           },
-          "money_flow_value": -1556168403.8,
+          "money_flow_value": -2631064531.4,
           "primary_flow_value": -3157513358.4,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -639,7 +639,7 @@
     "被動元件": {
       "avg_momentum_60d_pct": -5.057124624621026,
       "total_money_flow_value": -441669231.0,
-      "median_pe": 48.09,
+      "median_pe": 47.19,
       "stocks": [
         {
           "code": "2375",
@@ -649,11 +649,11 @@
           "close": 130.5,
           "rise_5d_pct": 4.819277108433728,
           "rise_60d_pct": -24.127906976744185,
-          "pe": 31.13,
-          "dividend_yield": 0.93,
+          "pe": 31.37,
+          "dividend_yield": 0.92,
           "revenue_yoy_pct": 37.591888359720436,
-          "foreign_net": -67108,
-          "trust_net": -4000,
+          "foreign_net": -951012,
+          "trust_net": 0,
           "flow_windows": {
             "1d": -71108,
             "3d": -667918,
@@ -662,7 +662,7 @@
             "10d": -1683012,
             "streak_days": 0
           },
-          "money_flow_value": -9279594.0,
+          "money_flow_value": -124107066.0,
           "primary_flow_value": -135111217.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -686,11 +686,11 @@
           "close": 635.0,
           "rise_5d_pct": 5.481727574750828,
           "rise_60d_pct": -18.380462724935732,
-          "pe": 43.57,
-          "dividend_yield": 0.93,
+          "pe": 42.76,
+          "dividend_yield": 0.94,
           "revenue_yoy_pct": 51.799610560411935,
-          "foreign_net": -5756800,
-          "trust_net": -1038577,
+          "foreign_net": 1527417,
+          "trust_net": 3450776,
           "flow_windows": {
             "1d": -6795377,
             "3d": -4408492,
@@ -699,7 +699,7 @@
             "10d": -9219881,
             "streak_days": 0
           },
-          "money_flow_value": -4315064395.0,
+          "money_flow_value": 3161152555.0,
           "primary_flow_value": -8028988260.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -723,11 +723,11 @@
           "close": 238.5,
           "rise_5d_pct": -4.024144869215296,
           "rise_60d_pct": 1.9230769230769162,
-          "pe": 206.9,
+          "pe": 205.6,
           "dividend_yield": 0.21,
           "revenue_yoy_pct": 46.069210459555194,
-          "foreign_net": -164987,
-          "trust_net": -12000,
+          "foreign_net": -164726,
+          "trust_net": 0,
           "flow_windows": {
             "1d": -176987,
             "3d": -1476404,
@@ -736,7 +736,7 @@
             "10d": -2098004,
             "streak_days": 0
           },
-          "money_flow_value": -42211399.5,
+          "money_flow_value": -39287151.0,
           "primary_flow_value": -291055144.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -757,11 +757,11 @@
           "close": 877.0,
           "rise_5d_pct": 2.934272300469476,
           "rise_60d_pct": 7.6073619631901845,
-          "pe": 81.85,
-          "dividend_yield": 0.69,
+          "pe": 85.56,
+          "dividend_yield": 0.66,
           "revenue_yoy_pct": 33.21856745910945,
-          "foreign_net": 2745371,
-          "trust_net": 499000,
+          "foreign_net": 1601089,
+          "trust_net": 647000,
           "flow_windows": {
             "1d": 3244371,
             "3d": 4360628,
@@ -770,7 +770,7 @@
             "10d": 3682887,
             "streak_days": 2
           },
-          "money_flow_value": 2845313367.0,
+          "money_flow_value": 1971574053.0,
           "primary_flow_value": 1479782271.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -793,11 +793,11 @@
           "close": 420.0,
           "rise_5d_pct": 27.65957446808511,
           "rise_60d_pct": 7.692307692307687,
-          "pe": 48.09,
-          "dividend_yield": 0.58,
+          "pe": 47.19,
+          "dividend_yield": 0.6,
           "revenue_yoy_pct": 45.54208446583508,
-          "foreign_net": -5355066,
-          "trust_net": -16000,
+          "foreign_net": 9934530,
+          "trust_net": 2669000,
           "flow_windows": {
             "1d": -5371066,
             "3d": 8792206,
@@ -806,7 +806,7 @@
             "10d": 17426655,
             "streak_days": 0
           },
-          "money_flow_value": -2255847720.0,
+          "money_flow_value": 5293482600.0,
           "primary_flow_value": 6533703120.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -827,7 +827,7 @@
     "AI伺服器組裝": {
       "avg_momentum_60d_pct": 15.438673348775248,
       "total_money_flow_value": -13840925848.5,
-      "median_pe": 14.69,
+      "median_pe": 14.97,
       "stocks": [
         {
           "code": "2382",
@@ -837,11 +837,11 @@
           "close": 325.5,
           "rise_5d_pct": -2.5449101796407136,
           "rise_60d_pct": -14.34210526315789,
-          "pe": 14.6,
-          "dividend_yield": 4.66,
+          "pe": 14.18,
+          "dividend_yield": 4.79,
           "revenue_yoy_pct": 177.453640698528,
-          "foreign_net": -7936176,
-          "trust_net": 705131,
+          "foreign_net": 1441121,
+          "trust_net": -17474,
           "flow_windows": {
             "1d": -7231045,
             "3d": -3340004,
@@ -850,7 +850,7 @@
             "10d": -19514680,
             "streak_days": 0
           },
-          "money_flow_value": -2353705147.5,
+          "money_flow_value": 463397098.5,
           "primary_flow_value": -3088456948.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -876,11 +876,11 @@
           "close": 57.5,
           "rise_5d_pct": -3.685092127303191,
           "rise_60d_pct": -9.733124018838312,
-          "pe": 18.74,
-          "dividend_yield": 3.44,
+          "pe": 18.55,
+          "dividend_yield": 3.48,
           "revenue_yoy_pct": 35.82690162998942,
-          "foreign_net": -2736928,
-          "trust_net": 51000,
+          "foreign_net": -3961166,
+          "trust_net": -18000,
           "flow_windows": {
             "1d": -2685928,
             "3d": -8104254,
@@ -889,7 +889,7 @@
             "10d": -36874438,
             "streak_days": 0
           },
-          "money_flow_value": -154440860.0,
+          "money_flow_value": -228802045.0,
           "primary_flow_value": -1118210492.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -914,11 +914,11 @@
           "close": 188.5,
           "rise_5d_pct": -1.049868766404205,
           "rise_60d_pct": 32.28070175438595,
-          "pe": 14.69,
-          "dividend_yield": 2.97,
+          "pe": 14.97,
+          "dividend_yield": 2.92,
           "revenue_yoy_pct": 166.4840985505344,
-          "foreign_net": 15508764,
-          "trust_net": 872893,
+          "foreign_net": -9225689,
+          "trust_net": -1754924,
           "flow_windows": {
             "1d": 16381657,
             "3d": 704931,
@@ -927,7 +927,7 @@
             "10d": 39210392,
             "streak_days": 1
           },
-          "money_flow_value": 3087942344.5,
+          "money_flow_value": -2069845550.5,
           "primary_flow_value": 544443607.5,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -952,11 +952,11 @@
           "close": 10615.0,
           "rise_5d_pct": -10.308407266582176,
           "rise_60d_pct": 32.77048155096936,
-          "pe": 65.0,
-          "dividend_yield": 0.43,
+          "pe": 58.52,
+          "dividend_yield": 0.48,
           "revenue_yoy_pct": 344.4151275890319,
-          "foreign_net": -295635,
-          "trust_net": -251422,
+          "foreign_net": 51253,
+          "trust_net": 27664,
           "flow_windows": {
             "1d": -547057,
             "3d": -598968,
@@ -965,7 +965,7 @@
             "10d": -419686,
             "streak_days": 0
           },
-          "money_flow_value": -5807010055.0,
+          "money_flow_value": 837703955.0,
           "primary_flow_value": -5646086655.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -991,8 +991,8 @@
           "pe": 7.18,
           "dividend_yield": 7.33,
           "revenue_yoy_pct": 50.35813251850269,
-          "foreign_net": -246833,
-          "trust_net": -16094,
+          "foreign_net": -484121,
+          "trust_net": -17403,
           "flow_windows": {
             "1d": -262927,
             "3d": -1040977,
@@ -1001,7 +1001,7 @@
             "10d": -4072291,
             "streak_days": 0
           },
-          "money_flow_value": -588956480.0,
+          "money_flow_value": -1123413760.0,
           "primary_flow_value": -4532615360.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1023,7 +1023,7 @@
     "散熱": {
       "avg_momentum_60d_pct": 90.52589967305308,
       "total_money_flow_value": -2425301150.0,
-      "median_pe": 47.25,
+      "median_pe": 45.85,
       "stocks": [
         {
           "code": "3017",
@@ -1033,11 +1033,11 @@
           "close": 3440.0,
           "rise_5d_pct": -1.9943019943019946,
           "rise_60d_pct": 62.26415094339623,
-          "pe": 47.25,
-          "dividend_yield": 0.59,
+          "pe": 45.85,
+          "dividend_yield": 0.61,
           "revenue_yoy_pct": 54.340256925995845,
-          "foreign_net": -422991,
-          "trust_net": -182017,
+          "foreign_net": -1058722,
+          "trust_net": 54334,
           "flow_windows": {
             "1d": -605008,
             "3d": -1204691,
@@ -1046,7 +1046,7 @@
             "10d": -1214750,
             "streak_days": 0
           },
-          "money_flow_value": -2081227520.0,
+          "money_flow_value": -3455094720.0,
           "primary_flow_value": -2925458560.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1100,11 +1100,11 @@
           "close": 7165.0,
           "rise_5d_pct": 4.21818181818181,
           "rise_60d_pct": 133.3876221498371,
-          "pe": 153.58,
-          "dividend_yield": 0.32,
+          "pe": 161.7,
+          "dividend_yield": 0.3,
           "revenue_yoy_pct": 90.90319995881177,
-          "foreign_net": 247986,
-          "trust_net": -52932,
+          "foreign_net": 62796,
+          "trust_net": -159121,
           "flow_windows": {
             "1d": 195054,
             "3d": 154367,
@@ -1113,7 +1113,7 @@
             "10d": -486580,
             "streak_days": 1
           },
-          "money_flow_value": 1397561910.0,
+          "money_flow_value": -690168625.0,
           "primary_flow_value": -589177950.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1141,11 +1141,11 @@
           "close": 1475.0,
           "rise_5d_pct": 3.8732394366197243,
           "rise_60d_pct": 14.341085271317834,
-          "pe": 173.91,
+          "pe": 173.33,
           "dividend_yield": 0.14,
           "revenue_yoy_pct": 40.59000155490278,
-          "foreign_net": 392970,
-          "trust_net": -15992,
+          "foreign_net": 501520,
+          "trust_net": 113697,
           "flow_windows": {
             "1d": 376978,
             "3d": 1784752,
@@ -1154,7 +1154,7 @@
             "10d": 15765668,
             "streak_days": 10
           },
-          "money_flow_value": 556042550.0,
+          "money_flow_value": 907445075.0,
           "primary_flow_value": 6740688050.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1209,11 +1209,11 @@
           "close": 1285.0,
           "rise_5d_pct": 17.351598173515992,
           "rise_60d_pct": 26.60098522167487,
-          "pe": 44.69,
-          "dividend_yield": 0.79,
+          "pe": 46.12,
+          "dividend_yield": 0.76,
           "revenue_yoy_pct": 76.38825024031777,
-          "foreign_net": -285233,
-          "trust_net": 1454273,
+          "foreign_net": -1816224,
+          "trust_net": 1102557,
           "flow_windows": {
             "1d": 1169040,
             "3d": 2927233,
@@ -1222,7 +1222,7 @@
             "10d": -4198126,
             "streak_days": 1
           },
-          "money_flow_value": 1502216400.0,
+          "money_flow_value": -917062095.0,
           "primary_flow_value": 4146480405.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1247,11 +1247,11 @@
           "close": 1270.0,
           "rise_5d_pct": 4.526748971193406,
           "rise_60d_pct": 45.30892448512587,
-          "pe": 86.88,
-          "dividend_yield": 0.15,
+          "pe": 84.55,
+          "dividend_yield": 0.16,
           "revenue_yoy_pct": 56.25723917867715,
-          "foreign_net": 1828296,
-          "trust_net": -849485,
+          "foreign_net": 1811033,
+          "trust_net": -449709,
           "flow_windows": {
             "1d": 978811,
             "3d": 3395969,
@@ -1260,7 +1260,7 @@
             "10d": 21743084,
             "streak_days": 7
           },
-          "money_flow_value": 1243089970.0,
+          "money_flow_value": 1728881480.0,
           "primary_flow_value": 14857689360.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1286,11 +1286,11 @@
           "close": 806.0,
           "rise_5d_pct": 25.545171339563865,
           "rise_60d_pct": 131.2769010043042,
-          "pe": 123.41,
-          "dividend_yield": 0.38,
+          "pe": 124.96,
+          "dividend_yield": 0.37,
           "revenue_yoy_pct": 97.92882458381861,
-          "foreign_net": 1086914,
-          "trust_net": -14000,
+          "foreign_net": -359158,
+          "trust_net": -76000,
           "flow_windows": {
             "1d": 1072914,
             "3d": 3700439,
@@ -1299,7 +1299,7 @@
             "10d": 7358448,
             "streak_days": 1
           },
-          "money_flow_value": 864768684.0,
+          "money_flow_value": -350737348.0,
           "primary_flow_value": 3212336374.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1320,7 +1320,7 @@
     "電源供應": {
       "avg_momentum_60d_pct": 22.964959568733146,
       "total_money_flow_value": 12470481335.0,
-      "median_pe": 63.34,
+      "median_pe": 62.54,
       "stocks": [
         {
           "code": "2308",
@@ -1330,11 +1330,11 @@
           "close": 1965.0,
           "rise_5d_pct": 3.149606299212593,
           "rise_60d_pct": 5.9299191374663,
-          "pe": 63.34,
-          "dividend_yield": 0.58,
+          "pe": 62.54,
+          "dividend_yield": 0.59,
           "revenue_yoy_pct": 34.94854905033159,
-          "foreign_net": -1168055,
-          "trust_net": 358106,
+          "foreign_net": -2067353,
+          "trust_net": 196833,
           "flow_windows": {
             "1d": -809949,
             "3d": -1386093,
@@ -1343,7 +1343,7 @@
             "10d": 3062812,
             "streak_days": 0
           },
-          "money_flow_value": -1591549785.0,
+          "money_flow_value": -3675571800.0,
           "primary_flow_value": 10118944350.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
@@ -1368,11 +1368,11 @@
           "close": 297.5,
           "rise_5d_pct": 4.569420035149374,
           "rise_60d_pct": 39.99999999999999,
-          "pe": 35.09,
-          "dividend_yield": 1.67,
+          "pe": 34.8,
+          "dividend_yield": 1.68,
           "revenue_yoy_pct": 25.200742370543818,
-          "foreign_net": -2343867,
-          "trust_net": 7383,
+          "foreign_net": 1321319,
+          "trust_net": 82585,
           "flow_windows": {
             "1d": -2336484,
             "3d": -1403936,
@@ -1381,7 +1381,7 @@
             "10d": -907633,
             "streak_days": 0
           },
-          "money_flow_value": -695103990.0,
+          "money_flow_value": 417661440.0,
           "primary_flow_value": 2351536985.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {

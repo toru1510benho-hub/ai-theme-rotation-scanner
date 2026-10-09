@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-10-08T14:47:43.070675",
+  "generated_at": "2026-10-09T14:31:35.871490",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 20
+      "days_until": 19
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-10-08",
+      "subject": "澄清115/10/08工商時報A03報導",
+      "is_conference": false
+    },
+    {
+      "code": "2492",
+      "name": "華新科",
+      "announce_date": "2026-10-08",
+      "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解。",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-10-08",
+      "subject": "代重要孫公司眾達光通科技(蘇州)有限公司公告減資事宜。",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-10-08",
+      "subject": "代子公司PCL TECHNOLOGIES TRADING, INC.公告擬增資孫公司PCL \r\nINTERNATIONAL TECHNOLOGIES (PENANG)",
+      "is_conference": false
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "announce_date": "2026-10-08",
+      "subject": "公告本公司依董事會決議授權調整資本支出預算(補充公告)",
+      "is_conference": false
+    },
     {
       "code": "2059",
       "name": "川湖",
