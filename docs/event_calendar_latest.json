@@ -1,12 +1,75 @@
 {
-  "generated_at": "2026-10-12T16:54:59.961174",
+  "generated_at": "2026-10-13T15:13:44.067915",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 16
+      "days_until": 15
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "3008",
+      "name": "大立光",
+      "announce_date": "2026-10-12",
+      "subject": "大立光電澄清媒體報導",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-10-12",
+      "subject": "美國國際貿易委員會337調查說明",
+      "is_conference": false
+    },
+    {
+      "code": "6770",
+      "name": "力積電",
+      "announce_date": "2026-10-12",
+      "subject": "澄清媒體有關本公司之報導",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-10-12",
+      "subject": "發布本公司115年09月份業績資料",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-10-12",
+      "subject": "公告本公司今日法人說明會摘要",
+      "is_conference": true
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-10-12",
+      "subject": "公告本公司擬進行建築物改良及取得機器設備",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-10-12",
+      "subject": "公告本公司擬取得位於台南市不動產",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-10-12",
+      "subject": "公告本公司新增背書保證金額達處理準則第25條第1項\r\n第4款應公告相關事宜",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-10-12",
+      "subject": "本公司代子公司台達電子(東莞)有限公司公告向關係人取得供營業使用之設備",
+      "is_conference": false
+    },
     {
       "code": "2327",
       "name": "國巨*",
