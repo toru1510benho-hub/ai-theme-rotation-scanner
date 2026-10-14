@@ -943,5 +943,26 @@
     "announce_date": "2026-10-12",
     "subject": "本公司代子公司台達電子(東莞)有限公司公告向關係人取得供營業使用之設備",
     "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-10-13",
+    "subject": "本公司召開2026年第三季法人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-13",
+    "subject": "本公司代子公司華豐電子科技(蕪湖)有限公司公告向關係人取得供營\r\n業使用之設備",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-13",
+    "subject": "本公司針對115/10/13工安意外之說明",
+    "is_conference": false
   }
 ]
