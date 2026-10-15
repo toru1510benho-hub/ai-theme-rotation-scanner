@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-10-14T13:00:03.383249",
+  "generated_at": "2026-10-15T12:46:51.636634",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 14
+      "days_until": 13
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-10-14",
+      "subject": "更正本公司115年9月份衍生性商品交易資訊",
+      "is_conference": false
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "announce_date": "2026-10-14",
+      "subject": "(補充公告)本公司與聯貸銀行團簽訂聯合授信合約",
+      "is_conference": false
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "announce_date": "2026-10-14",
+      "subject": "本公司公告以自地委建方式興建廠房相關工程",
+      "is_conference": false
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-10-14",
+      "subject": "本公司訂購機器設備公告。",
+      "is_conference": false
+    },
     {
       "code": "2303",
       "name": "聯電",
@@ -264,48 +292,6 @@
       "name": "聯電",
       "announce_date": "2026-10-01",
       "subject": "公告本公司取得機器設備之相關資料",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-09-30",
-      "subject": "澄清媒體報導",
-      "is_conference": false
-    },
-    {
-      "code": "3008",
-      "name": "大立光",
-      "announce_date": "2026-09-30",
-      "subject": "公告本公司擴大採用再生能源",
-      "is_conference": false
-    },
-    {
-      "code": "3008",
-      "name": "大立光",
-      "announce_date": "2026-09-30",
-      "subject": "本公司召開法人說明會事宜",
-      "is_conference": true
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-09-30",
-      "subject": "本公司取得不動產相關訊息",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-09-30",
-      "subject": "公告本公司115年第一次私募普通股收足股款暨增資基準日",
-      "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-09-30",
-      "subject": "公告本公司取得廠務設備及工程",
       "is_conference": false
     }
   ],
