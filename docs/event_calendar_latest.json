@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-10-15T12:46:51.636634",
+  "generated_at": "2026-10-16T12:39:20.997652",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 13
+      "days_until": 12
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-10-15",
+      "subject": "本公司自辦法人說明會之相關資訊",
+      "is_conference": true
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-10-15",
+      "subject": "公告本公司取得廠務設備",
+      "is_conference": false
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "announce_date": "2026-10-15",
+      "subject": "本公司取得廠務工程之相關資料",
+      "is_conference": false
+    },
     {
       "code": "2356",
       "name": "英業達",
@@ -278,20 +299,6 @@
       "name": "聯電",
       "announce_date": "2026-10-05",
       "subject": "公告本公司第七次海外無擔保轉換公司債完成訂價",
-      "is_conference": false
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "announce_date": "2026-10-01",
-      "subject": "公告本公司國內第二次有擔保轉換公司債收足應募價款",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-10-01",
-      "subject": "公告本公司取得機器設備之相關資料",
       "is_conference": false
     }
   ],

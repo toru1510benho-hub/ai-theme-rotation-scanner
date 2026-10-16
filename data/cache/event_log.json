@@ -992,5 +992,26 @@
     "announce_date": "2026-10-14",
     "subject": "本公司訂購機器設備公告。",
     "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-15",
+    "subject": "本公司自辦法人說明會之相關資訊",
+    "is_conference": true
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-10-15",
+    "subject": "公告本公司取得廠務設備",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-15",
+    "subject": "本公司取得廠務工程之相關資料",
+    "is_conference": false
   }
 ]
