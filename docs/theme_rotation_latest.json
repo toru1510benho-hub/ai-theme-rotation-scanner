@@ -1,29 +1,58 @@
 {
-  "generated_at": "2026-10-16T12:39:06.360854",
+  "generated_at": "2026-10-19T14:52:47.359696",
   "theme_ranking_by_money_flow": [
     "CPO/矽光子",
     "散熱",
     "ABF載板/PCB",
-    "AI伺服器組裝",
     "被動元件",
+    "AI伺服器組裝",
     "晶圓代工",
     "電源供應",
     "記憶體"
   ],
   "themes": {
     "CPO/矽光子": {
-      "avg_momentum_60d_pct": 35.83195957234156,
-      "total_money_flow_value": -7875576848.0,
-      "median_pe": 60.1,
+      "avg_momentum_60d_pct": 24.81249023590957,
+      "total_money_flow_value": -2090586914.0,
+      "median_pe": 58.47,
       "stocks": [
+        {
+          "code": "3163",
+          "name": "波若威",
+          "market": "TPEX",
+          "theme": "CPO/矽光子",
+          "close": 573.0,
+          "rise_5d_pct": -16.835994194484762,
+          "rise_60d_pct": -7.771053309296927,
+          "pe": 58.47,
+          "dividend_yield": 0.61,
+          "revenue_yoy_pct": null,
+          "foreign_net": 0,
+          "trust_net": 0,
+          "money_flow_value": 0.0,
+          "primary_flow_value": 0.0,
+          "primary_flow_basis": "今日",
+          "flow_windows_value": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "7": null,
+            "10": null
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數"
+          ]
+        },
         {
           "code": "3363",
           "name": "上詮",
           "market": "TPEX",
           "theme": "CPO/矽光子",
-          "close": 531.0,
-          "rise_5d_pct": -20.389805097451273,
-          "rise_60d_pct": 1.5296367112810794,
+          "close": 535.0,
+          "rise_5d_pct": -11.129568106312293,
+          "rise_60d_pct": -5.477031802120136,
           "pe": null,
           "dividend_yield": null,
           "revenue_yoy_pct": null,
@@ -45,66 +74,37 @@
           ]
         },
         {
-          "code": "3163",
-          "name": "波若威",
-          "market": "TPEX",
-          "theme": "CPO/矽光子",
-          "close": 589.0,
-          "rise_5d_pct": -14.513788098693759,
-          "rise_60d_pct": 4.227495531843362,
-          "pe": 60.1,
-          "dividend_yield": 0.59,
-          "revenue_yoy_pct": null,
-          "foreign_net": 0,
-          "trust_net": -1000,
-          "money_flow_value": -589000.0,
-          "primary_flow_value": -589000.0,
-          "primary_flow_basis": "今日",
-          "flow_windows_value": {
-            "1": null,
-            "3": null,
-            "5": null,
-            "7": null,
-            "10": null
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數"
-          ]
-        },
-        {
           "code": "3450",
           "name": "聯鈞",
           "market": "TSE",
           "theme": "CPO/矽光子",
-          "close": 457.0,
-          "rise_5d_pct": -12.452107279693491,
-          "rise_60d_pct": 6.900584795321629,
-          "pe": 94.83,
-          "dividend_yield": 0.21,
+          "close": 444.0,
+          "rise_5d_pct": -14.45086705202312,
+          "rise_60d_pct": -3.1624863685932425,
+          "pe": 92.7,
+          "dividend_yield": 0.22,
           "revenue_yoy_pct": 99.78446338976643,
-          "foreign_net": 2314,
-          "trust_net": -897000,
+          "foreign_net": 1600148,
+          "trust_net": -1335000,
           "flow_windows": {
-            "1d": -894686,
-            "3d": -2205842,
-            "5d": -5265860,
-            "7d": -8257455,
-            "10d": -10345300,
-            "streak_days": 0
+            "1d": 265148,
+            "3d": -1902939,
+            "5d": -4388611,
+            "7d": -6462738,
+            "10d": -9719257,
+            "streak_days": 1
           },
-          "money_flow_value": -408871502.0,
-          "primary_flow_value": -2406498020.0,
+          "money_flow_value": 117725712.0,
+          "primary_flow_value": -1948543284.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -408871502.0,
-            "3": -1008069794.0,
-            "5": -2406498020.0,
-            "7": -3773656935.0,
-            "10": -4727802100.0
+            "1": 117725712.0,
+            "3": -844904916.0,
+            "5": -1948543284.0,
+            "7": -2869455672.0,
+            "10": -4315350108.0
           },
-          "flow_streak_days": 0,
+          "flow_streak_days": 1,
           "tags": [
             "落後同業"
           ]
@@ -114,72 +114,37 @@
           "name": "光聖",
           "market": "TSE",
           "theme": "CPO/矽光子",
-          "close": 1505.0,
-          "rise_5d_pct": -15.686274509803921,
-          "rise_60d_pct": 19.444444444444443,
-          "pe": 45.56,
-          "dividend_yield": 0.73,
+          "close": 1495.0,
+          "rise_5d_pct": -13.33333333333333,
+          "rise_60d_pct": 7.942238267148016,
+          "pe": 44.53,
+          "dividend_yield": 0.75,
           "revenue_yoy_pct": 97.25981511982566,
-          "foreign_net": -162313,
-          "trust_net": 3000,
+          "foreign_net": 95164,
+          "trust_net": -27000,
           "flow_windows": {
-            "1d": -159313,
-            "3d": -323424,
-            "5d": -488068,
-            "7d": -175782,
-            "10d": 45580,
-            "streak_days": 0
+            "1d": 68164,
+            "3d": -86271,
+            "5d": 328617,
+            "7d": -376921,
+            "10d": -307565,
+            "streak_days": 1
           },
-          "money_flow_value": -239766065.0,
-          "primary_flow_value": -734542340.0,
+          "money_flow_value": 101905180.0,
+          "primary_flow_value": 491282415.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -239766065.0,
-            "3": -486753120.0,
-            "5": -734542340.0,
-            "7": -264551910.0,
-            "10": 68597900.0
+            "1": 101905180.0,
+            "3": -128975145.0,
+            "5": 491282415.0,
+            "7": -563496895.0,
+            "10": -459809675.0
           },
-          "flow_streak_days": 0,
+          "flow_streak_days": 1,
           "tags": [
             "落後同業",
-            "本益比低於族群中位數"
-          ]
-        },
-        {
-          "code": "4977",
-          "name": "眾達-KY",
-          "market": "TSE",
-          "theme": "CPO/矽光子",
-          "close": 184.0,
-          "rise_5d_pct": 6.666666666666665,
-          "rise_60d_pct": 37.31343283582089,
-          "pe": 56.46,
-          "dividend_yield": 1.16,
-          "revenue_yoy_pct": 125.76660822131308,
-          "foreign_net": -1398358,
-          "trust_net": 0,
-          "flow_windows": {
-            "1d": -1398358,
-            "3d": -204877,
-            "5d": -1055232,
-            "7d": -1180513,
-            "10d": -1238587,
-            "streak_days": 0
-          },
-          "money_flow_value": -257297872.0,
-          "primary_flow_value": -194162688.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -257297872.0,
-            "3": -37697368.0,
-            "5": -194162688.0,
-            "7": -217214392.0,
-            "10": -227900008.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "本益比低於族群中位數"
+            "本益比低於族群中位數",
+            "法人近5日買超"
           ]
         },
         {
@@ -187,16 +152,16 @@
           "name": "華星光",
           "market": "TPEX",
           "theme": "CPO/矽光子",
-          "close": 520.0,
-          "rise_5d_pct": -7.964601769911505,
-          "rise_60d_pct": 45.65826330532212,
-          "pe": 85.11,
-          "dividend_yield": 0.41,
+          "close": 480.0,
+          "rise_5d_pct": -17.525773195876294,
+          "rise_60d_pct": 26.649076517150405,
+          "pe": 78.56,
+          "dividend_yield": 0.45,
           "revenue_yoy_pct": null,
           "foreign_net": 0,
-          "trust_net": -1056000,
-          "money_flow_value": -549120000.0,
-          "primary_flow_value": -549120000.0,
+          "trust_net": -741000,
+          "money_flow_value": -355680000.0,
+          "primary_flow_value": -355680000.0,
           "primary_flow_basis": "今日",
           "flow_windows_value": {
             "1": null,
@@ -209,40 +174,39 @@
           "tags": []
         },
         {
-          "code": "3008",
-          "name": "大立光",
+          "code": "4977",
+          "name": "眾達-KY",
           "market": "TSE",
           "theme": "CPO/矽光子",
-          "close": 6400.0,
-          "rise_5d_pct": -3.9039039039039047,
-          "rise_60d_pct": 60.60225846925973,
-          "pe": 35.13,
-          "dividend_yield": 1.21,
-          "revenue_yoy_pct": -7.314368249667054,
-          "foreign_net": -153323,
-          "trust_net": 149682,
+          "close": 175.0,
+          "rise_5d_pct": -4.891304347826086,
+          "rise_60d_pct": 30.597014925373145,
+          "pe": 55.26,
+          "dividend_yield": 1.18,
+          "revenue_yoy_pct": 125.76660822131308,
+          "foreign_net": -164180,
+          "trust_net": 0,
           "flow_windows": {
-            "1d": -3641,
-            "3d": -492815,
-            "5d": -495337,
-            "7d": -1136404,
-            "10d": -1627080,
+            "1d": -164180,
+            "3d": -2595687,
+            "5d": -1152395,
+            "7d": -1364974,
+            "10d": -1269132,
             "streak_days": 0
           },
-          "money_flow_value": -23302400.0,
-          "primary_flow_value": -3170156800.0,
+          "money_flow_value": -28731500.0,
+          "primary_flow_value": -201669125.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -23302400.0,
-            "3": -3154016000.0,
-            "5": -3170156800.0,
-            "7": -7272985600.0,
-            "10": -10413312000.0
+            "1": -28731500.0,
+            "3": -454245225.0,
+            "5": -201669125.0,
+            "7": -238870450.0,
+            "10": -222098100.0
           },
           "flow_streak_days": 0,
           "tags": [
-            "本益比低於族群中位數",
-            "已大幅超前,慎防追高"
+            "本益比低於族群中位數"
           ]
         },
         {
@@ -250,16 +214,16 @@
           "name": "聯亞",
           "market": "TPEX",
           "theme": "CPO/矽光子",
-          "close": 2545.0,
-          "rise_5d_pct": -14.020270270270274,
-          "rise_60d_pct": 67.98679867986799,
-          "pe": 219.02,
+          "close": 2570.0,
+          "rise_5d_pct": -15.041322314049587,
+          "rise_60d_pct": 54.35435435435436,
+          "pe": 221.17,
           "dividend_yield": 0.16,
           "revenue_yoy_pct": null,
           "foreign_net": 0,
-          "trust_net": -322400,
-          "money_flow_value": -820508000.0,
-          "primary_flow_value": -820508000.0,
+          "trust_net": 87600,
+          "money_flow_value": 225132000.0,
+          "primary_flow_value": 225132000.0,
           "primary_flow_basis": "今日",
           "flow_windows_value": {
             "1": null,
@@ -270,6 +234,44 @@
           },
           "flow_streak_days": 0,
           "tags": [
+            "法人今日買超",
+            "已大幅超前,慎防追高"
+          ]
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "market": "TSE",
+          "theme": "CPO/矽光子",
+          "close": 6245.0,
+          "rise_5d_pct": -14.74402730375427,
+          "rise_60d_pct": 56.125,
+          "pe": 34.04,
+          "dividend_yield": 1.25,
+          "revenue_yoy_pct": -7.314368249667054,
+          "foreign_net": 215480,
+          "trust_net": 56194,
+          "flow_windows": {
+            "1d": 271674,
+            "3d": 324697,
+            "5d": -48216,
+            "7d": -501424,
+            "10d": -1235784,
+            "streak_days": 1
+          },
+          "money_flow_value": 1696604130.0,
+          "primary_flow_value": -301108920.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": 1696604130.0,
+            "3": 2027732765.0,
+            "5": -301108920.0,
+            "7": -3131392880.0,
+            "10": -7717471080.0
+          },
+          "flow_streak_days": 1,
+          "tags": [
+            "本益比低於族群中位數",
             "已大幅超前,慎防追高"
           ]
         },
@@ -278,9 +280,9 @@
           "name": "光環",
           "market": "TPEX",
           "theme": "CPO/矽光子",
-          "close": 176.5,
-          "rise_5d_pct": -3.551912568306015,
-          "rise_60d_pct": 78.82472137791285,
+          "close": 178.0,
+          "rise_5d_pct": -2.997275204359673,
+          "rise_60d_pct": 64.0552995391705,
           "pe": null,
           "dividend_yield": null,
           "revenue_yoy_pct": null,
@@ -304,42 +306,42 @@
       ]
     },
     "記憶體": {
-      "avg_momentum_60d_pct": 6.391776439639104,
-      "total_money_flow_value": -55177885136.0,
-      "median_pe": 8.66,
+      "avg_momentum_60d_pct": -3.588450138972462,
+      "total_money_flow_value": -57635936023.0,
+      "median_pe": 8.45,
       "stocks": [
         {
           "code": "2337",
           "name": "旺宏",
           "market": "TSE",
           "theme": "記憶體",
-          "close": 107.0,
-          "rise_5d_pct": -7.758620689655171,
-          "rise_60d_pct": -13.008130081300816,
-          "pe": 24.76,
+          "close": 102.0,
+          "rise_5d_pct": -11.688311688311693,
+          "rise_60d_pct": -24.444444444444446,
+          "pe": 25.36,
           "dividend_yield": null,
           "revenue_yoy_pct": 188.23580475843863,
-          "foreign_net": 4124022,
-          "trust_net": -20000,
+          "foreign_net": -13979520,
+          "trust_net": 2415000,
           "flow_windows": {
-            "1d": 4104022,
-            "3d": 5855375,
-            "5d": -15825322,
-            "7d": -35260958,
-            "10d": -33144094,
-            "streak_days": 1
+            "1d": -11564520,
+            "3d": -8178594,
+            "5d": -24971769,
+            "7d": -43063835,
+            "10d": -48314517,
+            "streak_days": 0
           },
-          "money_flow_value": 439130354.0,
-          "primary_flow_value": -1693309454.0,
+          "money_flow_value": -1179581040.0,
+          "primary_flow_value": -2547120438.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": 439130354.0,
-            "3": 626525125.0,
-            "5": -1693309454.0,
-            "7": -3772922506.0,
-            "10": -3546418058.0
+            "1": -1179581040.0,
+            "3": -834216588.0,
+            "5": -2547120438.0,
+            "7": -4392511170.0,
+            "10": -4928080734.0
           },
-          "flow_streak_days": 1,
+          "flow_streak_days": 0,
           "tags": [
             "落後同業"
           ]
@@ -349,46 +351,16 @@
           "name": "威剛",
           "market": "TPEX",
           "theme": "記憶體",
-          "close": 360.0,
-          "rise_5d_pct": -0.6896551724137945,
-          "rise_60d_pct": -2.3066485753052923,
-          "pe": 4.65,
-          "dividend_yield": 4.72,
+          "close": 335.0,
+          "rise_5d_pct": -8.843537414965985,
+          "rise_60d_pct": -11.725955204216076,
+          "pe": 4.33,
+          "dividend_yield": 5.07,
           "revenue_yoy_pct": null,
           "foreign_net": 0,
-          "trust_net": 421200,
-          "money_flow_value": 151632000.0,
-          "primary_flow_value": 151632000.0,
-          "primary_flow_basis": "今日",
-          "flow_windows_value": {
-            "1": null,
-            "3": null,
-            "5": null,
-            "7": null,
-            "10": null
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數",
-            "法人今日買超"
-          ]
-        },
-        {
-          "code": "8299",
-          "name": "群聯",
-          "market": "TPEX",
-          "theme": "記憶體",
-          "close": 1890.0,
-          "rise_5d_pct": -8.252427184466015,
-          "rise_60d_pct": 1.8867924528301883,
-          "pe": 8.66,
-          "dividend_yield": 1.23,
-          "revenue_yoy_pct": null,
-          "foreign_net": 0,
-          "trust_net": 68502,
-          "money_flow_value": 129468780.0,
-          "primary_flow_value": 129468780.0,
+          "trust_net": 46800,
+          "money_flow_value": 15678000.0,
+          "primary_flow_value": 15678000.0,
           "primary_flow_basis": "今日",
           "flow_windows_value": {
             "1": null,
@@ -409,677 +381,52 @@
           "name": "華邦電",
           "market": "TSE",
           "theme": "記憶體",
-          "close": 161.5,
-          "rise_5d_pct": -8.757062146892657,
-          "rise_60d_pct": 3.8585209003215493,
-          "pe": 17.09,
-          "dividend_yield": 0.32,
-          "revenue_yoy_pct": 256.6686868151223,
-          "foreign_net": 12224066,
-          "trust_net": 281803,
-          "flow_windows": {
-            "1d": 12505869,
-            "3d": 3134823,
-            "5d": -40128620,
-            "7d": -41351251,
-            "10d": -32759496,
-            "streak_days": 1
-          },
-          "money_flow_value": 2019697843.5,
-          "primary_flow_value": -6480772130.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 2019697843.5,
-            "3": 506273914.5,
-            "5": -6480772130.0,
-            "7": -6678227036.5,
-            "10": -5290658604.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "落後同業"
-          ]
-        },
-        {
-          "code": "2408",
-          "name": "南亞科",
-          "market": "TSE",
-          "theme": "記憶體",
-          "close": 447.5,
-          "rise_5d_pct": -15.883458646616544,
-          "rise_60d_pct": 10.49382716049383,
-          "pe": 17.05,
+          "close": 155.5,
+          "rise_5d_pct": -10.632183908045977,
+          "rise_60d_pct": -9.064327485380119,
+          "pe": 17.81,
           "dividend_yield": 0.31,
-          "revenue_yoy_pct": 576.622775031737,
-          "foreign_net": -7783082,
-          "trust_net": -288684,
+          "revenue_yoy_pct": 256.6686868151223,
+          "foreign_net": -11015868,
+          "trust_net": -1758184,
           "flow_windows": {
-            "1d": -8071766,
-            "3d": -56237939,
-            "5d": -102284957,
-            "7d": -89280440,
-            "10d": -79422246,
+            "1d": -12774052,
+            "3d": -19298297,
+            "5d": -49949798,
+            "7d": -67373495,
+            "10d": -37444978,
             "streak_days": 0
           },
-          "money_flow_value": -3612115285.0,
-          "primary_flow_value": -45772518257.5,
+          "money_flow_value": -1986365086.0,
+          "primary_flow_value": -7767193589.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -3612115285.0,
-            "3": -25166477702.5,
-            "5": -45772518257.5,
-            "7": -39952996900.0,
-            "10": -35541455085.0
+            "1": -1986365086.0,
+            "3": -3000885183.5,
+            "5": -7767193589.0,
+            "7": -10476578472.5,
+            "10": -5822694079.0
           },
           "flow_streak_days": 0,
-          "tags": [
-            "已大幅超前,慎防追高"
-          ]
-        },
-        {
-          "code": "4967",
-          "name": "十銓",
-          "market": "TSE",
-          "theme": "記憶體",
-          "close": 259.5,
-          "rise_5d_pct": -3.710575139146566,
-          "rise_60d_pct": 21.261682242990652,
-          "pe": 3.78,
-          "dividend_yield": 3.39,
-          "revenue_yoy_pct": 109.68927823663151,
-          "foreign_net": 550681,
-          "trust_net": -6000,
-          "flow_windows": {
-            "1d": 544681,
-            "3d": 401973,
-            "5d": -112423,
-            "7d": -882310,
-            "10d": -2380050,
-            "streak_days": 1
-          },
-          "money_flow_value": 141344719.5,
-          "primary_flow_value": -29173768.5,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 141344719.5,
-            "3": 104311993.5,
-            "5": -29173768.5,
-            "7": -228959445.0,
-            "10": -617622975.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "本益比低於族群中位數",
-            "基本面佳(殖利率+營收年增,輕量版)",
-            "已大幅超前,慎防追高"
-          ]
-        },
-        {
-          "code": "3006",
-          "name": "晶豪科",
-          "market": "TSE",
-          "theme": "記憶體",
-          "close": 244.5,
-          "rise_5d_pct": -8.42696629213483,
-          "rise_60d_pct": 22.55639097744362,
-          "pe": 7.22,
-          "dividend_yield": 0.44,
-          "revenue_yoy_pct": 470.2347504677583,
-          "foreign_net": 891157,
-          "trust_net": -3000,
-          "flow_windows": {
-            "1d": 888157,
-            "3d": -823400,
-            "5d": -6066308,
-            "7d": -9540440,
-            "10d": -11729146,
-            "streak_days": 1
-          },
-          "money_flow_value": 217154386.5,
-          "primary_flow_value": -1483212306.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 217154386.5,
-            "3": -201321300.0,
-            "5": -1483212306.0,
-            "7": -2332637580.0,
-            "10": -2867776197.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "本益比低於族群中位數",
-            "已大幅超前,慎防追高"
-          ]
-        }
-      ]
-    },
-    "晶圓代工": {
-      "avg_momentum_60d_pct": 1.1320873234771767,
-      "total_money_flow_value": -24832130168.699997,
-      "median_pe": 22.07,
-      "stocks": [
-        {
-          "code": "2303",
-          "name": "聯電",
-          "market": "TSE",
-          "theme": "晶圓代工",
-          "close": 133.0,
-          "rise_5d_pct": -9.830508474576272,
-          "rise_60d_pct": -1.115241635687736,
-          "pe": 20.08,
-          "dividend_yield": 1.96,
-          "revenue_yoy_pct": 27.215377995124747,
-          "foreign_net": 2382030,
-          "trust_net": -18367075,
-          "flow_windows": {
-            "1d": -15985045,
-            "3d": -75510898,
-            "5d": -89822823,
-            "7d": -143121745,
-            "10d": -317919298,
-            "streak_days": 0
-          },
-          "money_flow_value": -2126010985.0,
-          "primary_flow_value": -11946435459.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -2126010985.0,
-            "3": -10042949434.0,
-            "5": -11946435459.0,
-            "7": -19035192085.0,
-            "10": -42283266634.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數"
-          ]
-        },
-        {
-          "code": "6770",
-          "name": "力積電",
-          "market": "TSE",
-          "theme": "晶圓代工",
-          "close": 67.3,
-          "rise_5d_pct": -6.786703601108046,
-          "rise_60d_pct": 3.3794162826420893,
-          "pe": 22.07,
-          "dividend_yield": null,
-          "revenue_yoy_pct": 93.95031876917346,
-          "foreign_net": 4159811,
-          "trust_net": -41391,
-          "flow_windows": {
-            "1d": 4118420,
-            "3d": -70648262,
-            "5d": -191466489,
-            "7d": -249461405,
-            "10d": -235199361,
-            "streak_days": 1
-          },
-          "money_flow_value": 277169666.0,
-          "primary_flow_value": -12885694709.699999,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 277169666.0,
-            "3": -4754628032.599999,
-            "5": -12885694709.699999,
-            "7": -16788752556.5,
-            "10": -15828916995.3
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "本益比低於族群中位數",
-            "已大幅超前,慎防追高"
-          ]
-        }
-      ]
-    },
-    "被動元件": {
-      "avg_momentum_60d_pct": 7.328186713310387,
-      "total_money_flow_value": -18619322179.5,
-      "median_pe": 45.56,
-      "stocks": [
-        {
-          "code": "2327",
-          "name": "國巨",
-          "market": "TSE",
-          "theme": "被動元件",
-          "close": 567.0,
-          "rise_5d_pct": -10.70866141732284,
-          "rise_60d_pct": -15.373134328358207,
-          "pe": 38.59,
-          "dividend_yield": 1.05,
-          "revenue_yoy_pct": 46.12057544691238,
-          "foreign_net": -3716882,
-          "trust_net": 1151593,
-          "flow_windows": {
-            "1d": -2565289,
-            "3d": -19581962,
-            "5d": -30480329,
-            "7d": -32297513,
-            "10d": -43124405,
-            "streak_days": 0
-          },
-          "money_flow_value": -1454518863.0,
-          "primary_flow_value": -17282346543.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -1454518863.0,
-            "3": -11102972454.0,
-            "5": -17282346543.0,
-            "7": -18312689871.0,
-            "10": -24451537635.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數"
-          ]
-        },
-        {
-          "code": "2375",
-          "name": "智寶",
-          "market": "TSE",
-          "theme": "被動元件",
-          "close": 125.5,
-          "rise_5d_pct": -3.831417624521072,
-          "rise_60d_pct": -9.712230215827333,
-          "pe": 31.49,
-          "dividend_yield": 0.92,
-          "revenue_yoy_pct": 35.84856745567244,
-          "foreign_net": -1099780,
-          "trust_net": -6000,
-          "flow_windows": {
-            "1d": -1105780,
-            "3d": -1329118,
-            "5d": -1750731,
-            "7d": -2772851,
-            "10d": -2786066,
-            "streak_days": 0
-          },
-          "money_flow_value": -138775390.0,
-          "primary_flow_value": -219716740.5,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -138775390.0,
-            "3": -166804309.0,
-            "5": -219716740.5,
-            "7": -347992800.5,
-            "10": -349651283.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數"
-          ]
-        },
-        {
-          "code": "2486",
-          "name": "一詮",
-          "market": "TSE",
-          "theme": "被動元件",
-          "close": 216.0,
-          "rise_5d_pct": -9.433962264150942,
-          "rise_60d_pct": -1.1441647597253968,
-          "pe": 182.76,
-          "dividend_yield": 0.24,
-          "revenue_yoy_pct": 56.830680809905594,
-          "foreign_net": 301228,
-          "trust_net": 12000,
-          "flow_windows": {
-            "1d": 313228,
-            "3d": 109239,
-            "5d": -1420352,
-            "7d": -1762065,
-            "10d": -2640709,
-            "streak_days": 1
-          },
-          "money_flow_value": 67657248.0,
-          "primary_flow_value": -306796032.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 67657248.0,
-            "3": 23595624.0,
-            "5": -306796032.0,
-            "7": -380606040.0,
-            "10": -570393144.0
-          },
-          "flow_streak_days": 1,
           "tags": [
             "落後同業"
           ]
         },
         {
-          "code": "3026",
-          "name": "禾伸堂",
-          "market": "TSE",
-          "theme": "被動元件",
-          "close": 806.0,
-          "rise_5d_pct": -8.095781071835805,
-          "rise_60d_pct": 18.181818181818187,
-          "pe": 79.12,
-          "dividend_yield": 0.72,
-          "revenue_yoy_pct": 27.11088978004695,
-          "foreign_net": -1907532,
-          "trust_net": 481000,
-          "flow_windows": {
-            "1d": -1426532,
-            "3d": -1019683,
-            "5d": -3497644,
-            "7d": 1994816,
-            "10d": -1810321,
-            "streak_days": 0
-          },
-          "money_flow_value": -1149784792.0,
-          "primary_flow_value": -2819101064.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -1149784792.0,
-            "3": -821864498.0,
-            "5": -2819101064.0,
-            "7": 1607821696.0,
-            "10": -1459118726.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "已大幅超前,慎防追高"
-          ]
-        },
-        {
-          "code": "2492",
-          "name": "華新科",
-          "market": "TSE",
-          "theme": "被動元件",
-          "close": 395.0,
-          "rise_5d_pct": -5.952380952380953,
-          "rise_60d_pct": 44.688644688644686,
-          "pe": 45.56,
-          "dividend_yield": 0.62,
-          "revenue_yoy_pct": 53.92880329001265,
-          "foreign_net": -948667,
-          "trust_net": -20000,
-          "flow_windows": {
-            "1d": -968667,
-            "3d": 4546302,
-            "5d": 5085160,
-            "7d": 12317624,
-            "10d": 20641596,
-            "streak_days": 0
-          },
-          "money_flow_value": -382623465.0,
-          "primary_flow_value": 2008638200.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -382623465.0,
-            "3": 1795789290.0,
-            "5": 2008638200.0,
-            "7": 4865461480.0,
-            "10": 8153430420.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "本益比低於族群中位數",
-            "法人近5日買超",
-            "已大幅超前,慎防追高"
-          ]
-        }
-      ]
-    },
-    "AI伺服器組裝": {
-      "avg_momentum_60d_pct": 10.903748447535566,
-      "total_money_flow_value": -17596599191.5,
-      "median_pe": 13.98,
-      "stocks": [
-        {
-          "code": "2356",
-          "name": "英業達",
-          "market": "TSE",
-          "theme": "AI伺服器組裝",
-          "close": 59.0,
-          "rise_5d_pct": 2.60869565217392,
-          "rise_60d_pct": -1.830282861896837,
-          "pe": 18.58,
-          "dividend_yield": 3.47,
-          "revenue_yoy_pct": 62.87088005015264,
-          "foreign_net": 3509206,
-          "trust_net": -38577,
-          "flow_windows": {
-            "1d": 3470629,
-            "3d": -38565,
-            "5d": -6714025,
-            "7d": -13379119,
-            "10d": -26161164,
-            "streak_days": 1
-          },
-          "money_flow_value": 204767111.0,
-          "primary_flow_value": -396127475.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 204767111.0,
-            "3": -2275335.0,
-            "5": -396127475.0,
-            "7": -789368021.0,
-            "10": -1543508676.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "落後同業",
-            "基本面佳(殖利率+營收年增,輕量版)",
-            "★低位階+基本面佳"
-          ]
-        },
-        {
-          "code": "2382",
-          "name": "廣達",
-          "market": "TSE",
-          "theme": "AI伺服器組裝",
-          "close": 322.0,
-          "rise_5d_pct": -1.0752688172043001,
-          "rise_60d_pct": -0.6172839506172867,
-          "pe": 13.79,
-          "dividend_yield": 4.93,
-          "revenue_yoy_pct": 76.68901002964485,
-          "foreign_net": 2039741,
-          "trust_net": 1582528,
-          "flow_windows": {
-            "1d": 3622269,
-            "3d": 923406,
-            "5d": 1828803,
-            "7d": -3978595,
-            "10d": -7659544,
-            "streak_days": 1
-          },
-          "money_flow_value": 1166370618.0,
-          "primary_flow_value": 588874566.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 1166370618.0,
-            "3": 297336732.0,
-            "5": 588874566.0,
-            "7": -1281107590.0,
-            "10": -2466373168.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數",
-            "法人近5日買超",
-            "基本面佳(殖利率+營收年增,輕量版)",
-            "★低位階+基本面佳"
-          ]
-        },
-        {
-          "code": "6669",
-          "name": "緯穎",
-          "market": "TSE",
-          "theme": "AI伺服器組裝",
-          "close": 1845.0,
-          "rise_5d_pct": -17.63392857142857,
-          "rise_60d_pct": 10.065144247977663,
-          "pe": 6.11,
-          "dividend_yield": 8.62,
-          "revenue_yoy_pct": 99.98511294484359,
-          "foreign_net": 4673665,
-          "trust_net": -4102187,
-          "flow_windows": {
-            "1d": 571478,
-            "3d": -2937578,
-            "5d": -3214933,
-            "7d": -3979384,
-            "10d": -5238422,
-            "streak_days": 1
-          },
-          "money_flow_value": 1054376910.0,
-          "primary_flow_value": -5931551385.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 1054376910.0,
-            "3": -5419831410.0,
-            "5": -5931551385.0,
-            "7": -7341963480.0,
-            "10": -9664888590.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數",
-            "基本面佳(殖利率+營收年增,輕量版)",
-            "★低位階+基本面佳"
-          ]
-        },
-        {
-          "code": "3231",
-          "name": "緯創",
-          "market": "TSE",
-          "theme": "AI伺服器組裝",
-          "close": 182.5,
-          "rise_5d_pct": -3.183023872679047,
-          "rise_60d_pct": 22.073578595317734,
-          "pe": 13.98,
-          "dividend_yield": 3.13,
-          "revenue_yoy_pct": 87.1863428539576,
-          "foreign_net": 10253743,
-          "trust_net": -1465598,
-          "flow_windows": {
-            "1d": 8788145,
-            "3d": -35826396,
-            "5d": -31585585,
-            "7d": -26184541,
-            "10d": -28697290,
-            "streak_days": 1
-          },
-          "money_flow_value": 1603836462.5,
-          "primary_flow_value": -5764369262.5,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 1603836462.5,
-            "3": -6538317270.0,
-            "5": -5764369262.5,
-            "7": -4778678732.5,
-            "10": -5237255425.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "本益比低於族群中位數",
-            "基本面佳(殖利率+營收年增,輕量版)",
-            "已大幅超前,慎防追高"
-          ]
-        },
-        {
-          "code": "2059",
-          "name": "川湖",
-          "market": "TSE",
-          "theme": "AI伺服器組裝",
-          "close": 9955.0,
-          "rise_5d_pct": -6.217616580310881,
-          "rise_60d_pct": 24.827586206896555,
-          "pe": 53.59,
-          "dividend_yield": 0.52,
-          "revenue_yoy_pct": 196.22466238072266,
-          "foreign_net": -140898,
-          "trust_net": 47458,
-          "flow_windows": {
-            "1d": -93440,
-            "3d": -335737,
-            "5d": -612097,
-            "7d": -1080237,
-            "10d": -1143994,
-            "streak_days": 0
-          },
-          "money_flow_value": -930195200.0,
-          "primary_flow_value": -6093425635.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -930195200.0,
-            "3": -3342261835.0,
-            "5": -6093425635.0,
-            "7": -10753759335.0,
-            "10": -11388460270.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "已大幅超前,慎防追高"
-          ]
-        }
-      ]
-    },
-    "散熱": {
-      "avg_momentum_60d_pct": 62.656267279181925,
-      "total_money_flow_value": -8403203300.0,
-      "median_pe": 41.12,
-      "stocks": [
-        {
-          "code": "3017",
-          "name": "奇鋐",
-          "market": "TSE",
-          "theme": "散熱",
-          "close": 3315.0,
-          "rise_5d_pct": -3.6337209302325535,
-          "rise_60d_pct": 42.88793103448276,
-          "pe": 41.12,
-          "dividend_yield": 0.68,
-          "revenue_yoy_pct": 44.91953525916051,
-          "foreign_net": -724634,
-          "trust_net": 591575,
-          "flow_windows": {
-            "1d": -133059,
-            "3d": -1681361,
-            "5d": -1910160,
-            "7d": -3519556,
-            "10d": -2760584,
-            "streak_days": 0
-          },
-          "money_flow_value": -441090585.0,
-          "primary_flow_value": -6332180400.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": -441090585.0,
-            "3": -5573711715.0,
-            "5": -6332180400.0,
-            "7": -11667328140.0,
-            "10": -9151335960.0
-          },
-          "flow_streak_days": 0,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數"
-          ]
-        },
-        {
-          "code": "3324",
-          "name": "雙鴻",
+          "code": "8299",
+          "name": "群聯",
           "market": "TPEX",
-          "theme": "散熱",
-          "close": 1425.0,
-          "rise_5d_pct": -6.25,
-          "rise_60d_pct": 53.88768898488121,
-          "pe": 32.86,
-          "dividend_yield": 0.84,
+          "theme": "記憶體",
+          "close": 1845.0,
+          "rise_5d_pct": -10.21897810218978,
+          "rise_60d_pct": -3.6553524804177506,
+          "pe": 8.45,
+          "dividend_yield": 1.26,
           "revenue_yoy_pct": null,
           "foreign_net": 0,
-          "trust_net": 1346,
-          "money_flow_value": 1918050.0,
-          "primary_flow_value": 1918050.0,
+          "trust_net": 11493,
+          "money_flow_value": 21204585.0,
+          "primary_flow_value": 21204585.0,
           "primary_flow_basis": "今日",
           "flow_windows_value": {
             "1": null,
@@ -1096,76 +443,721 @@
           ]
         },
         {
+          "code": "2408",
+          "name": "南亞科",
+          "market": "TSE",
+          "theme": "記憶體",
+          "close": 436.0,
+          "rise_5d_pct": -17.267552182163193,
+          "rise_60d_pct": -2.1324354657688005,
+          "pe": 17.37,
+          "dividend_yield": 0.3,
+          "revenue_yoy_pct": 576.622775031737,
+          "foreign_net": -5523010,
+          "trust_net": -541117,
+          "flow_windows": {
+            "1d": -6064127,
+            "3d": -38501132,
+            "5d": -105755985,
+            "7d": -86383287,
+            "10d": -93793905,
+            "streak_days": 0
+          },
+          "money_flow_value": -2643959372.0,
+          "primary_flow_value": -46109609460.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -2643959372.0,
+            "3": -16786493552.0,
+            "5": -46109609460.0,
+            "7": -37663113132.0,
+            "10": -40894142580.0
+          },
+          "flow_streak_days": 0,
+          "tags": []
+        },
+        {
+          "code": "3006",
+          "name": "晶豪科",
+          "market": "TSE",
+          "theme": "記憶體",
+          "close": 239.0,
+          "rise_5d_pct": -8.25335892514395,
+          "rise_60d_pct": 9.885057471264357,
+          "pe": 7.71,
+          "dividend_yield": 0.41,
+          "revenue_yoy_pct": 470.2347504677583,
+          "foreign_net": -603364,
+          "trust_net": 0,
+          "flow_windows": {
+            "1d": -603364,
+            "3d": -1312999,
+            "5d": -5052745,
+            "7d": -9080145,
+            "10d": -14469391,
+            "streak_days": 0
+          },
+          "money_flow_value": -144203996.0,
+          "primary_flow_value": -1207606055.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -144203996.0,
+            "3": -313806761.0,
+            "5": -1207606055.0,
+            "7": -2170154655.0,
+            "10": -3458184449.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "本益比低於族群中位數"
+          ]
+        },
+        {
+          "code": "4967",
+          "name": "十銓",
+          "market": "TSE",
+          "theme": "記憶體",
+          "close": 253.5,
+          "rise_5d_pct": -5.936920222634512,
+          "rise_60d_pct": 16.0183066361556,
+          "pe": 3.85,
+          "dividend_yield": 3.32,
+          "revenue_yoy_pct": 109.68927823663151,
+          "foreign_net": -102559,
+          "trust_net": 3000,
+          "flow_windows": {
+            "1d": -99559,
+            "3d": 57962,
+            "5d": -162876,
+            "7d": -557022,
+            "10d": -2630792,
+            "streak_days": 0
+          },
+          "money_flow_value": -25238206.5,
+          "primary_flow_value": -41289066.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -25238206.5,
+            "3": 14693367.0,
+            "5": -41289066.0,
+            "7": -141205077.0,
+            "10": -666905772.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "本益比低於族群中位數",
+            "基本面佳(殖利率+營收年增,輕量版)"
+          ]
+        }
+      ]
+    },
+    "晶圓代工": {
+      "avg_momentum_60d_pct": -4.612421991714438,
+      "total_money_flow_value": -24074364366.9,
+      "median_pe": 22.43,
+      "stocks": [
+        {
+          "code": "2303",
+          "name": "聯電",
+          "market": "TSE",
+          "theme": "晶圓代工",
+          "close": 131.5,
+          "rise_5d_pct": -9.621993127147766,
+          "rise_60d_pct": -5.39568345323741,
+          "pe": 20.0,
+          "dividend_yield": 1.96,
+          "revenue_yoy_pct": 27.215377995124747,
+          "foreign_net": -5661208,
+          "trust_net": 150751,
+          "flow_windows": {
+            "1d": -5510457,
+            "3d": -59124420,
+            "5d": -82449339,
+            "7d": -113518618,
+            "10d": -328967618,
+            "streak_days": 0
+          },
+          "money_flow_value": -724625095.5,
+          "primary_flow_value": -10842088078.5,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -724625095.5,
+            "3": -7774861230.0,
+            "5": -10842088078.5,
+            "7": -14927698267.0,
+            "10": -43259241767.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數"
+          ]
+        },
+        {
+          "code": "6770",
+          "name": "力積電",
+          "market": "TSE",
+          "theme": "晶圓代工",
+          "close": 65.3,
+          "rise_5d_pct": -8.543417366946793,
+          "rise_60d_pct": -3.8291605301914666,
+          "pe": 22.43,
+          "dividend_yield": null,
+          "revenue_yoy_pct": 93.95031876917346,
+          "foreign_net": -46465738,
+          "trust_net": 12774644,
+          "flow_windows": {
+            "1d": -33691094,
+            "3d": -120181804,
+            "5d": -202638228,
+            "7d": -246711162,
+            "10d": -314595273,
+            "streak_days": 0
+          },
+          "money_flow_value": -2200028438.2,
+          "primary_flow_value": -13232276288.4,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -2200028438.2,
+            "3": -7847871801.2,
+            "5": -13232276288.4,
+            "7": -16110238878.599998,
+            "10": -20543071326.899998
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "本益比低於族群中位數"
+          ]
+        }
+      ]
+    },
+    "被動元件": {
+      "avg_momentum_60d_pct": -4.058744912593256,
+      "total_money_flow_value": -18716086804.5,
+      "median_pe": 44.38,
+      "stocks": [
+        {
+          "code": "2327",
+          "name": "國巨",
+          "market": "TSE",
+          "theme": "被動元件",
+          "close": 534.0,
+          "rise_5d_pct": -16.0377358490566,
+          "rise_60d_pct": -24.039829302987194,
+          "pe": 38.18,
+          "dividend_yield": 1.06,
+          "revenue_yoy_pct": 46.12057544691238,
+          "foreign_net": -2425489,
+          "trust_net": -2699124,
+          "flow_windows": {
+            "1d": -5124613,
+            "3d": -31699732,
+            "5d": -36670437,
+            "7d": -42400319,
+            "10d": -49284951,
+            "streak_days": 0
+          },
+          "money_flow_value": -2736543342.0,
+          "primary_flow_value": -19582013358.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -2736543342.0,
+            "3": -16927656888.0,
+            "5": -19582013358.0,
+            "7": -22641770346.0,
+            "10": -26318163834.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數"
+          ]
+        },
+        {
+          "code": "2375",
+          "name": "智寶",
+          "market": "TSE",
+          "theme": "被動元件",
+          "close": 116.0,
+          "rise_5d_pct": -10.424710424710426,
+          "rise_60d_pct": -20.274914089347075,
+          "pe": 30.17,
+          "dividend_yield": 0.96,
+          "revenue_yoy_pct": 35.84856745567244,
+          "foreign_net": 97826,
+          "trust_net": -52000,
+          "flow_windows": {
+            "1d": 45826,
+            "3d": -2707666,
+            "5d": -1519905,
+            "7d": -1776013,
+            "10d": -2570990,
+            "streak_days": 1
+          },
+          "money_flow_value": 5315816.0,
+          "primary_flow_value": -176308980.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": 5315816.0,
+            "3": -314089256.0,
+            "5": -176308980.0,
+            "7": -206017508.0,
+            "10": -298234840.0
+          },
+          "flow_streak_days": 1,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數"
+          ]
+        },
+        {
+          "code": "2486",
+          "name": "一詮",
+          "market": "TSE",
+          "theme": "被動元件",
+          "close": 213.5,
+          "rise_5d_pct": -8.56531049250535,
+          "rise_60d_pct": -8.172043010752683,
+          "pe": 186.21,
+          "dividend_yield": 0.23,
+          "revenue_yoy_pct": 56.830680809905594,
+          "foreign_net": 774519,
+          "trust_net": -178000,
+          "flow_windows": {
+            "1d": 596519,
+            "3d": 760039,
+            "5d": -576097,
+            "7d": -1000820,
+            "10d": -892728,
+            "streak_days": 2
+          },
+          "money_flow_value": 127356806.5,
+          "primary_flow_value": -122996709.5,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": 127356806.5,
+            "3": 162268326.5,
+            "5": -122996709.5,
+            "7": -213675070.0,
+            "10": -190597428.0
+          },
+          "flow_streak_days": 2,
+          "tags": [
+            "落後同業"
+          ]
+        },
+        {
+          "code": "3026",
+          "name": "禾伸堂",
+          "market": "TSE",
+          "theme": "被動元件",
+          "close": 735.0,
+          "rise_5d_pct": -12.5,
+          "rise_60d_pct": 10.859728506787336,
+          "pe": 78.63,
+          "dividend_yield": 0.72,
+          "revenue_yoy_pct": 27.11088978004695,
+          "foreign_net": 280835,
+          "trust_net": 232000,
+          "flow_windows": {
+            "1d": 512835,
+            "3d": -1843092,
+            "5d": -1041535,
+            "7d": 259562,
+            "10d": 199816,
+            "streak_days": 1
+          },
+          "money_flow_value": 376933725.0,
+          "primary_flow_value": -765528225.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": 376933725.0,
+            "3": -1354672620.0,
+            "5": -765528225.0,
+            "7": 190778070.0,
+            "10": 146864760.0
+          },
+          "flow_streak_days": 1,
+          "tags": []
+        },
+        {
+          "code": "2492",
+          "name": "華新科",
+          "market": "TSE",
+          "theme": "被動元件",
+          "close": 364.0,
+          "rise_5d_pct": -12.918660287081341,
+          "rise_60d_pct": 21.333333333333336,
+          "pe": 44.38,
+          "dividend_yield": 0.63,
+          "revenue_yoy_pct": 53.92880329001265,
+          "foreign_net": -671250,
+          "trust_net": -674000,
+          "flow_windows": {
+            "1d": -1345250,
+            "3d": -536211,
+            "5d": 5304287,
+            "7d": -1631156,
+            "10d": 6747347,
+            "streak_days": 0
+          },
+          "money_flow_value": -489671000.0,
+          "primary_flow_value": 1930760468.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -489671000.0,
+            "3": -195180804.0,
+            "5": 1930760468.0,
+            "7": -593740784.0,
+            "10": 2456034308.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "本益比低於族群中位數",
+            "法人近5日買超"
+          ]
+        }
+      ]
+    },
+    "AI伺服器組裝": {
+      "avg_momentum_60d_pct": 5.091117759405049,
+      "total_money_flow_value": -19220573317.4,
+      "median_pe": 14.5,
+      "stocks": [
+        {
+          "code": "2382",
+          "name": "廣達",
+          "market": "TSE",
+          "theme": "AI伺服器組裝",
+          "close": 314.5,
+          "rise_5d_pct": -2.329192546583847,
+          "rise_60d_pct": -4.4072948328267465,
+          "pe": 14.03,
+          "dividend_yield": 4.84,
+          "revenue_yoy_pct": 76.68901002964485,
+          "foreign_net": -4139697,
+          "trust_net": 454106,
+          "flow_windows": {
+            "1d": -3685591,
+            "3d": -2375184,
+            "5d": -556346,
+            "7d": -9087833,
+            "10d": -7996919,
+            "streak_days": 0
+          },
+          "money_flow_value": -1159118369.5,
+          "primary_flow_value": -174970817.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -1159118369.5,
+            "3": -746995368.0,
+            "5": -174970817.0,
+            "7": -2858123478.5,
+            "10": -2515031025.5
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數",
+            "基本面佳(殖利率+營收年增,輕量版)",
+            "★低位階+基本面佳"
+          ]
+        },
+        {
+          "code": "2356",
+          "name": "英業達",
+          "market": "TSE",
+          "theme": "AI伺服器組裝",
+          "close": 59.1,
+          "rise_5d_pct": 1.721170395869187,
+          "rise_60d_pct": -4.213938411669371,
+          "pe": 19.03,
+          "dividend_yield": 3.39,
+          "revenue_yoy_pct": 62.87088005015264,
+          "foreign_net": -82885,
+          "trust_net": -794900,
+          "flow_windows": {
+            "1d": -877785,
+            "3d": -854331,
+            "5d": -3134944,
+            "7d": -10277738,
+            "10d": -20763933,
+            "streak_days": 0
+          },
+          "money_flow_value": -51877093.5,
+          "primary_flow_value": -185275190.4,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -51877093.5,
+            "3": -50490962.1,
+            "5": -185275190.4,
+            "7": -607414315.8000001,
+            "10": -1227148440.3
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "基本面佳(殖利率+營收年增,輕量版)",
+            "★低位階+基本面佳"
+          ]
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "market": "TSE",
+          "theme": "AI伺服器組裝",
+          "close": 1885.0,
+          "rise_5d_pct": -17.14285714285714,
+          "rise_60d_pct": 2.2284167882380412,
+          "pe": 5.91,
+          "dividend_yield": 8.9,
+          "revenue_yoy_pct": 99.98511294484359,
+          "foreign_net": 896073,
+          "trust_net": -1413628,
+          "flow_windows": {
+            "1d": -517555,
+            "3d": -2951843,
+            "5d": -3542818,
+            "7d": -3995415,
+            "10d": -4641430,
+            "streak_days": 0
+          },
+          "money_flow_value": -975591175.0,
+          "primary_flow_value": -6678211930.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -975591175.0,
+            "3": -5564224055.0,
+            "5": -6678211930.0,
+            "7": -7531357275.0,
+            "10": -8749095550.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數",
+            "基本面佳(殖利率+營收年增,輕量版)",
+            "★低位階+基本面佳"
+          ]
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "market": "TSE",
+          "theme": "AI伺服器組裝",
+          "close": 180.0,
+          "rise_5d_pct": -5.013192612137207,
+          "rise_60d_pct": 9.756097560975618,
+          "pe": 14.5,
+          "dividend_yield": 3.01,
+          "revenue_yoy_pct": 87.1863428539576,
+          "foreign_net": -2618672,
+          "trust_net": -4222443,
+          "flow_windows": {
+            "1d": -6841115,
+            "3d": -39632210,
+            "5d": -42314081,
+            "7d": -22045043,
+            "10d": -13024606,
+            "streak_days": 0
+          },
+          "money_flow_value": -1231400700.0,
+          "primary_flow_value": -7616534580.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -1231400700.0,
+            "3": -7133797800.0,
+            "5": -7616534580.0,
+            "7": -3968107740.0,
+            "10": -2344429080.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "本益比低於族群中位數",
+            "基本面佳(殖利率+營收年增,輕量版)",
+            "已大幅超前,慎防追高"
+          ]
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "market": "TSE",
+          "theme": "AI伺服器組裝",
+          "close": 9920.0,
+          "rise_5d_pct": -6.238185255198491,
+          "rise_60d_pct": 22.0923076923077,
+          "pe": 54.88,
+          "dividend_yield": 0.51,
+          "revenue_yoy_pct": 196.22466238072266,
+          "foreign_net": -59189,
+          "trust_net": 9960,
+          "flow_windows": {
+            "1d": -49229,
+            "3d": -239319,
+            "5d": -460240,
+            "7d": -1208383,
+            "10d": -1217778,
+            "streak_days": 0
+          },
+          "money_flow_value": -488351680.0,
+          "primary_flow_value": -4565580800.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -488351680.0,
+            "3": -2374044480.0,
+            "5": -4565580800.0,
+            "7": -11987159360.0,
+            "10": -12080357760.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "已大幅超前,慎防追高"
+          ]
+        }
+      ]
+    },
+    "散熱": {
+      "avg_momentum_60d_pct": 61.99643890970436,
+      "total_money_flow_value": -8197388820.0,
+      "median_pe": 44.19,
+      "stocks": [
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "market": "TSE",
+          "theme": "散熱",
+          "close": 3320.0,
+          "rise_5d_pct": -1.9202363367799125,
+          "rise_60d_pct": 46.57836644591611,
+          "pe": 44.19,
+          "dividend_yield": 0.63,
+          "revenue_yoy_pct": 44.91953525916051,
+          "foreign_net": -526724,
+          "trust_net": 509038,
+          "flow_windows": {
+            "1d": -17686,
+            "3d": -1243415,
+            "5d": -2034570,
+            "7d": -2532854,
+            "10d": -2161257,
+            "streak_days": 0
+          },
+          "money_flow_value": -58717520.0,
+          "primary_flow_value": -6754772400.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -58717520.0,
+            "3": -4128137800.0,
+            "5": -6754772400.0,
+            "7": -8409075280.0,
+            "10": -7175373240.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數"
+          ]
+        },
+        {
+          "code": "3324",
+          "name": "雙鴻",
+          "market": "TPEX",
+          "theme": "散熱",
+          "close": 1380.0,
+          "rise_5d_pct": -10.389610389610393,
+          "rise_60d_pct": 51.98237885462555,
+          "pe": 31.83,
+          "dividend_yield": 0.86,
+          "revenue_yoy_pct": null,
+          "foreign_net": 0,
+          "trust_net": -5657,
+          "money_flow_value": -7806660.0,
+          "primary_flow_value": -7806660.0,
+          "primary_flow_basis": "今日",
+          "flow_windows_value": {
+            "1": null,
+            "3": null,
+            "5": null,
+            "7": null,
+            "10": null
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數"
+          ]
+        },
+        {
           "code": "3653",
           "name": "健策",
           "market": "TSE",
           "theme": "散熱",
-          "close": 6730.0,
-          "rise_5d_pct": -6.071179344033495,
-          "rise_60d_pct": 91.19318181818181,
-          "pe": 152.67,
+          "close": 6560.0,
+          "rise_5d_pct": -8.37988826815642,
+          "rise_60d_pct": 87.42857142857143,
+          "pe": 151.88,
           "dividend_yield": 0.32,
           "revenue_yoy_pct": 79.96854552825599,
-          "foreign_net": -109032,
-          "trust_net": 50676,
+          "foreign_net": -78392,
+          "trust_net": 89032,
           "flow_windows": {
-            "1d": -58356,
-            "3d": -268594,
-            "5d": -308015,
-            "7d": -209286,
-            "10d": -390245,
-            "streak_days": 0
+            "1d": 10640,
+            "3d": -171447,
+            "5d": -218721,
+            "7d": -102321,
+            "10d": -223923,
+            "streak_days": 1
           },
-          "money_flow_value": -392735880.0,
-          "primary_flow_value": -2072940950.0,
+          "money_flow_value": 69798400.0,
+          "primary_flow_value": -1434809760.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -392735880.0,
-            "3": -1807637620.0,
-            "5": -2072940950.0,
-            "7": -1408494780.0,
-            "10": -2626348850.0
+            "1": 69798400.0,
+            "3": -1124692320.0,
+            "5": -1434809760.0,
+            "7": -671225760.0,
+            "10": -1468934880.0
           },
-          "flow_streak_days": 0,
+          "flow_streak_days": 1,
           "tags": []
         }
       ]
     },
     "ABF載板/PCB": {
-      "avg_momentum_60d_pct": 44.426497899504035,
-      "total_money_flow_value": -8997970421.0,
-      "median_pe": 82.02,
+      "avg_momentum_60d_pct": 38.2993783273151,
+      "total_money_flow_value": -8964663826.0,
+      "median_pe": 82.78,
       "stocks": [
         {
           "code": "8046",
           "name": "南電",
           "market": "TSE",
           "theme": "ABF載板/PCB",
-          "close": 1355.0,
-          "rise_5d_pct": -8.135593220338988,
-          "rise_60d_pct": 13.86554621848739,
-          "pe": 158.05,
+          "close": 1380.0,
+          "rise_5d_pct": -4.1666666666666625,
+          "rise_60d_pct": 5.747126436781613,
+          "pe": 159.22,
           "dividend_yield": 0.15,
           "revenue_yoy_pct": 57.81553056554688,
-          "foreign_net": -1151597,
-          "trust_net": 362610,
+          "foreign_net": -792944,
+          "trust_net": 573481,
           "flow_windows": {
-            "1d": -788987,
-            "3d": -1264116,
-            "5d": -587363,
-            "7d": 404832,
-            "10d": 3982595,
+            "1d": -219463,
+            "3d": -1813369,
+            "5d": -810805,
+            "7d": -429848,
+            "10d": 2249033,
             "streak_days": 0
           },
-          "money_flow_value": -1069077385.0,
-          "primary_flow_value": -795876865.0,
+          "money_flow_value": -302858940.0,
+          "primary_flow_value": -1118910900.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -1069077385.0,
-            "3": -1712877180.0,
-            "5": -795876865.0,
-            "7": 548547360.0,
-            "10": 5396416225.0
+            "1": -302858940.0,
+            "3": -2502449220.0,
+            "5": -1118910900.0,
+            "7": -593190240.0,
+            "10": 3103665540.0
           },
           "flow_streak_days": 0,
           "tags": [
@@ -1173,58 +1165,20 @@
           ]
         },
         {
-          "code": "2368",
-          "name": "金像電",
-          "market": "TSE",
-          "theme": "ABF載板/PCB",
-          "close": 1245.0,
-          "rise_5d_pct": -3.11284046692607,
-          "rise_60d_pct": 27.040816326530614,
-          "pe": 42.71,
-          "dividend_yield": 0.82,
-          "revenue_yoy_pct": 55.462822673426,
-          "foreign_net": -1500559,
-          "trust_net": 2952022,
-          "flow_windows": {
-            "1d": 1451463,
-            "3d": 2684883,
-            "5d": 2054544,
-            "7d": 2509917,
-            "10d": 5281377,
-            "streak_days": 1
-          },
-          "money_flow_value": 1807071435.0,
-          "primary_flow_value": 2557907280.0,
-          "primary_flow_basis": "近5日",
-          "flow_windows_value": {
-            "1": 1807071435.0,
-            "3": 3342679335.0,
-            "5": 2557907280.0,
-            "7": 3124846665.0,
-            "10": 6575314365.0
-          },
-          "flow_streak_days": 1,
-          "tags": [
-            "落後同業",
-            "本益比低於族群中位數",
-            "法人近5日買超"
-          ]
-        },
-        {
           "code": "6274",
           "name": "台燿",
           "market": "TPEX",
           "theme": "ABF載板/PCB",
-          "close": 1615.0,
-          "rise_5d_pct": -7.183908045977017,
-          "rise_60d_pct": 30.76923076923077,
-          "pe": 82.02,
+          "close": 1630.0,
+          "rise_5d_pct": -6.051873198847257,
+          "rise_60d_pct": 20.295202952029513,
+          "pe": 82.78,
           "dividend_yield": 0.46,
           "revenue_yoy_pct": null,
           "foreign_net": 0,
-          "trust_net": 453000,
-          "money_flow_value": 731595000.0,
-          "primary_flow_value": 731595000.0,
+          "trust_net": 706000,
+          "money_flow_value": 1150780000.0,
+          "primary_flow_value": 1150780000.0,
           "primary_flow_basis": "今日",
           "flow_windows_value": {
             "1": null,
@@ -1245,31 +1199,31 @@
           "name": "欣興",
           "market": "TSE",
           "theme": "ABF載板/PCB",
-          "close": 1090.0,
-          "rise_5d_pct": -14.173228346456689,
-          "rise_60d_pct": 32.121212121212125,
-          "pe": 71.57,
+          "close": 1120.0,
+          "rise_5d_pct": -10.756972111553786,
+          "rise_60d_pct": 23.48401323042999,
+          "pe": 72.57,
           "dividend_yield": 0.18,
           "revenue_yoy_pct": 64.66643811385126,
-          "foreign_net": -2804432,
-          "trust_net": 1086052,
+          "foreign_net": -1733396,
+          "trust_net": 703437,
           "flow_windows": {
-            "1d": -1718380,
-            "3d": -7901647,
-            "5d": -9912454,
-            "7d": -7572319,
-            "10d": 1786514,
+            "1d": -1029959,
+            "3d": -9528374,
+            "5d": -11384786,
+            "7d": -9963602,
+            "10d": -5130220,
             "streak_days": 0
           },
-          "money_flow_value": -1873034200.0,
-          "primary_flow_value": -10804574860.0,
+          "money_flow_value": -1153554080.0,
+          "primary_flow_value": -12750960320.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -1873034200.0,
-            "3": -8612795230.0,
-            "5": -10804574860.0,
-            "7": -8253827710.0,
-            "10": 1947300260.0
+            "1": -1153554080.0,
+            "3": -10671778880.0,
+            "5": -12750960320.0,
+            "7": -11159234240.0,
+            "10": -5745846400.0
           },
           "flow_streak_days": 0,
           "tags": [
@@ -1278,37 +1232,75 @@
           ]
         },
         {
+          "code": "2368",
+          "name": "金像電",
+          "market": "TSE",
+          "theme": "ABF載板/PCB",
+          "close": 1250.0,
+          "rise_5d_pct": 1.2145748987854255,
+          "rise_60d_pct": 32.97872340425532,
+          "pe": 44.69,
+          "dividend_yield": 0.79,
+          "revenue_yoy_pct": 55.462822673426,
+          "foreign_net": -1646767,
+          "trust_net": 1214237,
+          "flow_windows": {
+            "1d": -432530,
+            "3d": -760663,
+            "5d": 3279765,
+            "7d": 2791054,
+            "10d": 5484720,
+            "streak_days": 0
+          },
+          "money_flow_value": -540662500.0,
+          "primary_flow_value": 4099706250.0,
+          "primary_flow_basis": "近5日",
+          "flow_windows_value": {
+            "1": -540662500.0,
+            "3": -950828750.0,
+            "5": 4099706250.0,
+            "7": 3488817500.0,
+            "10": 6855900000.0
+          },
+          "flow_streak_days": 0,
+          "tags": [
+            "落後同業",
+            "本益比低於族群中位數",
+            "法人近5日買超"
+          ]
+        },
+        {
           "code": "6213",
           "name": "聯茂",
           "market": "TSE",
           "theme": "ABF載板/PCB",
-          "close": 774.0,
-          "rise_5d_pct": -3.970223325062039,
-          "rise_60d_pct": 118.33568406205926,
-          "pe": 123.88,
-          "dividend_yield": 0.38,
+          "close": 767.0,
+          "rise_5d_pct": -5.541871921182262,
+          "rise_60d_pct": 108.99182561307903,
+          "pe": 120.0,
+          "dividend_yield": 0.39,
           "revenue_yoy_pct": 110.7353905337519,
-          "foreign_net": 642669,
-          "trust_net": -1000,
+          "foreign_net": 1000,
+          "trust_net": 86000,
           "flow_windows": {
-            "1d": 641669,
-            "3d": -194081,
-            "5d": -887624,
-            "7d": -249868,
-            "10d": 3097905,
-            "streak_days": 1
+            "1d": 87000,
+            "3d": -253303,
+            "5d": -450168,
+            "7d": 272290,
+            "10d": 3093256,
+            "streak_days": 2
           },
-          "money_flow_value": 496651806.0,
-          "primary_flow_value": -687020976.0,
+          "money_flow_value": 66729000.0,
+          "primary_flow_value": -345278856.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": 496651806.0,
-            "3": -150218694.0,
-            "5": -687020976.0,
-            "7": -193397832.0,
-            "10": 2397778470.0
+            "1": 66729000.0,
+            "3": -194283401.0,
+            "5": -345278856.0,
+            "7": 208846430.0,
+            "10": 2372527352.0
           },
-          "flow_streak_days": 1,
+          "flow_streak_days": 2,
           "tags": [
             "已大幅超前,慎防追高"
           ]
@@ -1316,40 +1308,40 @@
       ]
     },
     "電源供應": {
-      "avg_momentum_60d_pct": 8.43929760823493,
-      "total_money_flow_value": -44061563966.5,
-      "median_pe": 51.88,
+      "avg_momentum_60d_pct": 4.16747999219208,
+      "total_money_flow_value": -37921958704.0,
+      "median_pe": 52.04,
       "stocks": [
         {
           "code": "2308",
           "name": "台達電",
           "market": "TSE",
           "theme": "電源供應",
-          "close": 1635.0,
-          "rise_5d_pct": -16.793893129770986,
-          "rise_60d_pct": -10.899182561307907,
-          "pe": 51.88,
+          "close": 1640.0,
+          "rise_5d_pct": -13.684210526315788,
+          "rise_60d_pct": -12.765957446808507,
+          "pe": 52.04,
           "dividend_yield": 0.71,
           "revenue_yoy_pct": 14.613858860431652,
-          "foreign_net": -2133043,
-          "trust_net": 91561,
+          "foreign_net": -834935,
+          "trust_net": 632545,
           "flow_windows": {
-            "1d": -2041482,
-            "3d": -13701991,
-            "5d": -23698130,
-            "7d": -26378599,
-            "10d": -18548540,
+            "1d": -202390,
+            "3d": -12492601,
+            "5d": -21191195,
+            "7d": -24710469,
+            "10d": -17294355,
             "streak_days": 0
           },
-          "money_flow_value": -3337823070.0,
-          "primary_flow_value": -38746442550.0,
+          "money_flow_value": -331919600.0,
+          "primary_flow_value": -34753559800.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -3337823070.0,
-            "3": -22402755285.0,
-            "5": -38746442550.0,
-            "7": -43129009365.0,
-            "10": -30326862900.0
+            "1": -331919600.0,
+            "3": -20487865640.0,
+            "5": -34753559800.0,
+            "7": -40525169160.0,
+            "10": -28362742200.0
           },
           "flow_streak_days": 0,
           "tags": [
@@ -1362,33 +1354,33 @@
           "name": "光寶科",
           "market": "TSE",
           "theme": "電源供應",
-          "close": 264.5,
-          "rise_5d_pct": -11.092436974789921,
-          "rise_60d_pct": 27.777777777777768,
-          "pe": 31.35,
-          "dividend_yield": 1.87,
+          "close": 264.0,
+          "rise_5d_pct": -8.333333333333337,
+          "rise_60d_pct": 21.100917431192666,
+          "pe": 30.94,
+          "dividend_yield": 1.89,
           "revenue_yoy_pct": 22.148274835684056,
-          "foreign_net": -3135372,
-          "trust_net": -110543,
+          "foreign_net": -1218544,
+          "trust_net": 2789213,
           "flow_windows": {
-            "1d": -3245915,
-            "3d": -9988403,
-            "5d": -20094977,
-            "7d": -21027557,
-            "10d": -12190651,
-            "streak_days": 0
+            "1d": 1570669,
+            "3d": -10046747,
+            "5d": -12001511,
+            "7d": -20860792,
+            "10d": -8143458,
+            "streak_days": 1
           },
-          "money_flow_value": -858544517.5,
-          "primary_flow_value": -5315121416.5,
+          "money_flow_value": 414656616.0,
+          "primary_flow_value": -3168398904.0,
           "primary_flow_basis": "近5日",
           "flow_windows_value": {
-            "1": -858544517.5,
-            "3": -2641932593.5,
-            "5": -5315121416.5,
-            "7": -5561788826.5,
-            "10": -3224427189.5
+            "1": 414656616.0,
+            "3": -2652341208.0,
+            "5": -3168398904.0,
+            "7": -5507249088.0,
+            "10": -2149872912.0
           },
-          "flow_streak_days": 0,
+          "flow_streak_days": 1,
           "tags": [
             "本益比低於族群中位數",
             "已大幅超前,慎防追高"
