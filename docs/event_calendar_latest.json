@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-10-19T14:53:00.439676",
+  "generated_at": "2026-10-20T12:52:20.311974",
   "upcoming_fomc": [
     {
       "date": "2026-10-28",
-      "days_until": 9
+      "days_until": 8
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-10-19",
+      "subject": "光寶科技115年第三季法人說明會",
+      "is_conference": true
+    },
     {
       "code": "2308",
       "name": "台達電",
@@ -292,13 +299,6 @@
       "name": "眾達-KY",
       "announce_date": "2026-10-06",
       "subject": "代子公司PCL TECHNOLOGIES TRADING, INC.公告新增資金貸與\r\n金額達「公開發行公司資金貸與及背書保證處理準則」第二十二條\r\n第一項第三款之公告標準。",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-10-05",
-      "subject": "公告本公司第七次海外無擔保轉換公司債完成訂價",
       "is_conference": false
     }
   ],

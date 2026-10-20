@@ -1013,5 +1013,12 @@
     "announce_date": "2026-10-15",
     "subject": "本公司取得廠務工程之相關資料",
     "is_conference": false
+  },
+  {
+    "code": "2301",
+    "name": "光寶科",
+    "announce_date": "2026-10-19",
+    "subject": "光寶科技115年第三季法人說明會",
+    "is_conference": true
   }
 ]
