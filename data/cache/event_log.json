@@ -1020,5 +1020,33 @@
     "announce_date": "2026-10-19",
     "subject": "光寶科技115年第三季法人說明會",
     "is_conference": true
+  },
+  {
+    "code": "6669",
+    "name": "緯穎",
+    "announce_date": "2026-10-20",
+    "subject": "公告補正本公司國內第一次無擔保可轉換公司債公開說明書\r\n部分內容",
+    "is_conference": false
+  },
+  {
+    "code": "6770",
+    "name": "力積電",
+    "announce_date": "2026-10-20",
+    "subject": "公告本公司召開2026年第三季法人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "2344",
+    "name": "華邦電",
+    "announce_date": "2026-10-20",
+    "subject": "本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明",
+    "is_conference": true
+  },
+  {
+    "code": "6770",
+    "name": "力積電",
+    "announce_date": "2026-10-20",
+    "subject": "本公司取得半導體產品生產製造設施及機器設備公告",
+    "is_conference": false
   }
 ]
