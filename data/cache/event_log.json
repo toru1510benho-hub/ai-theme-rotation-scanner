@@ -1048,5 +1048,40 @@
     "announce_date": "2026-10-20",
     "subject": "本公司取得半導體產品生產製造設施及機器設備公告",
     "is_conference": false
+  },
+  {
+    "code": "4967",
+    "name": "十銓",
+    "announce_date": "2026-10-21",
+    "subject": "公告本公司召開法人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "6770",
+    "name": "力積電",
+    "announce_date": "2026-10-21",
+    "subject": "本公司取得半導體產品生產製造設施及機器設備公告",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-10-21",
+    "subject": "公告本公司廠房興建工程",
+    "is_conference": false
+  },
+  {
+    "code": "6770",
+    "name": "力積電",
+    "announce_date": "2026-10-21",
+    "subject": "公告本公司115年第三季自結合併損益",
+    "is_conference": false
+  },
+  {
+    "code": "4977",
+    "name": "眾達-KY",
+    "announce_date": "2026-10-21",
+    "subject": "公告本公司115年現金增資股款催繳期間屆滿暨催繳股數發放事宜",
+    "is_conference": false
   }
 ]
