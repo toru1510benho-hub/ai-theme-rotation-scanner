@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:06:51.541765",
+  "generated_at": "2026-10-23T12:46:11.362038",
   "candidates": [
     {
       "code": "2356",
@@ -7,8 +7,8 @@
       "theme": "AI伺服器組裝",
       "score": 11,
       "rise_60d_pct": -5.1724137931034475,
-      "pe": 19.77,
-      "dividend_yield": 3.26,
+      "pe": 19.52,
+      "dividend_yield": 3.31,
       "revenue_yoy_pct": 62.87088005015264,
       "flow_windows_value": {
         "1": 195324189.5,
@@ -55,8 +55,8 @@
       "theme": "AI伺服器組裝",
       "score": 9,
       "rise_60d_pct": 0.0,
-      "pe": 14.31,
-      "dividend_yield": 4.75,
+      "pe": 14.03,
+      "dividend_yield": 4.84,
       "revenue_yoy_pct": 76.68901002964485,
       "flow_windows_value": {
         "1": 247754206.0,
@@ -103,8 +103,8 @@
       "theme": "AI伺服器組裝",
       "score": 8,
       "rise_60d_pct": -4.4676929467043935,
-      "pe": 6.03,
-      "dividend_yield": 8.74,
+      "pe": 5.9,
+      "dividend_yield": 8.93,
       "revenue_yoy_pct": 99.98511294484359,
       "flow_windows_value": {
         "1": 613352960.0,
@@ -194,8 +194,8 @@
       "theme": "CPO/矽光子",
       "score": 3,
       "rise_60d_pct": 6.015037593984962,
-      "pe": 44.38,
-      "dividend_yield": 0.75,
+      "pe": 41.72,
+      "dividend_yield": 0.8,
       "revenue_yoy_pct": 97.25981511982566,
       "flow_windows_value": {
         "1": -254936460.0,
@@ -283,8 +283,8 @@
       "theme": "記憶體",
       "score": 3,
       "rise_60d_pct": 11.85682326621924,
-      "pe": 3.7,
-      "dividend_yield": 3.46,
+      "pe": 3.71,
+      "dividend_yield": 3.45,
       "revenue_yoy_pct": 109.68927823663151,
       "flow_windows_value": {
         "1": 30138750.0,
@@ -328,8 +328,8 @@
       "theme": "晶圓代工",
       "score": 3,
       "rise_60d_pct": -0.3968253968253954,
-      "pe": 19.25,
-      "dividend_yield": 2.04,
+      "pe": 18.87,
+      "dividend_yield": 2.08,
       "revenue_yoy_pct": 27.215377995124747,
       "flow_windows_value": {
         "1": -1890002139.0,
@@ -364,7 +364,12 @@
         "qualifying_days": 8,
         "note": null
       },
-      "related_news": []
+      "related_news": [
+        {
+          "title": "國家隊撒170億元出手護盤！友達打頭陣　國巨、聯電、台積電全進補貨名單",
+          "direction": "中性關注"
+        }
+      ]
     }
   ],
   "ai_summary": "(Gemini呼叫失敗,以下只有程式算出的候選股數字,沒有AI建議文字)"

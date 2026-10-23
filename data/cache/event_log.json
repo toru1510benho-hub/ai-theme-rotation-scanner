@@ -1083,5 +1083,33 @@
     "announce_date": "2026-10-21",
     "subject": "公告本公司115年現金增資股款催繳期間屆滿暨催繳股數發放事宜",
     "is_conference": false
+  },
+  {
+    "code": "6442",
+    "name": "光聖",
+    "announce_date": "2026-10-22",
+    "subject": "公告本公司現金增資發\r\n行新股案，向金管會申請延\r\n長募集期間三個月",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-10-22",
+    "subject": "本公司受邀參加由摩根士丹利證券舉辦之線上法說會，說明115年第三季營運成果",
+    "is_conference": true
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-10-22",
+    "subject": "公告本公司取得廠務設備",
+    "is_conference": false
+  },
+  {
+    "code": "2337",
+    "name": "旺宏",
+    "announce_date": "2026-10-22",
+    "subject": "本公司訂購機器設備公告",
+    "is_conference": false
   }
 ]

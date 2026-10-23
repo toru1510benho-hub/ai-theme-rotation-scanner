@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:06:35.077194",
+  "generated_at": "2026-10-23T12:45:41.954623",
   "has_live_quotes": true,
   "themes": {
     "CPO/矽光子": [
@@ -410,7 +410,7 @@
         "code": "6770",
         "name": "力積電",
         "market": "TSE",
-        "live_price": 66.4000015258789,
+        "live_price": 66.4,
         "change_pct": 0.3,
         "zone": {
           "latest_close": 66.4,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:06:35.535289",
+  "generated_at": "2026-10-23T12:45:42.350718",
   "themes": {
     "CPO/矽光子": [
       {
@@ -52,9 +52,9 @@
         "name": "光環",
         "market": "TPEX",
         "zone": {
-          "trapped_zone_price": 189.39,
+          "trapped_zone_price": 189.42,
           "latest_close": 177.5,
-          "distance_pct": 6.7,
+          "distance_pct": 6.71,
           "qualifying_days": 12,
           "note": null
         },
@@ -298,9 +298,9 @@
         "name": "華新科",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 387.43,
+          "trapped_zone_price": 387.48,
           "latest_close": 368.0,
-          "distance_pct": 5.28,
+          "distance_pct": 5.29,
           "qualifying_days": 6,
           "note": null
         },
@@ -452,9 +452,9 @@
         "name": "雙鴻",
         "market": "TPEX",
         "zone": {
-          "trapped_zone_price": 1467.71,
+          "trapped_zone_price": 1467.88,
           "latest_close": 1360.0,
-          "distance_pct": 7.92,
+          "distance_pct": 7.93,
           "qualifying_days": 12,
           "note": null
         },
@@ -467,9 +467,9 @@
         "name": "健策",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 6264.34,
+          "trapped_zone_price": 6265.42,
           "latest_close": 6070.0,
-          "distance_pct": 3.2,
+          "distance_pct": 3.22,
           "qualifying_days": 7,
           "note": null
         },
@@ -544,9 +544,9 @@
         "name": "聯茂",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 709.55,
+          "trapped_zone_price": 709.21,
           "latest_close": 777.0,
-          "distance_pct": -8.68,
+          "distance_pct": -8.72,
           "qualifying_days": 5,
           "note": null
         },
