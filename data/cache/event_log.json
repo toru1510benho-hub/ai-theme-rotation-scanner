@@ -1111,5 +1111,159 @@
     "announce_date": "2026-10-22",
     "subject": "本公司訂購機器設備公告",
     "is_conference": false
+  },
+  {
+    "code": "3008",
+    "name": "大立光",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司115年第3季合併財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "2368",
+    "name": "金像電",
+    "announce_date": "2026-10-27",
+    "subject": "更正本公司115年9月份背書保證資訊",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司115年第3季合併財務報告業經提報董事會通過",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-10-27",
+    "subject": "本公司董事會決議增加投資子公司ELITE INVESTMENT SERVICES LTD.",
+    "is_conference": false
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司受凱基證券邀請參加法人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "4977",
+    "name": "眾達-KY",
+    "announce_date": "2026-10-27",
+    "subject": "代重要子公司PCL (BVI), INC.公告董事會決議分配114年盈餘。",
+    "is_conference": false
+  },
+  {
+    "code": "2337",
+    "name": "旺宏",
+    "announce_date": "2026-10-27",
+    "subject": "本公司115年第三季合併財務報告之相關資訊",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-27",
+    "subject": "本公司代子公司台達電子(重慶)有限公司公告向關係人取得供營業使用之設備",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司董事會決議授權簽署有關處分日本子公司\r\nUNIMICRON JAPAN CO.,LTD.全部股權等相關事宜之意向書",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-27",
+    "subject": "本公司代子公司Delta Electronics (Thailand) Public \r\nCompany Limited公告向關係人取得供營業使用之設備",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-27",
+    "subject": "本公司代子公司DET公告董事會決議擬增資DELTA ELECTRONICS\r\nINDIA MANUFACTURING PRIVATE LIMITED",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司一一五年第三季財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司董事會通過設置營運長",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司增資子公司UniRuwel Holding Limited之相關資料",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "本公司代子公司UniRuwel Holding Limited公告增資\r\nUnimicron Germany GmbH之相關資料",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司增資子公司UNIMICRON JAPAN CO.,LTD.之相關資料",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "本公司董事會決議解除經理人競業禁止之限制",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司董事會決議授權董事長購置不動產相關事宜",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司董事會決議新增長交期設備預下訂單金額",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司國內第一次無擔保轉換公司債115年第3季轉換\r\n普通股之增資基準日",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-10-27",
+    "subject": "公告本公司董事會決議辦理限制員工權利新股收回\r\n註銷減資事宜",
+    "is_conference": false
   }
 ]
