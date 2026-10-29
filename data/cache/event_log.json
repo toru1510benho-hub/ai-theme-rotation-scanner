@@ -1265,5 +1265,131 @@
     "announce_date": "2026-10-27",
     "subject": "公告本公司董事會決議辦理限制員工權利新股收回\r\n註銷減資事宜",
     "is_conference": false
+  },
+  {
+    "code": "3026",
+    "name": "禾伸堂",
+    "announce_date": "2026-10-28",
+    "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解。",
+    "is_conference": false
+  },
+  {
+    "code": "4967",
+    "name": "十銓",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司董事會通過115年第三季合併財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "4967",
+    "name": "十銓",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司總經理陞任執行長",
+    "is_conference": false
+  },
+  {
+    "code": "4967",
+    "name": "十銓",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司重要營運主管異動",
+    "is_conference": false
+  },
+  {
+    "code": "2368",
+    "name": "金像電",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司取得設備",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-10-28",
+    "subject": "代子公司Ko-E Holding (Cayman Islands) Ltd 公告\r\n董事會決議盈餘分配",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-10-28",
+    "subject": "補充說明本公司於115年4月15日公告董事會決議\r\n發行無擔保普通公司債",
+    "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司董事會決議通過民國115年第三季合併財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司董事會通過資本預算執行案",
+    "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司董事會決議辦理限制員工權利新股收回\r\n註銷減資事宜",
+    "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司2026年第三季財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司代子公司Delta Electronics Int'l (Singapore) Pte. Ltd.公告董事會決議擬\r\n增資DEM",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司董事會決議增資DEN及其轉投資DHK",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司代子公司Delta Electronics (Netherlands) B.V.公告董事會決議擬增資DHK",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司及子公司晶睿公告擬取得及處分不動產",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-28",
+    "subject": "公告本公司115年第3季合併財務報告業經董事會通過",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-10-28",
+    "subject": "本公司代子公司Delta Electronics (Germany) GmbH 公告合併\r\nDelta Controls Germany GmbH",
+    "is_conference": false
   }
 ]
