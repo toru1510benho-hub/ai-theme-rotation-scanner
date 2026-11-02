@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:26:46.438295",
+  "generated_at": "2026-11-02T17:20:35.149713",
   "themes": {
     "CPO/矽光子": [
       {
@@ -204,7 +204,7 @@
         "name": "晶豪科",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 286.92,
+          "trapped_zone_price": 286.93,
           "latest_close": 277.0,
           "distance_pct": 3.58,
           "qualifying_days": 14,
