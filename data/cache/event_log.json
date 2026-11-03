@@ -1566,5 +1566,61 @@
     "announce_date": "2026-10-29",
     "subject": "公告本公司大陸地區投資事業投資架構調整事宜",
     "is_conference": false
+  },
+  {
+    "code": "2301",
+    "name": "光寶科",
+    "announce_date": "2026-11-02",
+    "subject": "公告本公司庫藏股註銷完成變更登記事宜",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-02",
+    "subject": "本公司受邀參加由Nomura舉辦之投資人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-02",
+    "subject": "公告本公司資訊安全長異動",
+    "is_conference": false
+  },
+  {
+    "code": "2356",
+    "name": "英業達",
+    "announce_date": "2026-11-02",
+    "subject": "(補充115/06/30公告)公告本公司董事會決議通過，擬自地委建廠房",
+    "is_conference": false
+  },
+  {
+    "code": "6442",
+    "name": "光聖",
+    "announce_date": "2026-11-02",
+    "subject": "公告本公司現金增資發\r\n行新股案，向金管會申請延\r\n長募集期間，業經准予備查",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-11-02",
+    "subject": "公告本公司取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "8046",
+    "name": "南電",
+    "announce_date": "2026-11-02",
+    "subject": "代子公司南亞電路板(昆山)有限公司公告董事會\r\n決議發放股利",
+    "is_conference": false
+  },
+  {
+    "code": "8046",
+    "name": "南電",
+    "announce_date": "2026-11-02",
+    "subject": "代子公司南亞電路板(昆山)有限公司公告臨時股東會重要\r\n決議",
+    "is_conference": false
   }
 ]
