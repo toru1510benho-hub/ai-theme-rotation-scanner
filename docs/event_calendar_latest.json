@@ -1,7 +1,140 @@
 {
-  "generated_at": "2026-11-03T15:25:11.137923",
+  "generated_at": "2026-11-04T15:40:44.580732",
   "upcoming_fomc": [],
   "recent_company_events_14d": [
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司參與線上投資人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司參與實體投資人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司參與海外投資人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-03",
+      "subject": "董事會決議發放股利",
+      "is_conference": false
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司民國115年上半年度之現金股利除息基準日",
+      "is_conference": false
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-03",
+      "subject": "本公司董事會通過12吋晶圓廠擴建計劃及購買設備",
+      "is_conference": false
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "announce_date": "2026-11-03",
+      "subject": "本公司受Macquarie證券邀請參加\"115年第三季營運成果線上電話說明會”",
+      "is_conference": true
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司董事會通過115年第三季合併財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-11-03",
+      "subject": "受邀參加 J.P. Morgan APAC TIG Conference",
+      "is_conference": true
+    },
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-11-03",
+      "subject": "受邀參加 Twenty-Fifth Annual Asia Pacific Summit",
+      "is_conference": true
+    },
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-11-03",
+      "subject": "受邀參加 2026 Taiwan Corporate Day",
+      "is_conference": false
+    },
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-11-03",
+      "subject": "受邀參加 Fubon/Jefferies 4Q26 Tech Trip",
+      "is_conference": false
+    },
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "announce_date": "2026-11-03",
+      "subject": "受邀參加 Nomura Taiwan Corporate Day",
+      "is_conference": false
+    },
+    {
+      "code": "2486",
+      "name": "一詮",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司董事會通過115年度第三季合併財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "2486",
+      "name": "一詮",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司董事會通過研發主管指派案",
+      "is_conference": false
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "announce_date": "2026-11-03",
+      "subject": "代重要子公司 UMC GROUP（USA）公告董事異動",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-11-03",
+      "subject": "公告本公司取得廠務設備",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-11-03",
+      "subject": "本公司代子公司DIH及TB&C GmbH公告取得及處分TB&C Outsert International B.V.\r\n股權案",
+      "is_conference": false
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-03",
+      "subject": "更正本公司之子公司背書保證資訊揭露明細表",
+      "is_conference": false
+    },
     {
       "code": "2301",
       "name": "光寶科",
@@ -574,34 +707,6 @@
       "name": "眾達-KY",
       "announce_date": "2026-10-21",
       "subject": "公告本公司115年現金增資股款催繳期間屆滿暨催繳股數發放事宜",
-      "is_conference": false
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "announce_date": "2026-10-20",
-      "subject": "公告補正本公司國內第一次無擔保可轉換公司債公開說明書\r\n部分內容",
-      "is_conference": false
-    },
-    {
-      "code": "6770",
-      "name": "力積電",
-      "announce_date": "2026-10-20",
-      "subject": "公告本公司召開2026年第三季法人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "announce_date": "2026-10-20",
-      "subject": "本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明",
-      "is_conference": true
-    },
-    {
-      "code": "6770",
-      "name": "力積電",
-      "announce_date": "2026-10-20",
-      "subject": "本公司取得半導體產品生產製造設施及機器設備公告",
       "is_conference": false
     }
   ],

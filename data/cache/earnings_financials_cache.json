@@ -541,6 +541,18 @@
       "gross_margin_pct": 61.23,
       "operating_margin_pct": 42.34,
       "net_margin_pct": 34.98
+    },
+    "115Q3": {
+      "year": "115",
+      "quarter": "3",
+      "revenue": 180427134.0,
+      "gross_profit": 118160992.0,
+      "operating_income": 85313499.0,
+      "net_income": 69454895.0,
+      "eps": 15.32,
+      "gross_margin_pct": 65.49,
+      "operating_margin_pct": 47.28,
+      "net_margin_pct": 38.49
     }
   },
   "6442": {
