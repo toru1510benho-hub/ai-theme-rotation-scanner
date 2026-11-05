@@ -1,142 +1,35 @@
 {
-  "generated_at": "2026-11-04T15:40:48.190207",
+  "generated_at": "2026-11-05T15:42:15.216396",
   "total_news_scanned": 140,
-  "relevant_count": 9,
+  "relevant_count": 2,
   "news": [
     {
-      "title": "看破愛別人！台股震盪選股困難　第四法人用鈔票投「這4檔」",
-      "link": "https://tw.news.yahoo.com/%E7%9C%8B%E7%A0%B4%E6%84%9B%E5%88%A5%E4%BA%BA-%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E9%81%B8%E8%82%A1%E5%9B%B0%E9%9B%A3-%E7%AC%AC%E5%9B%9B%E6%B3%95%E4%BA%BA%E7%94%A8%E9%88%94%E7%A5%A8%E6%8A%95-%E9%80%994%E6%AA%94-084500105.html",
-      "published": "Wed, 04 Nov 2026 08:45:00 GMT",
-      "summary": "台股今年震盪劇烈，外資調節賣壓重，但內資掀起被動ETF投資狂潮。元大台灣50（0050）今年前十月淨申購突破7300億元，較去年倍增；搭配00631L等標的，合計吸金破兆，完美承接外資賣超，成為抗衡外",
+      "title": "台股11月通殺！川湖林聰吉身價蒸發近500億、台達電鄭崇華失血275億　9大富豪無一倖免",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A111%E6%9C%88%E9%80%9A%E6%AE%BA-%E5%B7%9D%E6%B9%96%E6%9E%97%E8%81%B0%E5%90%89%E8%BA%AB%E5%83%B9%E8%92%B8%E7%99%BC%E8%BF%91500%E5%84%84-%E5%8F%B0%E9%81%94%E9%9B%BB%E9%84%AD%E5%B4%87%E8%8F%AF%E5%A4%B1%E8%A1%80275%E5%84%84-9%E5%A4%A7%E5%AF%8C%E8%B1%AA%E7%84%A1-%E5%80%96%E5%85%8D-151500617.html",
+      "published": "Thu, 05 Nov 2026 15:15:00 GMT",
+      "summary": "[FTNN新聞網]記者吳峻光／綜合報導台股今（5）日繼續下殺，終場幾乎收在最低41574.72點，下跌1374.19點或3.2％，已連續6個交易日收黑，合計跌掉逾5000點，不...",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 9,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "外資賣超"
-      ],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門",
-        "元大台灣50正2(00631L)‧今日熱門"
-      ]
-    },
-    {
-      "title": "外資賣超1498億史上第五大！0050遭砍7.7萬張、跌破百元　台股失守43K",
-      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%851498%E5%84%84%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%94%E5%A4%A7-0050%E9%81%AD%E7%A0%8D7-7%E8%90%AC%E5%BC%B5-%E8%B7%8C%E7%A0%B4%E7%99%BE%E5%85%83-%E5%8F%B0%E8%82%A1%E5%A4%B1%E5%AE%8843k-095222801.html",
-      "published": "Wed, 04 Nov 2026 09:52:22 GMT",
-      "summary": "受到美國期中選舉開票影響，台股今（4）日開高走低，開盤後一度大漲逾434點，隨後賣壓湧現，指數由紅翻黑，盤中最低跌至41855.82點，重挫1451.72點，摜破42K關卡，高低劇震1885.72點，",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "外資賣超"
-      ],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
-      ]
-    },
-    {
-      "title": "英業達10月營收月減年增 下週二法說聚焦AI前景",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5629581",
-      "published": "Wed, 04 Nov 2026 18:48:01 +0800",
-      "summary": "伺服器主板龍頭廠英業達（2356）10月營收799.66億元，月減18.9%、年增46%，今年前10個月營收累計為8222.27億元、年增43.1%；管理層表示，預期第四...…",
-      "source": "自由時報財經",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "年增"
-      ],
-      "matched_stocks": [
-        "2356(AI伺服器組裝)",
-        "英業達(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "無畏台股大跌 三檔股票漲多 明日列處置股抓去關",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5629622",
-      "published": "Wed, 04 Nov 2026 18:58:10 +0800",
-      "summary": "證交所、櫃買中心今日公告，聯茂（6213）一檔上市股票及大世科（8099）、全景軟體（8272）等兩檔上櫃股票，合計三檔股票從明（5）日起打入處置股票，處置時間到111/...…",
-      "source": "自由時報財經",
       "score": 4,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "6213(ABF載板/PCB)",
-        "聯茂(ABF載板/PCB)"
+        "台達電(電源供應)",
+        "川湖(AI伺服器組裝)"
       ]
     },
     {
-      "title": "銅箔基板聯茂明天「抓去關」！這次要關5個營業日",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5629545",
-      "published": "Wed, 04 Nov 2026 18:23:47 +0800",
-      "summary": "銅箔基板廠聯茂（6213）明天「抓去關」！\n\n\n根據證交所最新公告，因聯茂最近十個營業日內已有六個營業日達證交所「公布注意交易資訊」標準，且於最近三十個營業日內曾發布處置...…",
-      "source": "自由時報財經",
-      "score": 4,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "6213(ABF載板/PCB)",
-        "聯茂(ABF載板/PCB)"
-      ]
-    },
-    {
-      "title": "台積電盤中零股交易金額居冠　元大台灣50成交股數最多",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9B%A4%E4%B8%AD%E9%9B%B6%E8%82%A1%E4%BA%A4%E6%98%93%E9%87%91%E9%A1%8D%E5%B1%85%E5%86%A0-%E5%85%83%E5%A4%A7%E5%8F%B0%E7%81%A350%E6%88%90%E4%BA%A4%E8%82%A1%E6%95%B8%E6%9C%80%E5%A4%9A-133342442.html",
-      "published": "Wed, 04 Nov 2026 13:33:42 GMT",
-      "summary": "（中央社記者張建中台北2026年11月4日電）台股今天震盪劇烈，指數高低點差距達1885.72點，終場跌勢收斂，下跌358.63點，收在42948.91點。台積電與元大台灣50(0050)零股交易持續",
+      "title": "台股血崩！00981A重挫逾8%　瑤姐出手砸近50億「加碼8檔」",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%A1%80%E5%B4%A9-00981a%E9%87%8D%E6%8C%AB%E9%80%BE8-%E7%91%A4%E5%A7%90%E5%87%BA%E6%89%8B%E7%A0%B8%E8%BF%9150%E5%84%84-%E5%8A%A0%E7%A2%BC8%E6%AA%94-114400869.html",
+      "published": "Thu, 05 Nov 2026 11:44:00 GMT",
+      "summary": "台股今（5）日重挫1374點，統一台股增長（00981A）股價大跌8.31%收23.05元，溢價轉為折價。面對大盤修正，00981A逆勢加碼，兩天砸約49.54億元敲進8檔個股，其中護國神山台積電連日",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
-      ]
-    },
-    {
-      "title": "台股震盪「第四法人」逆勢吸金！ 0050今年湧入7,300億、較去年翻倍",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA-%E7%AC%AC%E5%9B%9B%E6%B3%95%E4%BA%BA-%E9%80%86%E5%8B%A2%E5%90%B8%E9%87%91-0050%E4%BB%8A%E5%B9%B4%E6%B9%A7%E5%85%A57-300%E5%84%84-094155586.html",
-      "published": "Wed, 04 Nov 2026 09:41:55 GMT",
-      "summary": "[Newtalk新聞] 台股今（4）日上演劇烈震盪行情，加權指數盤中一度重挫逾 1,451 點，隨後自低點急拉逾千點，終場收跌 358.63 點至 42,948.91 點，成交金額突破 1.1 兆元；",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
-      ]
-    },
-    {
-      "title": "谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
-      "link": "https://tw.stock.yahoo.com/news/%E8%B0%B7%E6%AD%8C%E6%8A%95%E8%B3%87%E5%A4%A7%E9%A6%AC150%E5%84%84%E7%BE%8E%E5%85%83-%E5%AE%89%E8%8F%AF-%E5%8A%A9%E8%BA%8D%E5%8D%87%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%95%B8%E4%BD%8D%E5%BC%B7%E5%9C%8B-150105911.html",
-      "published": "Wed, 04 Nov 2026 15:01:05 GMT",
-      "summary": "（中央社記者黃自強吉隆坡2026年11月4日專電）谷歌（Google）將於2027年至2028年間，在馬來西亞投資150億美元，發展數位基礎建設。大馬首相安華今天表示，外國投資對經濟成長至關重要，大馬",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "南亞(1303)‧今日熱門"
-      ]
-    },
-    {
-      "title": "台積電盤中零股交易金額居冠　元大台灣50成交股數最多",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9B%A4%E4%B8%AD%E9%9B%B6%E8%82%A1%E4%BA%A4%E6%98%93%E9%87%91%E9%A1%8D%E5%B1%85%E5%86%A0-%E5%85%83%E5%A4%A7%E5%8F%B0%E7%81%A350%E6%88%90%E4%BA%A4%E8%82%A1%E6%95%B8%E6%9C%80%E5%A4%9A-133342442.html",
-      "published": "Wed, 04 Nov 2026 13:33:42 GMT",
-      "summary": "（中央社記者張建中台北2026年11月4日電）台股今天震盪劇烈，指數高低點差距達1885.72點，終場跌勢收斂，下跌358.63點，收在42948.91點。台積電與元大台灣50(0050)零股交易持續",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
+        "主動統一台股增長(00981A)‧今日熱門"
       ]
     }
   ]

@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-04T15:40:44.580732",
+  "generated_at": "2026-11-05T15:42:12.696097",
   "upcoming_fomc": [],
   "recent_company_events_14d": [
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-11-04",
+      "subject": "本公司115年第3季合併財務報告業經董事會決議通過",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-11-04",
+      "subject": "本公司自115年10月1日起變動會計估計事項",
+      "is_conference": false
+    },
+    {
+      "code": "2492",
+      "name": "華新科",
+      "announce_date": "2026-11-04",
+      "subject": "公告本公司國內第二次無擔保轉換公司債收足應募價款",
+      "is_conference": false
+    },
+    {
+      "code": "3026",
+      "name": "禾伸堂",
+      "announce_date": "2026-11-04",
+      "subject": "本公司115年第三季合併財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "3026",
+      "name": "禾伸堂",
+      "announce_date": "2026-11-04",
+      "subject": "本公司董事會決議辦理現金增資發行新股",
+      "is_conference": false
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "announce_date": "2026-11-04",
+      "subject": "公告本公司與大陽科技股份有限公司股份轉換案之\r\n股份轉換基準日",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-11-04",
+      "subject": "公告本公司取得機器設備",
+      "is_conference": false
+    },
+    {
+      "code": "2337",
+      "name": "旺宏",
+      "announce_date": "2026-11-04",
+      "subject": "本公司訂購機器設備公告",
+      "is_conference": false
+    },
     {
       "code": "2356",
       "name": "英業達",
@@ -672,41 +728,6 @@
       "name": "旺宏",
       "announce_date": "2026-10-22",
       "subject": "本公司訂購機器設備公告",
-      "is_conference": false
-    },
-    {
-      "code": "4967",
-      "name": "十銓",
-      "announce_date": "2026-10-21",
-      "subject": "公告本公司召開法人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "6770",
-      "name": "力積電",
-      "announce_date": "2026-10-21",
-      "subject": "本公司取得半導體產品生產製造設施及機器設備公告",
-      "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-10-21",
-      "subject": "公告本公司廠房興建工程",
-      "is_conference": false
-    },
-    {
-      "code": "6770",
-      "name": "力積電",
-      "announce_date": "2026-10-21",
-      "subject": "公告本公司115年第三季自結合併損益",
-      "is_conference": false
-    },
-    {
-      "code": "4977",
-      "name": "眾達-KY",
-      "announce_date": "2026-10-21",
-      "subject": "公告本公司115年現金增資股款催繳期間屆滿暨催繳股數發放事宜",
       "is_conference": false
     }
   ],

@@ -1755,5 +1755,61 @@
     "announce_date": "2026-11-03",
     "subject": "更正本公司之子公司背書保證資訊揭露明細表",
     "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-11-04",
+    "subject": "本公司115年第3季合併財務報告業經董事會決議通過",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-11-04",
+    "subject": "本公司自115年10月1日起變動會計估計事項",
+    "is_conference": false
+  },
+  {
+    "code": "2492",
+    "name": "華新科",
+    "announce_date": "2026-11-04",
+    "subject": "公告本公司國內第二次無擔保轉換公司債收足應募價款",
+    "is_conference": false
+  },
+  {
+    "code": "3026",
+    "name": "禾伸堂",
+    "announce_date": "2026-11-04",
+    "subject": "本公司115年第三季合併財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "3026",
+    "name": "禾伸堂",
+    "announce_date": "2026-11-04",
+    "subject": "本公司董事會決議辦理現金增資發行新股",
+    "is_conference": false
+  },
+  {
+    "code": "3008",
+    "name": "大立光",
+    "announce_date": "2026-11-04",
+    "subject": "公告本公司與大陽科技股份有限公司股份轉換案之\r\n股份轉換基準日",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-11-04",
+    "subject": "公告本公司取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "2337",
+    "name": "旺宏",
+    "announce_date": "2026-11-04",
+    "subject": "本公司訂購機器設備公告",
+    "is_conference": false
   }
 ]

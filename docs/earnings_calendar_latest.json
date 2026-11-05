@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T15:40:48.690737",
+  "generated_at": "2026-11-05T15:42:15.708681",
   "note": "法定申報截止日(一般產業,不含金融業),不是個股實際公布日預測——多數公司會提前公布。",
   "upcoming_deadlines": [
     {
       "date": "2026-11-14",
       "label": "Q3季報",
       "period": "2026第3季",
-      "days_until": 10
+      "days_until": 9
     },
     {
       "date": "2027-03-31",
       "label": "年報",
       "period": "2026年報",
-      "days_until": 147
+      "days_until": 146
     }
   ],
   "stocks": [
