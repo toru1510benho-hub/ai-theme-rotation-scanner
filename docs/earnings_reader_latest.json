@@ -1,101 +1,39 @@
 {
-  "generated_at": "2026-11-05T15:42:18.075292",
+  "generated_at": "2026-11-06T15:16:59.993458",
   "announcement_lookback_days": 14,
-  "recently_announced_count": 10,
+  "recently_announced_count": 11,
   "ai_summary": "(AI呼叫失敗,以下只有程式算出的數字,沒有AI解讀文字)",
   "companies": [
     {
-      "code": "3081",
-      "name": "聯亞",
-      "theme": "CPO/矽光子",
-      "recently_announced": false,
-      "current": {
-        "year": "115",
-        "quarter": "3",
-        "revenue": 3687740.0,
-        "gross_profit": 2111612.0,
-        "operating_income": 1717268.0,
-        "net_income": 1407401.0,
-        "eps": 13.88,
-        "gross_margin_pct": 57.26,
-        "operating_margin_pct": 46.57,
-        "net_margin_pct": 38.16
-      },
-      "prior_quarter": {
-        "year": "115",
-        "quarter": "2",
-        "revenue": 2125567.0,
-        "gross_profit": 1196844.0,
-        "operating_income": 945800.0,
-        "net_income": 786002.0,
-        "eps": 7.75,
-        "gross_margin_pct": 56.31,
-        "operating_margin_pct": 44.5,
-        "net_margin_pct": 36.98
-      },
-      "revenue_qoq_pct": 73.49
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
+      "code": "3006",
+      "name": "晶豪科",
       "theme": "記憶體",
       "recently_announced": true,
       "current": {
         "year": "115",
         "quarter": "3",
-        "revenue": 265284971.0,
-        "gross_profit": 213417452.0,
-        "operating_income": 197831577.0,
-        "net_income": 163876933.0,
-        "eps": 49.28,
-        "gross_margin_pct": 80.45,
-        "operating_margin_pct": 74.57,
-        "net_margin_pct": 61.77
+        "revenue": 43363345.0,
+        "gross_profit": 30187981.0,
+        "operating_income": 22577424.0,
+        "net_income": 18728073.0,
+        "eps": 64.54,
+        "gross_margin_pct": 69.62,
+        "operating_margin_pct": 52.07,
+        "net_margin_pct": 43.19
       },
       "prior_quarter": {
         "year": "115",
         "quarter": "2",
-        "revenue": 131636005.0,
-        "gross_profit": 98935333.0,
-        "operating_income": 90937560.0,
-        "net_income": 76250023.0,
-        "eps": 23.38,
-        "gross_margin_pct": 75.16,
-        "operating_margin_pct": 69.08,
-        "net_margin_pct": 57.92
+        "revenue": 21213118.0,
+        "gross_profit": 13034062.0,
+        "operating_income": 9427597.0,
+        "net_income": 7968955.0,
+        "eps": 27.58,
+        "gross_margin_pct": 61.44,
+        "operating_margin_pct": 44.44,
+        "net_margin_pct": 37.57
       },
-      "revenue_qoq_pct": 101.53
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "theme": "電源供應",
-      "recently_announced": true,
-      "current": {
-        "year": "115",
-        "quarter": "3",
-        "revenue": 539667536.0,
-        "gross_profit": 191423455.0,
-        "operating_income": 91607475.0,
-        "net_income": 77061840.0,
-        "eps": 26.64,
-        "gross_margin_pct": 35.47,
-        "operating_margin_pct": 16.97,
-        "net_margin_pct": 14.28
-      },
-      "prior_quarter": {
-        "year": "115",
-        "quarter": "2",
-        "revenue": 342608732.0,
-        "gross_profit": 124268821.0,
-        "operating_income": 58987345.0,
-        "net_income": 51003600.0,
-        "eps": 17.59,
-        "gross_margin_pct": 36.27,
-        "operating_margin_pct": 17.22,
-        "net_margin_pct": 14.89
-      },
-      "revenue_qoq_pct": 57.52
+      "revenue_qoq_pct": 104.42
     },
     {
       "code": "3008",
@@ -129,6 +67,130 @@
       "revenue_qoq_pct": 53.58
     },
     {
+      "code": "8046",
+      "name": "南電",
+      "theme": "ABF載板/PCB",
+      "recently_announced": true,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 41130983.0,
+        "gross_profit": 9931948.0,
+        "operating_income": 8574251.0,
+        "net_income": 6868147.0,
+        "eps": 10.63,
+        "gross_margin_pct": 24.15,
+        "operating_margin_pct": 20.85,
+        "net_margin_pct": 16.7
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 24752716.0,
+        "gross_profit": 5131055.0,
+        "operating_income": 4251605.0,
+        "net_income": 3570410.0,
+        "eps": 5.53,
+        "gross_margin_pct": 20.73,
+        "operating_margin_pct": 17.18,
+        "net_margin_pct": 14.42
+      },
+      "revenue_qoq_pct": 66.17
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "theme": "記憶體",
+      "recently_announced": true,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 265284971.0,
+        "gross_profit": 213417452.0,
+        "operating_income": 197831577.0,
+        "net_income": 163876933.0,
+        "eps": 49.28,
+        "gross_margin_pct": 80.45,
+        "operating_margin_pct": 74.57,
+        "net_margin_pct": 61.77
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 131636005.0,
+        "gross_profit": 98935333.0,
+        "operating_income": 90937560.0,
+        "net_income": 76250023.0,
+        "eps": 23.38,
+        "gross_margin_pct": 75.16,
+        "operating_margin_pct": 69.08,
+        "net_margin_pct": 57.92
+      },
+      "revenue_qoq_pct": 101.53
+    },
+    {
+      "code": "2337",
+      "name": "旺宏",
+      "theme": "記憶體",
+      "recently_announced": true,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 53830664.0,
+        "gross_profit": 33676986.0,
+        "operating_income": 23832529.0,
+        "net_income": 20466042.0,
+        "eps": 10.34,
+        "gross_margin_pct": 62.56,
+        "operating_margin_pct": 44.27,
+        "net_margin_pct": 38.02
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 29593392.0,
+        "gross_profit": 16591374.0,
+        "operating_income": 10900108.0,
+        "net_income": 9515162.0,
+        "eps": 4.82,
+        "gross_margin_pct": 56.06,
+        "operating_margin_pct": 36.83,
+        "net_margin_pct": 32.15
+      },
+      "revenue_qoq_pct": 81.9
+    },
+    {
+      "code": "3081",
+      "name": "聯亞",
+      "theme": "CPO/矽光子",
+      "recently_announced": false,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 3687740.0,
+        "gross_profit": 2111612.0,
+        "operating_income": 1717268.0,
+        "net_income": 1407401.0,
+        "eps": 13.88,
+        "gross_margin_pct": 57.26,
+        "operating_margin_pct": 46.57,
+        "net_margin_pct": 38.16
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 2125567.0,
+        "gross_profit": 1196844.0,
+        "operating_income": 945800.0,
+        "net_income": 786002.0,
+        "eps": 7.75,
+        "gross_margin_pct": 56.31,
+        "operating_margin_pct": 44.5,
+        "net_margin_pct": 36.98
+      },
+      "revenue_qoq_pct": 73.49
+    },
+    {
       "code": "2303",
       "name": "聯電",
       "theme": "晶圓代工",
@@ -158,37 +220,6 @@
         "net_margin_pct": 44.96
       },
       "revenue_qoq_pct": 57.21
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "theme": "記憶體",
-      "recently_announced": true,
-      "current": {
-        "year": "115",
-        "quarter": "3",
-        "revenue": 43363345.0,
-        "gross_profit": 30187981.0,
-        "operating_income": 22577424.0,
-        "net_income": 18728073.0,
-        "eps": 64.54,
-        "gross_margin_pct": 69.62,
-        "operating_margin_pct": 52.07,
-        "net_margin_pct": 43.19
-      },
-      "prior_quarter": {
-        "year": "115",
-        "quarter": "2",
-        "revenue": 21213118.0,
-        "gross_profit": 13034062.0,
-        "operating_income": 9427597.0,
-        "net_income": 7968955.0,
-        "eps": 27.58,
-        "gross_margin_pct": 61.44,
-        "operating_margin_pct": 44.44,
-        "net_margin_pct": 37.57
-      },
-      "revenue_qoq_pct": 104.42
     },
     {
       "code": "3037",
@@ -253,6 +284,37 @@
       "revenue_qoq_pct": 60.96
     },
     {
+      "code": "3163",
+      "name": "波若威",
+      "theme": "CPO/矽光子",
+      "recently_announced": false,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 1905358.0,
+        "gross_profit": 312199.0,
+        "operating_income": 59100.0,
+        "net_income": 465918.0,
+        "eps": 4.92,
+        "gross_margin_pct": 16.39,
+        "operating_margin_pct": 3.1,
+        "net_margin_pct": 24.45
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 1247946.0,
+        "gross_profit": 213638.0,
+        "operating_income": 45112.0,
+        "net_income": 331537.0,
+        "eps": 3.5,
+        "gross_margin_pct": 17.12,
+        "operating_margin_pct": 3.61,
+        "net_margin_pct": 26.57
+      },
+      "revenue_qoq_pct": 52.68
+    },
+    {
       "code": "3026",
       "name": "禾伸堂",
       "theme": "被動元件",
@@ -282,68 +344,6 @@
         "net_margin_pct": 13.84
       },
       "revenue_qoq_pct": 58.82
-    },
-    {
-      "code": "2337",
-      "name": "旺宏",
-      "theme": "記憶體",
-      "recently_announced": true,
-      "current": {
-        "year": "115",
-        "quarter": "3",
-        "revenue": 53830664.0,
-        "gross_profit": 33676986.0,
-        "operating_income": 23832529.0,
-        "net_income": 20466042.0,
-        "eps": 10.34,
-        "gross_margin_pct": 62.56,
-        "operating_margin_pct": 44.27,
-        "net_margin_pct": 38.02
-      },
-      "prior_quarter": {
-        "year": "115",
-        "quarter": "2",
-        "revenue": 29593392.0,
-        "gross_profit": 16591374.0,
-        "operating_income": 10900108.0,
-        "net_income": 9515162.0,
-        "eps": 4.82,
-        "gross_margin_pct": 56.06,
-        "operating_margin_pct": 36.83,
-        "net_margin_pct": 32.15
-      },
-      "revenue_qoq_pct": 81.9
-    },
-    {
-      "code": "6274",
-      "name": "台燿",
-      "theme": "ABF載板/PCB",
-      "recently_announced": false,
-      "current": {
-        "year": "115",
-        "quarter": "3",
-        "revenue": 42303815.0,
-        "gross_profit": 13406240.0,
-        "operating_income": 10753480.0,
-        "net_income": 7458345.0,
-        "eps": 25.41,
-        "gross_margin_pct": 31.69,
-        "operating_margin_pct": 25.42,
-        "net_margin_pct": 17.63
-      },
-      "prior_quarter": {
-        "year": "115",
-        "quarter": "2",
-        "revenue": 24355008.0,
-        "gross_profit": 6778129.0,
-        "operating_income": 5185472.0,
-        "net_income": 3601714.0,
-        "eps": 12.4,
-        "gross_margin_pct": 27.83,
-        "operating_margin_pct": 21.29,
-        "net_margin_pct": 14.79
-      },
-      "revenue_qoq_pct": 73.7
     },
     {
       "code": "2301",
@@ -377,6 +377,37 @@
       "revenue_qoq_pct": 59.73
     },
     {
+      "code": "6274",
+      "name": "台燿",
+      "theme": "ABF載板/PCB",
+      "recently_announced": false,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 42303815.0,
+        "gross_profit": 13406240.0,
+        "operating_income": 10753480.0,
+        "net_income": 7458345.0,
+        "eps": 25.41,
+        "gross_margin_pct": 31.69,
+        "operating_margin_pct": 25.42,
+        "net_margin_pct": 17.63
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 24355008.0,
+        "gross_profit": 6778129.0,
+        "operating_income": 5185472.0,
+        "net_income": 3601714.0,
+        "eps": 12.4,
+        "gross_margin_pct": 27.83,
+        "operating_margin_pct": 21.29,
+        "net_margin_pct": 14.79
+      },
+      "revenue_qoq_pct": 73.7
+    },
+    {
       "code": "2344",
       "name": "華邦電",
       "theme": "記憶體",
@@ -406,6 +437,68 @@
         "net_margin_pct": 34.98
       },
       "revenue_qoq_pct": 83.93
+    },
+    {
+      "code": "4979",
+      "name": "華星光",
+      "theme": "CPO/矽光子",
+      "recently_announced": false,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 4112003.0,
+        "gross_profit": 1036267.0,
+        "operating_income": 865673.0,
+        "net_income": 739331.0,
+        "eps": 5.19,
+        "gross_margin_pct": 25.2,
+        "operating_margin_pct": 21.05,
+        "net_margin_pct": 17.98
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 2482586.0,
+        "gross_profit": 592680.0,
+        "operating_income": 487101.0,
+        "net_income": 413906.0,
+        "eps": 2.91,
+        "gross_margin_pct": 23.87,
+        "operating_margin_pct": 19.62,
+        "net_margin_pct": 16.67
+      },
+      "revenue_qoq_pct": 65.63
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "theme": "電源供應",
+      "recently_announced": true,
+      "current": {
+        "year": "115",
+        "quarter": "3",
+        "revenue": 539667536.0,
+        "gross_profit": 191423455.0,
+        "operating_income": 91607475.0,
+        "net_income": 77061840.0,
+        "eps": 26.64,
+        "gross_margin_pct": 35.47,
+        "operating_margin_pct": 16.97,
+        "net_margin_pct": 14.28
+      },
+      "prior_quarter": {
+        "year": "115",
+        "quarter": "2",
+        "revenue": 342608732.0,
+        "gross_profit": 124268821.0,
+        "operating_income": 58987345.0,
+        "net_income": 51003600.0,
+        "eps": 17.59,
+        "gross_margin_pct": 36.27,
+        "operating_margin_pct": 17.22,
+        "net_margin_pct": 14.89
+      },
+      "revenue_qoq_pct": 57.52
     }
   ]
 }

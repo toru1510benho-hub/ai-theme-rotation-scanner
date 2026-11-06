@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-05T15:42:09.576173",
+  "generated_at": "2026-11-06T15:16:50.978083",
   "us_benchmarks": {
     "NVDA": {
       "name": "輝達",
-      "price": 186.3699951171875,
-      "prev_close": 201.15,
-      "change_pct": -7.35
+      "price": 191.6300048828125,
+      "prev_close": 180.65,
+      "change_pct": 6.08
     },
     "AMD": {
       "name": "超微",
-      "price": 418.340087890625,
-      "prev_close": 486.0,
-      "change_pct": -13.92
+      "price": 446.8299865722656,
+      "prev_close": 403.36,
+      "change_pct": 10.78
     },
     "TSM": {
       "name": "台積電ADR",
-      "price": 364.1600036621094,
-      "prev_close": 393.0087,
-      "change_pct": -7.34
+      "price": 374.0799865722656,
+      "prev_close": 354.06,
+      "change_pct": 5.65
     },
     "^SOX": {
       "name": "費城半導體指數",
-      "price": 9340.205078125,
-      "prev_close": 10272.3505859375,
-      "change_pct": -9.07
+      "price": 9402.318359375,
+      "prev_close": 9015.2958984375,
+      "change_pct": 4.29
     },
     "^GSPC": {
       "name": "S&P500",
-      "price": 7477.77001953125,
-      "prev_close": 7688.72998046875,
-      "change_pct": -2.74
+      "price": 7429.93017578125,
+      "prev_close": 7356.72998046875,
+      "change_pct": 1.0
     },
     "^IXIC": {
       "name": "那斯達克綜合",
-      "price": 24661.966796875,
-      "prev_close": 25739.71484375,
-      "change_pct": -4.19
+      "price": 24745.1484375,
+      "prev_close": 24327.365234375,
+      "change_pct": 1.72
     }
   },
   "theme_ranking_by_change": [
-    "AI伺服器組裝",
-    "電源供應",
     "記憶體",
+    "AI伺服器組裝",
     "晶圓代工",
+    "電源供應",
     "CPO/矽光子",
     "被動元件",
     "ABF載板/PCB",
@@ -50,56 +50,30 @@
   ],
   "themes": {
     "CPO/矽光子": {
-      "avg_change_pct": -7.576666666666666,
+      "avg_change_pct": -6.9911111111111115,
       "stocks": [
         {
-          "code": "3450",
-          "name": "聯鈞",
+          "code": "3363",
+          "name": "上詮",
           "theme": "CPO/矽光子",
-          "market": "TSE",
-          "symbol": "3450.TW",
-          "price": 342.0,
-          "prev_close": 379.5,
+          "market": "TPEX",
+          "symbol": "3363.TWO",
+          "price": 360.5,
+          "prev_close": 400.0,
           "change_pct": -9.88,
           "tags": [
             "盤中落後族群"
           ]
         },
         {
-          "code": "3081",
-          "name": "聯亞",
-          "theme": "CPO/矽光子",
-          "market": "TPEX",
-          "symbol": "3081.TWO",
-          "price": 1890.0,
-          "prev_close": 2095.0,
-          "change_pct": -9.79,
-          "tags": [
-            "盤中落後族群"
-          ]
-        },
-        {
-          "code": "3008",
-          "name": "大立光",
+          "code": "3450",
+          "name": "聯鈞",
           "theme": "CPO/矽光子",
           "market": "TSE",
-          "symbol": "3008.TW",
-          "price": 4525.0,
-          "prev_close": 5005.0,
-          "change_pct": -9.59,
-          "tags": [
-            "盤中落後族群"
-          ]
-        },
-        {
-          "code": "3234",
-          "name": "光環",
-          "theme": "CPO/矽光子",
-          "market": "TPEX",
-          "symbol": "3234.TWO",
-          "price": 123.0,
-          "prev_close": 135.0,
-          "change_pct": -8.89,
+          "symbol": "3450.TW",
+          "price": 309.0,
+          "prev_close": 342.0,
+          "change_pct": -9.65,
           "tags": [
             "盤中落後族群"
           ]
@@ -110,9 +84,9 @@
           "theme": "CPO/矽光子",
           "market": "TPEX",
           "symbol": "3163.TWO",
-          "price": 429.5,
-          "prev_close": 468.0,
-          "change_pct": -8.23,
+          "price": 395.0,
+          "prev_close": 431.5,
+          "change_pct": -8.46,
           "tags": [
             "盤中落後族群"
           ]
@@ -123,9 +97,33 @@
           "theme": "CPO/矽光子",
           "market": "TPEX",
           "symbol": "4979.TWO",
-          "price": 346.5,
-          "prev_close": 375.5,
-          "change_pct": -7.72,
+          "price": 317.0,
+          "prev_close": 344.5,
+          "change_pct": -7.98,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "theme": "CPO/矽光子",
+          "market": "TPEX",
+          "symbol": "3081.TWO",
+          "price": 1750.0,
+          "prev_close": 1890.0,
+          "change_pct": -7.41,
+          "tags": []
+        },
+        {
+          "code": "3234",
+          "name": "光環",
+          "theme": "CPO/矽光子",
+          "market": "TPEX",
+          "symbol": "3234.TWO",
+          "price": 115.0,
+          "prev_close": 123.0,
+          "change_pct": -6.5,
           "tags": []
         },
         {
@@ -134,20 +132,9 @@
           "theme": "CPO/矽光子",
           "market": "TSE",
           "symbol": "6442.TW",
-          "price": 1070.0,
-          "prev_close": 1130.0,
-          "change_pct": -5.31,
-          "tags": []
-        },
-        {
-          "code": "3363",
-          "name": "上詮",
-          "theme": "CPO/矽光子",
-          "market": "TPEX",
-          "symbol": "3363.TWO",
-          "price": 400.5,
-          "prev_close": 419.0,
-          "change_pct": -4.42,
+          "price": 1005.0,
+          "prev_close": 1070.0,
+          "change_pct": -6.07,
           "tags": []
         },
         {
@@ -156,15 +143,26 @@
           "theme": "CPO/矽光子",
           "market": "TSE",
           "symbol": "4977.TW",
-          "price": 175.5,
-          "prev_close": 183.5,
-          "change_pct": -4.36,
+          "price": 165.0,
+          "prev_close": 175.5,
+          "change_pct": -5.98,
+          "tags": []
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "theme": "CPO/矽光子",
+          "market": "TSE",
+          "symbol": "3008.TW",
+          "price": 4480.0,
+          "prev_close": 4525.0,
+          "change_pct": -0.99,
           "tags": []
         }
       ]
     },
     "記憶體": {
-      "avg_change_pct": -7.151428571428572,
+      "avg_change_pct": -2.988571428571429,
       "stocks": [
         {
           "code": "2344",
@@ -172,35 +170,9 @@
           "theme": "記憶體",
           "market": "TSE",
           "symbol": "2344.TW",
-          "price": 127.5,
-          "prev_close": 141.0,
-          "change_pct": -9.57,
-          "tags": [
-            "盤中落後族群"
-          ]
-        },
-        {
-          "code": "2408",
-          "name": "南亞科",
-          "theme": "記憶體",
-          "market": "TSE",
-          "symbol": "2408.TW",
-          "price": 360.0,
-          "prev_close": 394.5,
-          "change_pct": -8.75,
-          "tags": [
-            "盤中落後族群"
-          ]
-        },
-        {
-          "code": "2337",
-          "name": "旺宏",
-          "theme": "記憶體",
-          "market": "TSE",
-          "symbol": "2337.TW",
-          "price": 79.69999694824219,
-          "prev_close": 87.19999694824219,
-          "change_pct": -8.6,
+          "price": 120.5,
+          "prev_close": 127.5,
+          "change_pct": -5.49,
           "tags": [
             "盤中落後族群"
           ]
@@ -211,9 +183,35 @@
           "theme": "記憶體",
           "market": "TPEX",
           "symbol": "8299.TWO",
-          "price": 1560.0,
-          "prev_close": 1705.0,
-          "change_pct": -8.5,
+          "price": 1500.0,
+          "prev_close": 1575.0,
+          "change_pct": -4.76,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "theme": "記憶體",
+          "market": "TSE",
+          "symbol": "2408.TW",
+          "price": 343.5,
+          "prev_close": 360.0,
+          "change_pct": -4.58,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "2337",
+          "name": "旺宏",
+          "theme": "記憶體",
+          "market": "TSE",
+          "symbol": "2337.TW",
+          "price": 75.80000305175781,
+          "prev_close": 79.4000015258789,
+          "change_pct": -4.53,
           "tags": [
             "盤中落後族群"
           ]
@@ -224,10 +222,12 @@
           "theme": "記憶體",
           "market": "TSE",
           "symbol": "3006.TW",
-          "price": 214.0,
-          "prev_close": 230.5,
-          "change_pct": -7.16,
-          "tags": []
+          "price": 207.5,
+          "prev_close": 215.0,
+          "change_pct": -3.49,
+          "tags": [
+            "盤中落後族群"
+          ]
         },
         {
           "code": "3260",
@@ -236,8 +236,8 @@
           "market": "TPEX",
           "symbol": "3260.TWO",
           "price": 299.5,
-          "prev_close": 318.5,
-          "change_pct": -5.97,
+          "prev_close": 300.0,
+          "change_pct": -0.17,
           "tags": []
         },
         {
@@ -246,53 +246,57 @@
           "theme": "記憶體",
           "market": "TSE",
           "symbol": "4967.TW",
-          "price": 261.5,
-          "prev_close": 265.5,
-          "change_pct": -1.51,
+          "price": 268.0,
+          "prev_close": 262.5,
+          "change_pct": 2.1,
           "tags": []
         }
       ]
     },
     "晶圓代工": {
-      "avg_change_pct": -7.225,
+      "avg_change_pct": -4.895,
       "stocks": [
-        {
-          "code": "6770",
-          "name": "力積電",
-          "theme": "晶圓代工",
-          "market": "TSE",
-          "symbol": "6770.TW",
-          "price": 54.79999923706055,
-          "prev_close": 59.099998474121094,
-          "change_pct": -7.28,
-          "tags": []
-        },
         {
           "code": "2303",
           "name": "聯電",
           "theme": "晶圓代工",
           "market": "TSE",
           "symbol": "2303.TW",
-          "price": 98.4000015258789,
-          "prev_close": 106.0,
-          "change_pct": -7.17,
+          "price": 92.0,
+          "prev_close": 98.4000015258789,
+          "change_pct": -6.5,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "6770",
+          "name": "力積電",
+          "theme": "晶圓代工",
+          "market": "TSE",
+          "symbol": "6770.TW",
+          "price": 52.900001525878906,
+          "prev_close": 54.70000076293945,
+          "change_pct": -3.29,
           "tags": []
         }
       ]
     },
     "被動元件": {
-      "avg_change_pct": -9.49,
+      "avg_change_pct": -8.540000000000001,
       "stocks": [
         {
-          "code": "2492",
-          "name": "華新科",
+          "code": "3026",
+          "name": "禾伸堂",
           "theme": "被動元件",
           "market": "TSE",
-          "symbol": "2492.TW",
-          "price": 281.5,
-          "prev_close": 312.0,
-          "change_pct": -9.78,
-          "tags": []
+          "symbol": "3026.TW",
+          "price": 475.5,
+          "prev_close": 528.0,
+          "change_pct": -9.94,
+          "tags": [
+            "盤中落後族群"
+          ]
         },
         {
           "code": "2486",
@@ -300,31 +304,22 @@
           "theme": "被動元件",
           "market": "TSE",
           "symbol": "2486.TW",
-          "price": 159.0,
-          "prev_close": 176.0,
-          "change_pct": -9.66,
-          "tags": []
+          "price": 145.0,
+          "prev_close": 159.5,
+          "change_pct": -9.09,
+          "tags": [
+            "盤中落後族群"
+          ]
         },
         {
-          "code": "3026",
-          "name": "禾伸堂",
+          "code": "2492",
+          "name": "華新科",
           "theme": "被動元件",
           "market": "TSE",
-          "symbol": "3026.TW",
-          "price": 528.0,
-          "prev_close": 583.0,
-          "change_pct": -9.43,
-          "tags": []
-        },
-        {
-          "code": "2327",
-          "name": "國巨",
-          "theme": "被動元件",
-          "market": "TSE",
-          "symbol": "2327.TW",
-          "price": 404.5,
-          "prev_close": 446.0,
-          "change_pct": -9.3,
+          "symbol": "2492.TW",
+          "price": 258.5,
+          "prev_close": 281.5,
+          "change_pct": -8.17,
           "tags": []
         },
         {
@@ -333,38 +328,49 @@
           "theme": "被動元件",
           "market": "TSE",
           "symbol": "2375.TW",
-          "price": 93.9000015258789,
-          "prev_close": 103.5,
-          "change_pct": -9.28,
+          "price": 86.69999694824219,
+          "prev_close": 94.19999694824219,
+          "change_pct": -7.96,
+          "tags": []
+        },
+        {
+          "code": "2327",
+          "name": "國巨",
+          "theme": "被動元件",
+          "market": "TSE",
+          "symbol": "2327.TW",
+          "price": 374.0,
+          "prev_close": 404.5,
+          "change_pct": -7.54,
           "tags": []
         }
       ]
     },
     "AI伺服器組裝": {
-      "avg_change_pct": -4.152,
+      "avg_change_pct": -4.824,
       "stocks": [
-        {
-          "code": "6669",
-          "name": "緯穎",
-          "theme": "AI伺服器組裝",
-          "market": "TSE",
-          "symbol": "6669.TW",
-          "price": 1650.0,
-          "prev_close": 1775.0,
-          "change_pct": -7.04,
-          "tags": [
-            "盤中落後族群"
-          ]
-        },
         {
           "code": "2059",
           "name": "川湖",
           "theme": "AI伺服器組裝",
           "market": "TSE",
           "symbol": "2059.TW",
-          "price": 7995.0,
-          "prev_close": 8600.0,
-          "change_pct": -7.03,
+          "price": 7565.0,
+          "prev_close": 8025.0,
+          "change_pct": -5.73,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "theme": "AI伺服器組裝",
+          "market": "TSE",
+          "symbol": "6669.TW",
+          "price": 1555.0,
+          "prev_close": 1645.0,
+          "change_pct": -5.47,
           "tags": [
             "盤中落後族群"
           ]
@@ -375,9 +381,9 @@
           "theme": "AI伺服器組裝",
           "market": "TSE",
           "symbol": "3231.TW",
-          "price": 168.5,
-          "prev_close": 175.0,
-          "change_pct": -3.71,
+          "price": 160.0,
+          "prev_close": 168.5,
+          "change_pct": -5.04,
           "tags": []
         },
         {
@@ -386,9 +392,9 @@
           "theme": "AI伺服器組裝",
           "market": "TSE",
           "symbol": "2356.TW",
-          "price": 55.0,
-          "prev_close": 56.400001525878906,
-          "change_pct": -2.48,
+          "price": 52.599998474121094,
+          "prev_close": 55.20000076293945,
+          "change_pct": -4.71,
           "tags": []
         },
         {
@@ -397,15 +403,15 @@
           "theme": "AI伺服器組裝",
           "market": "TSE",
           "symbol": "2382.TW",
-          "price": 300.0,
-          "prev_close": 301.5,
-          "change_pct": -0.5,
+          "price": 290.5,
+          "prev_close": 300.0,
+          "change_pct": -3.17,
           "tags": []
         }
       ]
     },
     "散熱": {
-      "avg_change_pct": -10.1,
+      "avg_change_pct": -9.863333333333333,
       "stocks": [
         {
           "code": "3653",
@@ -413,12 +419,10 @@
           "theme": "散熱",
           "market": "TSE",
           "symbol": "3653.TW",
-          "price": 5805.0,
-          "prev_close": 6495.0,
-          "change_pct": -10.62,
-          "tags": [
-            "盤中落後族群"
-          ]
+          "price": 5225.0,
+          "prev_close": 5805.0,
+          "change_pct": -9.99,
+          "tags": []
         },
         {
           "code": "3324",
@@ -426,9 +430,9 @@
           "theme": "散熱",
           "market": "TPEX",
           "symbol": "3324.TWO",
-          "price": 1170.0,
-          "prev_close": 1300.0,
-          "change_pct": -10.0,
+          "price": 1055.0,
+          "prev_close": 1170.0,
+          "change_pct": -9.83,
           "tags": []
         },
         {
@@ -437,15 +441,15 @@
           "theme": "散熱",
           "market": "TSE",
           "symbol": "3017.TW",
-          "price": 2565.0,
-          "prev_close": 2840.0,
-          "change_pct": -9.68,
+          "price": 2310.0,
+          "prev_close": 2560.0,
+          "change_pct": -9.77,
           "tags": []
         }
       ]
     },
     "ABF載板/PCB": {
-      "avg_change_pct": -9.67,
+      "avg_change_pct": -9.056000000000001,
       "stocks": [
         {
           "code": "8046",
@@ -453,9 +457,48 @@
           "theme": "ABF載板/PCB",
           "market": "TSE",
           "symbol": "8046.TW",
-          "price": 972.0,
-          "prev_close": 1080.0,
-          "change_pct": -10.0,
+          "price": 875.0,
+          "prev_close": 972.0,
+          "change_pct": -9.98,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "theme": "ABF載板/PCB",
+          "market": "TSE",
+          "symbol": "6213.TW",
+          "price": 496.0,
+          "prev_close": 551.0,
+          "change_pct": -9.98,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "theme": "ABF載板/PCB",
+          "market": "TPEX",
+          "symbol": "6274.TWO",
+          "price": 906.0,
+          "prev_close": 1005.0,
+          "change_pct": -9.85,
+          "tags": [
+            "盤中落後族群"
+          ]
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "theme": "ABF載板/PCB",
+          "market": "TSE",
+          "symbol": "3037.TW",
+          "price": 727.0,
+          "prev_close": 800.0,
+          "change_pct": -9.13,
           "tags": []
         },
         {
@@ -464,71 +507,36 @@
           "theme": "ABF載板/PCB",
           "market": "TSE",
           "symbol": "2368.TW",
-          "price": 868.0,
-          "prev_close": 963.0,
-          "change_pct": -9.87,
-          "tags": []
-        },
-        {
-          "code": "6213",
-          "name": "聯茂",
-          "theme": "ABF載板/PCB",
-          "market": "TSE",
-          "symbol": "6213.TW",
-          "price": 551.0,
-          "prev_close": 609.0,
-          "change_pct": -9.52,
-          "tags": []
-        },
-        {
-          "code": "3037",
-          "name": "欣興",
-          "theme": "ABF載板/PCB",
-          "market": "TSE",
-          "symbol": "3037.TW",
-          "price": 800.0,
-          "prev_close": 884.0,
-          "change_pct": -9.5,
-          "tags": []
-        },
-        {
-          "code": "6274",
-          "name": "台燿",
-          "theme": "ABF載板/PCB",
-          "market": "TPEX",
-          "symbol": "6274.TWO",
-          "price": 1005.0,
-          "prev_close": 1110.0,
-          "change_pct": -9.46,
+          "price": 813.0,
+          "prev_close": 868.0,
+          "change_pct": -6.34,
           "tags": []
         }
       ]
     },
     "電源供應": {
-      "avg_change_pct": -6.775,
+      "avg_change_pct": -6.41,
       "stocks": [
-        {
-          "code": "2308",
-          "name": "台達電",
-          "theme": "電源供應",
-          "market": "TSE",
-          "symbol": "2308.TW",
-          "price": 1130.0,
-          "prev_close": 1225.0,
-          "change_pct": -7.76,
-          "tags": [
-            "盤中落後族群"
-          ]
-        },
         {
           "code": "2301",
           "name": "光寶科",
           "theme": "電源供應",
           "market": "TSE",
           "symbol": "2301.TW",
-          "price": 211.5,
-          "prev_close": 224.5,
-          "change_pct": -5.79,
+          "price": 198.0,
+          "prev_close": 212.0,
+          "change_pct": -6.6,
+          "tags": []
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "theme": "電源供應",
+          "market": "TSE",
+          "symbol": "2308.TW",
+          "price": 1055.0,
+          "prev_close": 1125.0,
+          "change_pct": -6.22,
           "tags": []
         }
       ]

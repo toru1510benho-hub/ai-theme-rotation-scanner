@@ -1811,5 +1811,54 @@
     "announce_date": "2026-11-04",
     "subject": "本公司訂購機器設備公告",
     "is_conference": false
+  },
+  {
+    "code": "3026",
+    "name": "禾伸堂",
+    "announce_date": "2026-11-05",
+    "subject": "本公司受邀參加華南永昌證券舉辦之法人說明會",
+    "is_conference": true
+  },
+  {
+    "code": "2492",
+    "name": "華新科",
+    "announce_date": "2026-11-05",
+    "subject": "本公司董事會通過華科香港控股有限公司新增資金\r\n貸與金額達新台幣一千萬元以上且達華新科技最近期\r\n財務報表淨值百分之二以上(代華科香港控股有限公司公告)",
+    "is_conference": false
+  },
+  {
+    "code": "2492",
+    "name": "華新科",
+    "announce_date": "2026-11-05",
+    "subject": "公告本公司董事會通過115年第三季合併財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-05",
+    "subject": "代子公司重慶美桀公告擬處分不動產",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-05",
+    "subject": "本公司受邀參加由永豐金證券匯立分公司舉辦之\r\n\"CLST Taiwan Market Mover Access Day\"",
+    "is_conference": false
+  },
+  {
+    "code": "8046",
+    "name": "南電",
+    "announce_date": "2026-11-05",
+    "subject": "公告本公司115年第3季合併財務報告業經董事會決議通過",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-11-05",
+    "subject": "本公司代子公司Delta Electronics (Thailand) Public Company Limited公告向非關係\r\n人取得供營業使用之設備",
+    "is_conference": false
   }
 ]

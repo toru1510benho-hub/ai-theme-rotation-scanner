@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:42:10.059801",
+  "generated_at": "2026-11-06T15:16:51.637814",
   "has_live_quotes": true,
   "themes": {
     "CPO/矽光子": [
@@ -7,137 +7,43 @@
         "code": "4979",
         "name": "華星光",
         "market": "TPEX",
-        "live_price": 346.5,
-        "change_pct": -7.72,
+        "live_price": 317.0,
+        "change_pct": -7.98,
         "zone": {
-          "latest_close": 346.5,
-          "ma5": 395.8,
-          "ma20": 483.05,
-          "bias_from_ma20_pct": -28.27,
+          "latest_close": 317.0,
+          "ma5": 369.8,
+          "ma20": 469.95,
+          "bias_from_ma20_pct": -32.55,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 468.56,
-          "buy_zone_high": 497.54,
-          "stop_loss_price": 339.57,
-          "recent_low_20d": 346.5,
+          "buy_zone_low": 455.85,
+          "buy_zone_high": 484.05,
+          "stop_loss_price": 310.66,
+          "recent_low_20d": 317.0,
           "recent_high_20d": 588.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.7%(未破支撐),低接候選"
+          "單日急殺-8.0%(未破支撐),低接候選"
         ]
       },
       {
         "code": "3363",
         "name": "上詮",
         "market": "TPEX",
-        "live_price": 400.5,
-        "change_pct": -4.42,
-        "zone": {
-          "latest_close": 400.5,
-          "ma5": 433.9,
-          "ma20": 520.5,
-          "bias_from_ma20_pct": -23.05,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 504.88,
-          "buy_zone_high": 536.12,
-          "stop_loss_price": 392.49,
-          "recent_low_20d": 400.5,
-          "recent_high_20d": 679.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望"
-        ]
-      },
-      {
-        "code": "4977",
-        "name": "眾達-KY",
-        "market": "TSE",
-        "live_price": 175.5,
-        "change_pct": -4.36,
-        "zone": {
-          "latest_close": 175.5,
-          "ma5": 176.4,
-          "ma20": 177.38,
-          "bias_from_ma20_pct": -1.06,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 172.05,
-          "buy_zone_high": 182.7,
-          "stop_loss_price": 161.7,
-          "recent_low_20d": 165.0,
-          "recent_high_20d": 191.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望"
-        ]
-      },
-      {
-        "code": "3234",
-        "name": "光環",
-        "market": "TPEX",
-        "live_price": 123.0,
-        "change_pct": -8.89,
-        "zone": {
-          "latest_close": 123.0,
-          "ma5": 139.1,
-          "ma20": 168.55,
-          "bias_from_ma20_pct": -27.02,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 163.49,
-          "buy_zone_high": 173.61,
-          "stop_loss_price": 120.54,
-          "recent_low_20d": 123.0,
-          "recent_high_20d": 196.5,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-8.9%(未破支撐),低接候選"
-        ]
-      },
-      {
-        "code": "3081",
-        "name": "聯亞",
-        "market": "TPEX",
-        "live_price": 1890.0,
-        "change_pct": -9.79,
-        "zone": {
-          "latest_close": 1890.0,
-          "ma5": 2190.0,
-          "ma20": 2547.75,
-          "bias_from_ma20_pct": -25.82,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 2471.32,
-          "buy_zone_high": 2624.18,
-          "stop_loss_price": 1852.2,
-          "recent_low_20d": 1890.0,
-          "recent_high_20d": 3140.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.8%(未破支撐),低接候選"
-        ]
-      },
-      {
-        "code": "3450",
-        "name": "聯鈞",
-        "market": "TSE",
-        "live_price": 342.0,
+        "live_price": 360.5,
         "change_pct": -9.88,
         "zone": {
-          "latest_close": 342.0,
-          "ma5": 384.1,
-          "ma20": 443.5,
-          "bias_from_ma20_pct": -22.89,
+          "latest_close": 360.5,
+          "ma5": 411.1,
+          "ma20": 504.57,
+          "bias_from_ma20_pct": -28.55,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 430.19,
-          "buy_zone_high": 456.81,
-          "stop_loss_price": 335.16,
-          "recent_low_20d": 342.0,
-          "recent_high_20d": 535.0,
+          "buy_zone_low": 489.44,
+          "buy_zone_high": 519.71,
+          "stop_loss_price": 353.29,
+          "recent_low_20d": 360.5,
+          "recent_high_20d": 667.0,
           "is_overheated": false
         },
         "tags": [
@@ -146,120 +52,22 @@
         ]
       },
       {
-        "code": "3163",
-        "name": "波若威",
-        "market": "TPEX",
-        "live_price": 429.5,
-        "change_pct": -8.23,
-        "zone": {
-          "latest_close": 429.5,
-          "ma5": 475.2,
-          "ma20": 570.6,
-          "bias_from_ma20_pct": -24.73,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 553.48,
-          "buy_zone_high": 587.72,
-          "stop_loss_price": 420.91,
-          "recent_low_20d": 429.5,
-          "recent_high_20d": 702.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-8.2%(未破支撐),低接候選"
-        ]
-      },
-      {
-        "code": "6442",
-        "name": "光聖",
+        "code": "4977",
+        "name": "眾達-KY",
         "market": "TSE",
-        "live_price": 1070.0,
-        "change_pct": -5.31,
+        "live_price": 165.0,
+        "change_pct": -5.98,
         "zone": {
-          "latest_close": 1070.0,
-          "ma5": 1167.0,
-          "ma20": 1441.75,
-          "bias_from_ma20_pct": -25.78,
+          "latest_close": 165.0,
+          "ma5": 174.8,
+          "ma20": 176.88,
+          "bias_from_ma20_pct": -6.71,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1398.5,
-          "buy_zone_high": 1485.0,
-          "stop_loss_price": 1048.6,
-          "recent_low_20d": 1070.0,
-          "recent_high_20d": 1815.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-5.3%(未破支撐),低接候選"
-        ]
-      },
-      {
-        "code": "3008",
-        "name": "大立光",
-        "market": "TSE",
-        "live_price": 4525.0,
-        "change_pct": -9.59,
-        "zone": {
-          "latest_close": 4525.0,
-          "ma5": 5080.0,
-          "ma20": 6114.0,
-          "bias_from_ma20_pct": -25.99,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 5930.58,
-          "buy_zone_high": 6297.42,
-          "stop_loss_price": 4434.5,
-          "recent_low_20d": 4525.0,
-          "recent_high_20d": 7325.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.6%(未破支撐),低接候選"
-        ]
-      }
-    ],
-    "記憶體": [
-      {
-        "code": "2408",
-        "name": "南亞科",
-        "market": "TSE",
-        "live_price": 360.0,
-        "change_pct": -8.75,
-        "zone": {
-          "latest_close": 360.0,
-          "ma5": 416.3,
-          "ma20": 451.38,
-          "bias_from_ma20_pct": -20.24,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 437.83,
-          "buy_zone_high": 464.92,
-          "stop_loss_price": 352.8,
-          "recent_low_20d": 360.0,
-          "recent_high_20d": 532.0,
-          "is_overheated": false
-        },
-        "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-8.8%(未破支撐),低接候選"
-        ]
-      },
-      {
-        "code": "3260",
-        "name": "威剛",
-        "market": "TPEX",
-        "live_price": 299.5,
-        "change_pct": -5.97,
-        "zone": {
-          "latest_close": 299.5,
-          "ma5": 324.5,
-          "ma20": 343.65,
-          "bias_from_ma20_pct": -12.85,
-          "is_short_term_uptrend": false,
-          "buy_zone_low": 333.34,
-          "buy_zone_high": 353.96,
-          "stop_loss_price": 293.51,
-          "recent_low_20d": 299.5,
-          "recent_high_20d": 367.5,
+          "buy_zone_low": 171.57,
+          "buy_zone_high": 182.18,
+          "stop_loss_price": 161.7,
+          "recent_low_20d": 165.0,
+          "recent_high_20d": 191.0,
           "is_overheated": false
         },
         "tags": [
@@ -268,46 +76,94 @@
         ]
       },
       {
-        "code": "2337",
-        "name": "旺宏",
-        "market": "TSE",
-        "live_price": 79.69999694824219,
-        "change_pct": -8.6,
+        "code": "3234",
+        "name": "光環",
+        "market": "TPEX",
+        "live_price": 115.0,
+        "change_pct": -6.5,
         "zone": {
-          "latest_close": 79.7,
-          "ma5": 89.36,
-          "ma20": 101.74,
-          "bias_from_ma20_pct": -21.66,
+          "latest_close": 115.0,
+          "ma5": 131.8,
+          "ma20": 164.75,
+          "bias_from_ma20_pct": -30.2,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 98.69,
-          "buy_zone_high": 104.79,
-          "stop_loss_price": 78.11,
-          "recent_low_20d": 79.7,
-          "recent_high_20d": 118.0,
+          "buy_zone_low": 159.81,
+          "buy_zone_high": 169.69,
+          "stop_loss_price": 112.7,
+          "recent_low_20d": 115.0,
+          "recent_high_20d": 196.5,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-8.6%(未破支撐),低接候選"
+          "單日急殺-6.5%(未破支撐),低接候選"
         ]
       },
       {
-        "code": "8299",
-        "name": "群聯",
+        "code": "3081",
+        "name": "聯亞",
         "market": "TPEX",
-        "live_price": 1560.0,
-        "change_pct": -8.5,
+        "live_price": 1750.0,
+        "change_pct": -7.41,
         "zone": {
-          "latest_close": 1560.0,
-          "ma5": 1753.0,
-          "ma20": 1898.5,
-          "bias_from_ma20_pct": -17.83,
+          "latest_close": 1750.0,
+          "ma5": 2066.0,
+          "ma20": 2478.25,
+          "bias_from_ma20_pct": -29.39,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1841.54,
-          "buy_zone_high": 1955.46,
-          "stop_loss_price": 1528.8,
-          "recent_low_20d": 1560.0,
-          "recent_high_20d": 2060.0,
+          "buy_zone_low": 2403.9,
+          "buy_zone_high": 2552.6,
+          "stop_loss_price": 1715.0,
+          "recent_low_20d": 1750.0,
+          "recent_high_20d": 3025.0,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望",
+          "單日急殺-7.4%(未破支撐),低接候選"
+        ]
+      },
+      {
+        "code": "3450",
+        "name": "聯鈞",
+        "market": "TSE",
+        "live_price": 309.0,
+        "change_pct": -9.65,
+        "zone": {
+          "latest_close": 309.0,
+          "ma5": 364.1,
+          "ma20": 432.2,
+          "bias_from_ma20_pct": -28.51,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 419.23,
+          "buy_zone_high": 445.17,
+          "stop_loss_price": 302.82,
+          "recent_low_20d": 309.0,
+          "recent_high_20d": 522.0,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望",
+          "單日急殺-9.7%(未破支撐),低接候選"
+        ]
+      },
+      {
+        "code": "3163",
+        "name": "波若威",
+        "market": "TPEX",
+        "live_price": 395.0,
+        "change_pct": -8.46,
+        "zone": {
+          "latest_close": 395.0,
+          "ma5": 452.4,
+          "ma20": 555.25,
+          "bias_from_ma20_pct": -28.86,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 538.59,
+          "buy_zone_high": 571.91,
+          "stop_loss_price": 387.1,
+          "recent_low_20d": 395.0,
+          "recent_high_20d": 689.0,
           "is_overheated": false
         },
         "tags": [
@@ -316,43 +172,183 @@
         ]
       },
       {
-        "code": "3006",
-        "name": "晶豪科",
+        "code": "6442",
+        "name": "光聖",
         "market": "TSE",
-        "live_price": 214.0,
-        "change_pct": -7.16,
+        "live_price": 1005.0,
+        "change_pct": -6.07,
         "zone": {
-          "latest_close": 214.0,
-          "ma5": 245.2,
-          "ma20": 248.97,
-          "bias_from_ma20_pct": -14.05,
+          "latest_close": 1005.0,
+          "ma5": 1122.0,
+          "ma20": 1401.25,
+          "bias_from_ma20_pct": -28.28,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 241.51,
-          "buy_zone_high": 256.44,
-          "stop_loss_price": 209.72,
-          "recent_low_20d": 214.0,
-          "recent_high_20d": 282.5,
+          "buy_zone_low": 1359.21,
+          "buy_zone_high": 1443.29,
+          "stop_loss_price": 984.9,
+          "recent_low_20d": 1005.0,
+          "recent_high_20d": 1785.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.2%(未破支撐),低接候選"
+          "單日急殺-6.1%(未破支撐),低接候選"
+        ]
+      },
+      {
+        "code": "3008",
+        "name": "大立光",
+        "market": "TSE",
+        "live_price": 4480.0,
+        "change_pct": -0.99,
+        "zone": {
+          "latest_close": 4480.0,
+          "ma5": 4890.0,
+          "ma20": 5995.75,
+          "bias_from_ma20_pct": -25.28,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 5815.88,
+          "buy_zone_high": 6175.62,
+          "stop_loss_price": 4390.4,
+          "recent_low_20d": 4480.0,
+          "recent_high_20d": 7325.0,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望"
+        ]
+      }
+    ],
+    "記憶體": [
+      {
+        "code": "2408",
+        "name": "南亞科",
+        "market": "TSE",
+        "live_price": 343.5,
+        "change_pct": -4.58,
+        "zone": {
+          "latest_close": 343.5,
+          "ma5": 394.1,
+          "ma20": 442.85,
+          "bias_from_ma20_pct": -22.43,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 429.56,
+          "buy_zone_high": 456.14,
+          "stop_loss_price": 336.63,
+          "recent_low_20d": 343.5,
+          "recent_high_20d": 532.0,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望"
+        ]
+      },
+      {
+        "code": "3260",
+        "name": "威剛",
+        "market": "TPEX",
+        "live_price": 299.5,
+        "change_pct": -0.17,
+        "zone": {
+          "latest_close": 299.5,
+          "ma5": 315.1,
+          "ma20": 340.38,
+          "bias_from_ma20_pct": -12.01,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 330.16,
+          "buy_zone_high": 350.59,
+          "stop_loss_price": 293.51,
+          "recent_low_20d": 299.5,
+          "recent_high_20d": 367.5,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望"
+        ]
+      },
+      {
+        "code": "2337",
+        "name": "旺宏",
+        "market": "TSE",
+        "live_price": 75.80000305175781,
+        "change_pct": -4.53,
+        "zone": {
+          "latest_close": 75.8,
+          "ma5": 85.44,
+          "ma20": 99.63,
+          "bias_from_ma20_pct": -23.92,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 96.64,
+          "buy_zone_high": 102.62,
+          "stop_loss_price": 74.28,
+          "recent_low_20d": 75.8,
+          "recent_high_20d": 116.0,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望"
+        ]
+      },
+      {
+        "code": "8299",
+        "name": "群聯",
+        "market": "TPEX",
+        "live_price": 1500.0,
+        "change_pct": -4.76,
+        "zone": {
+          "latest_close": 1500.0,
+          "ma5": 1667.0,
+          "ma20": 1870.5,
+          "bias_from_ma20_pct": -19.81,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 1814.38,
+          "buy_zone_high": 1926.62,
+          "stop_loss_price": 1470.0,
+          "recent_low_20d": 1500.0,
+          "recent_high_20d": 2060.0,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望"
+        ]
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "market": "TSE",
+        "live_price": 207.5,
+        "change_pct": -3.49,
+        "zone": {
+          "latest_close": 207.5,
+          "ma5": 231.3,
+          "ma20": 245.82,
+          "bias_from_ma20_pct": -15.59,
+          "is_short_term_uptrend": false,
+          "buy_zone_low": 238.45,
+          "buy_zone_high": 253.2,
+          "stop_loss_price": 203.35,
+          "recent_low_20d": 207.5,
+          "recent_high_20d": 282.5,
+          "is_overheated": false
+        },
+        "tags": [
+          "短均已跌破月線,回檔≠買點,先觀望"
         ]
       },
       {
         "code": "4967",
         "name": "十銓",
         "market": "TSE",
-        "live_price": 261.5,
-        "change_pct": -1.51,
+        "live_price": 268.0,
+        "change_pct": 2.1,
         "zone": {
-          "latest_close": 261.5,
-          "ma5": 268.1,
-          "ma20": 263.38,
-          "bias_from_ma20_pct": -0.71,
+          "latest_close": 268.0,
+          "ma5": 265.9,
+          "ma20": 263.52,
+          "bias_from_ma20_pct": 1.7,
           "is_short_term_uptrend": true,
-          "buy_zone_low": 255.47,
-          "buy_zone_high": 271.28,
+          "buy_zone_low": 255.62,
+          "buy_zone_high": 271.43,
           "stop_loss_price": 243.53,
           "recent_low_20d": 248.5,
           "recent_high_20d": 286.5,
@@ -366,24 +362,24 @@
         "code": "2344",
         "name": "華邦電",
         "market": "TSE",
-        "live_price": 127.5,
-        "change_pct": -9.57,
+        "live_price": 120.5,
+        "change_pct": -5.49,
         "zone": {
-          "latest_close": 127.5,
-          "ma5": 148.3,
-          "ma20": 159.85,
-          "bias_from_ma20_pct": -20.24,
+          "latest_close": 120.5,
+          "ma5": 139.5,
+          "ma20": 156.9,
+          "bias_from_ma20_pct": -23.2,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 155.05,
-          "buy_zone_high": 164.65,
-          "stop_loss_price": 124.95,
-          "recent_low_20d": 127.5,
-          "recent_high_20d": 179.5,
+          "buy_zone_low": 152.19,
+          "buy_zone_high": 161.61,
+          "stop_loss_price": 118.09,
+          "recent_low_20d": 120.5,
+          "recent_high_20d": 177.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.6%(未破支撐),低接候選"
+          "單日急殺-5.5%(未破支撐),低接候選"
         ]
       }
     ],
@@ -392,48 +388,47 @@
         "code": "2303",
         "name": "聯電",
         "market": "TSE",
-        "live_price": 98.4000015258789,
-        "change_pct": -7.17,
+        "live_price": 92.0,
+        "change_pct": -6.5,
         "zone": {
-          "latest_close": 98.4,
-          "ma5": 105.68,
-          "ma20": 126.17,
-          "bias_from_ma20_pct": -22.01,
+          "latest_close": 92.0,
+          "ma5": 101.78,
+          "ma20": 123.34,
+          "bias_from_ma20_pct": -25.41,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 122.38,
-          "buy_zone_high": 129.96,
-          "stop_loss_price": 96.43,
-          "recent_low_20d": 98.4,
-          "recent_high_20d": 148.5,
+          "buy_zone_low": 119.64,
+          "buy_zone_high": 127.05,
+          "stop_loss_price": 90.16,
+          "recent_low_20d": 92.0,
+          "recent_high_20d": 147.5,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.2%(未破支撐),低接候選"
+          "單日急殺-6.5%(未破支撐),低接候選"
         ]
       },
       {
         "code": "6770",
         "name": "力積電",
         "market": "TSE",
-        "live_price": 54.79999923706055,
-        "change_pct": -7.28,
+        "live_price": 52.900001525878906,
+        "change_pct": -3.29,
         "zone": {
-          "latest_close": 54.8,
-          "ma5": 61.26,
-          "ma20": 66.66,
-          "bias_from_ma20_pct": -17.79,
+          "latest_close": 52.9,
+          "ma5": 58.52,
+          "ma20": 65.67,
+          "bias_from_ma20_pct": -19.45,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 64.66,
-          "buy_zone_high": 68.65,
-          "stop_loss_price": 53.7,
-          "recent_low_20d": 54.8,
-          "recent_high_20d": 72.6,
+          "buy_zone_low": 63.7,
+          "buy_zone_high": 67.64,
+          "stop_loss_price": 51.84,
+          "recent_low_20d": 52.9,
+          "recent_high_20d": 72.2,
           "is_overheated": false
         },
         "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.3%(未破支撐),低接候選"
+          "短均已跌破月線,回檔≠買點,先觀望"
         ]
       }
     ],
@@ -442,120 +437,120 @@
         "code": "2327",
         "name": "國巨",
         "market": "TSE",
-        "live_price": 404.5,
-        "change_pct": -9.3,
+        "live_price": 374.0,
+        "change_pct": -7.54,
         "zone": {
-          "latest_close": 404.5,
-          "ma5": 461.4,
-          "ma20": 540.75,
-          "bias_from_ma20_pct": -25.2,
+          "latest_close": 374.0,
+          "ma5": 435.8,
+          "ma20": 527.1,
+          "bias_from_ma20_pct": -29.05,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 524.53,
-          "buy_zone_high": 556.97,
-          "stop_loss_price": 396.41,
-          "recent_low_20d": 404.5,
-          "recent_high_20d": 647.0,
+          "buy_zone_low": 511.29,
+          "buy_zone_high": 542.91,
+          "stop_loss_price": 366.52,
+          "recent_low_20d": 374.0,
+          "recent_high_20d": 636.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.3%(未破支撐),低接候選"
+          "單日急殺-7.5%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2492",
         "name": "華新科",
         "market": "TSE",
-        "live_price": 281.5,
-        "change_pct": -9.78,
+        "live_price": 258.5,
+        "change_pct": -8.17,
         "zone": {
-          "latest_close": 281.5,
-          "ma5": 330.2,
-          "ma20": 380.18,
-          "bias_from_ma20_pct": -25.96,
+          "latest_close": 258.5,
+          "ma5": 305.7,
+          "ma20": 371.7,
+          "bias_from_ma20_pct": -30.45,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 368.77,
-          "buy_zone_high": 391.58,
-          "stop_loss_price": 275.87,
-          "recent_low_20d": 281.5,
-          "recent_high_20d": 428.0,
+          "buy_zone_low": 360.55,
+          "buy_zone_high": 382.85,
+          "stop_loss_price": 253.33,
+          "recent_low_20d": 258.5,
+          "recent_high_20d": 426.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.8%(未破支撐),低接候選"
+          "單日急殺-8.2%(未破支撐),低接候選"
         ]
       },
       {
         "code": "3026",
         "name": "禾伸堂",
         "market": "TSE",
-        "live_price": 528.0,
-        "change_pct": -9.43,
+        "live_price": 475.5,
+        "change_pct": -9.94,
         "zone": {
-          "latest_close": 528.0,
-          "ma5": 606.4,
-          "ma20": 747.25,
-          "bias_from_ma20_pct": -29.34,
+          "latest_close": 475.5,
+          "ma5": 560.1,
+          "ma20": 729.08,
+          "bias_from_ma20_pct": -34.78,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 724.83,
-          "buy_zone_high": 769.67,
-          "stop_loss_price": 517.44,
-          "recent_low_20d": 528.0,
+          "buy_zone_low": 707.2,
+          "buy_zone_high": 750.95,
+          "stop_loss_price": 465.99,
+          "recent_low_20d": 475.5,
           "recent_high_20d": 877.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.4%(未破支撐),低接候選"
+          "單日急殺-9.9%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2375",
         "name": "智寶",
         "market": "TSE",
-        "live_price": 93.9000015258789,
-        "change_pct": -9.28,
+        "live_price": 86.69999694824219,
+        "change_pct": -7.96,
         "zone": {
-          "latest_close": 93.9,
-          "ma5": 103.48,
-          "ma20": 118.15,
-          "bias_from_ma20_pct": -20.52,
+          "latest_close": 86.7,
+          "ma5": 98.82,
+          "ma20": 116.0,
+          "bias_from_ma20_pct": -25.26,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 114.6,
-          "buy_zone_high": 121.69,
-          "stop_loss_price": 92.02,
-          "recent_low_20d": 93.9,
+          "buy_zone_low": 112.52,
+          "buy_zone_high": 119.49,
+          "stop_loss_price": 84.97,
+          "recent_low_20d": 86.7,
           "recent_high_20d": 136.5,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.3%(未破支撐),低接候選"
+          "單日急殺-8.0%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2486",
         "name": "一詮",
         "market": "TSE",
-        "live_price": 159.0,
-        "change_pct": -9.66,
+        "live_price": 145.0,
+        "change_pct": -9.09,
         "zone": {
-          "latest_close": 159.0,
-          "ma5": 179.4,
-          "ma20": 206.12,
-          "bias_from_ma20_pct": -22.86,
+          "latest_close": 145.0,
+          "ma5": 169.9,
+          "ma20": 201.38,
+          "bias_from_ma20_pct": -28.0,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 199.94,
-          "buy_zone_high": 212.31,
-          "stop_loss_price": 155.82,
-          "recent_low_20d": 159.0,
-          "recent_high_20d": 240.0,
+          "buy_zone_low": 195.33,
+          "buy_zone_high": 207.42,
+          "stop_loss_price": 142.1,
+          "recent_low_20d": 145.0,
+          "recent_high_20d": 238.5,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.7%(未破支撐),低接候選"
+          "單日急殺-9.1%(未破支撐),低接候選"
         ]
       }
     ],
@@ -564,19 +559,19 @@
         "code": "2382",
         "name": "廣達",
         "market": "TSE",
-        "live_price": 300.0,
-        "change_pct": -0.5,
+        "live_price": 290.5,
+        "change_pct": -3.17,
         "zone": {
-          "latest_close": 300.0,
-          "ma5": 310.0,
-          "ma20": 320.0,
-          "bias_from_ma20_pct": -6.25,
+          "latest_close": 290.5,
+          "ma5": 304.5,
+          "ma20": 317.77,
+          "bias_from_ma20_pct": -8.58,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 310.4,
-          "buy_zone_high": 329.6,
-          "stop_loss_price": 294.0,
-          "recent_low_20d": 300.0,
-          "recent_high_20d": 335.0,
+          "buy_zone_low": 308.24,
+          "buy_zone_high": 327.31,
+          "stop_loss_price": 284.69,
+          "recent_low_20d": 290.5,
+          "recent_high_20d": 330.0,
           "is_overheated": false
         },
         "tags": [
@@ -587,42 +582,42 @@
         "code": "6669",
         "name": "緯穎",
         "market": "TSE",
-        "live_price": 1650.0,
-        "change_pct": -7.04,
+        "live_price": 1555.0,
+        "change_pct": -5.47,
         "zone": {
-          "latest_close": 1650.0,
-          "ma5": 1767.0,
-          "ma20": 1940.25,
-          "bias_from_ma20_pct": -14.96,
+          "latest_close": 1555.0,
+          "ma5": 1716.0,
+          "ma20": 1906.0,
+          "bias_from_ma20_pct": -18.42,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1882.04,
-          "buy_zone_high": 1998.46,
-          "stop_loss_price": 1617.0,
-          "recent_low_20d": 1650.0,
+          "buy_zone_low": 1848.82,
+          "buy_zone_high": 1963.18,
+          "stop_loss_price": 1523.9,
+          "recent_low_20d": 1555.0,
           "recent_high_20d": 2275.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.0%(未破支撐),低接候選"
+          "單日急殺-5.5%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2356",
         "name": "英業達",
         "market": "TSE",
-        "live_price": 55.0,
-        "change_pct": -2.48,
+        "live_price": 52.599998474121094,
+        "change_pct": -4.71,
         "zone": {
-          "latest_close": 55.0,
-          "ma5": 57.54,
-          "ma20": 59.16,
-          "bias_from_ma20_pct": -7.03,
+          "latest_close": 52.6,
+          "ma5": 56.16,
+          "ma20": 58.89,
+          "bias_from_ma20_pct": -10.67,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 57.39,
-          "buy_zone_high": 60.93,
-          "stop_loss_price": 53.9,
-          "recent_low_20d": 55.0,
+          "buy_zone_low": 57.12,
+          "buy_zone_high": 60.65,
+          "stop_loss_price": 51.55,
+          "recent_low_20d": 52.6,
           "recent_high_20d": 63.8,
           "is_overheated": false
         },
@@ -634,47 +629,48 @@
         "code": "3231",
         "name": "緯創",
         "market": "TSE",
-        "live_price": 168.5,
-        "change_pct": -3.71,
+        "live_price": 160.0,
+        "change_pct": -5.04,
         "zone": {
-          "latest_close": 168.5,
-          "ma5": 177.2,
-          "ma20": 184.95,
-          "bias_from_ma20_pct": -8.89,
+          "latest_close": 160.0,
+          "ma5": 172.5,
+          "ma20": 183.7,
+          "bias_from_ma20_pct": -12.9,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 179.4,
-          "buy_zone_high": 190.5,
-          "stop_loss_price": 165.13,
-          "recent_low_20d": 168.5,
+          "buy_zone_low": 178.19,
+          "buy_zone_high": 189.21,
+          "stop_loss_price": 156.8,
+          "recent_low_20d": 160.0,
           "recent_high_20d": 195.0,
           "is_overheated": false
         },
         "tags": [
-          "短均已跌破月線,回檔≠買點,先觀望"
+          "短均已跌破月線,回檔≠買點,先觀望",
+          "單日急殺-5.0%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2059",
         "name": "川湖",
         "market": "TSE",
-        "live_price": 7995.0,
-        "change_pct": -7.03,
+        "live_price": 7565.0,
+        "change_pct": -5.73,
         "zone": {
-          "latest_close": 7995.0,
-          "ma5": 8981.0,
-          "ma20": 9854.0,
-          "bias_from_ma20_pct": -18.87,
+          "latest_close": 7565.0,
+          "ma5": 8564.0,
+          "ma20": 9642.75,
+          "bias_from_ma20_pct": -21.55,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 9558.38,
-          "buy_zone_high": 10149.62,
-          "stop_loss_price": 7835.1,
-          "recent_low_20d": 7995.0,
-          "recent_high_20d": 11790.0,
+          "buy_zone_low": 9353.47,
+          "buy_zone_high": 9932.03,
+          "stop_loss_price": 7413.7,
+          "recent_low_20d": 7565.0,
+          "recent_high_20d": 10615.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.0%(未破支撐),低接候選"
+          "單日急殺-5.7%(未破支撐),低接候選"
         ]
       }
     ],
@@ -683,72 +679,72 @@
         "code": "3017",
         "name": "奇鋐",
         "market": "TSE",
-        "live_price": 2565.0,
-        "change_pct": -9.68,
+        "live_price": 2310.0,
+        "change_pct": -9.77,
         "zone": {
-          "latest_close": 2565.0,
-          "ma5": 2895.0,
-          "ma20": 3173.0,
-          "bias_from_ma20_pct": -19.16,
+          "latest_close": 2310.0,
+          "ma5": 2738.0,
+          "ma20": 3111.25,
+          "bias_from_ma20_pct": -25.75,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 3077.81,
-          "buy_zone_high": 3268.19,
-          "stop_loss_price": 2513.7,
-          "recent_low_20d": 2565.0,
-          "recent_high_20d": 3545.0,
+          "buy_zone_low": 3017.91,
+          "buy_zone_high": 3204.59,
+          "stop_loss_price": 2263.8,
+          "recent_low_20d": 2310.0,
+          "recent_high_20d": 3440.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.7%(未破支撐),低接候選"
+          "單日急殺-9.8%(未破支撐),低接候選"
         ]
       },
       {
         "code": "3324",
         "name": "雙鴻",
         "market": "TPEX",
-        "live_price": 1170.0,
-        "change_pct": -10.0,
+        "live_price": 1055.0,
+        "change_pct": -9.83,
         "zone": {
-          "latest_close": 1170.0,
-          "ma5": 1303.0,
-          "ma20": 1400.25,
-          "bias_from_ma20_pct": -16.44,
+          "latest_close": 1055.0,
+          "ma5": 1248.0,
+          "ma20": 1376.75,
+          "bias_from_ma20_pct": -23.37,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1358.24,
-          "buy_zone_high": 1442.26,
-          "stop_loss_price": 1146.6,
-          "recent_low_20d": 1170.0,
+          "buy_zone_low": 1335.45,
+          "buy_zone_high": 1418.05,
+          "stop_loss_price": 1033.9,
+          "recent_low_20d": 1055.0,
           "recent_high_20d": 1540.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-10.0%(未破支撐),低接候選"
+          "單日急殺-9.8%(未破支撐),低接候選"
         ]
       },
       {
         "code": "3653",
         "name": "健策",
         "market": "TSE",
-        "live_price": 5805.0,
-        "change_pct": -10.62,
+        "live_price": 5225.0,
+        "change_pct": -9.99,
         "zone": {
-          "latest_close": 5805.0,
-          "ma5": 6185.0,
-          "ma20": 6506.75,
-          "bias_from_ma20_pct": -10.78,
+          "latest_close": 5225.0,
+          "ma5": 5967.0,
+          "ma20": 6427.75,
+          "bias_from_ma20_pct": -18.71,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 6311.55,
-          "buy_zone_high": 6701.95,
-          "stop_loss_price": 5688.9,
-          "recent_low_20d": 5805.0,
+          "buy_zone_low": 6234.92,
+          "buy_zone_high": 6620.58,
+          "stop_loss_price": 5120.5,
+          "recent_low_20d": 5225.0,
           "recent_high_20d": 7165.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-10.6%(未破支撐),低接候選"
+          "單日急殺-10.0%(未破支撐),低接候選"
         ]
       }
     ],
@@ -757,43 +753,43 @@
         "code": "3037",
         "name": "欣興",
         "market": "TSE",
-        "live_price": 800.0,
-        "change_pct": -9.5,
+        "live_price": 727.0,
+        "change_pct": -9.13,
         "zone": {
-          "latest_close": 800.0,
-          "ma5": 915.2,
-          "ma20": 1079.05,
-          "bias_from_ma20_pct": -25.86,
+          "latest_close": 727.0,
+          "ma5": 862.8,
+          "ma20": 1050.15,
+          "bias_from_ma20_pct": -30.77,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1046.68,
-          "buy_zone_high": 1111.42,
-          "stop_loss_price": 784.0,
-          "recent_low_20d": 800.0,
-          "recent_high_20d": 1305.0,
+          "buy_zone_low": 1018.65,
+          "buy_zone_high": 1081.65,
+          "stop_loss_price": 712.46,
+          "recent_low_20d": 727.0,
+          "recent_high_20d": 1270.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.5%(未破支撐),低接候選"
+          "單日急殺-9.1%(未破支撐),低接候選"
         ]
       },
       {
         "code": "8046",
         "name": "南電",
         "market": "TSE",
-        "live_price": 972.0,
-        "change_pct": -10.0,
+        "live_price": 875.0,
+        "change_pct": -9.98,
         "zone": {
-          "latest_close": 972.0,
-          "ma5": 1099.4,
-          "ma20": 1291.1,
-          "bias_from_ma20_pct": -24.72,
+          "latest_close": 875.0,
+          "ma5": 1036.4,
+          "ma20": 1260.85,
+          "bias_from_ma20_pct": -30.6,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1252.37,
-          "buy_zone_high": 1329.83,
-          "stop_loss_price": 952.56,
-          "recent_low_20d": 972.0,
-          "recent_high_20d": 1480.0,
+          "buy_zone_low": 1223.02,
+          "buy_zone_high": 1298.68,
+          "stop_loss_price": 857.5,
+          "recent_low_20d": 875.0,
+          "recent_high_20d": 1475.0,
           "is_overheated": false
         },
         "tags": [
@@ -805,72 +801,72 @@
         "code": "6274",
         "name": "台燿",
         "market": "TPEX",
-        "live_price": 1005.0,
-        "change_pct": -9.46,
+        "live_price": 906.0,
+        "change_pct": -9.85,
         "zone": {
-          "latest_close": 1005.0,
-          "ma5": 1137.0,
-          "ma20": 1453.75,
-          "bias_from_ma20_pct": -30.87,
+          "latest_close": 906.0,
+          "ma5": 1065.2,
+          "ma20": 1413.05,
+          "bias_from_ma20_pct": -35.88,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1410.14,
-          "buy_zone_high": 1497.36,
-          "stop_loss_price": 984.9,
-          "recent_low_20d": 1005.0,
+          "buy_zone_low": 1370.66,
+          "buy_zone_high": 1455.44,
+          "stop_loss_price": 887.88,
+          "recent_low_20d": 906.0,
           "recent_high_20d": 1740.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.5%(未破支撐),低接候選"
+          "單日急殺-9.8%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2368",
         "name": "金像電",
         "market": "TSE",
-        "live_price": 868.0,
-        "change_pct": -9.87,
+        "live_price": 813.0,
+        "change_pct": -6.34,
         "zone": {
-          "latest_close": 868.0,
-          "ma5": 976.4,
-          "ma20": 1137.6,
-          "bias_from_ma20_pct": -23.7,
+          "latest_close": 813.0,
+          "ma5": 935.0,
+          "ma20": 1116.0,
+          "bias_from_ma20_pct": -27.15,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1103.47,
-          "buy_zone_high": 1171.73,
-          "stop_loss_price": 850.64,
-          "recent_low_20d": 868.0,
+          "buy_zone_low": 1082.52,
+          "buy_zone_high": 1149.48,
+          "stop_loss_price": 796.74,
+          "recent_low_20d": 813.0,
           "recent_high_20d": 1285.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.9%(未破支撐),低接候選"
+          "單日急殺-6.3%(未破支撐),低接候選"
         ]
       },
       {
         "code": "6213",
         "name": "聯茂",
         "market": "TSE",
-        "live_price": 551.0,
-        "change_pct": -9.52,
+        "live_price": 496.0,
+        "change_pct": -9.98,
         "zone": {
-          "latest_close": 551.0,
-          "ma5": 621.2,
-          "ma20": 745.3,
-          "bias_from_ma20_pct": -26.07,
+          "latest_close": 496.0,
+          "ma5": 583.0,
+          "ma20": 730.3,
+          "bias_from_ma20_pct": -32.08,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 722.94,
-          "buy_zone_high": 767.66,
-          "stop_loss_price": 539.98,
-          "recent_low_20d": 551.0,
+          "buy_zone_low": 708.39,
+          "buy_zone_high": 752.21,
+          "stop_loss_price": 486.08,
+          "recent_low_20d": 496.0,
           "recent_high_20d": 856.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-9.5%(未破支撐),低接候選"
+          "單日急殺-10.0%(未破支撐),低接候選"
         ]
       }
     ],
@@ -879,48 +875,48 @@
         "code": "2308",
         "name": "台達電",
         "market": "TSE",
-        "live_price": 1130.0,
-        "change_pct": -7.76,
+        "live_price": 1055.0,
+        "change_pct": -6.22,
         "zone": {
-          "latest_close": 1130.0,
-          "ma5": 1262.0,
-          "ma20": 1576.0,
-          "bias_from_ma20_pct": -28.3,
+          "latest_close": 1055.0,
+          "ma5": 1206.0,
+          "ma20": 1529.25,
+          "bias_from_ma20_pct": -31.01,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 1528.72,
-          "buy_zone_high": 1623.28,
-          "stop_loss_price": 1107.4,
-          "recent_low_20d": 1130.0,
-          "recent_high_20d": 1990.0,
+          "buy_zone_low": 1483.37,
+          "buy_zone_high": 1575.13,
+          "stop_loss_price": 1033.9,
+          "recent_low_20d": 1055.0,
+          "recent_high_20d": 1965.0,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-7.8%(未破支撐),低接候選"
+          "單日急殺-6.2%(未破支撐),低接候選"
         ]
       },
       {
         "code": "2301",
         "name": "光寶科",
         "market": "TSE",
-        "live_price": 211.5,
-        "change_pct": -5.79,
+        "live_price": 198.0,
+        "change_pct": -6.6,
         "zone": {
-          "latest_close": 211.5,
-          "ma5": 229.9,
-          "ma20": 259.65,
-          "bias_from_ma20_pct": -18.54,
+          "latest_close": 198.0,
+          "ma5": 221.4,
+          "ma20": 254.55,
+          "bias_from_ma20_pct": -22.22,
           "is_short_term_uptrend": false,
-          "buy_zone_low": 251.86,
-          "buy_zone_high": 267.44,
-          "stop_loss_price": 207.27,
-          "recent_low_20d": 211.5,
-          "recent_high_20d": 300.0,
+          "buy_zone_low": 246.91,
+          "buy_zone_high": 262.19,
+          "stop_loss_price": 194.04,
+          "recent_low_20d": 198.0,
+          "recent_high_20d": 297.5,
           "is_overheated": false
         },
         "tags": [
           "短均已跌破月線,回檔≠買點,先觀望",
-          "單日急殺-5.8%(未破支撐),低接候選"
+          "單日急殺-6.6%(未破支撐),低接候選"
         ]
       }
     ]
