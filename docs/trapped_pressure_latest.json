@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:16:52.293471",
+  "generated_at": "2026-11-09T17:44:50.814755",
   "themes": {
     "CPO/矽光子": [
       {
@@ -405,14 +405,14 @@
         "name": "緯創",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 190.65,
+          "trapped_zone_price": 190.6,
           "latest_close": 160.0,
-          "distance_pct": 19.16,
-          "qualifying_days": 13,
+          "distance_pct": 19.12,
+          "qualifying_days": 14,
           "note": null
         },
         "tags": [
-          "距離套牢區還有+19.2%,暫不是主要壓力"
+          "距離套牢區還有+19.1%,暫不是主要壓力"
         ]
       },
       {

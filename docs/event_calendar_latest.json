@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-11-06T15:16:53.839733",
-  "upcoming_fomc": [],
+  "generated_at": "2026-11-09T17:44:52.412794",
+  "upcoming_fomc": [
+    {
+      "date": "2026-12-09",
+      "days_until": 30
+    }
+  ],
   "recent_company_events_14d": [
     {
       "code": "3026",
