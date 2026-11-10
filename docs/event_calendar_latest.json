@@ -1,12 +1,96 @@
 {
-  "generated_at": "2026-11-09T17:44:52.412794",
+  "generated_at": "2026-11-10T15:43:43.002078",
   "upcoming_fomc": [
     {
       "date": "2026-12-09",
-      "days_until": 30
+      "days_until": 29
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-09",
+      "subject": "澄清媒體報導",
+      "is_conference": false
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-11-09",
+      "subject": "本公司受邀參加由UBS舉辦之\"UBS Future Now 2026: \r\nAsia Technology and Innovation Conference\"",
+      "is_conference": true
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "announce_date": "2026-11-09",
+      "subject": "本公司受邀參加Macquarie舉辦之Macquarie Taiwan Conference",
+      "is_conference": true
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-11-09",
+      "subject": "公告本公司115年10月自結合併營收",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-09",
+      "subject": "本公司受邀參加永豐金證券匯立分公司舉辦之法人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-09",
+      "subject": "本公司受邀參加香港商麥格理資本證券台灣分公司舉辦之法人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-09",
+      "subject": "本公司受邀參加花旗環球證券舉辦之法人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "announce_date": "2026-11-09",
+      "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-11-09",
+      "subject": "發布本公司115年10月份業績資料",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-11-09",
+      "subject": "本公司受邀參加元大證券法人說明會之日期、地點更新",
+      "is_conference": true
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-11-09",
+      "subject": "代子公司PCL TECHNOLOGIES, INC.公告新增資金貸與\r\n金額達公開發行公司資金貸與及背書保證處理準則第\r\n二十二條第一項第三款之公告標準",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-11-09",
+      "subject": "更正:代子公司PCL TECHNOLOGIES, INC.公告新增資金貸與\r\n金額達公開發行公司資金貸與及背書保證處理準則第\r\n二十二條第一項第三款之公告標準",
+      "is_conference": false
+    },
     {
       "code": "3026",
       "name": "禾伸堂",
