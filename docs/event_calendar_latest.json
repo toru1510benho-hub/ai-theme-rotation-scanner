@@ -1,12 +1,187 @@
 {
-  "generated_at": "2026-11-11T15:31:20.368209",
+  "generated_at": "2026-11-12T16:08:22.127238",
   "upcoming_fomc": [
     {
       "date": "2026-12-09",
-      "days_until": 28
+      "days_until": 27
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "6770",
+      "name": "力積電",
+      "announce_date": "2026-11-11",
+      "subject": "澄清媒體有關本公司之報導",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-11-11",
+      "subject": "本公司受邀參加Daiwa Investment Conference Singapore 2026",
+      "is_conference": true
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司國內第一次無擔保轉換公司債代收價款行庫及\r\n存儲專戶行庫",
+      "is_conference": false
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-11-11",
+      "subject": "本公司受邀參加由J.P. Morgan舉辦之\"APAC Technology, \r\nInnovation and Growth Conference\"",
+      "is_conference": true
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "announce_date": "2026-11-11",
+      "subject": "本公司受邀參加永豐金證券匯立分公司舉辦之Taiwan Market Mover Access Day",
+      "is_conference": false
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "announce_date": "2026-11-11",
+      "subject": "本公司受邀參加J.P. Morgan舉辦之APAC Technology, Innovation and Growth Conference",
+      "is_conference": true
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司董事會通過115年第三季財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "announce_date": "2026-11-11",
+      "subject": "代子公司QDL, QAL, QIL公告盈餘分配案",
+      "is_conference": false
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "announce_date": "2026-11-11",
+      "subject": "本公司調整間接以現金增資子公司QMI、QMN之投資流程\r\n並代子公司QIL、AIC、QMI、QMN公告現金增資",
+      "is_conference": false
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司新增資金貸與間接持股100%之子公司相關資訊",
+      "is_conference": false
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司董事會決議授權處分透過其他綜合損益按公允價值衡量之金融資產（FVOCI）",
+      "is_conference": false
+    },
+    {
+      "code": "2368",
+      "name": "金像電",
+      "announce_date": "2026-11-11",
+      "subject": "代子公司Gold Circuit Electronics (Thailand) Co.,Ltd. 公告取得設備",
+      "is_conference": false
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "announce_date": "2026-11-11",
+      "subject": "本公司董事會通過115年第三季財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司辦理限制員工權利新股註銷完成實收\r\n資本額變更登記事宜",
+      "is_conference": false
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "announce_date": "2026-11-11",
+      "subject": "本公司對子公司之新增資金貸與金額達資金貸與及背書保證\r\n處理準則第二十二條第一項第三款標準",
+      "is_conference": false
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "announce_date": "2026-11-11",
+      "subject": "本公司對子公司之新增資金貸與金額達資金貸與及\r\n背書保證處理準則第二十二條第一項第三款標準",
+      "is_conference": false
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司向關係人取得使用權資產",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司董事會通過115年第三季合併財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "announce_date": "2026-11-11",
+      "subject": "本公司董事會訂定註銷限制員工權利新股減資基準日",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司擬進行建築物改良及取得機器設備",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司擬向錸德科技(股)公司取得不動產使用權資產",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司擬向瑞軒科技(股)公司取得不動產使用權資產",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-11",
+      "subject": "公告本公司擬向普生(股)公司取得不動產使用權資產",
+      "is_conference": false
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "announce_date": "2026-11-11",
+      "subject": "代子公司Wistron InfoComm Mexico S.A. de C.V. (簡稱WIMX)\r\n公告擬進行建築物改良",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-11-11",
+      "subject": "補充公告本公司代子公司Delta Electronics (USA) Inc.公告決議興建F2廠及辦公大樓\r\n相關事宜",
+      "is_conference": false
+    },
     {
       "code": "2308",
       "name": "台達電",
@@ -712,132 +887,6 @@
       "name": "國巨*",
       "announce_date": "2026-10-29",
       "subject": "公告本公司大陸地區投資事業投資架構調整事宜",
-      "is_conference": false
-    },
-    {
-      "code": "3026",
-      "name": "禾伸堂",
-      "announce_date": "2026-10-28",
-      "subject": "係因本公司有價證券於集中交易市場達公布注意交易資訊標準，\r\n故公布相關財務業務等重大訊息，以利投資人區別瞭解。",
-      "is_conference": false
-    },
-    {
-      "code": "4967",
-      "name": "十銓",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司董事會通過115年第三季合併財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "4967",
-      "name": "十銓",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司總經理陞任執行長",
-      "is_conference": false
-    },
-    {
-      "code": "4967",
-      "name": "十銓",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司重要營運主管異動",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司取得設備",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-28",
-      "subject": "代子公司Ko-E Holding (Cayman Islands) Ltd 公告\r\n董事會決議盈餘分配",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-28",
-      "subject": "補充說明本公司於115年4月15日公告董事會決議\r\n發行無擔保普通公司債",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司董事會決議通過民國115年第三季合併財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司董事會通過資本預算執行案",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司董事會決議辦理限制員工權利新股收回\r\n註銷減資事宜",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司2026年第三季財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司取得機器設備",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司代子公司Delta Electronics Int'l (Singapore) Pte. Ltd.公告董事會決議擬\r\n增資DEM",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司董事會決議增資DEN及其轉投資DHK",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司代子公司Delta Electronics (Netherlands) B.V.公告董事會決議擬增資DHK",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司及子公司晶睿公告擬取得及處分不動產",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-10-28",
-      "subject": "公告本公司115年第3季合併財務報告業經董事會通過",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-10-28",
-      "subject": "本公司代子公司Delta Electronics (Germany) GmbH 公告合併\r\nDelta Controls Germany GmbH",
       "is_conference": false
     }
   ],

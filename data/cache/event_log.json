@@ -2098,5 +2098,180 @@
     "announce_date": "2026-11-10",
     "subject": "公告本公司取得無形資產之相關資料",
     "is_conference": false
+  },
+  {
+    "code": "6770",
+    "name": "力積電",
+    "announce_date": "2026-11-11",
+    "subject": "澄清媒體有關本公司之報導",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-11-11",
+    "subject": "本公司受邀參加Daiwa Investment Conference Singapore 2026",
+    "is_conference": true
+  },
+  {
+    "code": "6669",
+    "name": "緯穎",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司國內第一次無擔保轉換公司債代收價款行庫及\r\n存儲專戶行庫",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-11",
+    "subject": "本公司受邀參加由J.P. Morgan舉辦之\"APAC Technology, \r\nInnovation and Growth Conference\"",
+    "is_conference": true
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-11-11",
+    "subject": "本公司受邀參加永豐金證券匯立分公司舉辦之Taiwan Market Mover Access Day",
+    "is_conference": false
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "announce_date": "2026-11-11",
+    "subject": "本公司受邀參加J.P. Morgan舉辦之APAC Technology, Innovation and Growth Conference",
+    "is_conference": true
+  },
+  {
+    "code": "2382",
+    "name": "廣達",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司董事會通過115年第三季財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "2382",
+    "name": "廣達",
+    "announce_date": "2026-11-11",
+    "subject": "代子公司QDL, QAL, QIL公告盈餘分配案",
+    "is_conference": false
+  },
+  {
+    "code": "2382",
+    "name": "廣達",
+    "announce_date": "2026-11-11",
+    "subject": "本公司調整間接以現金增資子公司QMI、QMN之投資流程\r\n並代子公司QIL、AIC、QMI、QMN公告現金增資",
+    "is_conference": false
+  },
+  {
+    "code": "2382",
+    "name": "廣達",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司新增資金貸與間接持股100%之子公司相關資訊",
+    "is_conference": false
+  },
+  {
+    "code": "2382",
+    "name": "廣達",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司董事會決議授權處分透過其他綜合損益按公允價值衡量之金融資產（FVOCI）",
+    "is_conference": false
+  },
+  {
+    "code": "2368",
+    "name": "金像電",
+    "announce_date": "2026-11-11",
+    "subject": "代子公司Gold Circuit Electronics (Thailand) Co.,Ltd. 公告取得設備",
+    "is_conference": false
+  },
+  {
+    "code": "3653",
+    "name": "健策",
+    "announce_date": "2026-11-11",
+    "subject": "本公司董事會通過115年第三季財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司辦理限制員工權利新股註銷完成實收\r\n資本額變更登記事宜",
+    "is_conference": false
+  },
+  {
+    "code": "3653",
+    "name": "健策",
+    "announce_date": "2026-11-11",
+    "subject": "本公司對子公司之新增資金貸與金額達資金貸與及背書保證\r\n處理準則第二十二條第一項第三款標準",
+    "is_conference": false
+  },
+  {
+    "code": "3653",
+    "name": "健策",
+    "announce_date": "2026-11-11",
+    "subject": "本公司對子公司之新增資金貸與金額達資金貸與及\r\n背書保證處理準則第二十二條第一項第三款標準",
+    "is_conference": false
+  },
+  {
+    "code": "3653",
+    "name": "健策",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司向關係人取得使用權資產",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司董事會通過115年第三季合併財務報告",
+    "is_conference": false
+  },
+  {
+    "code": "3653",
+    "name": "健策",
+    "announce_date": "2026-11-11",
+    "subject": "本公司董事會訂定註銷限制員工權利新股減資基準日",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司擬進行建築物改良及取得機器設備",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司擬向錸德科技(股)公司取得不動產使用權資產",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司擬向瑞軒科技(股)公司取得不動產使用權資產",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-11-11",
+    "subject": "公告本公司擬向普生(股)公司取得不動產使用權資產",
+    "is_conference": false
+  },
+  {
+    "code": "3231",
+    "name": "緯創",
+    "announce_date": "2026-11-11",
+    "subject": "代子公司Wistron InfoComm Mexico S.A. de C.V. (簡稱WIMX)\r\n公告擬進行建築物改良",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-11-11",
+    "subject": "補充公告本公司代子公司Delta Electronics (USA) Inc.公告決議興建F2廠及辦公大樓\r\n相關事宜",
+    "is_conference": false
   }
 ]

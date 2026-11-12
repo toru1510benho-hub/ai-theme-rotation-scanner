@@ -1,119 +1,23 @@
 {
-  "generated_at": "2026-11-11T15:31:23.292904",
+  "generated_at": "2026-11-12T16:08:24.432147",
   "total_news_scanned": 140,
-  "relevant_count": 7,
+  "relevant_count": 1,
   "news": [
     {
-      "title": "終止連23賣！外資回補台積電 賣超力積電、仁寶、南亞",
-      "link": "https://tw.stock.yahoo.com/news/%E7%B5%82%E6%AD%A2%E9%80%A323%E8%B3%A3-%E5%A4%96%E8%B3%87%E5%9B%9E%E8%A3%9C%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%B3%A3%E8%B6%85%E5%8A%9B%E7%A9%8D%E9%9B%BB-%E4%BB%81%E5%AF%B6-%E5%8D%97%E4%BA%9E-091200674.html",
-      "published": "Wed, 11 Nov 2026 09:12:00 GMT",
-      "summary": "台股今（11）日延續強勢反彈，在權值股帶動下開高走高，終場大漲1545點，以44257點作收，漲幅3.62%，成功收復10日線，成交量達8491億元。其中，台積電大漲110元，漲幅4.81%，收在23",
+      "title": "台股狂殺1165點 外資狂買台玻14萬張 反手倒貨群創、台積電",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%8B%82%E6%AE%BA1165%E9%BB%9E-%E5%A4%96%E8%B3%87%E7%8B%82%E8%B2%B7%E5%8F%B0%E7%8E%BB14%E8%90%AC%E5%BC%B5-%E5%8F%8D%E6%89%8B%E5%80%92%E8%B2%A8%E7%BE%A4%E5%89%B5-%E5%8F%B0%E7%A9%8D%E9%9B%BB-115307304.html",
+      "published": "Thu, 12 Nov 2026 11:53:07 GMT",
+      "summary": "台股今(12)日開低走低，終場跌超過千點至43,091點，成交量1.01兆元，終止連3日反彈。 外資大買台玻14.03萬張、賣群創3.45萬張；期貨淨空單減少4,700口至99,573口。 三大法人合",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 8,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "力積電(6770)‧今日熱門",
-        "力積電(晶圓代工)",
-        "南亞(1303)‧今日熱門"
-      ]
-    },
-    {
-      "title": "台積電尾盤神助攻！台股狂飆1545點重返4萬4 台玻漲停三連發揪玻纖布開亮燈同樂會｜Yahoo財經掃描",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%A5%9E%E5%8A%A9%E6%94%BB%EF%BC%81%E5%8F%B0%E8%82%A1%E7%8B%82%E9%A3%861545%E9%BB%9E%E9%87%8D%E8%BF%944%E8%90%AC4-%E5%8F%B0%E7%8E%BB%E6%BC%B2%E5%81%9C%E4%B8%89%E9%80%A3%E7%99%BC%E6%8F%AA%E7%8E%BB%E7%BA%96%E5%B8%83%E9%96%8B%E4%BA%AE%E7%87%88%E5%90%8C%E6%A8%82%E6%9C%83%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-085147527.html",
-      "published": "Wed, 11 Nov 2026 08:51:47 GMT",
-      "summary": "台股連三天強彈，飆漲1545點收最高重回4萬4！今(11)日加權指數早盤震盪後再度走高，終場上漲1545.23點、漲幅3.62%，收在全日最高44257.15點，創史上第六大收盤漲點，上市成交金額85",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
+      "score": 10,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "漲停"
+        "外資大買"
       ],
       "matched_stocks": [
-        "台玻(1802)‧今日熱門"
-      ]
-    },
-    {
-      "title": "雙鴻第3季毛利率降　每股純益11.59元寫歷史次高",
-      "link": "https://tw.stock.yahoo.com/news/%E9%9B%99%E9%B4%BB%E7%AC%AC3%E5%AD%A3%E6%AF%9B%E5%88%A9%E7%8E%87%E9%99%8D-%E6%AF%8F%E8%82%A1%E7%B4%94%E7%9B%8A11-59%E5%85%83%E5%AF%AB%E6%AD%B7%E5%8F%B2%E6%AC%A1%E9%AB%98-143749448.html",
-      "published": "Wed, 11 Nov 2026 14:37:49 GMT",
-      "summary": "（中央社記者曾仁凱台北2026年11月11日電）散熱大廠雙鴻(3324)今天公布第3季財報，單季營收新台幣97.87億元，年增64.2%；歸屬母公司淨利10.8億元，季增11.5%、年增10.9%，獲",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "年增"
-      ],
-      "matched_stocks": [
-        "3324(散熱)",
-        "雙鴻(散熱)"
-      ]
-    },
-    {
-      "title": "緯創Q3每股大賺5.74元 拍板資本支出增加128億元",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5637510",
-      "published": "Wed, 11 Nov 2026 19:20:30 +0800",
-      "summary": "緯創（3231）第三季歸屬母公司業主淨利達184.02億元，年增148.46%，每股盈餘5.74元，優於去年同期2.36元。緯創同步宣布擴大AI相關業務投資，董事會通過新...…",
-      "source": "自由時報財經",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "年增"
-      ],
-      "matched_stocks": [
-        "3231(AI伺服器組裝)",
-        "緯創(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "台股創史上第6大漲點！「這檔金融」獲大哥力挺近9萬張奪買超王　台玻營收年增56％報喜、投顧猛喊81元目標價入榜",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%89%B5%E5%8F%B2%E4%B8%8A%E7%AC%AC6%E5%A4%A7%E6%BC%B2%E9%BB%9E-%E9%80%99%E6%AA%94%E9%87%91%E8%9E%8D-%E7%8D%B2%E5%A4%A7%E5%93%A5%E5%8A%9B%E6%8C%BA%E8%BF%919%E8%90%AC%E5%BC%B5%E5%A5%AA%E8%B2%B7%E8%B6%85%E7%8E%8B-%E5%8F%B0%E7%8E%BB%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E56-%E5%A0%B1%E5%96%9C-110000774.html",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股今（11）日續延強勢、開高走高，終場上漲1545.23點，以44,257.15點作收，漲幅3.62％，成交量8491.65億元；加權指數全日...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 5,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "年增"
-      ],
-      "matched_stocks": [
-        "台玻(1802)‧今日熱門"
-      ]
-    },
-    {
-      "title": "緯創前三季獲利428億元EPS 13.54元 加碼資本支出再擴充伺服器產能",
-      "link": "https://tw.stock.yahoo.com/news/%E7%B7%AF%E5%89%B5%E5%89%8D%E4%B8%89%E5%AD%A3%E7%8D%B2%E5%88%A9428%E5%84%84%E5%85%83eps-13-54%E5%85%83-%E5%8A%A0%E7%A2%BC%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%86%8D%E6%93%B4%E5%85%85%E4%BC%BA%E6%9C%8D%E5%99%A8-125844407.html",
-      "published": "Wed, 11 Nov 2026 12:58:44 GMT",
-      "summary": "緯創前三季稅後純益428.6億元、年增1.23倍，EPS 13.54元。 第三季營收1.15兆元、年增1.02倍，稅後純益184.02億元、EPS 5.74元。 董事會拍板新增134.23億元資本支出",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 4,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "年增"
-      ],
-      "matched_stocks": [
-        "緯創(AI伺服器組裝)"
-      ]
-    },
-    {
-      "title": "廣達明年伺服器貢獻上看9成 美AI客戶無調整訂單",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5637311",
-      "published": "Wed, 11 Nov 2026 17:10:51 +0800",
-      "summary": "AI伺服器代工大廠廣達（2382）看旺明年營運展望，預估2027年伺服器業務占整體營收比重將攀升至85%至90%，其中AI伺服器占伺服器營收比重可望突破八成。針對美國選後...…",
-      "source": "自由時報財經",
-      "score": 4,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "2382(AI伺服器組裝)",
-        "廣達(AI伺服器組裝)"
+        "台玻(1802)‧今日熱門",
+        "群創(3481)‧今日熱門"
       ]
     }
   ]
