@@ -167,6 +167,18 @@
       "gross_margin_pct": 84.18,
       "operating_margin_pct": 77.05,
       "net_margin_pct": 64.95
+    },
+    "115Q3": {
+      "year": "115",
+      "quarter": "3",
+      "revenue": 33622345.0,
+      "gross_profit": 29000157.0,
+      "operating_income": 26914369.0,
+      "net_income": 22276063.0,
+      "eps": 233.75,
+      "gross_margin_pct": 86.25,
+      "operating_margin_pct": 80.05,
+      "net_margin_pct": 66.25
     }
   },
   "3037": {
@@ -259,6 +271,18 @@
       "gross_margin_pct": 19.38,
       "operating_margin_pct": 9.02,
       "net_margin_pct": 13.36
+    },
+    "115Q3": {
+      "year": "115",
+      "quarter": "3",
+      "revenue": 34669238.0,
+      "gross_profit": 7888855.0,
+      "operating_income": 4515375.0,
+      "net_income": 5371219.0,
+      "eps": 9.66,
+      "gross_margin_pct": 22.75,
+      "operating_margin_pct": 13.02,
+      "net_margin_pct": 15.49
     }
   },
   "3234": {
@@ -299,6 +323,18 @@
       "gross_margin_pct": 29.25,
       "operating_margin_pct": 18.21,
       "net_margin_pct": 13.43
+    },
+    "115Q3": {
+      "year": "115",
+      "quarter": "3",
+      "revenue": 8819377.0,
+      "gross_profit": 2744557.0,
+      "operating_income": 1813968.0,
+      "net_income": 1351080.0,
+      "eps": 5.85,
+      "gross_margin_pct": 31.12,
+      "operating_margin_pct": 20.57,
+      "net_margin_pct": 15.32
     }
   },
   "3008": {
@@ -889,6 +925,18 @@
       "gross_margin_pct": 20.34,
       "operating_margin_pct": 58.03,
       "net_margin_pct": 56.78
+    },
+    "115Q3": {
+      "year": "115",
+      "quarter": "3",
+      "revenue": 52205438.0,
+      "gross_profit": 16425779.0,
+      "operating_income": 25740554.0,
+      "net_income": 24022151.0,
+      "eps": 5.42,
+      "gross_margin_pct": 31.46,
+      "operating_margin_pct": 49.31,
+      "net_margin_pct": 46.01
     }
   }
 }

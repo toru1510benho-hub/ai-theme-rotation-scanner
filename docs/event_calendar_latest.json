@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-11-12T16:08:22.127238",
+  "generated_at": "2026-11-13T15:36:16.031207",
   "upcoming_fomc": [
     {
       "date": "2026-12-09",
-      "days_until": 27
+      "days_until": 26
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2059",
+      "name": "川湖",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會通過115年第3季合併財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-11-12",
+      "subject": "更正:代子公司PCL TECHNOLOGIES TRADING, INC.\r\n公告新增資金貸與金額達公開發行公司資金貸與及\r\n背書保證處理準則第二十二條第一項第三款之公告標準",
+      "is_conference": false
+    },
+    {
+      "code": "2375",
+      "name": "凱美",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會通過115年度第三季合併財務報告",
+      "is_conference": false
+    },
+    {
+      "code": "2375",
+      "name": "凱美",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會通過對「財團法人國巨基金會」捐贈事宜",
+      "is_conference": false
+    },
+    {
+      "code": "2375",
+      "name": "凱美",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會決議將審計委員會更名為審計暨風險管理委員會",
+      "is_conference": false
+    },
+    {
+      "code": "2375",
+      "name": "凱美",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會決議將薪資報酬委員會更名為\r\n薪資報酬暨提名委員會",
+      "is_conference": false
+    },
+    {
+      "code": "2375",
+      "name": "凱美",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會決議115年上半年度不分派盈餘",
+      "is_conference": false
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司國內第四次無擔保轉換公司債收足債款",
+      "is_conference": false
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "announce_date": "2026-11-12",
+      "subject": "公告115年第3季合併財務報告之相關資訊",
+      "is_conference": false
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會授權董事長得視廠房擴充計劃需求及依\r\n「取得或處分資產處理程序」，洽詢適宜標的物並做詢比議價。",
+      "is_conference": false
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "announce_date": "2026-11-12",
+      "subject": "公告本公司董事會通過116年度資本支出預算",
+      "is_conference": false
+    },
     {
       "code": "6770",
       "name": "力積電",
@@ -712,181 +789,6 @@
       "name": "南電",
       "announce_date": "2026-11-02",
       "subject": "代子公司南亞電路板(昆山)有限公司公告臨時股東會重要\r\n決議",
-      "is_conference": false
-    },
-    {
-      "code": "2382",
-      "name": "廣達",
-      "announce_date": "2026-10-29",
-      "subject": "公告變更本公司取得土地及建物等資產案",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-10-29",
-      "subject": "本公司受邀參加鴻海科技日專題演講。",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-10-29",
-      "subject": "本公司受邀參加富邦證券法人說明會(中文場)。",
-      "is_conference": true
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-10-29",
-      "subject": "本公司受邀參加富邦證券法人說明會(英文場)",
-      "is_conference": true
-    },
-    {
-      "code": "2492",
-      "name": "華新科",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司發行國內第二次無擔保轉換公司債之轉換價格\r\n及溢價率",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-10-29",
-      "subject": "本公司取得機器設備之相關資料",
-      "is_conference": false
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "announce_date": "2026-10-29",
-      "subject": "本公司取得廠務工程之相關資料",
-      "is_conference": false
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "announce_date": "2026-10-29",
-      "subject": "代&#12070;公司Wiwynn Technology Corporation公告向非關係人取得營業使用設備",
-      "is_conference": false
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "announce_date": "2026-10-29",
-      "subject": "代&#12070;公司Wiwynn Technology Corporation公告進行建築物改良",
-      "is_conference": false
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "announce_date": "2026-10-29",
-      "subject": "代子公司Wiwynn Mexico, S.A. de C.V.公告進行租賃改良",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司115年第3季合併財務報告業經提報董事會通過",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "國巨公司公布 2026 年第三季度營運成果",
-      "is_conference": false
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司及子公司鼎創有限公司處分\r\n磐儀科技股份有限公司私募普通股",
-      "is_conference": false
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-10-29",
-      "subject": "代子公司Wiwynn Technology Corporation(WYMUS)公告\r\n向非關係人取得營業使用設備",
-      "is_conference": false
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-10-29",
-      "subject": "代子公司Wiwynn Technology Corporation(WYMUS)公告\r\n進行建築物改良",
-      "is_conference": false
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "announce_date": "2026-10-29",
-      "subject": "代子公司Wiwynn Mexico, S.A. de C.V.(WYMX)公告\r\n進行租賃改良",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司董事會決議115年上半年度不分派盈餘",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告修正本公司114年度股東會年報部分內容",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司董事會決議捐贈財團法人國巨基金會",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司董事會決議通過對子公司國新投資股份有限公司增資案",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "代子公司國新投資股份有限公司公告董事會決議現金增資",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "依公開發行公司資金貸與及背書保證處理準則\r\n第25條第1項第4款公告",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司董事會決議通過間接增資設立百分之百持有之大陸子公司 \r\n國巨智造（上海）傳感技術有限公司",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "董事會決議增資設立大陸地區100%持股子公司",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-10-29",
-      "subject": "公告本公司大陸地區投資事業投資架構調整事宜",
       "is_conference": false
     }
   ],
