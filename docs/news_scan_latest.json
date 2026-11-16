@@ -1,112 +1,63 @@
 {
-  "generated_at": "2026-11-13T15:36:17.961616",
+  "generated_at": "2026-11-16T17:16:53.899531",
   "total_news_scanned": 140,
-  "relevant_count": 13,
+  "relevant_count": 6,
   "news": [
     {
-      "title": "「仁勳黃黃」炸向台股！法人推演最壞情境「輝達砍單30％」上市櫃總獲利恐少6400億元 緯創、鴻海、欣興…8大承壓股與7檔轉單黑馬一次看",
-      "link": "https://tw.stock.yahoo.com/news/%E4%BB%81%E5%8B%B3%E9%BB%83%E9%BB%83-%E7%82%B8%E5%90%91%E5%8F%B0%E8%82%A1-%E6%B3%95%E4%BA%BA%E6%8E%A8%E6%BC%94%E6%9C%80%E5%A3%9E%E6%83%85%E5%A2%83-%E8%BC%9D%E9%81%94%E7%A0%8D%E5%96%AE30-%E4%B8%8A%E5%B8%82%E6%AB%83%E7%B8%BD%E7%8D%B2%E5%88%A9%E6%81%90%E5%B0%916400%E5%84%84%E5%85%83-114743353.html",
-      "published": "Fri, 13 Nov 2026 11:47:43 GMT",
-      "summary": "全球AI晶片龍頭輝達（Nvidia）執行長黃仁勳涉間諜疑雲和婚外情風暴黯然下台，短期會不會對台灣半導體與AI伺服器供應鏈造成衝擊？金控投顧盤點台廠供應鏈「含輝量」進行極端情境推演，2027年上市櫃總獲",
+      "title": "台股重挫外資賣超701億元　拋售主動型台股ETF",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85701%E5%84%84%E5%85%83-%E6%8B%8B%E5%94%AE%E4%B8%BB%E5%8B%95%E5%9E%8B%E5%8F%B0%E8%82%A1etf-094843700.html",
+      "published": "Mon, 16 Nov 2026 09:48:43 GMT",
+      "summary": "（中央社記者潘智義台北2026年11月16日電）台股今天跌2635.04點，外資賣超新台幣701.89億元，賣超主動中信台灣收益（00406A）31萬8577張居冠，主動統一升級（00403A）16萬",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 14,
+      "score": 9,
       "direction": "利空",
       "is_important": true,
       "matched_keywords": [
-        "轉單",
-        "砍單"
+        "外資賣超"
       ],
       "matched_stocks": [
-        "大成鋼(2027)‧今日熱門",
-        "欣興(ABF載板/PCB)",
-        "緯創(AI伺服器組裝)"
+        "主動中信台灣收益(00406A)‧今日熱門",
+        "主動統一升級50(00403A)‧今日熱門"
       ]
     },
     {
-      "title": "力晶投控集結26億買盤！鈺創、晶豪科各砸3億元",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5640107",
-      "published": "Fri, 13 Nov 2026 21:28:22 +0800",
-      "summary": "力晶投控（5346）未上市股權交易再添買盤！繼力晶投控推出10億元庫藏股回購計畫、山一投資宣布斥資10億元公開購買股權後，鈺創（5351）、晶豪科（3006）也相繼加入，...…",
-      "source": "自由時報財經",
-      "score": 7,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "庫藏股"
-      ],
-      "matched_stocks": [
-        "3006(記憶體)",
-        "晶豪科(記憶體)"
-      ]
-    },
-    {
-      "title": "低軌衛星繼續飛！「這檔」連5漲28.7%挾穩懋、事欣科漲停　奇鋐噴漲9.55%、聯發科攻7%",
-      "link": "https://tw.stock.yahoo.com/news/%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E7%B9%BC%E7%BA%8C%E9%A3%9B-%E9%80%99%E6%AA%94-%E9%80%A35%E6%BC%B228-7-%E6%8C%BE%E7%A9%A9%E6%87%8B-114500897.html",
-      "published": "Fri, 13 Nov 2026 11:45:00 GMT",
-      "summary": "[FTNN新聞網]記者陳献朋／綜合報導經前幾大權值跟IC設計概念股同步走揚推升，台股大盤今（13）日依舊有不錯的成果，加權指數收43675.12點，上漲583.25點，漲...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
-      "matched_stocks": [
-        "奇鋐(散熱)"
-      ]
-    },
-    {
-      "title": "憂反彈是逃命波想跑！ 他趁暴跌抄底台積電、0050已獲利 過來人勸這樣做",
-      "link": "https://tw.stock.yahoo.com/news/%E6%86%82%E5%8F%8D%E5%BD%88%E6%98%AF%E9%80%83%E5%91%BD%E6%B3%A2%E6%83%B3%E8%B7%91-%E4%BB%96%E8%B6%81%E6%9A%B4%E8%B7%8C%E6%8A%84%E5%BA%95%E5%8F%B0%E7%A9%8D%E9%9B%BB-0050%E5%B7%B2%E7%8D%B2%E5%88%A9-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%8B%B8%E9%80%99%E6%A8%A3%E5%81%9A-103100258.html",
-      "published": "Fri, 13 Nov 2026 10:31:00 GMT",
-      "summary": "日前台股先前經歷大幅回檔，近期又逐漸回溫。有網友表示之前趁大跌時分批加碼台積電、0050及00991A，如今帳面已有獲利，不確定該趁反彈賣出或續抱，引發討論。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
+      "title": "台光電：輝達對台光電的營收占比從未超過20%",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%85%89%E9%9B%BB-%E8%BC%9D%E9%81%94%E5%B0%8D%E5%8F%B0%E5%85%89%E9%9B%BB%E7%9A%84%E7%87%9F%E6%94%B6%E5%8D%A0%E6%AF%94%E5%BE%9E%E6%9C%AA%E8%B6%85%E9%81%8E20-125847938.html",
+      "published": "Mon, 16 Nov 2026 12:58:47 GMT",
+      "summary": "CCL廠接連往高頻高速材料發展的同時，近期因黃仁勳辭任輝達(NVDA-US) 執行長造成市場的恐慌，包括聯茂(6213-TW)、台燿(6274-TW)及類股股王台光電(2383-TW)股價的重挫，但台",
+      "source": "Yahoo奇摩股市-最新新聞",
+      "score": 8,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "主動復華未來50(00991A)‧今日熱門",
-        "元大台灣50(0050)‧今日熱門"
+        "6213(ABF載板/PCB)",
+        "6274(ABF載板/PCB)",
+        "台燿(ABF載板/PCB)",
+        "聯茂(ABF載板/PCB)"
       ]
     },
     {
-      "title": "貿聯-KY看旺2027年AI動能 HPC續添成長柴火",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5639974",
-      "published": "Fri, 13 Nov 2026 18:46:28 +0800",
-      "summary": "連接線束大廠貿聯-KY（3665）看好2027年營運展望，董事長梁華哲今天在法說會指出，明年主要成長動能仍將來自高效能運算（HPC），尤其是人工智慧（AI）相關業務，半導...…",
-      "source": "自由時報財經",
-      "score": 6,
+      "title": "台股ETF本周迎除息高峰 群益00982A息利雙收",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1etf%E6%9C%AC%E5%91%A8%E8%BF%8E%E9%99%A4%E6%81%AF%E9%AB%98%E5%B3%B0-%E7%BE%A4%E7%9B%8A00982a%E6%81%AF%E5%88%A9%E9%9B%99%E6%94%B6-171154174.html",
+      "published": "Mon, 16 Nov 2026 17:11:54 GMT",
+      "summary": "【記者柯安聰台北報導】受AI投資回報疑慮、AI監管政策不確定升溫影響，台股自鄰近5萬點大關回落，跌至11月6日失守4萬點，跌幅逾20%，隨著盤勢波動加劇，市場焦點轉向兼具績效亮眼、配息穩健兩大優勢的台",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "法說會"
+        "配息"
       ],
       "matched_stocks": [
-        "大成鋼(2027)‧今日熱門"
+        "主動群益台灣強棒(00982A)‧今日熱門"
       ]
     },
     {
-      "title": "技嘉AI動能旺至2027年底 明年資本支出40億元",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5639924",
-      "published": "Fri, 13 Nov 2026 18:07:50 +0800",
-      "summary": "技嘉（2376）看好人工智慧（AI）基礎建設需求持續擴張，共同總經理李宜泰今日於法說會表示，目前客戶訂單需求非常強勁，預期AI伺服器業務成長動能可延續至2027年底，隨著...…",
-      "source": "自由時報財經",
-      "score": 6,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "法說會"
-      ],
-      "matched_stocks": [
-        "大成鋼(2027)‧今日熱門"
-      ]
-    },
-    {
-      "title": "外資終結連11賣！ 買聯電賣台積電 「這飆股」開始出貨",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%B5%82%E7%B5%90%E9%80%A311%E8%B3%A3-%E8%B2%B7%E8%81%AF%E9%9B%BB%E8%B3%A3%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%80%99%E9%A3%86%E8%82%A1-%E9%96%8B%E5%A7%8B%E5%87%BA%E8%B2%A8-090300936.html",
-      "published": "Fri, 13 Nov 2026 09:03:00 GMT",
-      "summary": "台股今（13日）強勢反攻，盤中一度大漲近1400點、重新站上4萬4000點，午盤後漲幅收斂，終場上漲583.25點，收在43675.12點，漲幅1.35%，成交值9162.55億元。櫃買指數同步上漲1",
+      "title": "三大法人砍千億賣壓台股崩2635點史上第2慘！台積一天跌掉3家聯電 資安股成綠海救生圈｜Yahoo財經掃描",
+      "link": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E7%A0%8D%E5%8D%83%E5%84%84%E8%B3%A3%E5%A3%93%E5%8F%B0%E8%82%A1%E5%B4%A92635%E9%BB%9E%E5%8F%B2%E4%B8%8A%E7%AC%AC2%E6%85%98%EF%BC%81%E5%8F%B0%E7%A9%8D%E4%B8%80%E5%A4%A9%E8%B7%8C%E6%8E%893%E5%AE%B6%E8%81%AF%E9%9B%BB-%E8%B3%87%E5%AE%89%E8%82%A1%E6%88%90%E7%B6%A0%E6%B5%B7%E6%95%91%E7%94%9F%E5%9C%88%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-090429579.html",
+      "published": "Mon, 16 Nov 2026 09:04:29 GMT",
+      "summary": "台股重挫2635點，創史上第二大收盤跌點！今(16)日加權指數終場下跌2635.04點、跌幅6.03%，收在全日最低41040.08點，上市成交金額8467.41億元，接連失守4萬3千點與4萬2千點。",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 5,
       "direction": "中性關注",
@@ -118,89 +69,31 @@
       ]
     },
     {
-      "title": "26億資金活水注入  力晶投控未上市股流動性勁揚",
-      "link": "https://tw.stock.yahoo.com/news/26%E5%84%84%E8%B3%87%E9%87%91%E6%B4%BB%E6%B0%B4%E6%B3%A8%E5%85%A5-%E5%8A%9B%E6%99%B6%E6%8A%95%E6%8E%A7%E6%9C%AA%E4%B8%8A%E5%B8%82%E8%82%A1%E6%B5%81%E5%8B%95%E6%80%A7%E5%8B%81%E6%8F%9A-134003026.html",
-      "published": "Fri, 13 Nov 2026 13:40:03 GMT",
-      "summary": "力晶創新投資控股公司(力晶投控)未上市股票流動性再添助力，除本公司實行庫藏股、山一投資公開購買股份，合計總額20億元股權外，鈺創、晶豪科等友好企業也先後宣布各以3億元向特定人洽購或直接在未上市的市場購",
+      "title": "斯里蘭卡成網路詐騙天堂  FBI：將協助打擊",
+      "link": "https://tw.news.yahoo.com/%E6%96%AF%E9%87%8C%E8%98%AD%E5%8D%A1%E6%88%90%E7%B6%B2%E8%B7%AF%E8%A9%90%E9%A8%99%E5%A4%A9%E5%A0%82-fbi-%E5%B0%87%E5%8D%94%E5%8A%A9%E6%89%93%E6%93%8A-133923428.html",
+      "published": "Mon, 16 Nov 2026 13:39:23 GMT",
+      "summary": "美國駐斯里蘭卡大使館今天（16日）表示，聯邦調查局（FBI）將協助斯里蘭卡執法單位查緝網路詐騙犯。這些犯罪分子在東南亞國家加強打擊詐騙活動後，已將非法業務轉移至斯里蘭卡。 警方表示，由於斯里蘭卡簽證政",
       "source": "Yahoo奇摩股市-最新新聞",
-      "score": 5,
-      "direction": "利多",
-      "is_important": true,
-      "matched_keywords": [
-        "庫藏股"
-      ],
-      "matched_stocks": [
-        "晶豪科(記憶體)"
-      ]
-    },
-    {
-      "title": "台股回神籌碼回補　群創Q3營收看過來",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%9B%9E%E7%A5%9E%E7%B1%8C%E7%A2%BC%E5%9B%9E%E8%A3%9C-%E7%BE%A4%E5%89%B5q3%E7%87%9F%E6%94%B6%E7%9C%8B%E9%81%8E%E4%BE%86-110500533.html",
-      "published": "Fri, 13 Nov 2026 11:05:00 GMT",
-      "summary": "台股13日大漲，三大法人同步買超。面板大廠群創公布2026年第三季財報，受惠產品組合優化，單季毛利率達14.9%，稅後淨利78.58億元，每股盈餘0.96元，連五季獲利創七季新高。前三季每股盈餘1.7",
-      "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "群創(3481)‧今日熱門"
+        "南亞(1303)‧今日熱門"
       ]
     },
     {
-      "title": "爸爸示警「台股快崩了」！她急問0050要不要逃　網：完蛋就全台睡公園",
-      "link": "https://tw.news.yahoo.com/%E7%88%B8%E7%88%B8%E7%A4%BA%E8%AD%A6-%E5%8F%B0%E8%82%A1%E5%BF%AB%E5%B4%A9%E4%BA%86-%E5%A5%B9%E6%80%A5%E5%95%8F0050%E8%A6%81%E4%B8%8D%E8%A6%81%E9%80%83-%E7%B6%B2-%E5%AE%8C%E8%9B%8B%E5%B0%B1%E5%85%A8%E5%8F%B0%E7%9D%A1%E5%85%AC%E5%9C%92-093938484.html",
-      "published": "Fri, 13 Nov 2026 09:39:38 GMT",
-      "summary": "這名女網友在Dcard以「0050這次要完蛋了嗎？」為題發文，表示父親最近頻頻向她示警，認為台股接下來恐怕會出現崩盤行情。父親接連唱衰市場，也讓原本持有0050的她開始動搖，擔心繼續抱著可能面臨大幅虧",
-      "source": "Yahoo奇摩股市-台股動態",
+      "title": "繞道東南亞租算力行不通了！美祭新規封殺中國AI晶片漏洞",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5643057",
+      "published": "Tue, 17 Nov 2026 00:32:38 +0800",
+      "summary": "為了防堵華府政壇視為嚴重國安漏洞的「雲端算力偷渡」行徑，美國川普政府16日正式採取行動，嚴格限制中國企業透過遠端存取方式，使用尖端人工智慧（AI）電腦晶片。\n\n\n華盛頓...…",
+      "source": "自由時報財經",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
-      ]
-    },
-    {
-      "title": "怨鴻海漲不動！ 他想停損改買0050 內行笑：嫌慢突然就就噴了",
-      "link": "https://tw.stock.yahoo.com/news/%E6%80%A8%E9%B4%BB%E6%B5%B7%E6%BC%B2%E4%B8%8D%E5%8B%95-%E4%BB%96%E6%83%B3%E5%81%9C%E6%90%8D%E6%94%B9%E8%B2%B70050-%E5%85%A7%E8%A1%8C%E7%AC%91-%E5%AB%8C%E6%85%A2%E7%AA%81%E7%84%B6%E5%B0%B1%E5%B0%B1%E5%99%B4%E4%BA%86-093000366.html",
-      "published": "Fri, 13 Nov 2026 09:30:00 GMT",
-      "summary": "近期台股震盪明顯，不少人開始思考是否該調整投資策略。有網友表示，之前就覺得手中的鴻海股票表現不如預期，考慮賣掉套牢的鴻海，改買跌幅更大的0050，引發熱議。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "元大台灣50(0050)‧今日熱門"
-      ]
-    },
-    {
-      "title": "聯發科、創意、大立光盤中點燈！00401A開盤秒填息「盤中猛漲4.07%」　2萬股民這天領錢",
-      "link": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-%E5%89%B5%E6%84%8F-%E5%A4%A7%E7%AB%8B%E5%85%89%E7%9B%A4%E4%B8%AD%E9%BB%9E%E7%87%88-00401a%E9%96%8B%E7%9B%A4%E7%A7%92%E5%A1%AB%E6%81%AF-%E7%9B%A4%E4%B8%AD%E7%8C%9B%E6%BC%B24-111500669.html",
-      "published": "Fri, 13 Nov 2026 11:15:00 GMT",
-      "summary": "[FTNN新聞網]記者薛明峻／台北報導採月月配、受益人數超過2.1萬人的主動式ETF主動摩根台灣鑫收（00401A），於今（13）日除息0.138元，市價昨日收在12.42元，...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "大立光(CPO/矽光子)"
-      ]
-    },
-    {
-      "title": "台股閃過「黃天鵝」強彈！周線終止連四黑大漲3973點 聯發科強攻領ASIC衝鋒 創意超車川湖首登股后｜Yahoo財經掃描",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%83%E9%81%8E%E3%80%8C%E9%BB%83%E5%A4%A9%E9%B5%9D%E3%80%8D%E5%BC%B7%E5%BD%88%EF%BC%81%E5%91%A8%E7%B7%9A%E7%B5%82%E6%AD%A2%E9%80%A3%E5%9B%9B%E9%BB%91%E5%A4%A7%E6%BC%B23973%E9%BB%9E-%E8%81%AF%E7%99%BC%E7%A7%91%E5%BC%B7%E6%94%BB%E9%A0%98asic%E8%A1%9D%E9%8B%92-%E5%89%B5%E6%84%8F%E8%B6%85%E8%BB%8A%E5%B7%9D%E6%B9%96%E9%A6%96%E7%99%BB%E8%82%A1%E5%90%8E%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-085902124.html",
-      "published": "Fri, 13 Nov 2026 08:59:02 GMT",
-      "summary": "台股反彈583點，周線終結連四黑大漲近4千點！今(13)日加權指數終場上漲583.25點、漲幅1.35%，收43675.12點，單周大漲3973.48點，上市成交金額9177.54億元。盤中一度強彈近",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "川湖(AI伺服器組裝)"
+        "南亞(1303)‧今日熱門"
       ]
     }
   ]

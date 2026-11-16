@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:36:14.570348",
+  "generated_at": "2026-11-16T17:16:49.273588",
   "themes": {
     "CPO/矽光子": [
       {
@@ -37,9 +37,9 @@
         "name": "眾達-KY",
         "market": "TSE",
         "zone": {
-          "trapped_zone_price": 183.18,
+          "trapped_zone_price": 183.17,
           "latest_close": 188.5,
-          "distance_pct": -2.82,
+          "distance_pct": -2.83,
           "qualifying_days": 15,
           "note": null
         },
