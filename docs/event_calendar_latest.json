@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-11-16T17:16:51.546761",
+  "generated_at": "2026-11-17T17:00:22.537291",
   "upcoming_fomc": [
     {
       "date": "2026-12-09",
-      "days_until": 23
+      "days_until": 22
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-11-16",
+      "subject": "公告本公司財會主管異動",
+      "is_conference": false
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "announce_date": "2026-11-16",
+      "subject": "本公司受邀參加Macquarie Taiwan Conference 2026",
+      "is_conference": true
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "announce_date": "2026-11-16",
+      "subject": "公告本公司將於115年12月21日提前贖回第一次海外無擔保\r\n可轉換公司債(ISIN:XS2853493117)",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-11-16",
+      "subject": "更正:代子公司PCL TECHNOLOGIES TRADING, INC.\r\n公告新增資金貸與金額達公開發行公司資金貸與及\r\n背書保證處理準則第二十二條第一項第三款之公告標準",
+      "is_conference": false
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "announce_date": "2026-11-16",
+      "subject": "本公司115年第3季合併財務報告業經董事會決議通過",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-11-16",
+      "subject": "(補充公告)本公司代子公司Delta Electronics Int'l (Singapore) Pte. Ltd.\r\n公告董事會決議擬增資DEM",
+      "is_conference": false
+    },
     {
       "code": "2059",
       "name": "川湖",
@@ -733,62 +775,6 @@
       "name": "華邦電",
       "announce_date": "2026-11-03",
       "subject": "更正本公司之子公司背書保證資訊揭露明細表",
-      "is_conference": false
-    },
-    {
-      "code": "2301",
-      "name": "光寶科",
-      "announce_date": "2026-11-02",
-      "subject": "公告本公司庫藏股註銷完成變更登記事宜",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-11-02",
-      "subject": "本公司受邀參加由Nomura舉辦之投資人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-11-02",
-      "subject": "公告本公司資訊安全長異動",
-      "is_conference": false
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "announce_date": "2026-11-02",
-      "subject": "(補充115/06/30公告)公告本公司董事會決議通過，擬自地委建廠房",
-      "is_conference": false
-    },
-    {
-      "code": "6442",
-      "name": "光聖",
-      "announce_date": "2026-11-02",
-      "subject": "公告本公司現金增資發\r\n行新股案，向金管會申請延\r\n長募集期間，業經准予備查",
-      "is_conference": false
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "announce_date": "2026-11-02",
-      "subject": "公告本公司取得機器設備",
-      "is_conference": false
-    },
-    {
-      "code": "8046",
-      "name": "南電",
-      "announce_date": "2026-11-02",
-      "subject": "代子公司南亞電路板(昆山)有限公司公告董事會\r\n決議發放股利",
-      "is_conference": false
-    },
-    {
-      "code": "8046",
-      "name": "南電",
-      "announce_date": "2026-11-02",
-      "subject": "代子公司南亞電路板(昆山)有限公司公告臨時股東會重要\r\n決議",
       "is_conference": false
     }
   ],

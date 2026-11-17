@@ -2350,5 +2350,47 @@
     "announce_date": "2026-11-12",
     "subject": "公告本公司董事會通過116年度資本支出預算",
     "is_conference": false
+  },
+  {
+    "code": "4977",
+    "name": "眾達-KY",
+    "announce_date": "2026-11-16",
+    "subject": "公告本公司財會主管異動",
+    "is_conference": false
+  },
+  {
+    "code": "2408",
+    "name": "南亞科",
+    "announce_date": "2026-11-16",
+    "subject": "本公司受邀參加Macquarie Taiwan Conference 2026",
+    "is_conference": true
+  },
+  {
+    "code": "6669",
+    "name": "緯穎",
+    "announce_date": "2026-11-16",
+    "subject": "公告本公司將於115年12月21日提前贖回第一次海外無擔保\r\n可轉換公司債(ISIN:XS2853493117)",
+    "is_conference": false
+  },
+  {
+    "code": "4977",
+    "name": "眾達-KY",
+    "announce_date": "2026-11-16",
+    "subject": "更正:代子公司PCL TECHNOLOGIES TRADING, INC.\r\n公告新增資金貸與金額達公開發行公司資金貸與及\r\n背書保證處理準則第二十二條第一項第三款之公告標準",
+    "is_conference": false
+  },
+  {
+    "code": "4977",
+    "name": "眾達-KY",
+    "announce_date": "2026-11-16",
+    "subject": "本公司115年第3季合併財務報告業經董事會決議通過",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-11-16",
+    "subject": "(補充公告)本公司代子公司Delta Electronics Int'l (Singapore) Pte. Ltd.\r\n公告董事會決議擬增資DEM",
+    "is_conference": false
   }
 ]
