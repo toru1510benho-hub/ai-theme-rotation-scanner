@@ -2392,5 +2392,47 @@
     "announce_date": "2026-11-16",
     "subject": "(補充公告)本公司代子公司Delta Electronics Int'l (Singapore) Pte. Ltd.\r\n公告董事會決議擬增資DEM",
     "is_conference": false
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "announce_date": "2026-11-17",
+    "subject": "公告更正本公司115年第三季合併財務報告iXBRL預收股款之\r\n約當發行股數申報資訊",
+    "is_conference": false
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "announce_date": "2026-11-17",
+    "subject": "本公司受邀參與法人說明會相關資訊",
+    "is_conference": true
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "announce_date": "2026-11-17",
+    "subject": "本公司受邀參加康和證券舉辦之2027年投資趨勢論壇",
+    "is_conference": true
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "announce_date": "2026-11-17",
+    "subject": "本公司受邀參加永豐金證券舉辦之線上座談會",
+    "is_conference": false
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "announce_date": "2026-11-17",
+    "subject": "本公司受邀參加花旗證券舉辦之台灣企業日",
+    "is_conference": false
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "announce_date": "2026-11-17",
+    "subject": "本公司受邀參加第一金證券舉辦之Q4投資論壇",
+    "is_conference": true
   }
 ]

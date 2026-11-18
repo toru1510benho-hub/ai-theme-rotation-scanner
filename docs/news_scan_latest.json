@@ -1,93 +1,91 @@
 {
-  "generated_at": "2026-11-17T17:00:25.342000",
+  "generated_at": "2026-11-18T16:40:22.392117",
   "total_news_scanned": 140,
-  "relevant_count": 7,
+  "relevant_count": 12,
   "news": [
     {
-      "title": "00894成分股換血30檔！「玻纖布廠」、南亞科、國巨等強勢入列　台達電、聯發科等龍頭則遭踢出",
-      "link": "https://tw.stock.yahoo.com/news/00894%E6%88%90%E5%88%86%E8%82%A1%E6%8F%9B%E8%A1%8030%E6%AA%94-%E7%8E%BB%E7%BA%96%E5%B8%83%E5%BB%A0-%E5%8D%97%E4%BA%9E%E7%A7%91-%E5%9C%8B%E5%B7%A8%E7%AD%89%E5%BC%B7%E5%8B%A2%E5%85%A5%E5%88%97-%E5%8F%B0%E9%81%94%E9%9B%BB-103000050.html",
-      "published": "Tue, 17 Nov 2026 10:30:00 GMT",
-      "summary": "[FTNN新聞網]記者王凱暄／綜合報導受益人數約2.93萬人、資金規模約62.65億元的中信小資高價30（00894）今（17）日公布成分股定期審核結果，本次結果共分別增...",
+      "title": "台股爆兆元天量劇震1677點！外資狂倒5檔ETF　這2檔金融股遭雙殺",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%88%86%E5%85%86%E5%85%83%E5%A4%A9%E9%87%8F%E5%8A%87%E9%9C%871677%E9%BB%9E-%E5%A4%96%E8%B3%87%E7%8B%82%E5%80%925%E6%AA%94etf-%E9%80%992%E6%AA%94%E9%87%91%E8%9E%8D%E8%82%A1%E9%81%AD%E9%9B%99%E6%AE%BA-132700282.html",
+      "published": "Wed, 18 Nov 2026 13:27:00 GMT",
+      "summary": "台股今（18）日爆出逾兆元天量劇震1677點，終場收漲102.80點。外資單日狂砍765.64億元，賣超前十名中0050、群益臺灣加權正2（00685L）等5檔ETF全遭殃；投信則連7砍元大金與玉山金",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 9,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "南亞(1303)‧今日熱門",
-        "南亞科(記憶體)",
-        "台達電(電源供應)",
-        "國巨(被動元件)"
+        "元大台灣50(0050)‧今日熱門",
+        "玉山金(2884)‧今日熱門",
+        "群益臺灣加權正2(00685L)‧今日熱門"
       ]
     },
     {
-      "title": "台股一度跌破4萬點還能抱嗎？哲哲急喊「別殺低」點名這幾檔正二次打底",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1-%E5%BA%A6%E8%B7%8C%E7%A0%B44%E8%90%AC%E9%BB%9E%E9%82%84%E8%83%BD%E6%8A%B1%E5%97%8E-%E5%93%B2%E5%93%B2%E6%80%A5%E5%96%8A-%E5%88%A5%E6%AE%BA%E4%BD%8E-%E9%BB%9E%E5%90%8D%E9%80%99%E5%B9%BE%E6%AA%94%E6%AD%A3%E4%BA%8C%E6%AC%A1%E6%89%93%E5%BA%95-151400644.html",
-      "published": "Tue, 17 Nov 2026 15:14:00 GMT",
-      "summary": "台股17日盤中高低震盪1747點、一度失守4萬點大關。摩爾投顧投資長郭哲榮急喊別殺低，點名國巨、環球晶、聯電等個股正處二次打底階段，並揭露1121轉折關鍵。（記者唐家興）",
+      "title": "台積漲5元台股回彈收在40938點　中信00406A成交爆巨量收漲",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E6%BC%B25%E5%85%83%E5%8F%B0%E8%82%A1%E5%9B%9E%E5%BD%88%E6%94%B6%E5%9C%A840938%E9%BB%9E-%E4%B8%AD%E4%BF%A100406a%E6%88%90%E4%BA%A4%E7%88%86%E5%B7%A8%E9%87%8F%E6%94%B6%E6%BC%B2-100721380.html",
+      "published": "Wed, 18 Nov 2026 10:07:21 GMT",
+      "summary": "本日成交量之冠為主動中信台灣收益(00406A)、超過114萬張，股價收在6.85元、漲0.06元、漲幅0.88%。此外，成交量排行榜前十名中，ETF囊括了八檔；另三檔個股分別為友達(2409)、台玻",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
+      "score": 9,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "國巨(被動元件)",
-        "聯電(2303)‧今日熱門",
-        "聯電(晶圓代工)"
+        "主動中信台灣收益(00406A)‧今日熱門",
+        "友達(2409)‧今日熱門",
+        "台玻(1802)‧今日熱門"
       ]
     },
     {
-      "title": "台股兩日狂瀉逾3500點！陳嘉偉示警「大空頭主跌段」才開始　勿隨意摸底",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%85%A9%E6%97%A5%E7%8B%82%E7%80%89%E9%80%BE3500%E9%BB%9E-%E9%99%B3%E5%98%89%E5%81%89%E7%A4%BA%E8%AD%A6-%E5%A4%A7%E7%A9%BA%E9%A0%AD%E4%B8%BB%E8%B7%8C%E6%AE%B5-%E6%89%8D%E9%96%8B%E5%A7%8B-%E5%8B%BF%E9%9A%A8%E6%84%8F%E6%91%B8%E5%BA%95-120300898.html",
-      "published": "Tue, 17 Nov 2026 12:03:00 GMT",
-      "summary": "台股今震盪重挫947點，收盤跌停高達73檔。分析師陳嘉偉警告台股已正式進入大空頭主跌段，景氣循環股如國巨破底，AI循環融資恐引發系統性危機，呼籲投資人切勿摸底，宜把握反彈機會偏空操作。面對輝達財報將至",
+      "title": "台積電、南亞科高層站台　美設備巨頭搶下一代晶片研發",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E5%8D%97%E4%BA%9E%E7%A7%91%E9%AB%98%E5%B1%A4%E7%AB%99%E5%8F%B0-%E7%BE%8E%E8%A8%AD%E5%82%99%E5%B7%A8%E9%A0%AD%E6%90%B6%E4%B8%8B-%E4%BB%A3%E6%99%B6%E7%89%87%E7%A0%94%E7%99%BC-110000465.html",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "summary": "台積電共同營運長米玉傑、南亞科總經理李培瑛18日雙雙現身苗栗竹南，為美國半導體設備巨頭科林研發（Lam Research）台灣技術中心動土站台，這座預計2028年啟用的研發基地，將讓科林在台實驗室空間",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 6,
-      "direction": "利空",
-      "is_important": true,
-      "matched_keywords": [
-        "跌停"
-      ],
-      "matched_stocks": [
-        "國巨(被動元件)"
-      ]
-    },
-    {
-      "title": "兆豐銀統籌主辦力積電300億元聯貸 結合ESG推動半導體永續轉型",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5644170",
-      "published": "Tue, 17 Nov 2026 20:24:46 +0800",
-      "summary": "面對全球人工智慧（AI）浪潮，金融業透過資金支持與永續金融機制，協助半導體產業強化競爭力、實現淨零轉型。由兆豐銀行統籌，合作金庫銀行、華南銀行、彰化銀行及土地銀行共同主辦...…",
-      "source": "自由時報財經",
       "score": 5,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "力積電(6770)‧今日熱門",
-        "力積電(晶圓代工)"
+        "南亞(1303)‧今日熱門",
+        "南亞科(記憶體)"
       ]
     },
     {
-      "title": "緯創AI基建架構獲採用 雲鑠布局150MW資料中心",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5644159",
-      "published": "Tue, 17 Nov 2026 19:58:42 +0800",
-      "summary": "AI基礎設施需求持續擴張，緯創（3231）AI資料中心整體解決方案布局再添合作案例，旗下整體解決方案（WATS）架構獲得YUNOVA（雲鑠）採用，未來3年目標在高雄設置A...…",
+      "title": "雙鴻董座林育申：少了黃仁勳  AI伺服器迭代恐放緩",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5645410",
+      "published": "Wed, 18 Nov 2026 18:15:46 +0800",
+      "summary": "輝達（NVIDIA）共同創辦人黃仁勳辭去執行長職務，產業與市場皆熱議對AI前景的影響。散熱大廠雙鴻（3324）董事長林育申今日表示，傳統伺服器兩年迭代一次，但黃仁勳加速了...…",
       "source": "自由時報財經",
       "score": 4,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "3231(AI伺服器組裝)",
-        "緯創(AI伺服器組裝)"
+        "3324(散熱)",
+        "雙鴻(散熱)"
       ]
     },
     {
-      "title": "009816成分股新增2檔台塑集團股及景碩 2檔高息ETF成分股同步剔除聯發科",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5644000",
-      "published": "Tue, 17 Nov 2026 17:54:23 +0800",
-      "summary": "證交所子公司台灣指數公司今日一口氣公布10個指數定期審核結果，其中受矚目的凱基台灣TOP50 ETF（009816）、元大台灣價值高息ETF（00940）分別有3檔及10...…",
+      "title": "雙鴻董座林育申：AI產業趨勢不變 明年迎顯著成長",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5645227",
+      "published": "Wed, 18 Nov 2026 16:33:08 +0800",
+      "summary": "儘管AI產業波動，散熱大廠雙鴻（3324）董事長林育申今日指出，AI的產業大趨勢不變，CSP（雲端服務供應商）的算力投資不會降速，仍會挹注供應鏈營運，雙鴻正向看待第四季與...…",
       "source": "自由時報財經",
+      "score": 4,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "3324(散熱)",
+        "雙鴻(散熱)"
+      ]
+    },
+    {
+      "title": "台股大洗盤市值型ETF也難逃！近半年僅6檔正報酬 009816逆勢突圍",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%B4%97%E7%9B%A4%E5%B8%82%E5%80%BC%E5%9E%8Betf%E4%B9%9F%E9%9B%A3%E9%80%83-%E8%BF%91%E5%8D%8A%E5%B9%B4%E5%83%856%E6%AA%94%E6%AD%A3%E5%A0%B1%E9%85%AC-009816%E9%80%86%E5%8B%A2%E7%AA%81%E5%9C%8D-072258951.html",
+      "published": "Wed, 18 Nov 2026 07:22:58 GMT",
+      "summary": "台灣加權指數於今年6月首度突破4萬5千點大關、10月更站上4萬9千點，即將叩關5萬點。不過，市場持續檢視AI資本支出能否轉化為獲利以及大型CSP業者自由現金流量轉負的擔憂，再加上美國期中選舉變天、黃仁",
+      "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
@@ -97,10 +95,80 @@
       ]
     },
     {
-      "title": "AI需求點火  台積電35家優良供應商出爐  和碩、矽品上榜",
-      "link": "https://tw.stock.yahoo.com/news/ai%E9%9C%80%E6%B1%82%E9%BB%9E%E7%81%AB-%E5%8F%B0%E7%A9%8D%E9%9B%BB35%E5%AE%B6%E5%84%AA%E8%89%AF%E4%BE%9B%E6%87%89%E5%95%86%E5%87%BA%E7%88%90-%E5%92%8C%E7%A2%A9-%E7%9F%BD%E5%93%81%E4%B8%8A%E6%A6%9C-105530182.html",
-      "published": "Tue, 17 Nov 2026 10:55:30 GMT",
-      "summary": "AI與高效能運算需求帶動半導體擴產，台積電17日舉辦2026年供應鏈管理論壇，集結全球與台灣夥伴共商「新時代的大同盟」策略，並頒發優良供應商卓越表現獎，共有35家廠商獲獎，和碩、矽品、萬潤、漢唐及健策",
+      "title": "股市新手誤買整張0050 急求救：會違約交割嗎？",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5645225",
+      "published": "Wed, 18 Nov 2026 16:53:40 +0800",
+      "summary": "一名剛進股市的新手在Dcard求救，說自己不小心買了整張0050（元大台灣50），結果打開交割戶一看只剩下幾百塊，根本付不出這筆錢，而且買完馬上就賠了3000多元，讓他超怕...…",
+      "source": "自由時報財經",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "元大台灣50(0050)‧今日熱門"
+      ]
+    },
+    {
+      "title": "王山金爆量狂瀉9.65％！兇手抓到了 61萬股東團滅",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5645263",
+      "published": "Wed, 18 Nov 2026 16:48:53 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週三上演驚魂記，指數上沖下洗，震盪1678點，終場在台積電、聯發科等重量級電子股強彈，指數收漲102點，外資續賣超765.64億元，而擁有逾61萬股東的玉山金則淪為大苦...…",
+      "source": "自由時報財經",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "玉山金(2884)‧今日熱門"
+      ]
+    },
+    {
+      "title": "群創大跌後強彈3.54％！「這群人」聯手掃2.09萬張 99萬股東笑了",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5645245",
+      "published": "Wed, 18 Nov 2026 16:36:18 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週三上演驚魂記，指數上沖下洗，震盪1678點，終場在台積電、聯發科等重量級電子股強彈，指數收漲102點，雖外資續賣超765.64億元，而對大舉買入逾99萬股東的群創，一...…",
+      "source": "自由時報財經",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "群創(3481)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台股劇震韭菜大翻車！9檔個股爆違約交割　金額高達4.27億元",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8A%87%E9%9C%87%E9%9F%AD%E8%8F%9C%E5%A4%A7%E7%BF%BB%E8%BB%8A-9%E6%AA%94%E5%80%8B%E8%82%A1%E7%88%86%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2-%E9%87%91%E9%A1%8D%E9%AB%98%E9%81%944-27%E5%84%84%E5%85%83-114625151.html",
+      "published": "Wed, 18 Nov 2026 11:46:25 GMT",
+      "summary": "台股近期劇烈震盪，台灣證券交易所及櫃買中心18日公布9檔個股違約交割，總金額約4.27億元。創意與華通各超過9000萬元，欣興則涉及15家券商分點通報。",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 2,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "欣興(ABF載板/PCB)"
+      ]
+    },
+    {
+      "title": "《台股盤後》收漲102點、守住40K，年線失而復得",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E6%BC%B2102%E9%BB%9E-%E5%AE%88%E4%BD%8F40k-%E5%B9%B4%E7%B7%9A%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97-074700515.html",
+      "published": "Wed, 18 Nov 2026 07:47:00 GMT",
+      "summary": "MoneyDJ新聞 2026-11-18 15:47:17 新聞中心 發佈台股今(18)日挾盤後輝達財報報喜，早盤由台積電、聯發科領軍，輔以日月光、奇鋐的助攻火力，加權指數一度上漲逾800點，不過盤中",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 2,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "奇鋐(散熱)"
+      ]
+    },
+    {
+      "title": "台股兩樣情！外資提款765億　「這幾檔」逆勢噴出成電子領頭羊",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%85%A9%E6%A8%A3%E6%83%85-%E5%A4%96%E8%B3%87%E6%8F%90%E6%AC%BE765%E5%84%84-%E9%80%99%E5%B9%BE%E6%AA%94-%E9%80%86%E5%8B%A2%E5%99%B4%E5%87%BA%E6%88%90%E9%9B%BB%E5%AD%90%E9%A0%98%E9%A0%AD%E7%BE%8A-074100742.html",
+      "published": "Wed, 18 Nov 2026 07:41:00 GMT",
+      "summary": "台股18日加權指數收盤上漲102.80點，報40,194.91點，成交金額逾1兆元。三大法人合計賣超逾632億元，其中外資大舉賣超，投信則逆勢加碼。權值股台積電微幅收紅，聯發科、健策等個股表現強勢，但",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
