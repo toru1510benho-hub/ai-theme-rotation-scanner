@@ -2483,5 +2483,33 @@
     "announce_date": "2026-11-18",
     "subject": "本公司代子公司Delta Electronics Int'l (Singapore)\r\nPte. Ltd.公告現金股利除息基準日",
     "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-19",
+    "subject": "本公司受邀參加由Citi舉辦之\"Citi's 2026 Taiwan Corporate Day\"",
+    "is_conference": false
+  },
+  {
+    "code": "2327",
+    "name": "國巨*",
+    "announce_date": "2026-11-19",
+    "subject": "代子公司奇力新電子股份有限公司公告\r\n董事會決議捐贈財團法人國巨基金會",
+    "is_conference": false
+  },
+  {
+    "code": "3008",
+    "name": "大立光",
+    "announce_date": "2026-11-19",
+    "subject": "公告本公司取得廠務工程及設備相關訊息",
+    "is_conference": false
+  },
+  {
+    "code": "2308",
+    "name": "台達電",
+    "announce_date": "2026-11-19",
+    "subject": "(補充公告)本公司代子公司Delta Energy Systems (Singapore) PTE. LTD.公告董事會\r\n決議擬增資DIN",
+    "is_conference": false
   }
 ]

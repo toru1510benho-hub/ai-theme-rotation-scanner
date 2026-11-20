@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-11-19T16:43:12.090479",
+  "generated_at": "2026-11-20T16:18:33.555179",
   "upcoming_fomc": [
     {
       "date": "2026-12-09",
-      "days_until": 20
+      "days_until": 19
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-11-19",
+      "subject": "本公司受邀參加由Citi舉辦之\"Citi's 2026 Taiwan Corporate Day\"",
+      "is_conference": false
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-11-19",
+      "subject": "代子公司奇力新電子股份有限公司公告\r\n董事會決議捐贈財團法人國巨基金會",
+      "is_conference": false
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "announce_date": "2026-11-19",
+      "subject": "公告本公司取得廠務工程及設備相關訊息",
+      "is_conference": false
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "announce_date": "2026-11-19",
+      "subject": "(補充公告)本公司代子公司Delta Energy Systems (Singapore) PTE. LTD.公告董事會\r\n決議擬增資DIN",
+      "is_conference": false
+    },
     {
       "code": "6442",
       "name": "光聖",
@@ -628,55 +656,6 @@
       "name": "眾達-KY",
       "announce_date": "2026-11-09",
       "subject": "更正:代子公司PCL TECHNOLOGIES, INC.公告新增資金貸與\r\n金額達公開發行公司資金貸與及背書保證處理準則第\r\n二十二條第一項第三款之公告標準",
-      "is_conference": false
-    },
-    {
-      "code": "3026",
-      "name": "禾伸堂",
-      "announce_date": "2026-11-05",
-      "subject": "本公司受邀參加華南永昌證券舉辦之法人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "2492",
-      "name": "華新科",
-      "announce_date": "2026-11-05",
-      "subject": "本公司董事會通過華科香港控股有限公司新增資金\r\n貸與金額達新台幣一千萬元以上且達華新科技最近期\r\n財務報表淨值百分之二以上(代華科香港控股有限公司公告)",
-      "is_conference": false
-    },
-    {
-      "code": "2492",
-      "name": "華新科",
-      "announce_date": "2026-11-05",
-      "subject": "公告本公司董事會通過115年第三季合併財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-11-05",
-      "subject": "代子公司重慶美桀公告擬處分不動產",
-      "is_conference": false
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "announce_date": "2026-11-05",
-      "subject": "本公司受邀參加由永豐金證券匯立分公司舉辦之\r\n\"CLST Taiwan Market Mover Access Day\"",
-      "is_conference": false
-    },
-    {
-      "code": "8046",
-      "name": "南電",
-      "announce_date": "2026-11-05",
-      "subject": "公告本公司115年第3季合併財務報告業經董事會決議通過",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-11-05",
-      "subject": "本公司代子公司Delta Electronics (Thailand) Public Company Limited公告向非關係\r\n人取得供營業使用之設備",
       "is_conference": false
     }
   ],
