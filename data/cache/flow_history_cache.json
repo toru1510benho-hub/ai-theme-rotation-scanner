@@ -7750,5 +7750,241 @@
       "foreign_net": -4932154,
       "trust_net": 317185
     }
+  },
+  "2026-11-24": {
+    "6770": {
+      "foreign_net": 436728,
+      "trust_net": -28020
+    },
+    "4977": {
+      "foreign_net": 238568,
+      "trust_net": 0
+    },
+    "2375": {
+      "foreign_net": 67000,
+      "trust_net": 0
+    },
+    "2486": {
+      "foreign_net": -3000,
+      "trust_net": 0
+    },
+    "3008": {
+      "foreign_net": -9455,
+      "trust_net": 3092
+    },
+    "3450": {
+      "foreign_net": 1010,
+      "trust_net": 0
+    },
+    "2492": {
+      "foreign_net": -50463,
+      "trust_net": -8000
+    },
+    "2059": {
+      "foreign_net": -14000,
+      "trust_net": 0
+    },
+    "6442": {
+      "foreign_net": -23001,
+      "trust_net": 0
+    },
+    "3026": {
+      "foreign_net": -31009,
+      "trust_net": -13000
+    },
+    "3653": {
+      "foreign_net": -39507,
+      "trust_net": -2545
+    },
+    "3017": {
+      "foreign_net": -131139,
+      "trust_net": -2849
+    },
+    "2368": {
+      "foreign_net": -172290,
+      "trust_net": -2882
+    },
+    "3037": {
+      "foreign_net": -77419,
+      "trust_net": -113349
+    },
+    "8046": {
+      "foreign_net": -223008,
+      "trust_net": -11048
+    },
+    "6669": {
+      "foreign_net": -327533,
+      "trust_net": 36005
+    },
+    "6213": {
+      "foreign_net": -280979,
+      "trust_net": 0
+    },
+    "2308": {
+      "foreign_net": -460212,
+      "trust_net": -55744
+    },
+    "2337": {
+      "foreign_net": -704972,
+      "trust_net": 0
+    },
+    "2344": {
+      "foreign_net": -1031761,
+      "trust_net": -26626
+    },
+    "2327": {
+      "foreign_net": -995764,
+      "trust_net": -16342
+    },
+    "4967": {
+      "foreign_net": -948278,
+      "trust_net": 7000
+    },
+    "2408": {
+      "foreign_net": -1010282,
+      "trust_net": -150131
+    },
+    "2301": {
+      "foreign_net": -1586154,
+      "trust_net": 217926
+    },
+    "3231": {
+      "foreign_net": -2588186,
+      "trust_net": 193817
+    },
+    "2382": {
+      "foreign_net": -12734379,
+      "trust_net": 4331477
+    },
+    "2356": {
+      "foreign_net": -8962553,
+      "trust_net": -5958000
+    },
+    "3006": {
+      "foreign_net": -15508315,
+      "trust_net": 5000
+    },
+    "2303": {
+      "foreign_net": -18764212,
+      "trust_net": -100303
+    }
+  },
+  "2026-11-23": {
+    "6770": {
+      "foreign_net": 12947966,
+      "trust_net": 0
+    },
+    "2303": {
+      "foreign_net": 2433085,
+      "trust_net": 1814886
+    },
+    "3231": {
+      "foreign_net": 1336034,
+      "trust_net": 335453
+    },
+    "2368": {
+      "foreign_net": 1223512,
+      "trust_net": 126937
+    },
+    "3026": {
+      "foreign_net": 2037829,
+      "trust_net": -766000
+    },
+    "4967": {
+      "foreign_net": 797901,
+      "trust_net": -1000
+    },
+    "3450": {
+      "foreign_net": 687922,
+      "trust_net": 1000
+    },
+    "2486": {
+      "foreign_net": 689671,
+      "trust_net": -133000
+    },
+    "4977": {
+      "foreign_net": 750229,
+      "trust_net": 0
+    },
+    "2308": {
+      "foreign_net": 1042798,
+      "trust_net": 173650
+    },
+    "2375": {
+      "foreign_net": 303357,
+      "trust_net": 0
+    },
+    "6442": {
+      "foreign_net": -10328,
+      "trust_net": 299000
+    },
+    "8046": {
+      "foreign_net": 1217606,
+      "trust_net": -1107045
+    },
+    "6213": {
+      "foreign_net": 435924,
+      "trust_net": -119000
+    },
+    "2059": {
+      "foreign_net": -79472,
+      "trust_net": 62390
+    },
+    "3653": {
+      "foreign_net": -204450,
+      "trust_net": 247984
+    },
+    "2301": {
+      "foreign_net": -2087279,
+      "trust_net": 2047645
+    },
+    "2382": {
+      "foreign_net": -2323846,
+      "trust_net": 1457521
+    },
+    "3017": {
+      "foreign_net": -110765,
+      "trust_net": -173058
+    },
+    "2344": {
+      "foreign_net": -690021,
+      "trust_net": 657439
+    },
+    "2492": {
+      "foreign_net": 3403188,
+      "trust_net": -3332000
+    },
+    "3008": {
+      "foreign_net": -244037,
+      "trust_net": 10983
+    },
+    "6669": {
+      "foreign_net": -545352,
+      "trust_net": 72944
+    },
+    "2408": {
+      "foreign_net": -659310,
+      "trust_net": -104234
+    },
+    "3006": {
+      "foreign_net": -1396996,
+      "trust_net": 10000
+    },
+    "2356": {
+      "foreign_net": 5856767,
+      "trust_net": -7648000
+    },
+    "3037": {
+      "foreign_net": -939768,
+      "trust_net": -2342639
+    },
+    "2327": {
+      "foreign_net": 79698,
+      "trust_net": -6239285
+    },
+    "2337": {
+      "foreign_net": -1498873,
+      "trust_net": 6000
+    }
   }
 }
