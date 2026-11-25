@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-11-24T19:01:09.509681",
+  "generated_at": "2026-11-25T18:06:43.521329",
   "upcoming_fomc": [
     {
       "date": "2026-12-09",
-      "days_until": 15
+      "days_until": 14
     }
   ],
   "recent_company_events_14d": [
+    {
+      "code": "2356",
+      "name": "英業達",
+      "announce_date": "2026-11-24",
+      "subject": "(補充115/7/28公告)董事會通過泰國地區子公司 \r\nInventec Electronics (Thailand) Co.,Ltd.，\r\n為因應營運需求，擬自地委建廠房",
+      "is_conference": false
+    },
+    {
+      "code": "2375",
+      "name": "凱美",
+      "announce_date": "2026-11-24",
+      "subject": "本公司受邀參加凱基證券舉辦之線上法人說明會",
+      "is_conference": true
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "announce_date": "2026-11-24",
+      "subject": "代子公司奇力新電子股份有限公司公告\r\n法人董事改派代表人",
+      "is_conference": false
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "announce_date": "2026-11-24",
+      "subject": "公告欣興電子股份有限公司第一次無擔保轉換公司債\r\n(簡稱：欣興一，代碼：30371)於櫃檯買賣市場交易達公布\r\n注意交易資訊標準，故公布相關訊息，以利投資人區別瞭解。",
+      "is_conference": false
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "announce_date": "2026-11-24",
+      "subject": "公告本公司國內第五次無擔保轉換公司債收足債款",
+      "is_conference": false
+    },
     {
       "code": "2327",
       "name": "國巨*",
@@ -432,160 +467,6 @@
       "name": "台達電",
       "announce_date": "2026-11-11",
       "subject": "補充公告本公司代子公司Delta Electronics (USA) Inc.公告決議興建F2廠及辦公大樓\r\n相關事宜",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-11-10",
-      "subject": "澄清經濟日報115年11月10日報導",
-      "is_conference": false
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "announce_date": "2026-11-10",
-      "subject": "本公司受邀參加法人說明會之相關資訊",
-      "is_conference": true
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "announce_date": "2026-11-10",
-      "subject": "董事會通過115年第3季合併財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "董事會通過115年第三季合併財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "董事會決議員工認股權憑證執行轉換普通股之增資基準日",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "變更越南投資計畫:撤銷AVCVN美金5000萬現金增資,改以盈餘美金6500萬轉增資,\r\n並以美金4500萬設立新公司",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "本公司董事會決議通過子公司AVC TECH. (VIETNAM) CO.,\r\nLTD.辦理盈餘轉增資。",
-      "is_conference": false
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "announce_date": "2026-11-10",
-      "subject": "董事會通過對關係人之捐贈事宜",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "公告公司治理主管異動",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "公告本公司設置永續長",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "本公司永續發展暨風險管理委員會委員異動並新增一席次",
-      "is_conference": false
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "公告本公司新增背書保證金額達新臺幣三千萬元以上且達最近期\r\n財務報表淨值百分之五以上。",
-      "is_conference": false
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-11-10",
-      "subject": "本公司受邀參與法人說明會相關資訊",
-      "is_conference": true
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "本公司受邀參加摩根士丹利舉辦之「MS AP Summit」",
-      "is_conference": true
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "announce_date": "2026-11-10",
-      "subject": "本公司受邀參加台新2026年第四季投資論壇",
-      "is_conference": true
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-11-10",
-      "subject": "本公司董事會通過115年度第三季合併財務報告",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-11-10",
-      "subject": "代子公司蘇州金像電子公告取得廠務工程",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-11-10",
-      "subject": "代子公司蘇州金像電子公告取得設備",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-11-10",
-      "subject": "本公司依公開發行公司資金貸與及背書保證處理準則\r\n第二十五條第一項第四款規定公告",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-11-10",
-      "subject": "(更正3/10公告)代子公司GCE(Thailand)公告董事會決議\r\n向關係人Crystalrock Enterprise Co., Ltd.取得土地",
-      "is_conference": false
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "announce_date": "2026-11-10",
-      "subject": "本公司受邀參加元大證券舉辦之法人說明會",
-      "is_conference": true
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "announce_date": "2026-11-10",
-      "subject": "公告本公司取得無形資產之相關資料",
       "is_conference": false
     }
   ],

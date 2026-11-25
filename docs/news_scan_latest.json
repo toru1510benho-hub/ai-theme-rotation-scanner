@@ -1,156 +1,115 @@
 {
-  "generated_at": "2026-11-24T19:01:11.837841",
+  "generated_at": "2026-11-25T18:06:46.865109",
   "total_news_scanned": 140,
-  "relevant_count": 10,
+  "relevant_count": 7,
   "news": [
     {
-      "title": "台股10大千億ETF大洗牌！0050衝破2兆　「這檔」崛起超車00929",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A110%E5%A4%A7%E5%8D%83%E5%84%84etf%E5%A4%A7%E6%B4%97%E7%89%8C-0050%E8%A1%9D%E7%A0%B42%E5%85%86-%E9%80%99%E6%AA%94-%E5%B4%9B%E8%B5%B7%E8%B6%85%E8%BB%8A00929-170700179.html",
-      "published": "Tue, 24 Nov 2026 17:07:00 GMT",
-      "summary": "台股ETF千億俱樂部擴大至16檔！理財專家Dr.Selena整理台股10大ETF規模排行榜，0050規模突破2兆元，今年資產年增逾1倍，00406A也快速崛起超越00929，帶你掌握市值型、高股息及主",
+      "title": "外資、投信在0050、台積電、聯電「多空對作」　外資和自營商買00981A卻「有志一同」",
+      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87-%E6%8A%95%E4%BF%A1%E5%9C%A80050-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E9%9B%BB-%E5%A4%9A%E7%A9%BA%E5%B0%8D%E4%BD%9C-111010527.html",
+      "published": "Wed, 25 Nov 2026 11:10:10 GMT",
+      "summary": "台股一度跌3440.45點，創盤中史上第二大跌點，雖隨後跌幅收斂，終場仍大跌1...",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 8,
-      "direction": "利多",
+      "score": 11,
+      "direction": "中性關注",
       "is_important": true,
-      "matched_keywords": [
-        "年增"
-      ],
+      "matched_keywords": [],
       "matched_stocks": [
-        "主動中信台灣收益(00406A)‧今日熱門",
-        "復華台灣科技優息(00929)‧今日熱門"
+        "主動統一台股增長(00981A)‧今日熱門",
+        "元大台灣50(0050)‧今日熱門",
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
       ]
     },
     {
-      "title": "ETF 也能超越台積電！00981A亮燈成交金額衝逾439億奔第一",
-      "link": "https://tw.news.yahoo.com/etf-%E4%B9%9F%E8%83%BD%E8%B6%85%E8%B6%8A%E5%8F%B0%E7%A9%8D%E9%9B%BB-00981a%E4%BA%AE%E7%87%88%E6%88%90%E4%BA%A4%E9%87%91%E9%A1%8D%E8%A1%9D%E9%80%BE439%E5%84%84%E5%A5%94%E7%AC%AC-163000817.html",
-      "published": "Tue, 24 Nov 2026 16:30:00 GMT",
-      "summary": "輝達創辦人黃仁勳戲劇性回歸，台股24日創下史上收盤最大漲點，加權指數一口氣大漲 3,310.46 點，收在 40,122.35 點，漲幅高達8.99%，多檔個股和ETF也跟著漲停鎖死。其中，主動統一台",
+      "title": "16檔IC設計苦吞跌停！ASIC龍頭聯發科殺破4千元「記憶體雙雄」＋旺宏也淪陷　創意險穩5千元關",
+      "link": "https://tw.stock.yahoo.com/news/16%E6%AA%94ic%E8%A8%AD%E8%A8%88%E8%8B%A6%E5%90%9E%E8%B7%8C%E5%81%9C-asic%E9%BE%8D%E9%A0%AD%E8%81%AF%E7%99%BC%E7%A7%91%E6%AE%BA%E7%A0%B44%E5%8D%83%E5%85%83-%E8%A8%98%E6%86%B6%E9%AB%94%E9%9B%99%E9%9B%84-%E6%97%BA%E5%AE%8F%E4%B9%9F%E6%B7%AA%E9%99%B7-%E5%89%B5%E6%84%8F%E9%9A%AA%E7%A9%A95%E5%8D%83%E5%85%83%E9%97%9C-141500025.html",
+      "published": "Wed, 25 Nov 2026 14:15:00 GMT",
+      "summary": "[FTNN新聞網]記者何亞軒／綜合報導今（25）日台股加權指數終場收盤38,195.43點，跌1926.92點，跌幅4.8%，在美國總統川普（DonaldTrump）表示將在兩年後對台灣...",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "利多",
+      "score": 6,
+      "direction": "利空",
       "is_important": true,
       "matched_keywords": [
-        "漲停"
+        "跌停"
       ],
       "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門"
+        "旺宏(記憶體)"
       ]
     },
     {
-      "title": "台股漲停卻沒量？三大法人賣超1230億真相曝　郭哲榮：籌碼洗淨沒人賣",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%BC%B2%E5%81%9C%E5%8D%BB%E6%B2%92%E9%87%8F-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%851230%E5%84%84%E7%9C%9F%E7%9B%B8%E6%9B%9D-%E9%83%AD%E5%93%B2%E6%A6%AE-%E7%B1%8C%E7%A2%BC%E6%B4%97%E6%B7%A8%E6%B2%92%E4%BA%BA%E8%B3%A3-130000122.html",
-      "published": "Tue, 24 Nov 2026 13:00:00 GMT",
-      "summary": "黃仁勳回歸引爆台股今（24）日狂漲3310點重返四萬點，卻爆出4194億元今年最低量，盤後三大法人更賣超1230億元！摩爾投顧投資長郭哲榮揭開真相，直言籌碼洗淨根本沒人想賣，法人賣超實為00981A等",
+      "title": "台股一週狂跌7642點！最抗跌ETF出爐：冠軍「只跌大盤一半」",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1-%E9%80%B1%E7%8B%82%E8%B7%8C7642%E9%BB%9E-%E6%9C%80%E6%8A%97%E8%B7%8Cetf%E5%87%BA%E7%88%90-%E5%86%A0%E8%BB%8D-%E5%8F%AA%E8%B7%8C%E5%A4%A7%E7%9B%A4-130400298.html",
+      "published": "Wed, 25 Nov 2026 13:04:00 GMT",
+      "summary": "台股上週狂瀉7,641.83點、跌幅高達17.5%，88檔台股ETF誰最抗跌？投資達人《要不要來點稀飯套餐》統計發現，高股息三巨頭0056、00878、00919全數跌出前10名，冠軍由00701奪下",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "利多",
+      "score": 6,
+      "direction": "中性關注",
       "is_important": true,
-      "matched_keywords": [
-        "漲停"
-      ],
+      "matched_keywords": [],
       "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門"
+        "元大高股息(0056)‧今日熱門",
+        "群益台灣精選高息(00919)‧今日熱門"
       ]
     },
     {
-      "title": "Q4獲利有望年增逾4成！「這檔」持無人機題材成法說焦點　第一金董座信心喊話「台股猛衝5萬點」獲投信掃進13億奪冠",
-      "link": "https://tw.stock.yahoo.com/news/q4%E7%8D%B2%E5%88%A9%E6%9C%89%E6%9C%9B%E5%B9%B4%E5%A2%9E%E9%80%BE4%E6%88%90-%E9%80%99%E6%AA%94-%E6%8C%81%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%A1%8C%E6%9D%90%E6%88%90%E6%B3%95%E8%AA%AA%E7%84%A6%E9%BB%9E-%E7%AC%AC-%E9%87%91%E8%91%A3%E5%BA%A7%E4%BF%A1%E5%BF%83%E5%96%8A%E8%A9%B1-110000159.html",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "summary": "[FTNN新聞網]記者邱梓欣／綜合報導受惠輝達創辦人黃仁勳在昨晚重磅回歸，台股今（24）日華麗翻身，終場飆漲3310.46點，以40,122.35點作收，漲幅8.99％。據證...",
+      "title": "同樣投資台股ETF，配息差很大！009803連三季加碼 00403A掛零",
+      "link": "https://tw.news.yahoo.com/%E5%90%8C%E6%A8%A3%E6%8A%95%E8%B3%87%E5%8F%B0%E8%82%A1etf-%E9%85%8D%E6%81%AF%E5%B7%AE%E5%BE%88%E5%A4%A7-009803%E9%80%A3%E4%B8%89%E5%AD%A3%E5%8A%A0%E7%A2%BC-00403a%E6%8E%9B%E9%9B%B6-122110185.html",
+      "published": "Wed, 25 Nov 2026 12:21:10 GMT",
+      "summary": "領息是許多投資人選ETF的目標，但近期市場上也出現了令人意外的消息：00403A在11月迎來掛牌後首次配息評價 […]",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 5,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "年增"
+        "配息"
       ],
       "matched_stocks": [
-        "第一金(2892)‧今日熱門"
+        "主動統一升級50(00403A)‧今日熱門"
       ]
     },
     {
-      "title": "散戶今日瘋狂融資搶買這檔台股ETF！融資張數大增225％",
-      "link": "https://tw.news.yahoo.com/%E6%95%A3%E6%88%B6%E4%BB%8A%E6%97%A5%E7%98%8B%E7%8B%82%E8%9E%8D%E8%B3%87%E6%90%B6%E8%B2%B7%E9%80%99%E6%AA%94%E5%8F%B0%E8%82%A1etf-%E8%9E%8D%E8%B3%87%E5%BC%B5%E6%95%B8%E5%A4%A7%E5%A2%9E225-135243794.html",
-      "published": "Tue, 24 Nov 2026 13:52:43 GMT",
-      "summary": "因黃仁勳無預警快速回鍋輝達，結束11天的離職，昨日黃仁勳回歸消息宣布後，美股與台指期急拉瘋漲，今日台股狂飆3310.46點，創史上最大漲點，台積電（2330）、聯發科（2454）、台達電（2308）、",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
+      "title": "電電公會串連「台灣聯合艦隊」 攻佔歐美市場",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5653403",
+      "published": "Wed, 25 Nov 2026 20:31:19 +0800",
+      "summary": "台灣區電機電子工業同業公會（電電公會，TEEMA）表示，將串聯電子電機、電路板、機械、工具機、模具及機器智能等領域的供應鏈能量，打造台灣產業「聯合艦隊」，凝聚跨產業力量「...…",
+      "source": "自由時報財經",
+      "score": 5,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "2308(電源供應)",
-        "台達電(電源供應)"
-      ]
-    },
-    {
-      "title": "巴逆逆昨砍正2錯過台股強彈！今急買4檔標的　股民：難道只是一日行情",
-      "link": "https://tw.stock.yahoo.com/news/%E5%B7%B4%E9%80%86%E9%80%86%E6%98%A8%E7%A0%8D%E6%AD%A32%E9%8C%AF%E9%81%8E%E5%8F%B0%E8%82%A1%E5%BC%B7%E5%BD%88-%E4%BB%8A%E6%80%A5%E8%B2%B74%E6%AA%94%E6%A8%99%E7%9A%84-%E8%82%A1%E6%B0%91-%E9%9B%A3%E9%81%93%E5%8F%AA%E6%98%AF-%E6%97%A5%E8%A1%8C%E6%83%85-132400472.html",
-      "published": "Tue, 24 Nov 2026 13:24:00 GMT",
-      "summary": "[FTNN新聞網]實習記者王保伶／綜合報導「反指標女神」巴逆逆昨（23）日才大舉停損元大台灣50正2（00631L），沒想到晚間輝達（NVIDIA）宣布黃仁勳復職，帶動台...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "元大台灣50正2(00631L)‧今日熱門"
-      ]
-    },
-    {
-      "title": "台股單日飆漲3310點仍有5檔個股明起抓去關 處置到12/1止",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%96%AE%E6%97%A5%E9%A3%86%E6%BC%B23310%E9%BB%9E%E4%BB%8D%E6%9C%895%E6%AA%94%E5%80%8B%E8%82%A1%E6%98%8E%E8%B5%B7%E6%8A%93%E5%8E%BB%E9%97%9C-%E8%99%95%E7%BD%AE%E5%88%B012-1%E6%AD%A2-120437753.html",
-      "published": "Tue, 24 Nov 2026 12:04:37 GMT",
-      "summary": "台股今(24)日大漲3,310.46點，但證交所、櫃買中心公告5檔股票遭處置交易。 廣寰科、創意、營邦、大立、GIS-KY自明(25)日起處置至12月1日，撮合時間皆為2分鐘。 處置原因多為近6日股價",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "GIS-KY(6456)‧今日熱門"
-      ]
-    },
-    {
-      "title": "黃仁勳回歸台股噴3310點！會漲到哪？杜金龍曝1操作關鍵：挑這類股",
-      "link": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8%E5%8F%B0%E8%82%A1%E5%99%B43310%E9%BB%9E-%E6%9C%83%E6%BC%B2%E5%88%B0%E5%93%AA-%E6%9D%9C%E9%87%91%E9%BE%8D%E6%9B%9D1%E6%93%8D%E4%BD%9C%E9%97%9C%E9%8D%B5-%E6%8C%91%E9%80%99%E9%A1%9E%E8%82%A1-134700040.html",
-      "published": "Tue, 24 Nov 2026 13:47:00 GMT",
-      "summary": "輝達執行長黃仁勳重返戰場，激勵台股今（24）日暴漲3310點重返四萬點！股市老先覺杜金龍剖析大盤為標準「假跌破」，短線反彈先看4萬4千點，點名跌深PCB、ABF載板欣興等族群彈幅上看5成，並公開「逢高",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "欣興(ABF載板/PCB)"
-      ]
-    },
-    {
-      "title": "台股狂噴8.99%三大法人卻爆逃命訊號！下殺1230億「這檔記憶體」被出清1.6萬張最慘　聯電、台塑也難逃",
-      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%8B%82%E5%99%B48-99-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%8D%BB%E7%88%86%E9%80%83%E5%91%BD%E8%A8%8A%E8%99%9F-%E4%B8%8B%E6%AE%BA1230%E5%84%84-%E9%80%99%E6%AA%94%E8%A8%98%E6%86%B6%E9%AB%94-133600975.html",
-      "published": "Tue, 24 Nov 2026 13:36:00 GMT",
-      "summary": "[FTNN新聞網]記者何亞軒／綜合報導今（24）日台股加權指數收盤40,122.35點，漲3310.46點，漲幅8.99%，三大法人合計賣超1230.11億元，觀察今日三大法人賣超個...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
+        "聯電(2303)‧今日熱門",
         "聯電(晶圓代工)"
       ]
     },
     {
-      "title": "TCL 華星光電發表毫瓦級筆電螢幕 功耗降至 1 瓦以下",
-      "link": "https://tw.stock.yahoo.com/news/tcl-%E8%8F%AF%E6%98%9F%E5%85%89%E9%9B%BB%E7%99%BC%E8%A1%A8%E6%AF%AB%E7%93%A6%E7%B4%9A%E7%AD%86%E9%9B%BB%E8%9E%A2%E5%B9%95-%E5%8A%9F%E8%80%97%E9%99%8D%E8%87%B3-1-%E7%93%A6%E4%BB%A5%E4%B8%8B-174504397.html",
-      "published": "Tue, 24 Nov 2026 17:45:04 GMT",
-      "summary": "圖／示意圖商傳媒｜責任編輯／綜合外電報導中國面板廠 TCL 華星光電在 DTC 2026 活動中，展示了一款為 Lenovo Yoga Pro 打造的 14 吋筆記型電腦螢幕原型。這款面板模組功耗降至",
-      "source": "Yahoo奇摩股市-最新新聞",
-      "score": 2,
+      "title": "台股失守4萬點該抄底嗎？0050「跌破年線加碼」20年回測出爐　內行揭2個恐怖數字",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%B1%E5%AE%884%E8%90%AC%E9%BB%9E%E8%A9%B2%E6%8A%84%E5%BA%95%E5%97%8E-0050-%E8%B7%8C%E7%A0%B4%E5%B9%B4%E7%B7%9A%E5%8A%A0%E7%A2%BC-20%E5%B9%B4%E5%9B%9E%E6%B8%AC%E5%87%BA%E7%88%90-%E5%85%A7%E8%A1%8C%E6%8F%AD2%E5%80%8B%E6%81%90%E6%80%96%E6%95%B8%E5%AD%97-140652565.html",
+      "published": "Wed, 25 Nov 2026 14:06:52 GMT",
+      "summary": "台股反彈行情只撐一天！受到美國科技股重挫、AI股賣壓再起影響，台股昨（24）日才因輝達執行長黃仁勳復職消息激勵，大漲3310.46點，創下史上最大單日收盤漲點紀錄，今（25）日卻再度遭遇沉重賣壓，終場",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "華星光(CPO/矽光子)"
+        "元大台灣50(0050)‧今日熱門"
+      ]
+    },
+    {
+      "title": "力晶股東會／力積電謝再居「一席不讓」成真　力晶董監事改選公司派大獲全勝",
+      "link": "https://tw.news.yahoo.com/%E5%8A%9B%E6%99%B6%E8%82%A1%E6%9D%B1%E6%9C%83-%E5%8A%9B%E7%A9%8D%E9%9B%BB%E8%AC%9D%E5%86%8D%E5%B1%85-%E5%B8%AD%E4%B8%8D%E8%AE%93-%E6%88%90%E7%9C%9F-%E5%8A%9B%E6%99%B6%E8%91%A3%E7%9B%A3%E4%BA%8B%E6%94%B9%E9%81%B8%E5%85%AC%E5%8F%B8%E6%B4%BE%E5%A4%A7%E7%8D%B2%E5%85%A8%E5%8B%9D-131100748.html",
+      "published": "Wed, 25 Nov 2026 13:11:00 GMT",
+      "summary": "力晶投控今（25）日召開股東臨時會，全面改選7席董事及3席監察人，這也是創辦人黃崇仁7月底辭世後，集團首度面臨經營權改選。由於股東自救會召集人林緯程領軍的市場派競逐，讓經營權之爭備受矚目，最終公司派全",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [
+        "股東會"
+      ],
+      "matched_stocks": [
+        "力積電(晶圓代工)"
       ]
     }
   ]
