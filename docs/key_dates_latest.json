@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:51:43.199720",
+  "generated_at": "2026-11-27T17:36:18.631065",
   "calendar": [
     {
       "date": "2026-12-09",
@@ -34,126 +34,6 @@
   ],
   "earnings_window_stats": [
     {
-      "code": "2344",
-      "name": "華邦電",
-      "theme": "記憶體",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -2.76,
-        "window_return_stdev_pct": 15.64,
-        "avg_daily_volatility_pct": 3.71,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "theme": "ABF載板/PCB",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 11.02,
-        "window_return_stdev_pct": 30.88,
-        "avg_daily_volatility_pct": 4.23,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2301",
-      "name": "光寶科",
-      "theme": "電源供應",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -4.88,
-        "window_return_stdev_pct": 10.34,
-        "avg_daily_volatility_pct": 3.38,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "theme": "AI伺服器組裝",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 0.11,
-        "window_return_stdev_pct": 8.54,
-        "avg_daily_volatility_pct": 3.85,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3026",
-      "name": "禾伸堂",
-      "theme": "被動元件",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 5.2,
-        "window_return_stdev_pct": 23.94,
-        "avg_daily_volatility_pct": 3.17,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "8299",
-      "name": "群聯",
-      "theme": "記憶體",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -3.83,
-        "window_return_stdev_pct": 12.89,
-        "avg_daily_volatility_pct": 4.45,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3081",
-      "name": "聯亞",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 5.19,
-        "window_return_stdev_pct": 22.78,
-        "avg_daily_volatility_pct": 4.91,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2059",
-      "name": "川湖",
-      "theme": "AI伺服器組裝",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -3.28,
-        "window_return_stdev_pct": 16.14,
-        "avg_daily_volatility_pct": 3.67,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3037",
-      "name": "欣興",
-      "theme": "ABF載板/PCB",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 0.27,
-        "window_return_stdev_pct": 18.77,
-        "avg_daily_volatility_pct": 3.82,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "6442",
-      "name": "光聖",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 4.76,
-        "window_return_stdev_pct": 18.68,
-        "avg_daily_volatility_pct": 4.83,
-        "window_days_each_side": 5
-      }
-    },
-    {
       "code": "6274",
       "name": "台燿",
       "theme": "ABF載板/PCB",
@@ -178,162 +58,6 @@
       }
     },
     {
-      "code": "2327",
-      "name": "國巨",
-      "theme": "被動元件",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 3.06,
-        "window_return_stdev_pct": 21.96,
-        "avg_daily_volatility_pct": 3.02,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3450",
-      "name": "聯鈞",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 0.99,
-        "window_return_stdev_pct": 19.15,
-        "avg_daily_volatility_pct": 4.33,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3017",
-      "name": "奇鋐",
-      "theme": "散熱",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -1.34,
-        "window_return_stdev_pct": 13.82,
-        "avg_daily_volatility_pct": 4.38,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3163",
-      "name": "波若威",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 3.67,
-        "window_return_stdev_pct": 23.43,
-        "avg_daily_volatility_pct": 4.26,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3324",
-      "name": "雙鴻",
-      "theme": "散熱",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -4.52,
-        "window_return_stdev_pct": 16.26,
-        "avg_daily_volatility_pct": 4.1,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "4979",
-      "name": "華星光",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -0.13,
-        "window_return_stdev_pct": 18.16,
-        "avg_daily_volatility_pct": 4.93,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3363",
-      "name": "上詮",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -1.1,
-        "window_return_stdev_pct": 19.39,
-        "avg_daily_volatility_pct": 5.07,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
-      "theme": "晶圓代工",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 2.66,
-        "window_return_stdev_pct": 9.38,
-        "avg_daily_volatility_pct": 2.35,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2382",
-      "name": "廣達",
-      "theme": "AI伺服器組裝",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -1.81,
-        "window_return_stdev_pct": 12.65,
-        "avg_daily_volatility_pct": 2.77,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2356",
-      "name": "英業達",
-      "theme": "AI伺服器組裝",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -3.36,
-        "window_return_stdev_pct": 13.46,
-        "avg_daily_volatility_pct": 2.71,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "theme": "記憶體",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -3.68,
-        "window_return_stdev_pct": 13.48,
-        "avg_daily_volatility_pct": 3.55,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "4977",
-      "name": "眾達-KY",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -0.86,
-        "window_return_stdev_pct": 14.65,
-        "avg_daily_volatility_pct": 4.4,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "theme": "ABF載板/PCB",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 2.27,
-        "window_return_stdev_pct": 15.78,
-        "avg_daily_volatility_pct": 4.36,
-        "window_days_each_side": 5
-      }
-    },
-    {
       "code": "2408",
       "name": "南亞科",
       "theme": "記憶體",
@@ -342,114 +66,6 @@
         "avg_window_return_pct": -0.45,
         "window_return_stdev_pct": 15.79,
         "avg_daily_volatility_pct": 4.29,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2375",
-      "name": "智寶",
-      "theme": "被動元件",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 2.48,
-        "window_return_stdev_pct": 18.92,
-        "avg_daily_volatility_pct": 3.21,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3260",
-      "name": "威剛",
-      "theme": "記憶體",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -3.2,
-        "window_return_stdev_pct": 11.59,
-        "avg_daily_volatility_pct": 3.48,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3234",
-      "name": "光環",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 2.68,
-        "window_return_stdev_pct": 18.39,
-        "avg_daily_volatility_pct": 4.55,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "4967",
-      "name": "十銓",
-      "theme": "記憶體",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -5.08,
-        "window_return_stdev_pct": 10.44,
-        "avg_daily_volatility_pct": 3.26,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3008",
-      "name": "大立光",
-      "theme": "CPO/矽光子",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 1.59,
-        "window_return_stdev_pct": 18.27,
-        "avg_daily_volatility_pct": 2.99,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "3653",
-      "name": "健策",
-      "theme": "散熱",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": 1.51,
-        "window_return_stdev_pct": 18.54,
-        "avg_daily_volatility_pct": 4.81,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2337",
-      "name": "旺宏",
-      "theme": "記憶體",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -2.28,
-        "window_return_stdev_pct": 10.33,
-        "avg_daily_volatility_pct": 3.58,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "2486",
-      "name": "一詮",
-      "theme": "被動元件",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -0.47,
-        "window_return_stdev_pct": 17.83,
-        "avg_daily_volatility_pct": 4.23,
-        "window_days_each_side": 5
-      }
-    },
-    {
-      "code": "6770",
-      "name": "力積電",
-      "theme": "晶圓代工",
-      "stats": {
-        "sample_size": 12,
-        "avg_window_return_pct": -2.41,
-        "window_return_stdev_pct": 12.67,
-        "avg_daily_volatility_pct": 3.36,
         "window_days_each_side": 5
       }
     },
@@ -466,6 +82,42 @@
       }
     },
     {
+      "code": "2375",
+      "name": "智寶",
+      "theme": "被動元件",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 2.48,
+        "window_return_stdev_pct": 18.92,
+        "avg_daily_volatility_pct": 3.21,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2368",
+      "name": "金像電",
+      "theme": "ABF載板/PCB",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 2.27,
+        "window_return_stdev_pct": 15.78,
+        "avg_daily_volatility_pct": 4.36,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2337",
+      "name": "旺宏",
+      "theme": "記憶體",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -2.28,
+        "window_return_stdev_pct": 10.33,
+        "avg_daily_volatility_pct": 3.58,
+        "window_days_each_side": 5
+      }
+    },
+    {
       "code": "8046",
       "name": "南電",
       "theme": "ABF載板/PCB",
@@ -478,6 +130,162 @@
       }
     },
     {
+      "code": "2382",
+      "name": "廣達",
+      "theme": "AI伺服器組裝",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -1.81,
+        "window_return_stdev_pct": 12.65,
+        "avg_daily_volatility_pct": 2.77,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3324",
+      "name": "雙鴻",
+      "theme": "散熱",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -4.52,
+        "window_return_stdev_pct": 16.26,
+        "avg_daily_volatility_pct": 4.1,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2327",
+      "name": "國巨",
+      "theme": "被動元件",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 3.06,
+        "window_return_stdev_pct": 21.96,
+        "avg_daily_volatility_pct": 3.02,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2059",
+      "name": "川湖",
+      "theme": "AI伺服器組裝",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -3.28,
+        "window_return_stdev_pct": 16.14,
+        "avg_daily_volatility_pct": 3.67,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "6442",
+      "name": "光聖",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 4.76,
+        "window_return_stdev_pct": 18.68,
+        "avg_daily_volatility_pct": 4.83,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3363",
+      "name": "上詮",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -1.1,
+        "window_return_stdev_pct": 19.39,
+        "avg_daily_volatility_pct": 5.07,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3234",
+      "name": "光環",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 2.68,
+        "window_return_stdev_pct": 18.39,
+        "avg_daily_volatility_pct": 4.55,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "4977",
+      "name": "眾達-KY",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -0.86,
+        "window_return_stdev_pct": 14.65,
+        "avg_daily_volatility_pct": 4.4,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "4979",
+      "name": "華星光",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -0.13,
+        "window_return_stdev_pct": 18.16,
+        "avg_daily_volatility_pct": 4.93,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "theme": "ABF載板/PCB",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 0.27,
+        "window_return_stdev_pct": 18.77,
+        "avg_daily_volatility_pct": 3.82,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2486",
+      "name": "一詮",
+      "theme": "被動元件",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -0.47,
+        "window_return_stdev_pct": 17.83,
+        "avg_daily_volatility_pct": 4.23,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "4967",
+      "name": "十銓",
+      "theme": "記憶體",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -5.08,
+        "window_return_stdev_pct": 10.44,
+        "avg_daily_volatility_pct": 3.26,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3163",
+      "name": "波若威",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 3.67,
+        "window_return_stdev_pct": 23.43,
+        "avg_daily_volatility_pct": 4.26,
+        "window_days_each_side": 5
+      }
+    },
+    {
       "code": "2492",
       "name": "華新科",
       "theme": "被動元件",
@@ -486,6 +294,198 @@
         "avg_window_return_pct": 2.11,
         "window_return_stdev_pct": 29.81,
         "avg_daily_volatility_pct": 3.63,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3260",
+      "name": "威剛",
+      "theme": "記憶體",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -3.2,
+        "window_return_stdev_pct": 11.59,
+        "avg_daily_volatility_pct": 3.48,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "theme": "散熱",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 1.51,
+        "window_return_stdev_pct": 18.54,
+        "avg_daily_volatility_pct": 4.81,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3006",
+      "name": "晶豪科",
+      "theme": "記憶體",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -3.68,
+        "window_return_stdev_pct": 13.48,
+        "avg_daily_volatility_pct": 3.55,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3026",
+      "name": "禾伸堂",
+      "theme": "被動元件",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 5.2,
+        "window_return_stdev_pct": 23.94,
+        "avg_daily_volatility_pct": 3.17,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "theme": "晶圓代工",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 2.66,
+        "window_return_stdev_pct": 9.38,
+        "avg_daily_volatility_pct": 2.35,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "6213",
+      "name": "聯茂",
+      "theme": "ABF載板/PCB",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 11.02,
+        "window_return_stdev_pct": 30.88,
+        "avg_daily_volatility_pct": 4.23,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2356",
+      "name": "英業達",
+      "theme": "AI伺服器組裝",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -3.36,
+        "window_return_stdev_pct": 13.46,
+        "avg_daily_volatility_pct": 2.71,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3081",
+      "name": "聯亞",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 5.19,
+        "window_return_stdev_pct": 22.78,
+        "avg_daily_volatility_pct": 4.91,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "6770",
+      "name": "力積電",
+      "theme": "晶圓代工",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -2.41,
+        "window_return_stdev_pct": 12.67,
+        "avg_daily_volatility_pct": 3.36,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2344",
+      "name": "華邦電",
+      "theme": "記憶體",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -2.76,
+        "window_return_stdev_pct": 15.64,
+        "avg_daily_volatility_pct": 3.71,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐",
+      "theme": "散熱",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -1.34,
+        "window_return_stdev_pct": 13.82,
+        "avg_daily_volatility_pct": 4.38,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "theme": "AI伺服器組裝",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 0.11,
+        "window_return_stdev_pct": 8.54,
+        "avg_daily_volatility_pct": 3.85,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 0.99,
+        "window_return_stdev_pct": 19.15,
+        "avg_daily_volatility_pct": 4.33,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "2301",
+      "name": "光寶科",
+      "theme": "電源供應",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -4.88,
+        "window_return_stdev_pct": 10.34,
+        "avg_daily_volatility_pct": 3.38,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "8299",
+      "name": "群聯",
+      "theme": "記憶體",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": -3.83,
+        "window_return_stdev_pct": 12.89,
+        "avg_daily_volatility_pct": 4.45,
+        "window_days_each_side": 5
+      }
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "theme": "CPO/矽光子",
+      "stats": {
+        "sample_size": 12,
+        "avg_window_return_pct": 1.59,
+        "window_return_stdev_pct": 18.27,
+        "avg_daily_volatility_pct": 2.99,
         "window_days_each_side": 5
       }
     }

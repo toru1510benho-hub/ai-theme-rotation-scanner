@@ -1,215 +1,262 @@
 {
-  "generated_at": "2026-11-26T17:51:33.435699",
+  "generated_at": "2026-11-27T17:36:07.885443",
   "total_news_scanned": 140,
-  "relevant_count": 16,
+  "relevant_count": 18,
   "news": [
     {
-      "title": "5漲停、5跌停上演雲霄飛車！外資下狠手、重砍「它」8.1萬張登頂　聯電、台積電也遭追殺",
-      "link": "https://tw.stock.yahoo.com/news/5%E6%BC%B2%E5%81%9C-5%E8%B7%8C%E5%81%9C%E4%B8%8A%E6%BC%94%E9%9B%B2%E9%9C%84%E9%A3%9B%E8%BB%8A-%E5%A4%96%E8%B3%87%E4%B8%8B%E7%8B%A0%E6%89%8B-%E9%87%8D%E7%A0%8D-%E5%AE%83-123600400.html",
-      "published": "Thu, 26 Nov 2026 12:36:00 GMT",
-      "summary": "[FTNN新聞網]記者周雅琦／綜合報導台股今（26）日強勢反彈，終場加權指數收在39,151.81點，漲幅2.5%，上漲956.38點。據證交所盤後籌碼動向，外資今日合計仍賣...",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 13,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [
-        "漲停",
-        "跌停"
-      ],
-      "matched_stocks": [
-        "聯電(2303)‧今日熱門",
-        "聯電(晶圓代工)"
-      ]
-    },
-    {
-      "title": "台股反彈956點收在39151點　「這八檔」漲停成交出量",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8F%8D%E5%BD%88956%E9%BB%9E%E6%94%B6%E5%9C%A839151%E9%BB%9E-%E9%80%99%E5%85%AB%E6%AA%94-%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E5%87%BA%E9%87%8F-122234586.html",
-      "published": "Thu, 26 Nov 2026 12:22:34 GMT",
-      "summary": "主動中信台灣收益(00406A)股價收漲在6.73元、漲0.47元、漲幅達7.51%，成交量近83萬張居本日之冠；其他前五名也是ETF，包括元大台灣50正2(00631L)收在25.50元、漲1.72",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 13,
+      "title": "第一金明年現金股利配發率維持6成以上  是否配股仍待討論",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5655700",
+      "published": "Fri, 27 Nov 2026 19:03:51 +0800",
+      "summary": "第一金控（2892）今（27）日舉行2026年第3季線上法說會，公布今年前3季稅後淨利262.25億元，年增26.9%，每股稅後盈餘（EPS）1.82元，獲利創歷史新高。...…",
+      "source": "自由時報財經",
+      "score": 10,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "漲停"
+        "年增",
+        "法說會",
+        "現金股利"
       ],
       "matched_stocks": [
-        "主動中信台灣收益(00406A)‧今日熱門",
-        "元大台灣50(0050)‧今日熱門",
-        "元大台灣50正2(00631L)‧今日熱門"
+        "第一金(2892)‧今日熱門"
       ]
     },
     {
-      "title": "台股巨震波及「瑤池金母」　00981A爆違約交割！華南、國泰兩券商申報逾1億元",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B7%A8%E9%9C%87%E6%B3%A2%E5%8F%8A-%E7%91%A4%E6%B1%A0%E9%87%91%E6%AF%8D-00981a%E7%88%86%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2-%E8%8F%AF%E5%8D%97-%E5%9C%8B%E6%B3%B0%E5%85%A9%E5%88%B8%E5%95%86%E7%94%B3%E5%A0%B1%E9%80%BE1%E5%84%84%E5%85%83-111956968.html",
-      "published": "Thu, 26 Nov 2026 11:19:56 GMT",
-      "summary": "繼日前元大台灣50反1（00632R）爆出近4000萬元違約交割，創下首檔ETF違約交割紀錄後，今天再傳出主動式ETF也出現鉅額違約交割。證交所公告，主動統一台股增長（00981A）今天遭華南中正、國",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 9,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門",
-        "元大台灣50(0050)‧今日熱門",
-        "元大台灣50反1(00632R)‧今日熱門"
-      ]
-    },
-    {
-      "title": "連續9天追著殺！台積電今再遭三大法人提款333億元　台玻、聯電、景碩齊入出貨名單",
-      "link": "https://tw.stock.yahoo.com/news/%E9%80%A3%E7%BA%8C9%E5%A4%A9%E8%BF%BD%E8%91%97%E6%AE%BA-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%BB%8A%E5%86%8D%E9%81%AD%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E6%8F%90%E6%AC%BE333%E5%84%84%E5%85%83-%E5%8F%B0%E7%8E%BB-%E8%81%AF%E9%9B%BB-%E6%99%AF%E7%A2%A9%E9%BD%8A%E5%85%A5%E5%87%BA%E8%B2%A8%E5%90%8D%E5%96%AE-133600775.html",
-      "published": "Thu, 26 Nov 2026 13:36:00 GMT",
-      "summary": "[FTNN新聞網]記者周雅琦／綜合報導台股今（26）日強勢反彈，終場加權指數收在39,151.81點，漲幅2.5%，上漲956.38點。據證交所盤後籌碼動向，三大法人今日合計...",
+      "title": "台積電淪外資提款機！連12天追著砍　聯電、友達齊入出貨名單",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B7%AA%E5%A4%96%E8%B3%87%E6%8F%90%E6%AC%BE%E6%A9%9F-%E9%80%A312%E5%A4%A9%E8%BF%BD%E8%91%97%E7%A0%8D-%E8%81%AF%E9%9B%BB-%E5%8F%8B%E9%81%94%E9%BD%8A%E5%85%A5%E5%87%BA%E8%B2%A8%E5%90%8D%E5%96%AE-135000954.html",
+      "published": "Fri, 27 Nov 2026 13:50:00 GMT",
+      "summary": "[FTNN新聞網]記者周雅琦／綜合報導台股今（27）日開高震蕩，盤中加權指數一度翻黑至38,890.53點，終場拉回紅盤，上漲156.27點，漲幅0.4%，收在39,308.08點。...",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 8,
       "direction": "中性關注",
       "is_important": true,
       "matched_keywords": [],
       "matched_stocks": [
-        "台玻(1802)‧今日熱門",
+        "友達(2409)‧今日熱門",
         "聯電(2303)‧今日熱門",
         "聯電(晶圓代工)"
       ]
     },
     {
-      "title": "台股飆漲956點！PCB女王看好「AI備貨潮來了」點名這2檔強力買進",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%A3%86%E6%BC%B2956%E9%BB%9E-pcb%E5%A5%B3%E7%8E%8B%E7%9C%8B%E5%A5%BD-ai%E5%82%99%E8%B2%A8%E6%BD%AE%E4%BE%86%E4%BA%86-%E9%BB%9E%E5%90%8D%E9%80%992%E6%AA%94%E5%BC%B7%E5%8A%9B%E8%B2%B7%E9%80%B2-141100391.html",
-      "published": "Thu, 26 Nov 2026 14:11:00 GMT",
-      "summary": "台股11月26日大漲956點，PCB中上游受惠AI新平台備貨與CCL漲價，10月營收平均月增10.5%。統一投顧總經理廖婉婷看好台光電、台燿，給予強力買進；富喬獲買進評等，金居則因獲利強度不足，目標價",
+      "title": "台股周線翻紅飆3,274點！碩禾奪漲幅王 AI股誰出頭？",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%91%A8%E7%B7%9A%E7%BF%BB%E7%B4%85%E9%A3%863-274%E9%BB%9E-%E7%A2%A9%E7%A6%BE%E5%A5%AA%E6%BC%B2%E5%B9%85%E7%8E%8B-ai%E8%82%A1%E8%AA%B0%E5%87%BA%E9%A0%AD-084418281.html",
+      "published": "Fri, 27 Nov 2026 08:44:18 GMT",
+      "summary": "台股本周上演史詩級反彈，加權指數單周大漲3,274.79點、漲幅9.09%，周線由黑翻紅。不過，個股表現強弱分明，碩禾（3691）、楠梓電（2316）周漲逾三成，健策（3653）、川湖（2059）、金",
       "source": "Yahoo奇摩股市-台股動態",
+      "score": 8,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "2059(AI伺服器組裝)",
+        "3653(散熱)",
+        "健策(散熱)",
+        "川湖(AI伺服器組裝)"
+      ]
+    },
+    {
+      "title": "台新新光今年前3季淨利642億 銀行2027年元旦合併",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5655610",
+      "published": "Fri, 27 Nov 2026 18:00:05 +0800",
+      "summary": "台新新光金控今（27）日舉行第三季線上法人說明會，會中公布今年前三季的營運成果。今年前三季稅後淨利達642億元，每股稅後盈餘（EPS）達2.47元，年化股東權益報酬率為1...…",
+      "source": "自由時報財經",
       "score": 7,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [
+        "合併",
+        "法人說明會"
+      ],
+      "matched_stocks": [
+        "台新新光金(2887)‧今日熱門"
+      ]
+    },
+    {
+      "title": "【第一金法說】明年證券、人壽拚雙位數成長  看好台股修正「是機會」",
+      "link": "https://tw.news.yahoo.com/%E7%AC%AC-%E9%87%91%E6%B3%95%E8%AA%AA-%E6%98%8E%E5%B9%B4%E8%AD%89%E5%88%B8-%E4%BA%BA%E5%A3%BD%E6%8B%9A%E9%9B%99%E4%BD%8D%E6%95%B8%E6%88%90%E9%95%B7-%E7%9C%8B%E5%A5%BD%E5%8F%B0%E8%82%A1%E4%BF%AE%E6%AD%A3-103539910.html",
+      "published": "Fri, 27 Nov 2026 10:35:39 GMT",
+      "summary": "台股近期劇烈震盪，銀行如何調整資金布局備受關注。第一金控（2892）今日（11/27）召開第3季法說會，第一銀行副總經理廖文偉表示，此波股市修正「是機會」，使個股投資價值浮現，將採逢低布局策略，並預估",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 6,
       "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "月增",
-        "買進評等"
+        "法說會"
       ],
       "matched_stocks": [
-        "台燿(ABF載板/PCB)"
+        "第一金(2892)‧今日熱門"
       ]
     },
     {
-      "title": "神拉2464點上演暴V秀！台股穩了？「瑤池金母」砸54億出手狂掃這9檔",
-      "link": "https://tw.news.yahoo.com/%E7%A5%9E%E6%8B%892464%E9%BB%9E%E4%B8%8A%E6%BC%94%E6%9A%B4v%E7%A7%80-%E5%8F%B0%E8%82%A1%E7%A9%A9%E4%BA%86-%E7%91%A4%E6%B1%A0%E9%87%91%E6%AF%8D-%E7%A0%B854%E5%84%84%E5%87%BA%E6%89%8B%E7%8B%82%E6%8E%83%E9%80%999%E6%AA%94-085500472.html",
-      "published": "Thu, 26 Nov 2026 08:55:00 GMT",
-      "summary": "台指期夜盤一度暴跌2190點，隨美國301條款關稅消息逆轉收紅，盤中高低震盪2464點。台股今大漲956點，瑤池金母00981A增持日月光、貿聯-KY、台達電、金像電等9檔科技股，最新布局名單一次看。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 7,
-      "direction": "中性關注",
-      "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門",
-        "台達電(電源供應)",
-        "金像電(ABF載板/PCB)"
-      ]
-    },
-    {
-      "title": "外資賣超台股近492億！台玻遭倒逾8萬張　3檔金融股成提款機",
-      "link": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1%E8%BF%91492%E5%84%84-%E5%8F%B0%E7%8E%BB%E9%81%AD%E5%80%92%E9%80%BE8%E8%90%AC%E5%BC%B5-3%E6%AA%94%E9%87%91%E8%9E%8D%E8%82%A1%E6%88%90%E6%8F%90%E6%AC%BE%E6%A9%9F-094011346.html",
-      "published": "Thu, 26 Nov 2026 09:40:11 GMT",
-      "summary": "[Newtalk新聞] 台股今（26）日強勢反彈 956.38 點，收復 39,000 點大關，不過，外資仍賣超 491.81 億元，連續 9 個交易日站賣方。攤開今日外資買賣超榜單，台玻（1802）",
+      "title": "【第一金法說】一銀看台股修正「是機會」　房貸資金仍緊俏、曝明年房市止跌回穩關鍵",
+      "link": "https://tw.news.yahoo.com/%E7%AC%AC-%E9%87%91%E6%B3%95%E8%AA%AA-%E9%8A%80%E7%9C%8B%E5%8F%B0%E8%82%A1%E4%BF%AE%E6%AD%A3-%E6%98%AF%E6%A9%9F%E6%9C%83-%E6%88%BF%E8%B2%B8%E8%B3%87%E9%87%91%E4%BB%8D%E7%B7%8A%E4%BF%8F-103539855.html",
+      "published": "Fri, 27 Nov 2026 10:35:39 GMT",
+      "summary": "台股近期劇烈震盪，銀行如何調整資金布局備受關注。第一金控（2892）今日（11/27）召開第3季法說會，第一銀行副總經理廖文偉表示，此波股市修正「是機會」，使個股投資價值浮現，將採逢低布局策略，並預估",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 6,
-      "direction": "利空",
+      "direction": "利多",
       "is_important": true,
       "matched_keywords": [
-        "外資賣超"
+        "法說會"
       ],
       "matched_stocks": [
-        "台玻(1802)‧今日熱門"
+        "第一金(2892)‧今日熱門"
       ]
     },
     {
-      "title": "大立光國巨紅燈雙響炮！台積尾盤挨刀翻黑 台股照漲956點攻回3萬9｜Yahoo財經掃描",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E7%AB%8B%E5%85%89%E5%9C%8B%E5%B7%A8%E7%B4%85%E7%87%88%E9%9B%99%E9%9F%BF%E7%82%AE%EF%BC%81%E5%8F%B0%E7%A9%8D%E5%B0%BE%E7%9B%A4%E6%8C%A8%E5%88%80%E7%BF%BB%E9%BB%91-%E5%8F%B0%E8%82%A1%E7%85%A7%E6%BC%B2956%E9%BB%9E%E6%94%BB%E5%9B%9E3%E8%90%AC9%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-090940579.html",
-      "published": "Thu, 26 Nov 2026 09:09:40 GMT",
-      "summary": "大立光亮燈領軍反攻，台股強彈956點，收復3萬9千點！加權指數今(26)日收39,151.81點，上漲956.38點、漲幅2.50%，上市成交金額8,185.07億元。美國301調查對台建議稅率為15",
+      "title": "台股一直跌　施昇輝點名「這2檔」買夠多就無感",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1-%E7%9B%B4%E8%B7%8C-%E6%96%BD%E6%98%87%E8%BC%9D%E9%BB%9E%E5%90%8D-%E9%80%992%E6%AA%94-%E8%B2%B7%E5%A4%A0%E5%A4%9A%E5%B0%B1%E7%84%A1%E6%84%9F-111300131.html",
+      "published": "Fri, 27 Nov 2026 11:13:00 GMT",
+      "summary": "台股近期震盪劇烈，財經作家施昇輝表示，若投資人持有足夠數量的0050或0056，便能做到面對股價漲跌無感。0050可透過每月賣出1張支撐生活，0056則靠豐厚季配息度過套牢期。但他提醒，此投資心態僅適",
       "source": "Yahoo奇摩股市-台股動態",
-      "score": 4,
-      "direction": "中性關注",
+      "score": 5,
+      "direction": "利多",
       "is_important": true,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "國巨(被動元件)",
-        "大立光(CPO/矽光子)"
-      ]
-    },
-    {
-      "title": "主動統一台股增長ETF爆1.03億元違約交割",
-      "link": "https://tw.stock.yahoo.com/news/%E4%B8%BB%E5%8B%95%E7%B5%B1-%E5%8F%B0%E8%82%A1%E5%A2%9E%E9%95%B7etf%E7%88%861-03%E5%84%84%E5%85%83%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2-114838794.html",
-      "published": "Thu, 26 Nov 2026 11:48:38 GMT",
-      "summary": "（中央社記者曾仁凱台北2026年11月26日電）台灣證券交易所今天公告，華南中正、國泰敦南2家證券商通報，熱門主動式ETF主動統一台股增長（00981A）出現鉅額違約交割，金額新台幣約1億380萬元。",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門"
-      ]
-    },
-    {
-      "title": "「小0050」變親民！006208啟動分割一張降至3萬元　成台股最便宜市值型ETF",
-      "link": "https://tw.stock.yahoo.com/news/%E5%B0%8F0050-%E8%AE%8A%E8%A6%AA%E6%B0%91-006208%E5%95%9F%E5%8B%95%E5%88%86%E5%89%B2-%E5%BC%B5%E9%99%8D%E8%87%B33%E8%90%AC%E5%85%83-%E6%88%90%E5%8F%B0%E8%82%A1%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%B8%82%E5%80%BC%E5%9E%8Betf-041500435.html",
-      "published": "Thu, 26 Nov 2026 11:46:00 GMT",
-      "summary": "【記者林巧雁／台北報導】素有小0050之稱的「富邦台50 006208 ETF」，將於11月27日進行分割電子投票，分割不會有額外報酬，好處是降低投資門檻，目前股價一張為20多萬元，對小資族成本相對高",
-      "source": "Yahoo奇摩股市-台股動態",
-      "score": 3,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
+      "matched_keywords": [
+        "配息"
+      ],
       "matched_stocks": [
         "元大台灣50(0050)‧今日熱門"
       ]
     },
     {
-      "title": "外資砍、內資接！8大官股逢高出貨群創、鴻海「聯手投信救援名單全曝光」晶圓一哥、玻纖布龍頭等又入列",
-      "link": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%A0%8D-%E5%85%A7%E8%B3%87%E6%8E%A5-8%E5%A4%A7%E5%AE%98%E8%82%A1%E9%80%A2%E9%AB%98%E5%87%BA%E8%B2%A8%E7%BE%A4%E5%89%B5-%E9%B4%BB%E6%B5%B7-%E8%81%AF%E6%89%8B%E6%8A%95%E4%BF%A1%E6%95%91%E6%8F%B4%E5%90%8D%E5%96%AE%E5%85%A8%E6%9B%9D%E5%85%89-102119065.html",
-      "published": "Thu, 26 Nov 2026 10:21:19 GMT",
-      "summary": "台股今（26）日在美股走穩及市場關稅疑慮緩解激勵下展開強勁反攻，終場加權指數大漲956.38點，漲幅2.5％，收在39,151.81點，順利重返39,000點整數關卡，成交金額收斂至8,174.67億",
+      "title": "台股多空拉鋸！投信砸37億鎖定「4檔金融股」　再趁甜甜價加碼聯電、3天挹注43億",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%9A%E7%A9%BA%E6%8B%89%E9%8B%B8-%E6%8A%95%E4%BF%A1%E7%A0%B837%E5%84%84%E9%8E%96%E5%AE%9A-4%E6%AA%94%E9%87%91%E8%9E%8D%E8%82%A1-%E5%86%8D%E8%B6%81%E7%94%9C%E7%94%9C%E5%83%B9%E5%8A%A0%E7%A2%BC%E8%81%AF%E9%9B%BB-3%E5%A4%A9%E6%8C%B9%E6%B3%A843%E5%84%84-110000531.html",
+      "published": "Fri, 27 Nov 2026 11:00:00 GMT",
+      "summary": "[FTNN新聞網]記者陳宣穎／綜合報導台股加權指數今（27）日終場收在39,308.08點，上漲156.27點或0.4%，成交金額6,660.69億元，盤中最高只差152.75點即達年線39...",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "聯電(2303)‧今日熱門",
+        "聯電(晶圓代工)"
+      ]
+    },
+    {
+      "title": "〈第一金法說〉現金股利配發保底6成！一銀喊台股修正是買點 明年SWAP上看127億",
+      "link": "https://tw.stock.yahoo.com/news/%E7%AC%AC-%E9%87%91%E6%B3%95%E8%AA%AA-%E7%8F%BE%E9%87%91%E8%82%A1%E5%88%A9%E9%85%8D%E7%99%BC%E4%BF%9D%E5%BA%956%E6%88%90-%E9%8A%80%E5%96%8A%E5%8F%B0%E8%82%A1%E4%BF%AE%E6%AD%A3%E6%98%AF%E8%B2%B7%E9%BB%9E-%E6%98%8E%E5%B9%B4swap%E4%B8%8A%E7%9C%8B127%E5%84%84-104748701.html",
+      "published": "Fri, 27 Nov 2026 10:47:48 GMT",
+      "summary": "第一金控宣布未來以現金股利為主，原則上以現金配發率60%以上為目標。 估今年換匯交易收益可望達105億元，明年上看125億至127億元。 第一金證券與人壽截至9月底獲利達20億、6.5億元，非銀獲利占",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 5,
+      "direction": "利多",
+      "is_important": true,
+      "matched_keywords": [
+        "現金股利"
+      ],
+      "matched_stocks": [
+        "第一金(2892)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台新新光總經理：暫不考慮上繳壽險子公司股利",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5655595",
+      "published": "Fri, 27 Nov 2026 17:46:06 +0800",
+      "summary": "台新新光金控今天（27日）舉行法人說明會。台新新光金總經理林維俊表示，今年獲利比去年好很多，會與股東一起分享；至於公司股利有三大考量，包括「公司獲利」、「同業水準」、「維...…",
+      "source": "自由時報財經",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [
+        "法人說明會"
+      ],
+      "matched_stocks": [
+        "台新新光金(2887)‧今日熱門"
+      ]
+    },
+    {
+      "title": "第一金看央行12月按兵不動 不排除「這情況」恐跟進升息",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5655579",
+      "published": "Fri, 27 Nov 2026 17:34:46 +0800",
+      "summary": "第一金控（2892）今（27）日召開法人說明會，針對市場關注的利率動向，第一銀行副總經理廖文偉預估，美國聯準會（Fed）今年12月將再升息1碼，明年3月前不排除還有1碼的...…",
+      "source": "自由時報財經",
+      "score": 5,
+      "direction": "中性關注",
+      "is_important": true,
+      "matched_keywords": [
+        "法人說明會"
+      ],
+      "matched_stocks": [
+        "第一金(2892)‧今日熱門"
+      ]
+    },
+    {
+      "title": "台股反彈「國家隊護盤」照樣猛！八大行庫再砸394億「連10買」台積電金額居冠、00406A張數稱王 ETF、個股清單一次看",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8F%8D%E5%BD%88-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E8%AD%B7%E7%9B%A4-%E7%85%A7%E6%A8%A3%E7%8C%9B-%E5%85%AB%E5%A4%A7%E8%A1%8C%E5%BA%AB%E5%86%8D%E7%A0%B8394%E5%84%84-%E9%80%A310%E8%B2%B7-121100559.html",
+      "published": "Fri, 27 Nov 2026 12:11:00 GMT",
+      "summary": "受到美股感恩節休市及九合一選前觀望氣氛，雖然成交量低迷，但台股（27日）仍持續反彈，終場在台積電拉尾盤助攻下，上漲156.27點，收39,308.08點。三大法人合計賣超213.04億元，已連10賣，",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "群創(3481)‧今日熱門"
+        "主動中信台灣收益(00406A)‧今日熱門"
       ]
     },
     {
-      "title": "「瑤池金母」信徒出事了！00981A驚爆上億違約交割 網瘋猜1原因",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5654799",
-      "published": "Thu, 26 Nov 2026 23:03:35 +0800",
-      "summary": "〔財經頻道／綜合報導〕證交所26日公布最新違約交割資訊，人氣主動式ETF「主動統一台股增長」（00981A）驚爆鉅額違約交割，金額高達1億380萬9227元，消息一出，PTT股板瞬間炸鍋，不少網...…",
+      "title": "個股評價》南亞加碼115億元擴產！搶攻AI高階玻纖布商機",
+      "link": "https://tw.news.yahoo.com/%E5%80%8B%E8%82%A1%E8%A9%95%E5%83%B9-%E5%8D%97%E4%BA%9E%E5%8A%A0%E7%A2%BC115%E5%84%84%E5%85%83%E6%93%B4%E7%94%A2-%E6%90%B6%E6%94%BBai%E9%AB%98%E9%9A%8E%E7%8E%BB%E7%BA%96%E5%B8%83%E5%95%86%E6%A9%9F-092302838.html",
+      "published": "Fri, 27 Nov 2026 09:23:02 GMT",
+      "summary": "[Newtalk新聞] 南亞受惠AI伺服器及高速網通需求持續升溫，帶動高階電子材料出貨成長，第三季營收、獲利表現亮眼，EPS更創下單季新高，10月營收也攀上近55個月高點，展現強勁成長動能。 以下是國",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "南亞(1303)‧今日熱門"
+      ]
+    },
+    {
+      "title": "一銀看台股下跌是機會　第一金法說媒體會曝房市、台美利率展望！",
+      "link": "https://tw.news.yahoo.com/%E9%8A%80%E7%9C%8B%E5%8F%B0%E8%82%A1%E4%B8%8B%E8%B7%8C%E6%98%AF%E6%A9%9F%E6%9C%83-%E7%AC%AC-%E9%87%91%E6%B3%95%E8%AA%AA%E5%AA%92%E9%AB%94%E6%9C%83%E6%9B%9D%E6%88%BF%E5%B8%82-%E5%8F%B0%E7%BE%8E%E5%88%A9%E7%8E%87%E5%B1%95%E6%9C%9B-090401364.html",
+      "published": "Fri, 27 Nov 2026 09:04:01 GMT",
+      "summary": "第一金控今天舉行法說媒體會，針對投資人關心的股利政策，副總莊淑娟說明，股利將以發放現金為主，配發率60％為目標，要看整體子公司盈餘上繳情況、業務發展需求、資本管理等，希望子公司成長，以對股東最好的方式",
+      "source": "Yahoo奇摩股市-台股動態",
+      "score": 3,
+      "direction": "中性關注",
+      "is_important": false,
+      "matched_keywords": [],
+      "matched_stocks": [
+        "第一金(2892)‧今日熱門"
+      ]
+    },
+    {
+      "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5655532",
+      "published": "Fri, 27 Nov 2026 17:07:21 +0800",
+      "summary": "面板大廠友達（2409）華亞廠出售案重新拍板。友達今日董事會通過，以新台幣197億元將位於桃園市龜山區華亞科技園區的廠房及土地，出售給日月光投控（3711）旗下封測大廠矽...…",
       "source": "自由時報財經",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門"
+        "友達(2409)‧今日熱門"
       ]
     },
     {
-      "title": "00981A爆違約交割 單筆金額1.04億元",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5654564",
-      "published": "Thu, 26 Nov 2026 18:23:08 +0800",
-      "summary": "證交所今日公告，主動統一台股增長（00981A）爆出違約交割，金額約1.04億元，為今年第二檔ETF達到違約交割的資訊揭露標準，且單筆金額即破億元，在今年共計37檔違約交...…",
+      "title": "外資狠賣2818億最大苦主出爐！「這檔」單週倒貨15.65萬張 46萬股東傻眼",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5655542",
+      "published": "Fri, 27 Nov 2026 17:03:13 +0800",
+      "summary": "〔財經頻道／綜合報導〕台股週五（27日）又上演上沖下洗，所幸在台積電擺尾，終場指數收漲156點，雖然週線大漲3275點，但外資卻天天賣，狠砍2818億元，而擁有逾46萬股東的永豐金則成為最大苦主...…",
       "source": "自由時報財經",
       "score": 3,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "主動統一台股增長(00981A)‧今日熱門"
+        "永豐金(2890)‧今日熱門"
       ]
     },
     {
-      "title": "台積電2度測試年線漲回、台股漲956點　明大選投票前一日股民爭論是否攻上4萬點",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB2%E5%BA%A6%E6%B8%AC%E8%A9%A6%E5%B9%B4%E7%B7%9A%E6%BC%B2%E5%9B%9E-%E5%8F%B0%E8%82%A1%E6%BC%B2956%E9%BB%9E-%E6%98%8E%E5%A4%A7%E9%81%B8%E6%8A%95%E7%A5%A8%E5%89%8D-%E6%97%A5%E8%82%A1%E6%B0%91%E7%88%AD%E8%AB%96%E6%98%AF%E5%90%A6%E6%94%BB%E4%B8%8A4%E8%90%AC%E9%BB%9E-103515604.html",
-      "published": "Thu, 26 Nov 2026 10:35:15 GMT",
-      "summary": "台積電26日收盤下跌，台股仍大漲9百多點，靠的是台達電、鴻海、南亞、台光電、日...",
+      "title": "個股評價》台達電前三季賺贏去年全年 2027年EPS上看59元",
+      "link": "https://tw.news.yahoo.com/%E5%80%8B%E8%82%A1%E8%A9%95%E5%83%B9-%E5%8F%B0%E9%81%94%E9%9B%BB%E5%89%8D%E4%B8%89%E5%AD%A3%E8%B3%BA%E8%B4%8F%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%B9%B4-2027%E5%B9%B4eps%E4%B8%8A%E7%9C%8B59%E5%85%83-094706467.html",
+      "published": "Fri, 27 Nov 2026 09:47:06 GMT",
+      "summary": "[Newtalk新聞] 台達電受惠AI資料中心需求持續強勁，第三季營收續創單季歷史新高，獲利同步成長，前三季EPS更已超越去年全年，10月營收再創單月歷史新高，展現AI商機帶動的強勁成長動能。 以下是",
       "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
@@ -220,31 +267,17 @@
       ]
     },
     {
-      "title": "黃仁勳光環退燒後買什麼？ 專家曝AI股恐慌時刻的撿鑽石名單",
-      "link": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%85%89%E7%92%B0%E9%80%80%E7%87%92%E5%BE%8C%E8%B2%B7%E4%BB%80%E9%BA%BC-%E5%B0%88%E5%AE%B6%E6%9B%9Dai%E8%82%A1%E6%81%90%E6%85%8C%E6%99%82%E5%88%BB%E7%9A%84%E6%92%BF%E9%91%BD%E7%9F%B3%E5%90%8D%E5%96%AE-144530238.html",
-      "published": "Thu, 26 Nov 2026 14:45:30 GMT",
-      "summary": "黃仁勳回鍋擔任輝達執行長，一度帶動科技股強勢反彈，但市場樂觀情緒很快消退，那斯達克指數短短2天幾乎吐回周一漲幅，周三早盤更一度下跌4%。在AI產業賣壓、利率壓力及資料中心反彈聲浪影響下，美國投資媒體《",
-      "source": "Yahoo奇摩股市-最新新聞",
+      "title": "台積電擬在美布局第二座先進晶圓廠！美銀重申買進、目標價3260、隱含漲幅逾5成",
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%93%AC%E5%9C%A8%E7%BE%8E%E5%B8%83%E5%B1%80%E7%AC%AC%E4%BA%8C%E5%BA%A7%E5%85%88%E9%80%B2%E6%99%B6%E5%9C%93%E5%BB%A0-%E7%BE%8E%E9%8A%80%E9%87%8D%E7%94%B3%E8%B2%B7%E9%80%B2-%E7%9B%AE%E6%A8%99%E5%83%B93260-%E9%9A%B1%E5%90%AB%E6%BC%B2%E5%B9%85%E9%80%BE5%E6%88%90-090003657.html",
+      "published": "Fri, 27 Nov 2026 09:00:03 GMT",
+      "summary": "美銀Haas Liu維持台積電「買進」，目標價3260元，看好估值具防禦空間。 台積電擬投資226億美元於德州新廠，鎖定2奈米以下製程，規劃2028年動工、2031年投產。 Liu稱AI營收與現金流支",
+      "source": "Yahoo奇摩股市-台股動態",
       "score": 2,
       "direction": "中性關注",
       "is_important": false,
       "matched_keywords": [],
       "matched_stocks": [
-        "光環(CPO/矽光子)"
-      ]
-    },
-    {
-      "title": "漢測等4檔11/27起打入處置 股后川湖等34檔列注意股",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5654552",
-      "published": "Thu, 26 Nov 2026 18:12:21 +0800",
-      "summary": "證交所、櫃買中心今日公告，上市股漢康-KY創（7827）、以及上櫃股鑫創（3259）、合晶八（61828）、漢測（7856），共計4檔從明（27）日起打入處置股票，此外股...…",
-      "source": "自由時報財經",
-      "score": 2,
-      "direction": "中性關注",
-      "is_important": false,
-      "matched_keywords": [],
-      "matched_stocks": [
-        "川湖(AI伺服器組裝)"
+        "3260(記憶體)"
       ]
     }
   ]
